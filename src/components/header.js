@@ -16,7 +16,7 @@ const Header = ({ siteTitle }) => (
         textAlign: `right`,
         fontFamily: "Montserrat",
         textTransform: `uppercase`,
-        fontSize: `26px`,
+        fontSize: `20px`,
         padding: `3%`,
         marginBottom: 0,
       }}
@@ -30,7 +30,7 @@ const Header = ({ siteTitle }) => (
         flex: 1,
         zIndex: 1,
         transform: `translateY(178px)`,
-        marginTop: -60,
+        marginTop: -80,
       }}
     >
       <Image />

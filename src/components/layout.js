@@ -28,7 +28,7 @@ const Layout = ({ children }) => {
     <>
       <Header siteTitle={data.site.siteMetadata.title} />
       <NavBar />
-      <main>{children}</main>
+      <MainContent>{children}</MainContent>
       <footer>
         © {new Date().getFullYear()}, Built with
         {` `}
@@ -37,6 +37,12 @@ const Layout = ({ children }) => {
     </>
   )
 }
+
+const MainContent = styled.main`
+  min-height: 100vh;
+  overflow: hidden;
+  background-color: #46617c;
+`
 
 Layout.propTypes = {
   children: PropTypes.node.isRequired,

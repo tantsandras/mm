@@ -7,6 +7,7 @@ import { MoneyPoundCircle } from "@styled-icons/remix-fill"
 import { Radio } from "@styled-icons/boxicons-solid"
 import { ShoppingCart } from "@styled-icons/evaicons-solid"
 import styled, { keyframes } from "styled-components"
+import About from "./about"
 
 const NavBar = () => (
   <>
@@ -32,6 +33,7 @@ const NavBar = () => (
           &#x2B22;
           <HeadLine>About</HeadLine>
         </HexDiv>
+        <About />
       </Container>
       <Container id="episodes">
         <HexDiv>
@@ -75,23 +77,26 @@ const HexDiv = styled.span`
 const Wrapper = styled.div`
   background: #46617c;
   min-height: 100vh;
+  height: auto !important;
   min-width: 100vw;
   font-family: Montserrat, sans-serif;
   position: relative;
 `
 const Navigation = styled.nav`
-  position: absolute;
+  position: fixed;
   margin-right: 6px;
   left: 0;
   z-index: 5;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: flex-start;
   flex-direction: column;
-  height: 100vh;
+  min-height: 100vh;
   background-color: #100b2b;
 `
 const StyledLink = styled.a`
   text-decoration: none;
+  margin-top: 40px;
+  margin-bottom: 40px;
   padding: 6px;
   text-align: center;
   &:hover {
@@ -103,7 +108,7 @@ const Container = styled.section`
   padding-top: 10%;
   position: absolute;
   top: 0;
-  height: 100vh;
+  min-height: 100vh;
   width: 0;
   opacity: 0;
   transition: all ease-in 0.5s;
@@ -116,7 +121,7 @@ const Container = styled.section`
     position: absolute;
     left: 0;
     width: 100%;
-    height: 100%;
+    height: auto !important;
     z-index: 2;
   }
 `

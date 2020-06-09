@@ -1,0 +1,89 @@
+import { Link } from "gatsby"
+import PropTypes from "prop-types"
+import React from "react"
+import styled, { keyframes } from "styled-components"
+import { UserMd, UserAstronaut } from "@styled-icons/fa-solid"
+
+const About = () => (
+  <>
+    <Container>
+      <Description>
+        <Name>Midweek Murders</Name>
+        <Slogan>A true crime comedy podcast</Slogan>
+        <Text>New episodes every Wednesday.</Text>
+      </Description>
+      <Card>
+        <UserMd size="60" color="#100b2b" />
+        <Name>Joe</Name>
+        <Slogan>#notadoctor </Slogan>
+        <Text>
+          Joe is a grumpy old man kind of guy despite not being especially old.
+          His likes are whisky and dogs, not people. He got roped into starting
+          the podcast because of his degree in Forensic Science.
+        </Text>
+      </Card>
+      <Card>
+        <UserAstronaut size="60" color="#100b2b" />
+        <Name>Sandra</Name>
+        <Slogan>Cats and carbs</Slogan>
+        <Text>
+          Sandra is a more insane version of Joe, with a lot more technical
+          know-how and a lot less insight in Forensic Science. Her interests
+          includes the interwebz, pubs and Joe's dog Ollie.
+        </Text>
+      </Card>
+    </Container>
+  </>
+)
+
+const Container = styled.div`
+  display: flex;
+  flex-flow: row wrap;
+  padding-top: 10%;
+  justify-content: center;
+  align-items: center;
+`
+const Description = styled.article`
+  flex-basis: 100%;
+  margin-top: 8%;
+  margin-bottom: 8%;
+`
+
+const Card = styled.div`
+  flex-direction: column;
+  justify-content: space-evenly;
+  text-align: center;
+  align-items: center;
+  width: 340px;
+  padding: 2rem;
+  margin: 2rem;
+  background-color: #7b9c95;
+  padding-top: 80px;
+  -webkit-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
+`
+
+const Name = styled.h2`
+  font-family: Oswald;
+  text-transform: uppercase;
+  border-bottom: 1px solid #100b2b;
+  padding-top: 12px;
+  padding-bottom: 6px;
+  color: #100b2b;
+`
+
+const Slogan = styled.h3`
+  color: #100b2b;
+  margin-top: -20px;
+  font-size: 22px;
+  font-family: Montserrat;
+  font-weight: 400;
+`
+const Text = styled.p`
+  color: #100b2b;
+  font-size: 18px;
+  text-align: left;
+`
+
+export default About
