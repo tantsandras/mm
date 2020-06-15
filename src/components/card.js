@@ -8,7 +8,6 @@ import { Share } from "@styled-icons/entypo"
 import { TwitterWithCircle } from "@styled-icons/entypo-social"
 import { FacebookCircle } from "@styled-icons/boxicons-logos"
 import AudioPlayer from "./player"
-import { graphql } from "gatsby"
 
 const Card = styled.div`
   margin-top: 4%;
@@ -100,7 +99,7 @@ const Icon = styled.li`
   padding-right: 40px;
 `
 
-const Card = props => {
+const EpisodeCard = props => {
   return (
     <Card>
       <Thumbnail>
@@ -160,4 +159,4 @@ const Card = props => {
   )
 }
 
-export default Card
+export default EpisodeCard
