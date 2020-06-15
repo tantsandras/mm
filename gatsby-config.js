@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Midweek Murders`,
+    keyword: `True Crime, True Crime Comedy Podcast, UK podcast, UK true crime comedy podcast, Midweek Murders`,
+    description: `A true crime comedy podcast`,
+    author: `Sandra Grahl`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -16,15 +17,27 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
+      resolve: `gatsby-plugin-sharp`,
+      options: {
+        useMozJpeg: false,
+        stripMetadata: true,
+        webpQuality: 95,
+        jpegQuality: 95,
+        pngQuality: 95,
+        defaultQuality: 95,
+      },
+    },
+    {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `Midweek Murders`,
+        short_name: `Midweek Murders`,
         start_url: `/`,
+        lang: `en`,
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/favicon.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality

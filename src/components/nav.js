@@ -1,33 +1,46 @@
 import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
-import Image from "../components/image"
 import { MusicArtist } from "@styled-icons/zondicons"
 import { MoneyPoundCircle } from "@styled-icons/remix-fill"
 import { Radio } from "@styled-icons/boxicons-solid"
 import { ShoppingCart } from "@styled-icons/evaicons-solid"
+import { Email } from "@styled-icons/entypo"
 import styled, { keyframes } from "styled-components"
 import About from "./about"
+import Episodes from "./episodes"
+import StyledBackground from "./background"
+import Contact from "./contact"
+import Shop from "./shop"
+import Support from "./support"
 
 const NavBar = () => (
   <>
     <Navigation>
       <StyledLink href="#about">
         <MusicArtist size="34" color="#e62347" />
+        <Label>About</Label>
       </StyledLink>
       <StyledLink href="#episodes">
         <Radio size="40" color="#e62347" />
+        <Label>Listen</Label>
       </StyledLink>
-
+      <StyledLink href="#contact">
+        <Email size="34" color="#e62347" />
+        <Label>Contact</Label>
+      </StyledLink>
       <StyledLink href="#shop">
         <ShoppingCart size="40" color="#e62347" />
+        <Label>Shop</Label>
       </StyledLink>
       <StyledLink href="#support">
         <MoneyPoundCircle size="40" color="#e62347" />
+        <Label>Support</Label>
       </StyledLink>
     </Navigation>
 
     <Wrapper>
+      <StyledBackground />
       <Container id="about">
         <HexDiv>
           &#x2B22;
@@ -40,18 +53,28 @@ const NavBar = () => (
           &#x2B22;
           <HeadLine>Episodes</HeadLine>
         </HexDiv>
+        <Episodes />
+      </Container>
+      <Container id="contact">
+        <HexDiv>
+          &#x2B22;
+          <HeadLine>Contact</HeadLine>
+        </HexDiv>
+        <Contact />
       </Container>
       <Container id="shop">
         <HexDiv>
           &#x2B22;
           <HeadLine>Shop</HeadLine>
         </HexDiv>
+        <Shop />
       </Container>
       <Container id="support">
         <HexDiv>
           &#x2B22;
           <HeadLine>Support the show</HeadLine>
         </HexDiv>
+        <Support />
       </Container>
     </Wrapper>
   </>
@@ -66,16 +89,35 @@ to {
   opacity: 1;
 }
 `
+const Label = styled.span`
+  flex-direction: row;
+  position: absolute;
+  display: inline-block;
+  max-width: 0;
+  overflow: hidden;
+  opacity: 0;
+  transition: all 0.1s ease-in;
+  font-family: Oswald;
+  color: #100b2b;
+  font-size: 20px;
+  margin-left: 12px;
+  margin-top: 6px;
+  padding-bottom: 2px;
+  text-transform: uppercase;
+  z-index: 2;
+`
+
 const HexDiv = styled.span`
   text-align: center;
   color: #100b2b;
-  font-size: 497px;
+  font-size: 270px;
   z-index: 50;
-  margin-right: 11px;
+  margin-bottom: 80px;
+  margin-top: 120px;
 `
 
 const Wrapper = styled.div`
-  background: #46617c;
+  background-color: #7b9c95;
   min-height: 100vh;
   height: auto !important;
   min-width: 100vw;
@@ -88,24 +130,30 @@ const Navigation = styled.nav`
   left: 0;
   z-index: 5;
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
   flex-direction: column;
   min-height: 100vh;
   background-color: #100b2b;
 `
 const StyledLink = styled.a`
+  flex-direction: row;
   text-decoration: none;
+  display: inline-block;
+  position: relative;
   margin-top: 40px;
   margin-bottom: 40px;
   padding: 6px;
   text-align: center;
-  &:hover {
-    border-bottom: 0.6px solid #fff;
+  &:hover ${Label} {
+    max-width: 80px;
+    animation: 0.2s ${fadeIn} forwards 0.2s;
+    border-bottom: 1px solid #100b2b;
   }
 `
 
 const Container = styled.section`
-  padding-top: 10%;
+  background-color: #7b9c95;
+  padding-top: 4%;
   position: absolute;
   top: 0;
   min-height: 100vh;

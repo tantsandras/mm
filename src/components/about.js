@@ -9,8 +9,15 @@ const About = () => (
     <Container>
       <Description>
         <Name>Midweek Murders</Name>
-        <Slogan>A true crime comedy podcast</Slogan>
-        <Text>New episodes every Wednesday.</Text>
+        <Slogan>Another true crime comedy podcast</Slogan>
+        <Text>
+          Based in the UK, new episodes every Wednesday. Midweek Murders is a
+          fully independent podcast. Created, produced and edited by the hosts.
+        </Text>
+      </Description>
+      <Description>
+        <Name>Hosts</Name>
+        <Slogan>Sandra & Joe</Slogan>
       </Description>
       <Card>
         <UserMd size="60" color="#100b2b" />
@@ -39,14 +46,12 @@ const About = () => (
 const Container = styled.div`
   display: flex;
   flex-flow: row wrap;
-  padding-top: 10%;
   justify-content: center;
   align-items: center;
 `
 const Description = styled.article`
-  flex-basis: 100%;
-  margin-top: 8%;
-  margin-bottom: 8%;
+  flex-basis: 60%;
+  margin: 4% 16%;
 `
 
 const Card = styled.div`
@@ -57,7 +62,7 @@ const Card = styled.div`
   width: 340px;
   padding: 2rem;
   margin: 2rem;
-  background-color: #7b9c95;
+  background-color: #fff;
   padding-top: 80px;
   -webkit-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
@@ -76,9 +81,10 @@ const Name = styled.h2`
 const Slogan = styled.h3`
   color: #100b2b;
   margin-top: -20px;
-  font-size: 22px;
+  font-size: 18px;
   font-family: Montserrat;
   font-weight: 400;
+  text-transform: uppercase;
 `
 const Text = styled.p`
   color: #100b2b;

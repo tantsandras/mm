@@ -1,0 +1,20 @@
+backend: 
+  name: git-gateway
+  branch: master
+
+media_folder: static/imgUploads
+public_folder: /imgUploads
+
+collections:
+      - label: "Podcast Episodes"
+        name: "podcast-episodes"
+        identifier_field: name
+        create: true
+        folder: "content/podcastEpisodesFolder"
+        slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Google file id, name: file, widget: string}
+          - {label: Description, name: descriptionText, widget: text}
+          - {label: Date, name: date, widget: number}
+          - {label: Month, name: month, widget: string}

@@ -9,9 +9,17 @@ import React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 import styled, { keyframes } from "styled-components"
-import Header from "./header"
 import NavBar from "./nav"
+import { Helmet } from "react-helmet"
 import "./layout.css"
+import Footer from "./footer"
+import { createGlobalStyle } from "styled-components"
+
+const GlobalStyle = createGlobalStyle`
+  body {
+    font-family: Oswald, Montserrat;
+  }
+`
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
@@ -26,22 +34,33 @@ const Layout = ({ children }) => {
 
   return (
     <>
-      <Header siteTitle={data.site.siteMetadata.title} />
+      <Helmet
+        title={data.site.siteMetadata.title}
+        meta={[
+          {
+            name: "description",
+            content: "True Crime Comedy Podcast",
+          },
+          {
+            name: "keywords",
+            content:
+              "True Crime, Comedy, Podcast, UK Podcasts, True Crime Comedy Podcast, UK true crime podcast, True crime podcast, comedy podcast, Midweek Murders",
+          },
+        ]}
+      >
+        <html lang="en" style={{ fontFamily: `Oswald, Montserrat` }} />
+      </Helmet>
+      <GlobalStyle />
       <NavBar />
       <MainContent>{children}</MainContent>
-      <footer>
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
-      </footer>
+      <Footer />
     </>
   )
 }
 
 const MainContent = styled.main`
   min-height: 100vh;
-  overflow: hidden;
-  background-color: #46617c;
+  background-color: #7b9c95;
 `
 
 Layout.propTypes = {
