@@ -8,6 +8,7 @@ import { Share } from "@styled-icons/entypo"
 import { TwitterWithCircle } from "@styled-icons/entypo-social"
 import { FacebookCircle } from "@styled-icons/boxicons-logos"
 import AudioPlayer from "./player"
+import { graphql } from "gatsby"
 
 const Card = styled.div`
   margin-top: 4%;
@@ -100,6 +101,7 @@ const Icon = styled.li`
 `
 
 const EpisodeCard = props => {
+  //   const data = props.data.allFile.edges
   return (
     <Card>
       <Thumbnail>
@@ -160,3 +162,23 @@ const EpisodeCard = props => {
 }
 
 export default EpisodeCard
+
+// export const query = graphql`
+//   query {
+//     allFile(filter: { relativeDirectory: { eq: "heritageResearchFolder" } }) {
+//       edges {
+//         node {
+//           childMarkdownRemark {
+//             frontmatter {
+//               title
+//               file
+//               descriptionText
+//               date
+//               month
+//             }
+//           }
+//         }
+//       }
+//     }
+//   }
+// `

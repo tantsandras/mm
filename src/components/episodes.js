@@ -9,7 +9,6 @@ import { TwitterWithCircle } from "@styled-icons/entypo-social"
 import { FacebookCircle } from "@styled-icons/boxicons-logos"
 import AudioPlayer from "./player"
 import { ItunesNote, Spotify } from "@styled-icons/fa-brands"
-import EpisodeCard from "./card"
 
 const Episodes = () => (
   <Container>
@@ -35,7 +34,61 @@ const Episodes = () => (
         </ul>
       </Text>
     </Intro>
-    <EpisodeCard />
+    <Card>
+      <Thumbnail>
+        <Logo />
+      </Thumbnail>
+      <Column>
+        <Date>17</Date>
+        <Month>June</Month>
+      </Column>
+      <TextContainer>
+        <PodTitle>Russian Spies</PodTitle>
+        <Description>
+          In this weeks episode Sandra talks about 'bee medicine', Joe explains
+          what novichok is, and the case discussed is the attemted murders of
+          Sergei and Yulia Skripal, as well as the death of Dawn Sturgess.
+        </Description>
+      </TextContainer>
+
+      <Icons>
+        <Icon>
+          <TwitterWithCircle size="40" color="#7b9c95" />
+        </Icon>
+        <Icon>
+          <FacebookCircle size="40" color="#7b9c95" />
+        </Icon>
+        <Icon>
+          <Share size="40" color="#7b9c95" />
+        </Icon>
+      </Icons>
+      <div
+        style={{
+          display: `grid`,
+          justifyContent: `center`,
+          alignItems: `center`,
+          textAlign: `center`,
+        }}
+      >
+        <div
+          style={{
+            display: `flex -webkit-box -moz-box -webkit-flex -ms-flexbox`,
+            flexDirection: `row`,
+            justifyContent: `center`,
+            textAlign: `center`,
+            fontFamily: `Montserrat`,
+            alignContent: `center`,
+            width: `100%`,
+          }}
+        >
+          <AudioPlayer
+            track={
+              "https://drive.google.com/uc?export=download&id=18O-p98ImNpFEvnfYnkew6YJFmlzVtaUL"
+            }
+          />
+        </div>
+      </div>
+    </Card>
   </Container>
 )
 
@@ -80,6 +133,18 @@ const ListenIcon = styled.li`
   display: inline-block;
   list-style: none;
   padding-right: 40px;
+`
+const Card = styled.div`
+  margin-top: 4%;
+  position: relative;
+  min-width: 380px;
+  max-width: 40vw;
+  margin: 0 auto;
+  height: auto;
+  background-color: #fff;
+  -webkit-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
 `
 
 const Thumbnail = styled.div`
