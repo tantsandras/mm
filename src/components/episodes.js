@@ -35,7 +35,7 @@ const Episodes = () => (
         </ul>
       </Text>
     </Intro>
-    <Card />
+    <EpisodeCard />
   </Container>
 )
 
