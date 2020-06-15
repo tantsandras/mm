@@ -27,6 +27,7 @@ module.exports = {
         defaultQuality: 95,
       },
     },
+    `gatsby-plugin-netlify-cms`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

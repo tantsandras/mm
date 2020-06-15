@@ -8,6 +8,7 @@ import { Share } from "@styled-icons/entypo"
 import { TwitterWithCircle } from "@styled-icons/entypo-social"
 import { FacebookCircle } from "@styled-icons/boxicons-logos"
 import AudioPlayer from "./player"
+import { graphql } from "gatsby"
 
 const Card = styled.div`
   margin-top: 4%;
