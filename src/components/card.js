@@ -101,8 +101,6 @@ const Icon = styled.li`
 `
 
 const Card = props => {
-  //   const data = props.data.allFile.edges
-
   return (
     <Card>
       <Thumbnail>
@@ -163,23 +161,3 @@ const Card = props => {
 }
 
 export default Card
-
-// export const query = graphql`
-//   query {
-//     allFile(filter: { relativeDirectory: { eq: "podcastEpisodesFolder" } }) {
-//       edges {
-//         node {
-//           childMarkdownRemark {
-//             frontmatter {
-//               title
-//               file
-//               descriptionText
-//               date
-//               month
-//             }
-//           }
-//         }
-//       }
-//     }
-//   }
-// `
