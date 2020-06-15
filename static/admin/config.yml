@@ -1,6 +1,6 @@
 backend: 
   name: git-gateway
-  branch: master
+  branch: tantsandras/mm
 
 media_folder: static/imgUploads
 public_folder: /imgUploads
