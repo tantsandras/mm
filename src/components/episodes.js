@@ -187,12 +187,13 @@ const TextContainer = styled.div`
   padding-left: 40px;
   padding-right: 40px;
   padding-bottom: 40px;
+  margin-top: -80px;
   height: auto;
 `
 
 const PodTitle = styled.h2`
   font-family: Oswald;
-  font-size: 26px;
+  font-size: 2.6rem;
   text-transform: uppercase;
   border-bottom: 1px solid #100b2b;
   padding-bottom: 6px;

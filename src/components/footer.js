@@ -17,6 +17,7 @@ const Container = styled.footer`
   flex-flow: row wrap;
   min-height: 600px;
   margin-top: 80px;
+  width: 100vw;
 `
 
 const Credit = styled.p`

@@ -88,7 +88,7 @@ const TextContainer = styled.div`
 
 const PodTitle = styled.h2`
   font-family: Oswald;
-  font-size: 3rem;
+  font-size: 2.6rem;
   text-transform: uppercase;
   border-bottom: 1px solid #100b2b;
   padding-bottom: 6px;
@@ -214,7 +214,7 @@ const BackgroundSection = ({ className }) => (
                 Midweek Murders is a True Crime Comedy podcast made by Sandra
                 and Joe. They talk about a different case each week, where
                 Sandra introduces the case and Joe explains the forensic
-                science.
+                science. Mostly though, it's bants and beer.
               </Description>
             </TextContainer>
           </Card>
