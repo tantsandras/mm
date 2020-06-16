@@ -9,6 +9,7 @@ import { TwitterWithCircle } from "@styled-icons/entypo-social"
 import { FacebookCircle } from "@styled-icons/boxicons-logos"
 import AudioPlayer from "./player"
 import { ItunesNote, Spotify } from "@styled-icons/fa-brands"
+import { Podcast } from "@styled-icons/fa-solid"
 
 const Episodes = () => (
   <Container>
@@ -25,7 +26,7 @@ const Episodes = () => (
           }}
         >
           <ListenIcon>
-            <ItunesNote size="40" color="#e62347" background="transparent" />
+            <Podcast size="40" color="#e62347" background="transparent" />
             <p style={{ transform: `translateX(-8px)` }}>Itunes</p>
           </ListenIcon>
           <ListenIcon>
@@ -97,15 +98,14 @@ const Episodes = () => (
 )
 
 const Container = styled.div`
+  display: flex;
   flex-flow: row wrap;
-  margin-top: 4%;
-  padding: 0% 16% 16% 16%;
+  justify-content: center;
+  align-items: center;
 `
 const Intro = styled.article`
-  position: relative;
-  min-width: 60vw;
-  min-height: 240px;
-  padding: 4% 16% 4% 16%;
+  flex-basis: 60%;
+  margin: 4% 16%;
   margin-bottom: 120px;
 `
 
@@ -193,7 +193,6 @@ const TextContainer = styled.div`
 
 const PodTitle = styled.h2`
   font-family: Oswald;
-  font-size: 2.6rem;
   text-transform: uppercase;
   border-bottom: 1px solid #100b2b;
   padding-bottom: 6px;

@@ -2,7 +2,7 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 import { MusicArtist } from "@styled-icons/zondicons"
-import { MoneyPoundCircle } from "@styled-icons/remix-fill"
+import { MoneyPoundCircle, ArrowLeftCircle } from "@styled-icons/remix-fill"
 import { Radio } from "@styled-icons/boxicons-solid"
 import { ShoppingCart } from "@styled-icons/evaicons-solid"
 import { Email } from "@styled-icons/entypo"
@@ -18,30 +18,35 @@ const NavBar = () => (
   <>
     <Navigation>
       <StyledLink href="#about">
-        <MusicArtist size="34" color="#e62347" />
-        <Label>About</Label>
+        <MusicArtist size="24" color="#e62347" />
+        <Label style={{ marginLeft: `18px` }}>About</Label>
       </StyledLink>
       <StyledLink href="#episodes">
-        <Radio size="40" color="#e62347" />
+        <Radio size="30" color="#e62347" />
         <Label>Listen</Label>
       </StyledLink>
       <StyledLink href="#contact">
-        <Email size="34" color="#e62347" />
-        <Label>Contact</Label>
+        <Email size="24" color="#e62347" />
+        <Label style={{ marginLeft: `18px` }}>Contact</Label>
       </StyledLink>
       <StyledLink href="#shop">
-        <ShoppingCart size="40" color="#e62347" />
+        <ShoppingCart size="30" color="#e62347" />
         <Label>Shop</Label>
       </StyledLink>
       <StyledLink href="#support">
-        <MoneyPoundCircle size="40" color="#e62347" />
+        <MoneyPoundCircle size="30" color="#e62347" />
         <Label>Support</Label>
       </StyledLink>
     </Navigation>
 
     <Wrapper>
-      <StyledBackground />
+      <StyledBackground id="home" />
+
       <Container id="about">
+        <BackButton href="#home">
+          <ArrowLeftCircle size="40" color="#e62347" />
+          <Label>Home</Label>
+        </BackButton>
         <HexDiv>
           &#x2B22;
           <HeadLine>About</HeadLine>
@@ -49,6 +54,10 @@ const NavBar = () => (
         <About />
       </Container>
       <Container id="episodes">
+        <BackButton href="#home">
+          <ArrowLeftCircle size="40" color="#e62347" />
+          <Label>Home</Label>
+        </BackButton>
         <HexDiv>
           &#x2B22;
           <HeadLine>Episodes</HeadLine>
@@ -56,6 +65,10 @@ const NavBar = () => (
         <Episodes />
       </Container>
       <Container id="contact">
+        <BackButton href="#home">
+          <ArrowLeftCircle size="40" color="#e62347" />
+          <Label>Home</Label>
+        </BackButton>
         <HexDiv>
           &#x2B22;
           <HeadLine>Contact</HeadLine>
@@ -63,6 +76,10 @@ const NavBar = () => (
         <Contact />
       </Container>
       <Container id="shop">
+        <BackButton href="#home">
+          <ArrowLeftCircle size="40" color="#e62347" />
+          <Label>Home</Label>
+        </BackButton>
         <HexDiv>
           &#x2B22;
           <HeadLine>Shop</HeadLine>
@@ -70,6 +87,10 @@ const NavBar = () => (
         <Shop />
       </Container>
       <Container id="support">
+        <BackButton href="#home">
+          <ArrowLeftCircle size="40" color="#e62347" />
+          <Label>Home</Label>
+        </BackButton>
         <HexDiv>
           &#x2B22;
           <HeadLine>Support the show</HeadLine>
@@ -89,6 +110,7 @@ to {
   opacity: 1;
 }
 `
+
 const Label = styled.span`
   flex-direction: row;
   position: absolute;
@@ -105,6 +127,19 @@ const Label = styled.span`
   padding-bottom: 2px;
   text-transform: uppercase;
   z-index: 2;
+`
+
+const BackButton = styled.a`
+  align-self: flex-start;
+  margin-left: 60px;
+  text-decoration: none;
+  display: inline-block;
+  text-align: center;
+  &:hover ${Label} {
+    max-width: 80px;
+    animation: 0.2s ${fadeIn} forwards 0.2s;
+    border-bottom: 1px solid #100b2b;
+  }
 `
 
 const HexDiv = styled.span`
@@ -140,8 +175,8 @@ const StyledLink = styled.a`
   text-decoration: none;
   display: inline-block;
   position: relative;
-  margin-top: 40px;
-  margin-bottom: 40px;
+  margin-top: 30px;
+  margin-bottom: 30px;
   padding: 6px;
   text-align: center;
   &:hover ${Label} {
