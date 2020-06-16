@@ -13,7 +13,6 @@ import StyledBackground from "./background"
 import Contact from "./contact"
 import Shop from "./shop"
 import Support from "./support"
-import { LeftArrowCircle } from "@styled-icons/boxicons-regular"
 import PageContainer from "./container"
 
 const NavBar = () => (
@@ -31,9 +30,9 @@ const NavBar = () => (
         <Email size="24" color="#e62347" />
         <Label style={{ marginLeft: `18px` }}>Contact</Label>
       </StyledLink>
-      <StyledLink href="#shop">
+      <StyledLink href="#merch">
         <ShoppingCart size="30" color="#e62347" />
-        <Label>Shop</Label>
+        <Label>Merch</Label>
       </StyledLink>
       <StyledLink href="#support">
         <MoneyPoundCircle size="30" color="#e62347" />
@@ -52,7 +51,7 @@ const NavBar = () => (
       <PageContainer id={"contact"} header={"Contact"}>
         <Contact />
       </PageContainer>
-      <PageContainer id={"shop"} header={"Shop"}>
+      <PageContainer id={"merch"} header={"Merch"}>
         <Shop />
       </PageContainer>
       <PageContainer id={"support"} header={"Support the show"}>
@@ -107,7 +106,7 @@ const Navigation = styled.nav`
   justify-content: center;
   flex-direction: column;
   min-height: 100vh;
-  padding-bottom: 3rem;
+  padding-bottom: 6rem;
   background-color: #100b2b;
 `
 const StyledLink = styled.a`

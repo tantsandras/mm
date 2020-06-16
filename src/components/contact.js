@@ -18,7 +18,7 @@ const Contact = () => (
         <Name>Email</Name>
         <Slogan>midweekmurders@gmail.com</Slogan>
         <Text>
-          Send us your true crime stories, interesting headlines, or
+          Send us your true crime stories, interesting headlines, or case
           suggestions.
         </Text>
       </Description>
@@ -89,7 +89,6 @@ const Slogan = styled.h3`
   font-size: 18px;
   font-family: Montserrat;
   font-weight: 400;
-  text-transform: uppercase;
 `
 const Text = styled.p`
   color: #100b2b;
