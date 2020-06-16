@@ -26,11 +26,11 @@ const Episodes = () => (
           }}
         >
           <ListenIcon>
-            <Podcast size="30" color="#e62347" background="transparent" />
+            <Podcast size="30" color="#D22D4C" background="transparent" />
             <p style={{ transform: `translateX(-12px)` }}>Itunes</p>
           </ListenIcon>
           <ListenIcon>
-            <Spotify size="30" color="#e62347" />
+            <Spotify size="30" color="#D22D4C" />
             <p style={{ transform: `translateX(-14px)` }}>Spotify</p>
           </ListenIcon>
         </ul>
@@ -46,13 +46,13 @@ const Episodes = () => (
       </Column>
       <Icons>
         <Icon>
-          <TwitterWithCircle size="40" color="#7b9c95" />
+          <TwitterWithCircle size="40" color="#7A938F" />
         </Icon>
         <Icon>
-          <FacebookCircle size="40" color="#7b9c95" />
+          <FacebookCircle size="40" color="#7A938F" />
         </Icon>
         <Icon>
-          <Share size="40" color="#7b9c95" />
+          <Share size="40" color="#7A938F" />
         </Icon>
       </Icons>
 
@@ -112,14 +112,14 @@ const Intro = styled.article`
 const Name = styled.h2`
   font-family: Oswald;
   text-transform: uppercase;
-  border-bottom: 1px solid #100b2b;
+  border-bottom: 1px solid #282d50;
   padding-top: 12px;
   padding-bottom: 6px;
-  color: #100b2b;
+  color: #282d50;
 `
 
 const Slogan = styled.h3`
-  color: #100b2b;
+  color: #282d50;
   margin-top: -20px;
   font-size: 18px;
   font-family: Montserrat;
@@ -128,7 +128,7 @@ const Slogan = styled.h3`
 `
 const Text = styled.span`
   flex-direction: row;
-  color: #100b2b;
+  color: #282d50;
   font-size: 18px;
   text-align: left;
 `
@@ -194,24 +194,24 @@ const TextContainer = styled.div`
 const PodTitle = styled.h2`
   font-family: Oswald;
   text-transform: uppercase;
-  border-bottom: 1px solid #100b2b;
+  border-bottom: 1px solid #282d50;
   padding-bottom: 6px;
-  color: #100b2b;
+  color: #282d50;
 `
 
 const Description = styled.p`
   text-align: left;
   padding-top: 10px;
   font-size: 0.95rem;
-  color: #100b2b;
+  color: #282d50;
 `
 
 const Date = styled.h3`
   font-family: Oswald;
   z-index: 6;
   font-size: 3.4rem;
-  color: #7b9c95;
-  border-bottom: 1px #7b9c95 solid;
+  color: #7a938f;
+  border-bottom: 1px #7a938f solid;
   padding-bottom: 6px;
 `
 
@@ -221,7 +221,7 @@ const Month = styled.h4`
   font-weight: 400;
   z-index: 6;
   font-size: 1.2rem;
-  color: #7b9c95;
+  color: #7a938f;
   transform: translateY(-20px);
 `
 

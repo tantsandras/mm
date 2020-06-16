@@ -12,7 +12,7 @@ const Footer = () => (
 )
 
 const Container = styled.footer`
-  background-color: #100b2b;
+  background-color: #282d50;
   display: flex;
   flex-flow: row wrap;
   min-height: 600px;
@@ -23,7 +23,7 @@ const Container = styled.footer`
 const Credit = styled.p`
   flex-basis: 100%;
   align-self: flex-end;
-  color: #7b9c95;
+  color: #7a938f;
   font-family: Oswald;
   padding-left: 80px;
 `

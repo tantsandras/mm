@@ -19,7 +19,7 @@ const turnVisible = keyframes`
 `
 
 const Title = styled.div`
-  color: #e62347;
+  color: #d22d4c;
   font-size: 4rem;
   font-family: Oswald;
   width: 100%;
@@ -90,24 +90,24 @@ const PodTitle = styled.h2`
   font-family: Oswald;
   font-size: 2.6rem;
   text-transform: uppercase;
-  border-bottom: 1px solid #100b2b;
+  border-bottom: 1px solid #282d50;
   padding-bottom: 6px;
-  color: #100b2b;
+  color: #282d50;
 `
 
 const Description = styled.p`
   text-align: left;
   padding-top: 10px;
   font-size: 0.95rem;
-  color: #100b2b;
+  color: #282d50;
 `
 
 const Date = styled.h3`
   font-family: Oswald;
   z-index: 6;
   font-size: 3.4rem;
-  color: #7b9c95;
-  border-bottom: 1px #7b9c95 solid;
+  color: #7a938f;
+  border-bottom: 1px #7a938f solid;
   padding-bottom: 6px;
 `
 
@@ -117,7 +117,7 @@ const Month = styled.h4`
   font-weight: 400;
   z-index: 6;
   font-size: 1.2rem;
-  color: #7b9c95;
+  color: #7a938f;
   transform: translateY(-20px);
 `
 
@@ -155,7 +155,6 @@ const BackgroundSection = ({ className }) => (
             className={className}
             fluid={imageData}
             style={{
-              filter: `contrast(110%) saturate(150%)`,
               marginBottom: `200px`,
             }}
             alt="Forest with noir feeling."
@@ -169,13 +168,13 @@ const BackgroundSection = ({ className }) => (
             <Column></Column>
             <Icons>
               <Icon>
-                <TwitterWithCircle size="40" color="#7b9c95" />
+                <TwitterWithCircle size="40" color="#7A938F" />
               </Icon>
               <Icon>
-                <FacebookCircle size="40" color="#7b9c95" />
+                <FacebookCircle size="40" color="#7A938F" />
               </Icon>
               <Icon>
-                <Share size="40" color="#7b9c95" />
+                <Share size="40" color="#7A938F" />
               </Icon>
             </Icons>
 

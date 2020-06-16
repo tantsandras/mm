@@ -20,7 +20,7 @@ const About = () => (
         <Slogan>Sandra & Joe</Slogan>
       </Description>
       <Card>
-        <UserMd size="60" color="#100b2b" />
+        <UserMd size="60" color="#282D50" />
         <Name>Joe</Name>
         <Slogan>#notadoctor </Slogan>
         <Text>
@@ -30,7 +30,7 @@ const About = () => (
         </Text>
       </Card>
       <Card>
-        <UserAstronaut size="60" color="#100b2b" />
+        <UserAstronaut size="60" color="#282D50" />
         <Name>Sandra</Name>
         <Slogan>Cats and carbs</Slogan>
         <Text>
@@ -72,14 +72,14 @@ const Card = styled.div`
 const Name = styled.h2`
   font-family: Oswald;
   text-transform: uppercase;
-  border-bottom: 1px solid #100b2b;
+  border-bottom: 1px solid #282d50;
   padding-top: 12px;
   padding-bottom: 6px;
-  color: #100b2b;
+  color: #282d50;
 `
 
 const Slogan = styled.h3`
-  color: #100b2b;
+  color: #282d50;
   margin-top: -20px;
   font-size: 18px;
   font-family: Montserrat;
@@ -87,7 +87,7 @@ const Slogan = styled.h3`
   text-transform: uppercase;
 `
 const Text = styled.p`
-  color: #100b2b;
+  color: #282d50;
   font-size: 18px;
   text-align: left;
 `

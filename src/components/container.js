@@ -21,7 +21,7 @@ const Label = styled.span`
   opacity: 0;
   transition: all 0.1s ease-in;
   font-family: Oswald;
-  color: #100b2b;
+  color: #282d50;
   font-size: 1rem;
   margin-left: 12px;
   margin-top: 6px;
@@ -39,13 +39,13 @@ const BackButton = styled.a`
   &:hover ${Label} {
     max-width: 80px;
     animation: 0.2s ${fadeIn} forwards 0.2s;
-    border-bottom: 1px solid #100b2b;
+    border-bottom: 1px solid #282d50;
   }
 `
 
 const HexDiv = styled.span`
   text-align: center;
-  color: #100b2b;
+  color: #282d50;
   font-size: 270px;
   z-index: 50;
   margin-bottom: 80px;
@@ -53,7 +53,7 @@ const HexDiv = styled.span`
 `
 
 const Container = styled.section`
-  background-color: #7b9c95;
+  background-color: #7a938f;
   padding-top: 4%;
   position: absolute;
   top: 0;
@@ -94,7 +94,7 @@ const HeadLine = styled.h1`
 const PageContainer = ({ id, header, children }) => (
   <Container id={id}>
     <BackButton href="#home">
-      <LeftArrowCircle size="40" color="#e62347" />
+      <LeftArrowCircle size="40" color="#D22D4C" />
       <Label>Home</Label>
     </BackButton>
     <HexDiv>

@@ -19,23 +19,23 @@ const NavBar = () => (
   <>
     <Navigation>
       <StyledLink href="#about">
-        <MusicArtist size="24" color="#e62347" />
+        <MusicArtist size="24" color="#D22D4C" />
         <Label style={{ marginLeft: `18px` }}>About</Label>
       </StyledLink>
       <StyledLink href="#episodes">
-        <Radio size="30" color="#e62347" />
+        <Radio size="30" color="#D22D4C" />
         <Label>Listen</Label>
       </StyledLink>
       <StyledLink href="#contact">
-        <Email size="24" color="#e62347" />
+        <Email size="24" color="#D22D4C" />
         <Label style={{ marginLeft: `18px` }}>Contact</Label>
       </StyledLink>
       <StyledLink href="#merch">
-        <ShoppingCart size="30" color="#e62347" />
+        <ShoppingCart size="30" color="#D22D4C" />
         <Label>Merch</Label>
       </StyledLink>
       <StyledLink href="#support">
-        <MoneyPoundCircle size="30" color="#e62347" />
+        <MoneyPoundCircle size="30" color="#D22D4C" />
         <Label>Support</Label>
       </StyledLink>
     </Navigation>
@@ -80,7 +80,7 @@ const Label = styled.span`
   opacity: 0;
   transition: all 0.1s ease-in;
   font-family: Oswald;
-  color: #100b2b;
+  color: #282d50;
   font-size: 1rem;
   margin-left: 12px;
   margin-top: 6px;
@@ -90,7 +90,7 @@ const Label = styled.span`
 `
 
 const Wrapper = styled.div`
-  background-color: #7b9c95;
+  background-color: #7a938f;
   min-height: 100vh;
   height: auto !important;
   min-width: 100vw;
@@ -107,7 +107,7 @@ const Navigation = styled.nav`
   flex-direction: column;
   min-height: 100vh;
   padding-bottom: 6rem;
-  background-color: #100b2b;
+  background-color: #282d50;
 `
 const StyledLink = styled.a`
   flex-direction: row;
@@ -121,7 +121,7 @@ const StyledLink = styled.a`
   &:hover ${Label} {
     max-width: 80px;
     animation: 0.2s ${fadeIn} forwards 0.2s;
-    border-bottom: 1px solid #100b2b;
+    border-bottom: 1px solid #282d50;
   }
 `
 

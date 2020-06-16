@@ -81,7 +81,7 @@ const ButtonWrap = styled.span`
   height: 90px;
   position: relative;
   border-radius: 50%;
-  background: #e62347;
+  background: #d22d4c;
   -webkit-box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.75);
   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.75);
@@ -105,7 +105,7 @@ const Play = styled.button`
   box-sizing: border-box;
   width: 0;
   height: 37px;
-  border-color: transparent transparent transparent #100b2b;
+  border-color: transparent transparent transparent #282d50;
   transition: 100ms all ease;
   cursor: pointer;
   border-style: solid;
@@ -146,7 +146,7 @@ const DoubleFastForward = styled(FastForward)`
   vertical-align: middle;
   position: relative;
   font-style: normal;
-  color: #100b2b;
+  color: #282d50;
   text-align: left;
   text-indent: -9999px;
   direction: ltr;
@@ -173,7 +173,7 @@ const DoubleRewind = styled(Rewind)`
   vertical-align: middle;
   position: relative;
   font-style: normal;
-  color: #100b2b;
+  color: #282d50;
   text-align: left;
   text-indent: -9999px;
   direction: ltr;
@@ -292,7 +292,7 @@ class AudioPlayer extends React.Component {
               height: `110px`,
               paddingTop: `70px`,
               marginBottom: `-110px`,
-              color: `#100b2b`,
+              color: `#282D50`,
             }}
           >
             {currentTime} {duration != null && `/ ${duration}`}

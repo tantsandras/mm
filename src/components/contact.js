@@ -29,7 +29,7 @@ const Contact = () => (
         <Text>
           <TwitterWithCircle
             size="34"
-            color="#e62347"
+            color="#D22D4C"
             style={{ marginBottom: `4px`, marginRight: `4px` }}
           />{" "}
           Social media ain't our thing, but feel free to try.
@@ -42,7 +42,7 @@ const Contact = () => (
         <Text>
           <InstagramWithCircle
             size="34"
-            color="#e62347"
+            color="#D22D4C"
             style={{ marginBottom: `4px`, marginRight: `4px` }}
           />{" "}
           There might be photos of Ollie (the dog) or Bodil (the cat) on here,
@@ -77,21 +77,21 @@ const Description = styled.article`
 const Name = styled.h2`
   font-family: Oswald;
   text-transform: uppercase;
-  border-bottom: 1px solid #100b2b;
+  border-bottom: 1px solid #282d50;
   padding-top: 12px;
   padding-bottom: 6px;
-  color: #100b2b;
+  color: #282d50;
 `
 
 const Slogan = styled.h3`
-  color: #100b2b;
+  color: #282d50;
   margin-top: -20px;
   font-size: 18px;
   font-family: Montserrat;
   font-weight: 400;
 `
 const Text = styled.p`
-  color: #100b2b;
+  color: #282d50;
   font-size: 18px;
   text-align: left;
 `
