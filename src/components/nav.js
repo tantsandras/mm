@@ -106,7 +106,8 @@ const Navigation = styled.nav`
   justify-content: center;
   flex-direction: column;
   min-height: 100vh;
-  padding-bottom: 6rem;
+  padding-bottom: 3rem;
+  padding-top: 3rem;
   background-color: #282d50;
 `
 const StyledLink = styled.a`

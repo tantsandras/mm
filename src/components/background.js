@@ -28,8 +28,8 @@ const Title = styled.div`
   position: absolute;
   mix-blend-mode: multiply;
   padding-left: 0.8em;
-  top: 78%;
-  left: 19%;
+  top: 78.6%;
+  left: 19.4%;
   text-transform: uppercase;
   line-height: 1;
 `
