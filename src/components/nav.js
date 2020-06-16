@@ -2,7 +2,7 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 import { MusicArtist } from "@styled-icons/zondicons"
-import { MoneyPoundCircle, ArrowLeftCircle } from "@styled-icons/remix-fill"
+import { MoneyPoundCircle } from "@styled-icons/remix-fill"
 import { Radio } from "@styled-icons/boxicons-solid"
 import { ShoppingCart } from "@styled-icons/evaicons-solid"
 import { Email } from "@styled-icons/entypo"
@@ -13,6 +13,7 @@ import StyledBackground from "./background"
 import Contact from "./contact"
 import Shop from "./shop"
 import Support from "./support"
+import { LeftArrowCircle } from "@styled-icons/boxicons-regular"
 
 const NavBar = () => (
   <>
@@ -44,7 +45,7 @@ const NavBar = () => (
 
       <Container id="about">
         <BackButton href="#home">
-          <ArrowLeftCircle size="40" color="#e62347" />
+          <LeftArrowCircle size="40" color="#e62347" />
           <Label>Home</Label>
         </BackButton>
         <HexDiv>
@@ -55,7 +56,7 @@ const NavBar = () => (
       </Container>
       <Container id="episodes">
         <BackButton href="#home">
-          <ArrowLeftCircle size="40" color="#e62347" />
+          <LeftArrowCircle size="40" color="#e62347" />
           <Label>Home</Label>
         </BackButton>
         <HexDiv>
@@ -66,7 +67,7 @@ const NavBar = () => (
       </Container>
       <Container id="contact">
         <BackButton href="#home">
-          <ArrowLeftCircle size="40" color="#e62347" />
+          <LeftArrowCircle size="40" color="#e62347" />
           <Label>Home</Label>
         </BackButton>
         <HexDiv>
@@ -77,7 +78,7 @@ const NavBar = () => (
       </Container>
       <Container id="shop">
         <BackButton href="#home">
-          <ArrowLeftCircle size="40" color="#e62347" />
+          <LeftArrowCircle size="40" color="#e62347" />
           <Label>Home</Label>
         </BackButton>
         <HexDiv>
@@ -88,7 +89,7 @@ const NavBar = () => (
       </Container>
       <Container id="support">
         <BackButton href="#home">
-          <ArrowLeftCircle size="40" color="#e62347" />
+          <LeftArrowCircle size="40" color="#e62347" />
           <Label>Home</Label>
         </BackButton>
         <HexDiv>
@@ -121,7 +122,7 @@ const Label = styled.span`
   transition: all 0.1s ease-in;
   font-family: Oswald;
   color: #100b2b;
-  font-size: 20px;
+  font-size: 1rem;
   margin-left: 12px;
   margin-top: 6px;
   padding-bottom: 2px;
@@ -167,7 +168,7 @@ const Navigation = styled.nav`
   display: flex;
   justify-content: center;
   flex-direction: column;
-  min-height: 100vh;
+  min-height: 110vh;
   background-color: #100b2b;
 `
 const StyledLink = styled.a`

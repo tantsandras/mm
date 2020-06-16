@@ -26,12 +26,12 @@ const Episodes = () => (
           }}
         >
           <ListenIcon>
-            <Podcast size="40" color="#e62347" background="transparent" />
-            <p style={{ transform: `translateX(-8px)` }}>Itunes</p>
+            <Podcast size="30" color="#e62347" background="transparent" />
+            <p style={{ transform: `translateX(-12px)` }}>Itunes</p>
           </ListenIcon>
           <ListenIcon>
-            <Spotify size="40" color="#e62347" />
-            <p style={{ transform: `translateX(-10px)` }}>Spotify</p>
+            <Spotify size="30" color="#e62347" />
+            <p style={{ transform: `translateX(-14px)` }}>Spotify</p>
           </ListenIcon>
         </ul>
       </Text>

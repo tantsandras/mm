@@ -57,8 +57,8 @@ const Thumbnail = styled.div`
   position: relative;
   top: -20px;
   left: 80px;
-  height: 300px;
-  width: 260px;
+  height: 200px;
+  width: 160px;
   overflow: hidden;
 `
 

@@ -20,7 +20,7 @@ const turnVisible = keyframes`
 
 const Title = styled.div`
   color: #e62347;
-  font-size: 4.2rem;
+  font-size: 4rem;
   font-family: Oswald;
   width: 100%;
   text-align: left;
@@ -29,7 +29,7 @@ const Title = styled.div`
   mix-blend-mode: multiply;
   padding-left: 0.8em;
   top: 78%;
-  left: 18%;
+  left: 19%;
   text-transform: uppercase;
   line-height: 1;
 `

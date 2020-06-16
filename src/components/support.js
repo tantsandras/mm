@@ -16,9 +16,10 @@ const Thumbnail = styled.div`
   position: relative;
   top: 0px;
   left: 0px;
-  height: 600px;
-  width: 400px;
+  height: 400px;
+  width: 200px;
   overflow: hidden;
+  margin-bottom: 6rem;
 `
 
 const Container = styled.div`
