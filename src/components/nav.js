@@ -14,6 +14,7 @@ import Contact from "./contact"
 import Shop from "./shop"
 import Support from "./support"
 import { LeftArrowCircle } from "@styled-icons/boxicons-regular"
+import PageContainer from "./container"
 
 const NavBar = () => (
   <>
@@ -42,62 +43,21 @@ const NavBar = () => (
 
     <Wrapper>
       <StyledBackground id="home" />
-
-      <Container id="about">
-        <BackButton href="#home">
-          <LeftArrowCircle size="40" color="#e62347" />
-          <Label>Home</Label>
-        </BackButton>
-        <HexDiv>
-          &#x2B22;
-          <HeadLine>About</HeadLine>
-        </HexDiv>
+      <PageContainer id={"about"} header={"About"}>
         <About />
-      </Container>
-      <Container id="episodes">
-        <BackButton href="#home">
-          <LeftArrowCircle size="40" color="#e62347" />
-          <Label>Home</Label>
-        </BackButton>
-        <HexDiv>
-          &#x2B22;
-          <HeadLine>Episodes</HeadLine>
-        </HexDiv>
+      </PageContainer>
+      <PageContainer id={"episodes"} header={"Episodes"}>
         <Episodes />
-      </Container>
-      <Container id="contact">
-        <BackButton href="#home">
-          <LeftArrowCircle size="40" color="#e62347" />
-          <Label>Home</Label>
-        </BackButton>
-        <HexDiv>
-          &#x2B22;
-          <HeadLine>Contact</HeadLine>
-        </HexDiv>
+      </PageContainer>
+      <PageContainer id={"contact"} header={"Contact"}>
         <Contact />
-      </Container>
-      <Container id="shop">
-        <BackButton href="#home">
-          <LeftArrowCircle size="40" color="#e62347" />
-          <Label>Home</Label>
-        </BackButton>
-        <HexDiv>
-          &#x2B22;
-          <HeadLine>Shop</HeadLine>
-        </HexDiv>
+      </PageContainer>
+      <PageContainer id={"shop"} header={"Shop"}>
         <Shop />
-      </Container>
-      <Container id="support">
-        <BackButton href="#home">
-          <LeftArrowCircle size="40" color="#e62347" />
-          <Label>Home</Label>
-        </BackButton>
-        <HexDiv>
-          &#x2B22;
-          <HeadLine>Support the show</HeadLine>
-        </HexDiv>
+      </PageContainer>
+      <PageContainer id={"support"} header={"Support the show"}>
         <Support />
-      </Container>
+      </PageContainer>
     </Wrapper>
   </>
 )
@@ -130,28 +90,6 @@ const Label = styled.span`
   z-index: 2;
 `
 
-const BackButton = styled.a`
-  align-self: flex-start;
-  margin-left: 60px;
-  text-decoration: none;
-  display: inline-block;
-  text-align: center;
-  &:hover ${Label} {
-    max-width: 80px;
-    animation: 0.2s ${fadeIn} forwards 0.2s;
-    border-bottom: 1px solid #100b2b;
-  }
-`
-
-const HexDiv = styled.span`
-  text-align: center;
-  color: #100b2b;
-  font-size: 270px;
-  z-index: 50;
-  margin-bottom: 80px;
-  margin-top: 120px;
-`
-
 const Wrapper = styled.div`
   background-color: #7b9c95;
   min-height: 100vh;
@@ -168,7 +106,8 @@ const Navigation = styled.nav`
   display: flex;
   justify-content: center;
   flex-direction: column;
-  min-height: 110vh;
+  min-height: 100vh;
+  padding-bottom: 3rem;
   background-color: #100b2b;
 `
 const StyledLink = styled.a`
@@ -184,44 +123,6 @@ const StyledLink = styled.a`
     max-width: 80px;
     animation: 0.2s ${fadeIn} forwards 0.2s;
     border-bottom: 1px solid #100b2b;
-  }
-`
-
-const Container = styled.section`
-  background-color: #7b9c95;
-  padding-top: 4%;
-  position: absolute;
-  top: 0;
-  min-height: 100vh;
-  width: 0;
-  opacity: 0;
-  transition: all ease-in 0.5s;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-  align-items: center;
-  &:target {
-    opacity: 1;
-    position: absolute;
-    left: 0;
-    width: 100%;
-    height: auto !important;
-    z-index: 2;
-  }
-`
-
-const HeadLine = styled.h1`
-  transform: translateY(-24px);
-  border-bottom: 1px solid #fff;
-  padding-bottom: 6px;
-  font-family: "Montserrat";
-  color: #fff;
-  font-size: 26px;
-  text-transform: uppercase;
-  text-align: center;
-  z-index: 50;
-  &:target {
-    animation: 2s ${fadeIn} forwards 0.5s;
   }
 `
 

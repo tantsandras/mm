@@ -14,12 +14,12 @@ const Shop = () => (
 
 const Thumbnail = styled.div`
   position: relative;
-  top: 0px;
+  top: 100px;
   left: 0px;
   height: 400px;
-  width: 200px;
+  width: 300px;
   overflow: hidden;
-  margin-bottom: 6rem;
+  padding-bottom: 1600px;
 `
 
 const Container = styled.div`

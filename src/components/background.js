@@ -155,7 +155,7 @@ const BackgroundSection = ({ className }) => (
             className={className}
             fluid={imageData}
             style={{
-              filter: `contrast(110%) saturate(130%)`,
+              filter: `contrast(110%) saturate(150%)`,
               marginBottom: `200px`,
             }}
             alt="Forest with noir feeling."
