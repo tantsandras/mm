@@ -45,7 +45,10 @@ const Episodes = () => (
         <Month>June</Month>
       </Column>
       <Icons>
-        <Icon>
+        <Icon
+          className="twitter-share-button"
+          href="https://twitter.com/intent/tweet?text=New%20MidweekMurders%20episode"
+        >
           <TwitterWithCircle size="40" color="#7A938F" />
         </Icon>
         <Icon>
@@ -79,7 +82,7 @@ const Episodes = () => (
         >
           <AudioPlayer
             track={
-              "https://drive.google.com/uc?export=download&id=18O-p98ImNpFEvnfYnkew6YJFmlzVtaUL"
+              "https://drive.google.com/uc?export=download&id=1fJdTqHh9mK6-RKzi2cYQoNU8jeMTyvtM"
             }
           />
         </div>
@@ -231,10 +234,11 @@ const Icons = styled.ul`
   margin-left: -40px;
 `
 
-const Icon = styled.li`
+const Icon = styled.a`
   display: inline;
   list-style: none;
   padding-left: 40px;
+  cursor: pointer;
 `
 
 export default Episodes

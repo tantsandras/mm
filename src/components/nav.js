@@ -101,13 +101,12 @@ const Navigation = styled.nav`
   position: fixed;
   margin-right: 6px;
   left: 0;
+  top: 0px;
   z-index: 5;
   display: flex;
   justify-content: center;
   flex-direction: column;
   min-height: 100vh;
-  padding-bottom: 3rem;
-  padding-top: 3rem;
   background-color: #282d50;
 `
 const StyledLink = styled.a`

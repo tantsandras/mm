@@ -27,24 +27,33 @@ const Contact = () => (
 
         <Slogan>@midweekmurders</Slogan>
         <Text>
-          <TwitterWithCircle
-            size="34"
-            color="#D22D4C"
-            style={{ marginBottom: `4px`, marginRight: `4px` }}
-          />{" "}
+          <SocialLink
+            href="https://twitter.com/midweekmurders/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <TwitterWithCircle
+              size="34"
+              style={{ marginBottom: `4px`, marginRight: `8px` }}
+            />
+          </SocialLink>
           Social media ain't our thing, but feel free to try.
         </Text>
       </Description>
       <Description>
         <Name>Instagram</Name>
-
         <Slogan>@midweekmurders</Slogan>
         <Text>
-          <InstagramWithCircle
-            size="34"
-            color="#D22D4C"
-            style={{ marginBottom: `4px`, marginRight: `4px` }}
-          />{" "}
+          <SocialLink
+            href="https://www.instagram.com/midweekmurders/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <InstagramWithCircle
+              size="34"
+              style={{ marginBottom: `4px`, marginRight: `8px` }}
+            />
+          </SocialLink>
           There might be photos of Ollie (the dog) or Bodil (the cat) on here,
           but no promises.
         </Text>
@@ -85,10 +94,18 @@ const Name = styled.h2`
 
 const Slogan = styled.h3`
   color: #282d50;
-  margin-top: -20px;
   font-size: 18px;
   font-family: Montserrat;
   font-weight: 400;
+  margin-top: -20px;
+`
+const SocialLink = styled.a`
+  text-decoration: none;
+  cursor: pointer;
+  color: #d22d4c;
+  &:hover {
+    color: #282d50;
+  }
 `
 const Text = styled.p`
   color: #282d50;
