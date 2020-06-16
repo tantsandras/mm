@@ -59,7 +59,7 @@ const Card = styled.div`
   justify-content: space-evenly;
   text-align: center;
   align-items: center;
-  width: 340px;
+  width: 320px;
   padding: 2rem;
   margin: 2rem;
   background-color: #fff;

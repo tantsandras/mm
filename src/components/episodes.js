@@ -17,7 +17,8 @@ const Episodes = () => (
       <Slogan>Another true crime comedy podcast</Slogan>
 
       <Text>
-        Listen here, or on:
+        If you like what you hear, please rate, reveiw and subscribe (preferably
+        on Itunes). Listen here, or on:
         <ul
           style={{
             marginTop: `20px`,
@@ -99,7 +100,7 @@ const Container = styled.div`
 `
 const Intro = styled.article`
   position: relative;
-  min-width: 80vw;
+  min-width: 60vw;
   min-height: 240px;
   padding: 4% 16% 4% 16%;
   margin-bottom: 120px;
@@ -137,7 +138,7 @@ const ListenIcon = styled.li`
 const Card = styled.div`
   margin-top: 4%;
   position: relative;
-  min-width: 380px;
+  min-width: 320px;
   max-width: 40vw;
   margin: 0 auto;
   height: auto;
@@ -152,8 +153,8 @@ const Thumbnail = styled.div`
   position: relative;
   left: 20px;
   top: -40px;
-  height: 160px;
-  width: 160px;
+  height: 140px;
+  width: 140px;
   -webkit-box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
   box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
@@ -172,7 +173,7 @@ const Column = styled.span`
 `
 
 const TextContainer = styled.div`
-  margin-left: 200px;
+  margin-left: 160px;
   margin-right: 20px;
   height: auto;
 `
@@ -182,7 +183,7 @@ const PodTitle = styled.h2`
   font-size: 26px;
   text-transform: uppercase;
   border-bottom: 1px solid #100b2b;
-  padding-top: 12px;
+  padding-top: 30px;
   padding-bottom: 6px;
   color: #100b2b;
 `

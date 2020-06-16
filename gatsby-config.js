@@ -35,8 +35,8 @@ module.exports = {
         short_name: `Midweek Murders`,
         start_url: `/`,
         lang: `en`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
+        background_color: `#100b2b`,
+        theme_color: `#7b9c95`,
         display: `minimal-ui`,
         icon: `src/images/favicon.png`, // This path is relative to the root of the site.
       },
