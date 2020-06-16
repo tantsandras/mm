@@ -20,19 +20,18 @@ const turnVisible = keyframes`
 
 const Title = styled.div`
   color: #e62347;
-  font-size: 6vw;
+  font-size: 4.2rem;
   font-family: Oswald;
-  width: 80%;
+  width: 100%;
   text-align: left;
   vertical-align: center;
   position: absolute;
   mix-blend-mode: multiply;
   padding-left: 0.8em;
-  top: 62%;
-  left: 50%;
-  transform: translate(-50%, 50%);
+  top: 78%;
+  left: 18%;
   text-transform: uppercase;
-  line-height: 1.1;
+  line-height: 1;
 `
 const Card = styled.div`
   margin-top: 4%;
@@ -41,47 +40,57 @@ const Card = styled.div`
   max-width: 40vw;
   margin: 0 auto;
   height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
   background-color: #fff;
   -webkit-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
   box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
 `
+
 const Thumbnail = styled.div`
-  float: left;
-  position: relative;
-  left: 20px;
-  top: -40px;
-  height: 140px;
-  width: 140px;
+  transform: translateY(-40px);
+  height: 280px;
+  width: 280px;
+  margin-left: 20px;
+  margin-right: 20px;
   -webkit-box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
   box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
   overflow: hidden;
 `
+const Break = styled.div`
+  flex-basis: 100%;
+  height: 0;
+`
 
 const Column = styled.span`
   flex-direction: column;
-  position: absolute;
-  top: 142px;
-  left: 65px;
-  float: left;
   justify-content: center;
   align-items: center;
   text-align: center;
+  align-self: flex-start;
+  padding-top: 26px;
+  width: 100px;
+  margin-right: 40px;
+  padding-left: 30px;
 `
 
 const TextContainer = styled.div`
-  margin-left: 160px;
-  margin-right: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 40px;
+  margin-top: -80px;
   height: auto;
 `
 
 const PodTitle = styled.h2`
   font-family: Oswald;
-  font-size: 26px;
+  font-size: 3rem;
   text-transform: uppercase;
   border-bottom: 1px solid #100b2b;
-  padding-top: 40px;
   padding-bottom: 6px;
   color: #100b2b;
 `
@@ -96,7 +105,7 @@ const Description = styled.p`
 const Date = styled.h3`
   font-family: Oswald;
   z-index: 6;
-  font-size: 3rem;
+  font-size: 3.4rem;
   color: #7b9c95;
   border-bottom: 1px #7b9c95 solid;
   padding-bottom: 6px;
@@ -107,21 +116,21 @@ const Month = styled.h4`
   font-family: Montserrat;
   font-weight: 400;
   z-index: 6;
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   color: #7b9c95;
   transform: translateY(-20px);
 `
 
 const Icons = styled.ul`
-  position: absolute;
-  left: 0;
-  bottom: 0;
+  align-self: flex-start;
+  padding-top: 30px;
+  margin-left: -40px;
 `
 
 const Icon = styled.li`
   display: inline;
   list-style: none;
-  padding-right: 40px;
+  padding-left: 40px;
 `
 
 const BackgroundSection = ({ className }) => (
@@ -145,7 +154,10 @@ const BackgroundSection = ({ className }) => (
             Tag="section"
             className={className}
             fluid={imageData}
-            style={{ filter: `contrast(110%) saturate(130%)` }}
+            style={{
+              filter: `contrast(110%) saturate(130%)`,
+              marginBottom: `200px`,
+            }}
             alt="Forest with noir feeling."
           >
             <Title>Midweek Murders</Title>
@@ -154,15 +166,7 @@ const BackgroundSection = ({ className }) => (
             <Thumbnail>
               <Logo />
             </Thumbnail>
-            <Column>
-              <Date></Date>
-              <Month></Month>
-            </Column>
-            <TextContainer>
-              <PodTitle>Trailer</PodTitle>
-              <Description></Description>
-            </TextContainer>
-
+            <Column></Column>
             <Icons>
               <Icon>
                 <TwitterWithCircle size="40" color="#7b9c95" />
@@ -174,6 +178,9 @@ const BackgroundSection = ({ className }) => (
                 <Share size="40" color="#7b9c95" />
               </Icon>
             </Icons>
+
+            <Break />
+
             <div
               style={{
                 display: `grid`,
@@ -200,6 +207,16 @@ const BackgroundSection = ({ className }) => (
                 />
               </div>
             </div>
+
+            <TextContainer>
+              <PodTitle>Trailer</PodTitle>
+              <Description>
+                Midweek Murders is a True Crime Comedy podcast made by Sandra
+                and Joe. They talk about a different case each week, where
+                Sandra introduces the case and Joe explains the forensic
+                science.
+              </Description>
+            </TextContainer>
           </Card>
         </>
       )
