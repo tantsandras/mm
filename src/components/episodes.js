@@ -89,7 +89,8 @@ const Episodes = () => (
       ></div>{" "}
       <script>
         {" "}
-        {(function () {
+        {typeof window !== "undefined" &&
+        window.location.href.match(/debug=1/) ? ((function () {
           var qs,
             js,
             q,
@@ -107,7 +108,7 @@ const Episodes = () => (
             q = gt.call(d, "script")[0]
             q.parentNode.insertBefore(js, q)
           }
-        })()}
+        })())}
       </script>
       <div
         style={{

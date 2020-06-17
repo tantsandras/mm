@@ -91,9 +91,9 @@ const Label = styled.span`
 
 const Wrapper = styled.div`
   background-color: #7a938f;
-  min-height: 100vh;
+  min-height: -webkit-fill-available;
   height: auto !important;
-  min-width: 100vw;
+  min-width: -webkit-fill-available;
   font-family: Montserrat, sans-serif;
   position: relative;
 `
@@ -101,13 +101,11 @@ const Navigation = styled.nav`
   position: fixed;
   margin-right: 6px;
   left: 0;
-  margin-top: 0 !important;
-  margin-bottom 0 !important;
   z-index: 5;
   display: flex;
   justify-content: center;
   flex-direction: column;
-  min-height: 100vh;
+  min-height: -webkit-fill-available;
   background-color: #1e1c3c;
 `
 const StyledLink = styled.a`
