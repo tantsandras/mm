@@ -101,8 +101,8 @@ const Navigation = styled.nav`
   position: fixed;
   margin-right: 6px;
   left: 0;
-  margin-top: 0;
-  margin-bottom 0;
+  margin-top: 0 !important;
+  margin-bottom 0 !important;
   z-index: 5;
   display: flex;
   justify-content: center;
