@@ -91,15 +91,17 @@ const Label = styled.span`
 
 const Wrapper = styled.div`
   background-color: #7a938f;
-  min-height: -webkit-fill-available;
+  min-height: 100vh;
   height: auto !important;
-  min-width: -webkit-fill-available;
+  min-width: 100vw;
   font-family: Montserrat, sans-serif;
   position: relative;
 `
 const Navigation = styled.nav`
   position: fixed;
   margin-right: 6px;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
   left: 0;
   z-index: 5;
   display: flex;

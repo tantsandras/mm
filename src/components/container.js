@@ -57,7 +57,7 @@ const Container = styled.section`
   padding-top: 4%;
   position: absolute;
   top: 0;
-  min-height: -webkit-fill-available;
+  min-height: 100vh;
   width: 0;
   opacity: 0;
   transition: all ease-in 0.5s;
@@ -69,7 +69,7 @@ const Container = styled.section`
     opacity: 1;
     position: absolute;
     left: 0;
-    width: -webkit-fill-available;
+    width: 100%;
     height: auto !important;
     z-index: 2;
   }
