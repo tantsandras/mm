@@ -82,7 +82,7 @@ const TextContainer = styled.div`
   padding-left: 40px;
   padding-right: 40px;
   padding-bottom: 40px;
-  margin-top: -80px;
+  margin-top: 40px;
   height: auto;
 `
 
@@ -170,36 +170,52 @@ const BackgroundSection = ({ className }) => (
                 <Share size="40" />
               </Icon>
             </Icons>
-
             <Break />
-
+            <div
+              class="sounder-widget"
+              data-url="https://embed.sounder.fm/e/ba8d621b9ff2454eb73d7d6585644fa8/jz18L?player_style=blue"
+              style={{ width: `100%`, height: `100%` }}
+            ></div>{" "}
+            <script>
+              {" "}
+              {(function () {
+                var qs,
+                  js,
+                  q,
+                  s,
+                  d = document,
+                  gi = d.getElementById,
+                  ce = d.createElement,
+                  gt = d.getElementsByTagName,
+                  id = "soun_der",
+                  b = "https://embed.sounder.fm/"
+                if (!gi.call(d, id)) {
+                  js = ce.call(d, "script")
+                  js.id = id
+                  js.src = b + "embed.js"
+                  q = gt.call(d, "script")[0]
+                  q.parentNode.insertBefore(js, q)
+                }
+              })()}
+            </script>
             <div
               style={{
-                display: `grid`,
-                justifyContent: `center`,
-                alignItems: `center`,
-                textAlign: `center`,
+                fontFamily: `Montserrat`,
+                fontSize: `12px`,
+                color: `#999`,
+                opacity: `0.5`,
+                paddingTop: `5px`,
               }}
             >
-              <div
-                style={{
-                  display: `flex -webkit-box -moz-box -webkit-flex -ms-flexbox`,
-                  flexDirection: `row`,
-                  justifyContent: `center`,
-                  textAlign: `center`,
-                  fontFamily: `Montserrat`,
-                  alignContent: `center`,
-                  width: `100%`,
-                }}
+              powered by{" "}
+              <a
+                href="https://sounder.fm?utm_campaign=saas&utm_source=sounder.fm-Episode&utm_medium=sounder&utm_content=sounder-embedded-poweredbysounder&utm_term=EN"
+                style={{ color: `#999` }}
+                target="_blank"
               >
-                <AudioPlayer
-                  track={
-                    "https://drive.google.com/uc?export=download&id=1Zpk3RyKHpJbi7o5uvaetjhjTXp7muDL9"
-                  }
-                />
-              </div>
+                Sounder
+              </a>
             </div>
-
             <TextContainer>
               <PodTitle>Trailer</PodTitle>
               <Description>
