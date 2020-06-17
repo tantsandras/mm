@@ -10,7 +10,7 @@ import { FacebookCircle } from "@styled-icons/boxicons-logos"
 import AudioPlayer from "./AudioPlayer"
 import { ItunesNote, Spotify } from "@styled-icons/fa-brands"
 import { Podcast } from "@styled-icons/fa-solid"
-import Stitcher from "../images/Stitcher_Icon_B_W_Dark_BG.png"
+import Stitcher from "../images/Stitcher_Icon_B_W_Light_BG.png"
 
 const Episodes = () => (
   <Container>
@@ -49,6 +49,7 @@ const Episodes = () => (
                 transform: `translateY(28px)`,
                 width: `28px`,
                 height: `28px`,
+                tintColor: `#7a938f`,
               }}
             />
             <p style={{ transform: `translateX(-18px)` }}>Stitcher</p>
