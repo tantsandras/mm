@@ -93,21 +93,19 @@ const Wrapper = styled.div`
   background-color: #7a938f;
   min-height: 100vh;
   height: auto !important;
-  min-width: 100vw;
+  min-width: 100%;
   font-family: Montserrat, sans-serif;
   position: relative;
 `
 const Navigation = styled.nav`
   position: fixed;
   margin-right: 6px;
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
   left: 0;
   z-index: 5;
   display: flex;
   justify-content: center;
   flex-direction: column;
-  min-height: -webkit-fill-available;
+  min-height: 100vh;
   background-color: #1e1c3c;
 `
 const StyledLink = styled.a`
