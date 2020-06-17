@@ -14,7 +14,7 @@ import { Helmet } from "react-helmet"
 import "./layout.css"
 import Footer from "./footer"
 import { createGlobalStyle } from "styled-components"
-const WebFont = require("webfontloader")
+const WebFont = typeof window !== `undefined` ? require("webfontloader") : null
 
 WebFont.load({
   google: {
