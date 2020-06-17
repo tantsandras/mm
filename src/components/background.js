@@ -7,7 +7,7 @@ import { PlayCircleFilled } from "@styled-icons/material"
 import { Share } from "@styled-icons/entypo"
 import { TwitterWithCircle } from "@styled-icons/entypo-social"
 import { FacebookCircle } from "@styled-icons/boxicons-logos"
-import AudioPlayer from "./player"
+import AudioPlayer from "./AudioPlayer"
 
 const turnVisible = keyframes`
 	from {
@@ -171,34 +171,7 @@ const BackgroundSection = ({ className }) => (
               </Icon>
             </Icons>
             <Break />
-            <div
-              class="sounder-widget"
-              data-url="https://embed.sounder.fm/e/ba8d621b9ff2454eb73d7d6585644fa8/jz18L?player_style=blue"
-              style={{ width: `100%`, height: `100%` }}
-            ></div>{" "}
-            <script>
-              {" "}
-              {typeof window !== "undefined" &&
-        window.location.href.match(/debug=1/) ? ((function () {
-                var qs,
-                  js,
-                  q,
-                  s,
-                  d = document,
-                  gi = d.getElementById,
-                  ce = d.createElement,
-                  gt = d.getElementsByTagName,
-                  id = "soun_der",
-                  b = "https://embed.sounder.fm/"
-                if (!gi.call(d, id)) {
-                  js = ce.call(d, "script")
-                  js.id = id
-                  js.src = b + "embed.js"
-                  q = gt.call(d, "script")[0]
-                  q.parentNode.insertBefore(js, q)
-                }
-              })())}
-            </script>
+            <AudioPlayer url="https://embed.sounder.fm/e/ba8d621b9ff2454eb73d7d6585644fa8/jz18L?player_style=blue" />
             <div
               style={{
                 fontFamily: `Montserrat`,
