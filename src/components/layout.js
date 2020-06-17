@@ -14,6 +14,13 @@ import { Helmet } from "react-helmet"
 import "./layout.css"
 import Footer from "./footer"
 import { createGlobalStyle } from "styled-components"
+const WebFont = require("webfontloader")
+
+WebFont.load({
+  google: {
+    families: ["Montserrat", "Oswald"],
+  },
+})
 
 const GlobalStyle = createGlobalStyle`
   body {

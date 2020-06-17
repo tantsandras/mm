@@ -30,6 +30,14 @@ module.exports = {
     },
     `gatsby-plugin-netlify-cms`,
     {
+      resolve: "gatsby-plugin-web-font-loader",
+      options: {
+        google: {
+          families: ["Montserrat", "Oswald"],
+        },
+      },
+    },
+    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Midweek Murders`,
