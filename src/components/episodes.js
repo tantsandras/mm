@@ -10,6 +10,7 @@ import { FacebookCircle } from "@styled-icons/boxicons-logos"
 import AudioPlayer from "./player"
 import { ItunesNote, Spotify } from "@styled-icons/fa-brands"
 import { Podcast } from "@styled-icons/fa-solid"
+import Stitcher from "../images/Stitcher_Icon_B_W_Dark_BG.png"
 
 const Episodes = () => (
   <Container>
@@ -26,12 +27,31 @@ const Episodes = () => (
           }}
         >
           <ListenIcon>
-            <Podcast size="30" color="#D22D4C" background="transparent" />
+            <Podcast size="30" background="transparent" />
             <p style={{ transform: `translateX(-12px)` }}>Itunes</p>
           </ListenIcon>
-          <ListenIcon>
-            <Spotify size="30" color="#D22D4C" />
+          <ListenIcon
+            href="https://open.spotify.com/show/0R3YUEiCHBH1nUonVXTzIZ"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Spotify size="30" />
             <p style={{ transform: `translateX(-14px)` }}>Spotify</p>
+          </ListenIcon>
+          <ListenIcon
+            href="https://www.stitcher.com/podcast/midweek-murders"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              src={Stitcher}
+              style={{
+                transform: `translateY(28px)`,
+                width: `28px`,
+                height: `28px`,
+              }}
+            />
+            <p style={{ transform: `translateX(-18px)` }}>Stitcher</p>
           </ListenIcon>
         </ul>
       </Text>
@@ -47,15 +67,18 @@ const Episodes = () => (
       <Icons>
         <Icon
           className="twitter-share-button"
-          href="https://twitter.com/intent/tweet?text=New%20MidweekMurders%20episode"
+          href="https://twitter.com/intent/tweet?text=Listen%20to%20Midweek%20Murders%20on%20Sounder.fm%0A--%20https://midweekmurders.sounder.fm/show/midweek-murders"
         >
-          <TwitterWithCircle size="40" color="#7A938F" />
+          <TwitterWithCircle size="40" />
         </Icon>
-        <Icon>
-          <FacebookCircle size="40" color="#7A938F" />
+        <Icon
+          className="fb-share-button"
+          href="https://www.facebook.com/sharer/sharer.php?u=https://midweekmurders.sounder.fm/show/midweek-murders"
+        >
+          <FacebookCircle size="40" />
         </Icon>
-        <Icon>
-          <Share size="40" color="#7A938F" />
+        <Icon href="https://midweekmurders.sounder.fm/show/midweek-murders">
+          <Share size="40" />
         </Icon>
       </Icons>
 
@@ -92,8 +115,9 @@ const Episodes = () => (
         <PodTitle>Russian Spies</PodTitle>
         <Description>
           In this weeks episode Sandra talks about 'bee medicine', Joe explains
-          nerve agents, and the case discussed is the attempted murders of
-          Sergei and Yulia Skripal, as well as the death of Dawn Sturgess.
+          nerve agents, and the case discussed is the Salisbury poisonings,
+          a.k.a the attempted murders of Sergei and Yulia Skripal, as well as
+          the death of Dawn Sturgess.
         </Description>
       </TextContainer>
     </Card>
@@ -122,7 +146,7 @@ const Name = styled.h2`
 `
 
 const Slogan = styled.h3`
-  color: #282d50;
+  color: #1e1c3c;
   margin-top: -20px;
   font-size: 18px;
   font-family: Montserrat;
@@ -131,15 +155,21 @@ const Slogan = styled.h3`
 `
 const Text = styled.span`
   flex-direction: row;
-  color: #282d50;
+  color: #1e1c3c;
   font-size: 18px;
   text-align: left;
 `
 
-const ListenIcon = styled.li`
+const ListenIcon = styled.a`
   display: inline-block;
   list-style: none;
   padding-right: 40px;
+  text-decoration: none;
+  cursor: pointer;
+  color: #d22d4c;
+  &:hover {
+    color: #282d50;
+  }
 `
 const Card = styled.div`
   margin-top: 4%;
@@ -206,7 +236,7 @@ const Description = styled.p`
   text-align: left;
   padding-top: 10px;
   font-size: 0.95rem;
-  color: #282d50;
+  color: #1e1c3c;
 `
 
 const Date = styled.h3`
@@ -238,7 +268,12 @@ const Icon = styled.a`
   display: inline;
   list-style: none;
   padding-left: 40px;
+  text-decoration: none;
   cursor: pointer;
+  color: #7a938f;
+  &:hover {
+    color: #282d50;
+  }
 `
 
 export default Episodes

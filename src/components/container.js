@@ -45,7 +45,7 @@ const BackButton = styled.a`
 
 const HexDiv = styled.span`
   text-align: center;
-  color: #282d50;
+  color: #1e1c3c;
   font-size: 270px;
   z-index: 50;
   margin-bottom: 80px;

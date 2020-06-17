@@ -99,26 +99,7 @@ const Description = styled.p`
   text-align: left;
   padding-top: 10px;
   font-size: 0.95rem;
-  color: #282d50;
-`
-
-const Date = styled.h3`
-  font-family: Oswald;
-  z-index: 6;
-  font-size: 3.4rem;
-  color: #7a938f;
-  border-bottom: 1px #7a938f solid;
-  padding-bottom: 6px;
-`
-
-const Month = styled.h4`
-  text-transform: uppercase;
-  font-family: Montserrat;
-  font-weight: 400;
-  z-index: 6;
-  font-size: 1.2rem;
-  color: #7a938f;
-  transform: translateY(-20px);
+  color: #1e1c3c;
 `
 
 const Icons = styled.ul`
@@ -131,7 +112,12 @@ const Icon = styled.a`
   display: inline;
   list-style: none;
   padding-left: 40px;
+  text-decoration: none;
   cursor: pointer;
+  color: #7a938f;
+  &:hover {
+    color: #282d50;
+  }
 `
 
 const BackgroundSection = ({ className }) => (
@@ -170,15 +156,18 @@ const BackgroundSection = ({ className }) => (
             <Icons>
               <Icon
                 className="twitter-share-button"
-                href="https://twitter.com/intent/tweet?text=New%20MidweekMurders%20episode"
+                href="https://twitter.com/intent/tweet?text=Listen%20to%20Midweek%20Murders%20on%20Sounder.fm%0A--%20https://midweekmurders.sounder.fm/show/midweek-murders"
               >
-                <TwitterWithCircle size="40" color="#7A938F" />
+                <TwitterWithCircle size="40" />
               </Icon>
-              <Icon>
-                <FacebookCircle size="40" color="#7A938F" />
+              <Icon
+                className="fb-share-button"
+                href="https://www.facebook.com/sharer/sharer.php?u=https://midweekmurders.sounder.fm/show/midweek-murders"
+              >
+                <FacebookCircle size="40" />
               </Icon>
-              <Icon>
-                <Share size="40" color="#7A938F" />
+              <Icon href="https://midweekmurders.sounder.fm/show/midweek-murders">
+                <Share size="40" />
               </Icon>
             </Icons>
 
@@ -214,10 +203,10 @@ const BackgroundSection = ({ className }) => (
             <TextContainer>
               <PodTitle>Trailer</PodTitle>
               <Description>
-                Midweek Murders is a True Crime Comedy podcast made by Sandra
-                and Joe. They talk about a different case each week, where
-                Sandra introduces the case and Joe explains the forensic
-                science. Mostly though, it's bants and beer.
+                Midweek Murders is a True Crime Comedy podcast based in the UK
+                made by Sandra and Joe. They talk about a different case each
+                week, where Sandra introduces the case and Joe explains the
+                forensic science. Mostly though, it's bants and beer.
               </Description>
             </TextContainer>
           </Card>

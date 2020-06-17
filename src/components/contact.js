@@ -93,7 +93,7 @@ const Name = styled.h2`
 `
 
 const Slogan = styled.h3`
-  color: #282d50;
+  color: #1e1c3c;
   font-size: 18px;
   font-family: Montserrat;
   font-weight: 400;
@@ -108,7 +108,7 @@ const SocialLink = styled.a`
   }
 `
 const Text = styled.p`
-  color: #282d50;
+  color: #1e1c3c;
   font-size: 18px;
   text-align: left;
 `

@@ -79,7 +79,7 @@ const Name = styled.h2`
 `
 
 const Slogan = styled.h3`
-  color: #282d50;
+  color: #1e1c3c;
   margin-top: -20px;
   font-size: 18px;
   font-family: Montserrat;
@@ -87,7 +87,7 @@ const Slogan = styled.h3`
   text-transform: uppercase;
 `
 const Text = styled.p`
-  color: #282d50;
+  color: #1e1c3c;
   font-size: 18px;
   text-align: left;
 `

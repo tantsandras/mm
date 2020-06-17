@@ -12,7 +12,7 @@ const Footer = () => (
 )
 
 const Container = styled.footer`
-  background-color: #282d50;
+  background-color: #1e1c3c;
   display: flex;
   flex-flow: row wrap;
   min-height: 600px;

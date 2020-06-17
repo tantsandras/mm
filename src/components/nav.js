@@ -80,7 +80,7 @@ const Label = styled.span`
   opacity: 0;
   transition: all 0.1s ease-in;
   font-family: Oswald;
-  color: #282d50;
+  color: #1e1c3c;
   font-size: 1rem;
   margin-left: 12px;
   margin-top: 6px;
@@ -101,13 +101,14 @@ const Navigation = styled.nav`
   position: fixed;
   margin-right: 6px;
   left: 0;
-  top: 0px;
+  margin-top: 0;
+  margin-bottom 0;
   z-index: 5;
   display: flex;
   justify-content: center;
   flex-direction: column;
   min-height: 100vh;
-  background-color: #282d50;
+  background-color: #1e1c3c;
 `
 const StyledLink = styled.a`
   flex-direction: row;
