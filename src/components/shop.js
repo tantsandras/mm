@@ -11,6 +11,14 @@ const Shop = () => (
     </Thumbnail>
   </Container>
 )
+const turnVisible = keyframes`
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+`
 
 const Thumbnail = styled.div`
   position: relative;
@@ -21,7 +29,7 @@ const Thumbnail = styled.div`
   display: block;
   overflow: hidden;
   background-color: transparent;
-  padding-bottom: 600px;
+  animation: ${turnVisible} 0.6s ease-in;
 `
 
 const Container = styled.div`
@@ -29,6 +37,7 @@ const Container = styled.div`
   flex-flow: row wrap;
   justify-content: center;
   align-items: center;
+  padding-bottom: 600px;
 `
 
 export default Shop

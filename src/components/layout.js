@@ -18,7 +18,7 @@ import { createGlobalStyle } from "styled-components"
 const GlobalStyle = createGlobalStyle`
   body {
     font-family: Oswald, Montserrat;
-    background-color: #5F728C;
+    background-color: #5F728CCC;
   }
 `
 
@@ -61,7 +61,6 @@ const Layout = ({ children }) => {
 
 const MainContent = styled.main`
   min-height: 100vh;
-  background-color: #5F728C;
 `
 
 Layout.propTypes = {

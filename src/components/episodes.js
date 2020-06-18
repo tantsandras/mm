@@ -236,7 +236,7 @@ const Date = styled.h3`
   font-family: Oswald;
   z-index: 6;
   font-size: 3.4rem;
-  color: #5F728C;
+  color: #5F728CCC;
   border-bottom: 1px #7a938f solid;
   padding-bottom: 6px;
 `
@@ -247,7 +247,7 @@ const Month = styled.h4`
   font-weight: 400;
   z-index: 6;
   font-size: 1.2rem;
-  color: #5F728C;
+  color: #5F728CCC;
   transform: translateY(-20px);
 `
 
@@ -263,7 +263,7 @@ const Icon = styled.a`
   padding-left: 40px;
   text-decoration: none;
   cursor: pointer;
-  color: #5F728C;
+  color: #5F728CCC;
   &:hover {
     color: #282d50;
   }

@@ -8,7 +8,7 @@ const Image = () => {
     query {
       placeholderImage: file(relativePath: { eq: "mmlogo.png" }) {
         childImageSharp {
-          fluid(maxWidth: 360) {
+          fluid(quality: 90, maxWidth: 360) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }

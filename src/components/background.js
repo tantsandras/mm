@@ -115,7 +115,7 @@ const Icon = styled.a`
   padding-left: 40px;
   text-decoration: none;
   cursor: pointer;
-  color: #5F728C;
+  color: #5F728CCC;
   &:hover {
     color: #282d50;
   }

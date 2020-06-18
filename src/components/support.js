@@ -11,7 +11,14 @@ const Support = () => (
     </Thumbnail>
   </Container>
 )
-
+const turnVisible = keyframes`
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+`
 const Thumbnail = styled.div`
   position: relative;
   top: 160px;
@@ -21,7 +28,8 @@ const Thumbnail = styled.div`
   width: 260px;
   overflow: hidden;
   display: block;
-  padding-bottom: 600px;
+  
+  animation: ${turnVisible} 0.6s ease-in;
 `
 
 const Container = styled.div`
@@ -29,6 +37,7 @@ const Container = styled.div`
   flex-flow: row wrap;
   justify-content: center;
   align-items: center;
+  padding-bottom: 600px;
 `
 
 export default Support

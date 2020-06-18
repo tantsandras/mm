@@ -62,6 +62,14 @@ const Contact = () => (
   </>
 )
 
+const turnVisible = keyframes`
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+`
 const Thumbnail = styled.div`
   position: relative;
   top: -20px;
@@ -70,6 +78,7 @@ const Thumbnail = styled.div`
   display: block;
   width: 160px;
   overflow: hidden;
+  animation: ${turnVisible} 0.6s ease-in;
 `
 
 const Container = styled.div`

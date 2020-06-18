@@ -54,7 +54,6 @@ const HexDiv = styled.span`
 `
 
 const Container = styled.section`
-  background-color: #5F728C;
   padding-top: 4%;
   min-height: 100vh;
   height: auto;
@@ -81,7 +80,7 @@ const PageContainer = ({ id, header, children }) => (
   <Container id={id}>
     <BackButton>
       <AniLink swipe direction="left" to="/">
-      <LeftArrowCircle size="40" color="#441438" />
+      <LeftArrowCircle size="40" color="#441438" backgroundColor="#D22D4C" />
       <Label>Home</Label>
       </AniLink>
     </BackButton>
