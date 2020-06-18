@@ -29,7 +29,12 @@ module.exports = {
       },
     },
     `gatsby-plugin-netlify-cms`,
-    `gatsby-plugin-transition-link`,
+    {
+      resolve: "gatsby-plugin-transition-link",
+      options: {
+          layout: require.resolve(`./src/components/layout.js`)
+        }
+   },
     {
       resolve: "gatsby-plugin-web-font-loader",
       options: {

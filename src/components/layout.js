@@ -45,7 +45,7 @@ const Layout = ({ children }) => {
           {
             name: "keywords",
             content:
-              "True Crime, Comedy, Podcast, UK Podcasts, True Crime Comedy Podcast, UK true crime podcast, True crime podcast, comedy podcast, Midweek Murders",
+              "True Crime podcast, Comedy podcast, UK Podcasts, True Crime Comedy Podcast, UK true crime podcast, Midweek Murders",
           },
         ]}
       >

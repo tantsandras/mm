@@ -17,9 +17,10 @@ const Thumbnail = styled.div`
   top: 160px;
   left: 0px;
   height: 320px;
+  background-color: transparent;
   width: 260px;
   overflow: hidden;
-  padding-bottom: 1400px;
+  padding-bottom: 600px;
 `
 
 const Container = styled.div`

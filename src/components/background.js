@@ -27,9 +27,8 @@ const Title = styled.div`
   vertical-align: center;
   position: absolute;
   mix-blend-mode: multiply;
-  padding-left: 0.8em;
   top: 78.6%;
-  left: 19.4%;
+  left: 20%;
   text-transform: uppercase;
   line-height: 1;
 `

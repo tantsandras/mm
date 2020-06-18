@@ -1,6 +1,7 @@
 import React from "react"
 import styled, { keyframes } from "styled-components"
 import { LeftArrowCircle } from "@styled-icons/boxicons-regular"
+import AniLink from "gatsby-plugin-transition-link/AniLink"
 
 const fadeIn = keyframes`
 from {
@@ -73,14 +74,16 @@ const HeadLine = styled.h1`
   color: #fff;
   text-transform: uppercase;
   text-align: center;
-  animation: 2s ${fadeIn} forwards 0.5s;
+  z-index: 3;
 `
 
 const PageContainer = ({ id, header, children }) => (
   <Container id={id}>
-    <BackButton href="#home">
+    <BackButton>
+      <AniLink swipe top="entry" to="/">
       <LeftArrowCircle size="40" color="#D22D4C" />
       <Label>Home</Label>
+      </AniLink>
     </BackButton>
     <HexDiv>
       &#x2B22;

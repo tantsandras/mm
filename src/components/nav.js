@@ -5,8 +5,8 @@ import { MoneyPoundCircle } from "@styled-icons/remix-fill"
 import { Radio } from "@styled-icons/boxicons-solid"
 import { ShoppingCart } from "@styled-icons/evaicons-solid"
 import { Email } from "@styled-icons/entypo"
-import AniLink from "gatsby-plugin-transition-link/AniLink"
 import styled, { keyframes } from "styled-components"
+import AniLink from "gatsby-plugin-transition-link/AniLink"
 
 const fadeIn = keyframes`
 from {
@@ -67,32 +67,32 @@ const NavBar = () => (
   <>
     <Navigation>
       <StyledLink>
-        <AniLink swipe direction="right" to="/about" entryOffset={80}>
-          <MusicArtist size="24" color="#D22D4C" />
+        <AniLink swipe top="entry" to="about">
+                <MusicArtist size="24" color="#D22D4C" />
           <Label style={{ marginLeft: `18px` }}>About</Label>
         </AniLink>
       </StyledLink>
       <StyledLink>
-        <AniLink swipe direction="right" to="/episodes" entryOffset={80}>
+      <AniLink swipe top="entry" to="episodes">
           <Radio size="30" color="#D22D4C" />
           <Label>Listen</Label>
         </AniLink>
       </StyledLink>
       <StyledLink>
-        <AniLink swipe direction="right" to="/contact" entryOffset={80}>
-          <Email size="24" color="#D22D4C" />
+        <AniLink swipe top="entry" to="contact">
+                  <Email size="24" color="#D22D4C" />
           <Label style={{ marginLeft: `18px` }}>Contact</Label>
         </AniLink>
       </StyledLink>
       <StyledLink>
-        <AniLink swipe direction="right" to="/shop">
-          <ShoppingCart size="30" color="#D22D4C" />
+        <AniLink swipe top="entry" to="shop">
+             <ShoppingCart size="30" color="#D22D4C" />
           <Label>Merch</Label>
         </AniLink>
       </StyledLink>
       <StyledLink>
-        <AniLink swipe direction="right" to="/support" entryOffset={80}>
-          <MoneyPoundCircle size="30" color="#D22D4C" />
+<AniLink swipe top="entry" to="support">
+                  <MoneyPoundCircle size="30" color="#D22D4C" />
           <Label>Support</Label>
         </AniLink>
       </StyledLink>

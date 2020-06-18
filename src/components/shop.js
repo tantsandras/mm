@@ -18,8 +18,8 @@ const Thumbnail = styled.div`
   left: 0px;
   height: 320px;
   width: 260px;
-  overflow: hidden;
-  padding-bottom: 1400px;
+  background-color: transparent;
+  padding-bottom: 600px;
 `
 
 const Container = styled.div`
