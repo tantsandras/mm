@@ -100,6 +100,7 @@ const Description = styled.p`
   padding-top: 10px;
   font-size: 0.95rem;
   color: #1e1c3c;
+  font-family: Montserrat;
 `
 
 const Icons = styled.ul`

@@ -90,6 +90,7 @@ const Text = styled.p`
   color: #1e1c3c;
   font-size: 18px;
   text-align: left;
+  font-family: Montserrat;
 `
 
 export default About

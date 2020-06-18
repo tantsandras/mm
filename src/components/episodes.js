@@ -149,6 +149,7 @@ const Text = styled.span`
   color: #1e1c3c;
   font-size: 18px;
   text-align: left;
+  font-family: Montserrat;
 `
 
 const ListenIcon = styled.a`
@@ -228,6 +229,7 @@ const Description = styled.p`
   padding-top: 10px;
   font-size: 0.95rem;
   color: #1e1c3c;
+  font-family: Montserrat;
 `
 
 const Date = styled.h3`

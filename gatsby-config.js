@@ -29,6 +29,7 @@ module.exports = {
       },
     },
     `gatsby-plugin-netlify-cms`,
+    `gatsby-plugin-transition-link`,
     {
       resolve: "gatsby-plugin-web-font-loader",
       options: {

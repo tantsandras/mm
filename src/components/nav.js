@@ -1,4 +1,3 @@
-import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 import { MusicArtist } from "@styled-icons/zondicons"
@@ -6,60 +5,8 @@ import { MoneyPoundCircle } from "@styled-icons/remix-fill"
 import { Radio } from "@styled-icons/boxicons-solid"
 import { ShoppingCart } from "@styled-icons/evaicons-solid"
 import { Email } from "@styled-icons/entypo"
+import AniLink from "gatsby-plugin-transition-link/AniLink"
 import styled, { keyframes } from "styled-components"
-import About from "./about"
-import Episodes from "./episodes"
-import StyledBackground from "./background"
-import Contact from "./contact"
-import Shop from "./shop"
-import Support from "./support"
-import PageContainer from "./container"
-
-const NavBar = () => (
-  <>
-    <Navigation>
-      <StyledLink href="#about">
-        <MusicArtist size="24" color="#D22D4C" />
-        <Label style={{ marginLeft: `18px` }}>About</Label>
-      </StyledLink>
-      <StyledLink href="#episodes">
-        <Radio size="30" color="#D22D4C" />
-        <Label>Listen</Label>
-      </StyledLink>
-      <StyledLink href="#contact">
-        <Email size="24" color="#D22D4C" />
-        <Label style={{ marginLeft: `18px` }}>Contact</Label>
-      </StyledLink>
-      <StyledLink href="#merch">
-        <ShoppingCart size="30" color="#D22D4C" />
-        <Label>Merch</Label>
-      </StyledLink>
-      <StyledLink href="#support">
-        <MoneyPoundCircle size="30" color="#D22D4C" />
-        <Label>Support</Label>
-      </StyledLink>
-    </Navigation>
-
-    <Wrapper>
-      <StyledBackground id="home" />
-      <PageContainer id={"about"} header={"About"}>
-        <About />
-      </PageContainer>
-      <PageContainer id={"episodes"} header={"Episodes"}>
-        <Episodes />
-      </PageContainer>
-      <PageContainer id={"contact"} header={"Contact"}>
-        <Contact />
-      </PageContainer>
-      <PageContainer id={"merch"} header={"Merch"}>
-        <Shop />
-      </PageContainer>
-      <PageContainer id={"support"} header={"Support the show"}>
-        <Support />
-      </PageContainer>
-    </Wrapper>
-  </>
-)
 
 const fadeIn = keyframes`
 from {
@@ -89,14 +36,6 @@ const Label = styled.span`
   z-index: 2;
 `
 
-const Wrapper = styled.div`
-  background-color: #7a938f;
-  min-height: 100vh;
-  height: auto !important;
-  min-width: 100%;
-  font-family: Montserrat, sans-serif;
-  position: relative;
-`
 const Navigation = styled.nav`
   position: fixed;
   margin-right: 6px;
@@ -108,7 +47,7 @@ const Navigation = styled.nav`
   min-height: 100vh;
   background-color: #1e1c3c;
 `
-const StyledLink = styled.a`
+const StyledLink = styled.span`
   flex-direction: row;
   text-decoration: none;
   display: inline-block;
@@ -123,5 +62,42 @@ const StyledLink = styled.a`
     border-bottom: 1px solid #282d50;
   }
 `
+
+const NavBar = () => (
+  <>
+    <Navigation>
+      <StyledLink>
+        <AniLink swipe direction="right" to="/about" entryOffset={80}>
+          <MusicArtist size="24" color="#D22D4C" />
+          <Label style={{ marginLeft: `18px` }}>About</Label>
+        </AniLink>
+      </StyledLink>
+      <StyledLink>
+        <AniLink swipe direction="right" to="/episodes" entryOffset={80}>
+          <Radio size="30" color="#D22D4C" />
+          <Label>Listen</Label>
+        </AniLink>
+      </StyledLink>
+      <StyledLink>
+        <AniLink swipe direction="right" to="/contact" entryOffset={80}>
+          <Email size="24" color="#D22D4C" />
+          <Label style={{ marginLeft: `18px` }}>Contact</Label>
+        </AniLink>
+      </StyledLink>
+      <StyledLink>
+        <AniLink swipe direction="right" to="/shop">
+          <ShoppingCart size="30" color="#D22D4C" />
+          <Label>Merch</Label>
+        </AniLink>
+      </StyledLink>
+      <StyledLink>
+        <AniLink swipe direction="right" to="/support" entryOffset={80}>
+          <MoneyPoundCircle size="30" color="#D22D4C" />
+          <Label>Support</Label>
+        </AniLink>
+      </StyledLink>
+    </Navigation>
+  </>
+)
 
 export default NavBar

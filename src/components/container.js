@@ -47,7 +47,6 @@ const HexDiv = styled.span`
   text-align: center;
   color: #1e1c3c;
   font-size: 270px;
-  z-index: 50;
   margin-bottom: 80px;
   margin-top: 120px;
 `
@@ -55,28 +54,17 @@ const HexDiv = styled.span`
 const Container = styled.section`
   background-color: #7a938f;
   padding-top: 4%;
-  position: absolute;
-  top: 0;
   min-height: 100vh;
-  width: 0;
-  opacity: 0;
+  height: auto;
   transition: all ease-in 0.5s;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
-  &:target {
-    opacity: 1;
-    position: absolute;
-    left: 0;
-    width: 100%;
-    height: auto !important;
-    z-index: 2;
-  }
+  width: 100vw;
 `
 
 const HeadLine = styled.h1`
-  transform: translateY(-24px);
   border-bottom: 1px solid #fff;
   padding-bottom: 6px;
   font-family: Montserrat;
@@ -85,10 +73,7 @@ const HeadLine = styled.h1`
   color: #fff;
   text-transform: uppercase;
   text-align: center;
-  z-index: 50;
-  &:target {
-    animation: 2s ${fadeIn} forwards 0.5s;
-  }
+  animation: 2s ${fadeIn} forwards 0.5s;
 `
 
 const PageContainer = ({ id, header, children }) => (
