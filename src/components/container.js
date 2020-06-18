@@ -44,15 +44,14 @@ const BackButton = styled.a`
   }
 `
 
-const HexDiv = styled.span`
+const HexDiv = styled.div`
   text-align: center;
-  color: #1e1c3c;
+  color: #5F728C;
   font-size: 270px;
+  margin-top: 70px;
   margin-bottom: 80px;
-  margin-top: 120px;
-  z-index: 1;
+  
 `
-
 const Container = styled.section`
   padding-top: 4%;
   min-height: 100vh;
@@ -70,10 +69,11 @@ const HeadLine = styled.h1`
   font-family: Oswald;
   font-weight: 400;
   font-size: 1.8rem;
-  color: #fff;
   text-transform: uppercase;
   text-align: center;
-  z-index: 3;
+  color: #D22D4C;
+mix-blend-mode: multiply;
+ 
 `
 
 const PageContainer = ({ id, header, children }) => (
