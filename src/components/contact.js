@@ -67,6 +67,7 @@ const Thumbnail = styled.div`
   top: -20px;
   left: 80px;
   height: 200px;
+  display: block;
   width: 160px;
   overflow: hidden;
 `

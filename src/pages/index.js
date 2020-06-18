@@ -6,7 +6,7 @@ import styled, { keyframes } from "styled-components"
 import StyledBackground from "../components/background"
 
 const Wrapper = styled.div`
-  background-color: #7a938f;
+  background-color: #5F728C;
   min-height: 100vh;
   height: auto !important;
   min-width: 100vw;

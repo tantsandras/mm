@@ -53,7 +53,7 @@ const HexDiv = styled.span`
 `
 
 const Container = styled.section`
-  background-color: #7a938f;
+  background-color: #5F728C;
   padding-top: 4%;
   min-height: 100vh;
   height: auto;
