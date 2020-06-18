@@ -7,7 +7,7 @@ import StyledBackground from "../components/background"
 const Wrapper = styled.div`
   min-height: 100vh;
   height: auto !important;
-  padding-bottom: 16%;
+  padding-bottom: 200px;
   min-width: 100vw;
   font-family: Montserrat, sans-serif;
   position: relative;

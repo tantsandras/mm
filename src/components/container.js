@@ -80,7 +80,7 @@ const PageContainer = ({ id, header, children }) => (
   <Container id={id}>
     <BackButton>
       <AniLink swipe direction="left" to="/">
-      <LeftArrowCircle size="40" color="#441438" backgroundColor="#D22D4C" />
+      <LeftArrowCircle size="40" color="#441438" />
       <Label>Home</Label>
       </AniLink>
     </BackButton>

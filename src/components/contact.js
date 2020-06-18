@@ -86,7 +86,7 @@ const Container = styled.div`
   flex-flow: row wrap;
   justify-content: center;
   align-items: center;
-  padding-bottom: 16%;
+  padding-bottom: 200px;
 `
 const Description = styled.article`
   flex-basis: 60%;
