@@ -44,7 +44,10 @@ const Navigation = styled.nav`
   display: flex;
   justify-content: center;
   flex-direction: column;
-  min-height: 100vh;
+  min-height: 100%;
+  height: -moz-available;         
+  height: -webkit-fill-available; 
+  height: fill-available;
   background-color: #1e1c3c;
 `
 const StyledLink = styled.span`
@@ -67,31 +70,31 @@ const NavBar = () => (
   <>
     <Navigation>
       <StyledLink>
-        <AniLink swipe top="entry" to="about">
+        <AniLink swipe direction="right" to="about">
                 <MusicArtist size="24" color="#D22D4C" />
           <Label style={{ marginLeft: `18px` }}>About</Label>
         </AniLink>
       </StyledLink>
       <StyledLink>
-      <AniLink swipe top="entry" to="episodes">
+      <AniLink swipe direction="right" to="episodes">
           <Radio size="30" color="#D22D4C" />
           <Label>Listen</Label>
         </AniLink>
       </StyledLink>
       <StyledLink>
-        <AniLink swipe top="entry" to="contact">
+        <AniLink swipe direction="right" to="contact">
                   <Email size="24" color="#D22D4C" />
           <Label style={{ marginLeft: `18px` }}>Contact</Label>
         </AniLink>
       </StyledLink>
       <StyledLink>
-        <AniLink swipe top="entry" to="shop">
+        <AniLink swipe direction="right" to="shop">
              <ShoppingCart size="30" color="#D22D4C" />
           <Label>Merch</Label>
         </AniLink>
       </StyledLink>
       <StyledLink>
-<AniLink swipe top="entry" to="support">
+<AniLink swipe direction="right" to="support">
                   <MoneyPoundCircle size="30" color="#D22D4C" />
           <Label>Support</Label>
         </AniLink>

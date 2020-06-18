@@ -49,7 +49,7 @@ const Layout = ({ children }) => {
           },
         ]}
       >
-        <html lang="en" style={{ fontFamily: `Oswald, Montserrat` }} />
+        <html lang="en" style={{ fontFamily: `"Oswald", "Montserrat"` }} />
       </Helmet>
       <GlobalStyle />
       <NavBar />
@@ -61,7 +61,7 @@ const Layout = ({ children }) => {
 
 const MainContent = styled.main`
   min-height: 100vh;
-  background-color: #7a938f;
+  background-color: #5F728C;
 `
 
 Layout.propTypes = {

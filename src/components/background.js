@@ -34,6 +34,7 @@ const Title = styled.div`
 `
 const Card = styled.div`
   margin-top: 4%;
+  margin-bottom: 600px;
   position: relative;
   min-width: 320px;
   max-width: 40vw;
@@ -114,7 +115,7 @@ const Icon = styled.a`
   padding-left: 40px;
   text-decoration: none;
   cursor: pointer;
-  color: #7a938f;
+  color: #5F728C;
   &:hover {
     color: #282d50;
   }

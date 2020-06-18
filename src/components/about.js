@@ -48,6 +48,7 @@ const Container = styled.div`
   flex-flow: row wrap;
   justify-content: center;
   align-items: center;
+  padding-bottom: 16%;
 `
 const Description = styled.article`
   flex-basis: 60%;

@@ -22,7 +22,7 @@ const Label = styled.span`
   opacity: 0;
   transition: all 0.1s ease-in;
   font-family: Oswald;
-  color: #282d50;
+  color: #1e1c3c;
   font-size: 1rem;
   margin-left: 12px;
   margin-top: 6px;
@@ -50,6 +50,7 @@ const HexDiv = styled.span`
   font-size: 270px;
   margin-bottom: 80px;
   margin-top: 120px;
+  z-index: 1;
 `
 
 const Container = styled.section`
@@ -68,7 +69,7 @@ const Container = styled.section`
 const HeadLine = styled.h1`
   border-bottom: 1px solid #fff;
   padding-bottom: 6px;
-  font-family: Montserrat;
+  font-family: Oswald;
   font-weight: 400;
   font-size: 1.4rem;
   color: #fff;
@@ -80,8 +81,8 @@ const HeadLine = styled.h1`
 const PageContainer = ({ id, header, children }) => (
   <Container id={id}>
     <BackButton>
-      <AniLink swipe top="entry" to="/">
-      <LeftArrowCircle size="40" color="#D22D4C" />
+      <AniLink swipe direction="left" to="/">
+      <LeftArrowCircle size="40" color="#441438" />
       <Label>Home</Label>
       </AniLink>
     </BackButton>

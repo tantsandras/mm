@@ -77,7 +77,7 @@ const Container = styled.div`
   flex-flow: row wrap;
   justify-content: center;
   align-items: center;
-  padding-bottom: 800px;
+  padding-bottom: 16%;
 `
 const Description = styled.article`
   flex-basis: 60%;
@@ -103,9 +103,9 @@ const Slogan = styled.h3`
 const SocialLink = styled.a`
   text-decoration: none;
   cursor: pointer;
-  color: #d22d4c;
+  color: #441438;
   &:hover {
-    color: #282d50;
+    color: #D22D4C;
   }
 `
 const Text = styled.p`

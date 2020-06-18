@@ -1,6 +1,4 @@
 import React from "react"
-import PropTypes from "prop-types"
-import { useStaticQuery, graphql } from "gatsby"
 import styled, { keyframes } from "styled-components"
 
 const Footer = () => (
@@ -23,7 +21,7 @@ const Container = styled.footer`
 const Credit = styled.p`
   flex-basis: 100%;
   align-self: flex-end;
-  color: #7a938f;
+  color: #5F728C;
   font-family: Oswald;
   padding-left: 80px;
 `

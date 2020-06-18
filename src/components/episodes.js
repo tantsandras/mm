@@ -49,7 +49,6 @@ const Episodes = () => (
                 transform: `translateY(28px)`,
                 width: `28px`,
                 height: `28px`,
-                tintColor: `#7a938f`,
               }}
             />
             <p style={{ transform: `translateX(-18px)` }}>Stitcher</p>
@@ -120,6 +119,7 @@ const Container = styled.div`
   flex-flow: row wrap;
   justify-content: center;
   align-items: center;
+  padding-bottom: 16%;
 `
 const Intro = styled.article`
   flex-basis: 60%;
@@ -158,9 +158,9 @@ const ListenIcon = styled.a`
   padding-right: 40px;
   text-decoration: none;
   cursor: pointer;
-  color: #d22d4c;
+  color: #441438;
   &:hover {
-    color: #282d50;
+    color: #D22D4C;
   }
 `
 const Card = styled.div`
@@ -236,7 +236,7 @@ const Date = styled.h3`
   font-family: Oswald;
   z-index: 6;
   font-size: 3.4rem;
-  color: #7a938f;
+  color: #5F728C;
   border-bottom: 1px #7a938f solid;
   padding-bottom: 6px;
 `
@@ -247,7 +247,7 @@ const Month = styled.h4`
   font-weight: 400;
   z-index: 6;
   font-size: 1.2rem;
-  color: #7a938f;
+  color: #5F728C;
   transform: translateY(-20px);
 `
 
@@ -263,7 +263,7 @@ const Icon = styled.a`
   padding-left: 40px;
   text-decoration: none;
   cursor: pointer;
-  color: #7a938f;
+  color: #5F728C;
   &:hover {
     color: #282d50;
   }
