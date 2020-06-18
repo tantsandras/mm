@@ -9,7 +9,7 @@ const About = () => (
     <Container>
       <Description>
         <Name>Midweek Murders</Name>
-        <Slogan>Another true crime comedy podcast</Slogan>
+        <Slogan>A true crime comedy podcast</Slogan>
         <Text>
           Based in the UK, new episodes every Wednesday. Midweek Murders is a
           fully independent podcast. Created, produced and edited by the hosts.
@@ -82,14 +82,14 @@ const Name = styled.h2`
 const Slogan = styled.h3`
   color: #1e1c3c;
   margin-top: -20px;
-  font-size: 18px;
+  font-size: 1rem;
   font-family: Montserrat;
   font-weight: 400;
   text-transform: uppercase;
 `
 const Text = styled.p`
   color: #1e1c3c;
-  font-size: 18px;
+  font-size: 1rem;
   text-align: left;
   font-family: Montserrat;
 `

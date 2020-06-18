@@ -67,11 +67,10 @@ const Container = styled.section`
 `
 
 const HeadLine = styled.h1`
-  border-bottom: 1px solid #fff;
   padding-bottom: 6px;
   font-family: Oswald;
   font-weight: 400;
-  font-size: 1.4rem;
+  font-size: 1.8rem;
   color: #fff;
   text-transform: uppercase;
   text-align: center;

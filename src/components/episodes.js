@@ -16,7 +16,7 @@ const Episodes = () => (
   <Container>
     <Intro>
       <Name>Midweek Murders</Name>
-      <Slogan>Another true crime comedy podcast</Slogan>
+      <Slogan>A true crime comedy podcast</Slogan>
 
       <Text>
         If you like what you hear, please rate, reveiw and subscribe (preferably
@@ -139,7 +139,7 @@ const Name = styled.h2`
 const Slogan = styled.h3`
   color: #1e1c3c;
   margin-top: -20px;
-  font-size: 18px;
+  font-size: 1rem;
   font-family: Montserrat;
   font-weight: 400;
   text-transform: uppercase;
@@ -147,7 +147,7 @@ const Slogan = styled.h3`
 const Text = styled.span`
   flex-direction: row;
   color: #1e1c3c;
-  font-size: 18px;
+  font-size: 1rem;
   text-align: left;
   font-family: Montserrat;
 `
