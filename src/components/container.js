@@ -46,11 +46,10 @@ const BackButton = styled.a`
 
 const HexDiv = styled.div`
   text-align: center;
-  color: #5F728C;
+  color: #5f728c;
   font-size: 270px;
   margin-top: 70px;
   margin-bottom: 80px;
-  
 `
 const Container = styled.section`
   padding-top: 4%;
@@ -71,17 +70,17 @@ const HeadLine = styled.h1`
   font-size: 1.8rem;
   text-transform: uppercase;
   text-align: center;
-  color: #D22D4C;
-mix-blend-mode: multiply;
- 
+  color: #d22d4c;
+  transform: translateY(20px);
+  mix-blend-mode: multiply;
 `
 
 const PageContainer = ({ id, header, children }) => (
   <Container id={id}>
     <BackButton>
       <AniLink swipe direction="left" to="/">
-      <LeftArrowCircle size="40" color="#441438" />
-      <Label>Home</Label>
+        <LeftArrowCircle size="40" color="#441438" />
+        <Label>Home</Label>
       </AniLink>
     </BackButton>
     <HexDiv>
