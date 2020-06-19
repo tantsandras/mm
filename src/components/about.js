@@ -28,12 +28,11 @@ const About = () => (
             style={{
               position: `absolute`,
               top: `0`,
-              left: `90px`,
-              marginBottom: `60px`,
+              left: `85px`,
             }}
           />
         </ProfileAvatar>
-        <Name>Joe</Name>
+        <Name style={{ marginTop: `40px` }}>Joe</Name>
         <Slogan>#notadoctor </Slogan>
         <Text>
           Joe is a grumpy old man kind of guy despite not being especially old.
@@ -50,12 +49,11 @@ const About = () => (
             style={{
               position: `absolute`,
               top: `0`,
-              left: `90px`,
-              marginBottom: `60px`,
+              left: `85px`,
             }}
           />
         </ProfileAvatar>
-        <Name>Sandra</Name>
+        <Name style={{ marginTop: `40px` }}>Sandra</Name>
         <Slogan>Cats and carbs</Slogan>
         <Text>
           Sandra is a more insane version of Joe, with a lot more technical
@@ -83,7 +81,7 @@ const ProfileAvatar = styled.div`
   align-items: center;
   justify-content: center;
   text-align: center;
-  font-size: 170px;
+  font-size: 200px;
   color: #5f728c;
   mix-blend-mode: multiply;
   position: relative;
