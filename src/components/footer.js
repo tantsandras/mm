@@ -45,6 +45,7 @@ const Footer = () => (
           <p style={{ transform: `translateX(-18px)` }}>Stitcher</p>
         </ListenIcon>
       </ul>
+      Contact: midweekmurders@gmail.com
     </ListenBox>
     <Credit>
       © {new Date().getFullYear()}, Design and code by Sandra Grahl
@@ -63,7 +64,7 @@ const Container = styled.footer`
   background-color: #1e1c3c;
   display: flex;
   flex-flow: row wrap;
-  min-height: 600px;
+  min-height: 400px;
   margin-top: 80px;
   width: 100vw;
 `
@@ -72,6 +73,7 @@ flex-basis: 100%
 align-self: center;
 text-align: left;
 margin-left: 16%;
+margin-top: 10%;
 font-family: Montserrat;
 `
 
