@@ -25,7 +25,7 @@ const About = () => (
           <UserMd
             size="60"
             color="#5f728c"
-            style={{ position: `absolute`, top: `0px`, left: `0px` }}
+            style={{ transform: `translate(-60, -60)` }}
           />
         </ProfileAvatar>
         <Name>Joe</Name>
@@ -42,7 +42,7 @@ const About = () => (
           <UserAstronaut
             size="60"
             color="#5f728c"
-            style={{ position: `absolute`, top: `0px`, left: `0px` }}
+            style={{ transform: `translate(-60, -60)` }}
           />
         </ProfileAvatar>
         <Name>Sandra</Name>
