@@ -28,8 +28,8 @@ const About = () => (
             style={{
               position: `absolute`,
               top: `0`,
-              left: `80px`,
-              marginBottom: `20px`,
+              left: `90px`,
+              marginBottom: `60px`,
             }}
           />
         </ProfileAvatar>
@@ -50,8 +50,8 @@ const About = () => (
             style={{
               position: `absolute`,
               top: `0`,
-              left: `80px`,
-              marginBottom: `20px`,
+              left: `90px`,
+              marginBottom: `60px`,
             }}
           />
         </ProfileAvatar>
