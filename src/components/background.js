@@ -24,11 +24,9 @@ const Title = styled.div`
   font-family: Oswald;
   width: 100%;
   text-align: left;
-  vertical-align: center;
   position: absolute;
   mix-blend-mode: multiply;
-  top: 78.6%;
-  left: 22%;
+  aling-self: flex-start;
   text-transform: uppercase;
   line-height: 1;
 `
