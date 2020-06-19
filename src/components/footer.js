@@ -79,13 +79,14 @@ font-family: Montserrat;
 `
 
 const Credit = styled.p`
+  margin-right: 16%;
+  margin-bottom: 10%;
   text-align: right;
   flex-basis: 100%;
   align-self: flex-end;
   color: #9dbce7;
   font-family: Oswald;
   font-weight: 400;
-  padding-left: 80px;
 `
 const ListenIcon = styled.a`
   display: inline-block;
