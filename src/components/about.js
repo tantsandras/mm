@@ -25,7 +25,7 @@ const About = () => (
           <UserMd
             size="60"
             color="#5f728c"
-            style={{ position: `absolute`, top: `-60px`, left: `-60px` }}
+            style={{ position: `absolute`, top: `0px`, left: `0px` }}
           />
         </ProfileAvatar>
         <Name>Joe</Name>
@@ -42,7 +42,7 @@ const About = () => (
           <UserAstronaut
             size="60"
             color="#5f728c"
-            style={{ position: `absolute`, top: `-60px`, left: `-60px` }}
+            style={{ position: `absolute`, top: `0px`, left: `0px` }}
           />
         </ProfileAvatar>
         <Name>Sandra</Name>
@@ -76,7 +76,6 @@ const ProfileAvatar = styled.div`
   font-size: 170px;
   color: #d22d4c;
   mix-blend-mode: multiply;
-  transform: translateX(60px);
 `
 
 const Card = styled.div`
