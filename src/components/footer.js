@@ -45,10 +45,10 @@ const Footer = () => (
           <p style={{ transform: `translateX(-18px)` }}>Stitcher</p>
         </ListenIcon>
       </ul>
-      Contact: midweekmurders@gmail.com
     </ListenBox>
     <Credit>
-      © {new Date().getFullYear()}, Design and code by Sandra Grahl
+      Contact: midweekmurders@gmail.com <br /> © {new Date().getFullYear()},
+      Design and code by Sandra Grahl
     </Credit>
   </Container>
 )
@@ -79,6 +79,7 @@ font-family: Montserrat;
 `
 
 const Credit = styled.p`
+  text-align: right;
   flex-basis: 100%;
   align-self: flex-end;
   color: #9dbce7;
