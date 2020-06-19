@@ -24,8 +24,8 @@ const About = () => (
           &#x2B22;
           <UserMd
             size="60"
-            color="#5f728c"
-            style={{ transform: `translate(-60px, -60px)` }}
+            color="#282d50"
+            style={{ position: `absolute`, top: `0`, left: `0` }}
           />
         </ProfileAvatar>
         <Name>Joe</Name>
@@ -41,8 +41,8 @@ const About = () => (
           &#x2B22;
           <UserAstronaut
             size="60"
-            color="#5f728c"
-            style={{ transform: `translate(-60px, -60px)` }}
+            color="#282d50"
+            style={{ position: `absolute`, top: `0`, left: `0` }}
           />
         </ProfileAvatar>
         <Name>Sandra</Name>
@@ -74,8 +74,9 @@ const ProfileAvatar = styled.div`
   justify-content: center;
   text-align: center;
   font-size: 170px;
-  color: #d22d4c;
-  mix-blend-mode: multiply;
+  color: #5f728c;
+
+  position: relative;
 `
 
 const Card = styled.div`
