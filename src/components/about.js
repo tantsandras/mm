@@ -22,7 +22,11 @@ const About = () => (
       <Card>
         <ProfileAvatar>
           &#x2B22;
-          <UserMd size="60" color="#282D50" />
+          <UserMd
+            size="60"
+            color="#282D50"
+            style={{ psoition: `absolute`, top: `0px`, left: `0px` }}
+          />
         </ProfileAvatar>
         <Name>Joe</Name>
         <Slogan>#notadoctor </Slogan>
@@ -93,7 +97,7 @@ const Name = styled.h2`
   padding-top: 12px;
   padding-bottom: 6px;
   color: #282d50;
-  font-weight: 400;
+  font-weight: 500;
 `
 
 const Slogan = styled.h3`
