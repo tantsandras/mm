@@ -75,7 +75,7 @@ const NavBar = () => (
           direction="right"
           to="about"
           style={{ color: `#d22d4c` }}
-          activeStyle={{ color: `#5F728CB3` }}
+          activeStyle={{ color: `#9DBCE7` }}
         >
           <MusicArtist size="24" />
           <Label style={{ marginLeft: `18px` }}>About</Label>
@@ -84,7 +84,7 @@ const NavBar = () => (
       <StyledLink>
         <AniLink
           style={{ color: `#d22d4c` }}
-          activeStyle={{ color: `#5F728CB3` }}
+          activeStyle={{ color: `#9DBCE7` }}
           swipe
           direction="right"
           to="episodes"
@@ -96,7 +96,7 @@ const NavBar = () => (
       <StyledLink>
         <AniLink
           style={{ color: `#d22d4c` }}
-          activeStyle={{ color: `#5F728CB3` }}
+          activeStyle={{ color: `#9DBCE7` }}
           swipe
           direction="right"
           to="contact"
@@ -108,7 +108,7 @@ const NavBar = () => (
       <StyledLink>
         <AniLink
           style={{ color: `#d22d4c` }}
-          activeStyle={{ color: `#5F728CB3` }}
+          activeStyle={{ color: `#9DBCE7` }}
           swipe
           direction="right"
           to="shop"
@@ -120,7 +120,7 @@ const NavBar = () => (
       <StyledLink>
         <AniLink
           style={{ color: `#d22d4c` }}
-          activeStyle={{ color: `#5F728CB3` }}
+          activeStyle={{ color: `#9DBCE7` }}
           swipe
           direction="right"
           to="support"
