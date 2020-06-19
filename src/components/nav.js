@@ -45,8 +45,8 @@ const Navigation = styled.nav`
   justify-content: center;
   flex-direction: column;
   min-height: 100%;
-  height: -moz-available;         
-  height: -webkit-fill-available; 
+  height: -moz-available;
+  height: -webkit-fill-available;
   height: fill-available;
   background-color: #1e1c3c;
 `
@@ -59,6 +59,7 @@ const StyledLink = styled.span`
   margin-bottom: 30px;
   padding: 6px;
   text-align: center;
+  color: #d22d4c;
   &:hover ${Label} {
     max-width: 80px;
     animation: 0.2s ${fadeIn} forwards 0.2s;
@@ -70,32 +71,37 @@ const NavBar = () => (
   <>
     <Navigation>
       <StyledLink>
-        <AniLink swipe direction="right" to="about">
-                <MusicArtist size="24" color="#D22D4C" />
+        <AniLink
+          swipe
+          direction="right"
+          to="about"
+          activeStyle={{ color: `#5F728C` }}
+        >
+          <MusicArtist size="24" />
           <Label style={{ marginLeft: `18px` }}>About</Label>
         </AniLink>
       </StyledLink>
       <StyledLink>
-      <AniLink swipe direction="right" to="episodes">
+        <AniLink swipe direction="right" to="episodes">
           <Radio size="30" color="#D22D4C" />
           <Label>Listen</Label>
         </AniLink>
       </StyledLink>
       <StyledLink>
         <AniLink swipe direction="right" to="contact">
-                  <Email size="24" color="#D22D4C" />
+          <Email size="24" color="#D22D4C" />
           <Label style={{ marginLeft: `18px` }}>Contact</Label>
         </AniLink>
       </StyledLink>
       <StyledLink>
         <AniLink swipe direction="right" to="shop">
-             <ShoppingCart size="30" color="#D22D4C" />
+          <ShoppingCart size="30" color="#D22D4C" />
           <Label>Merch</Label>
         </AniLink>
       </StyledLink>
       <StyledLink>
-<AniLink swipe direction="right" to="support">
-                  <MoneyPoundCircle size="30" color="#D22D4C" />
+        <AniLink swipe direction="right" to="support">
+          <MoneyPoundCircle size="30" color="#D22D4C" />
           <Label>Support</Label>
         </AniLink>
       </StyledLink>

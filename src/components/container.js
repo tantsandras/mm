@@ -71,7 +71,7 @@ const HeadLine = styled.h1`
   text-transform: uppercase;
   text-align: center;
   color: #d22d4c;
-  transform: translateY(10px);
+  transform: translateY(6px);
   mix-blend-mode: multiply;
 `
 
