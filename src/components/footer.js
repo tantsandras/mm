@@ -18,7 +18,7 @@ const Footer = () => (
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Podcast size="30" background="transparent" />
+          <Podcast size="24" background="transparent" />
           <p style={{ transform: `translateX(-12px)` }}>Itunes</p>
         </ListenIcon>
         <ListenIcon
@@ -26,7 +26,7 @@ const Footer = () => (
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Spotify size="30" />
+          <Spotify size="24" />
           <p style={{ transform: `translateX(-14px)` }}>Spotify</p>
         </ListenIcon>
         <ListenIcon
@@ -38,8 +38,8 @@ const Footer = () => (
             src={Stitcher}
             style={{
               transform: `translateY(28px)`,
-              width: `28px`,
-              height: `28px`,
+              width: `22px`,
+              height: `22px`,
             }}
           />
           <p style={{ transform: `translateX(-18px)` }}>Stitcher</p>
@@ -55,7 +55,7 @@ const Footer = () => (
 
 const Text = styled.p`
   color: #9dbce7;
-  font-size: 1rem;
+  font-size: 0.95rem;
   text-align: left;
   font-family: Montserrat;
 `
