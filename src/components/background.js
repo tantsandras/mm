@@ -28,7 +28,7 @@ const Title = styled.div`
   position: absolute;
   mix-blend-mode: multiply;
   top: 78.6%;
-  left: 21%;
+  left: 22%;
   text-transform: uppercase;
   line-height: 1;
 `
@@ -115,7 +115,7 @@ const Icon = styled.a`
   padding-left: 40px;
   text-decoration: none;
   cursor: pointer;
-  color: #5F728CCC;
+  color: #5f728ccc;
   &:hover {
     color: #282d50;
   }
