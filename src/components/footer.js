@@ -27,7 +27,7 @@ const Footer = () => (
           rel="noopener noreferrer"
         >
           <Spotify size="24" />
-          <p style={{ transform: `translateX(-14px)` }}>Spotify</p>
+          <p style={{ transform: `translateX(-16px)` }}>Spotify</p>
         </ListenIcon>
         <ListenIcon
           href="https://www.stitcher.com/podcast/midweek-murders"
@@ -87,6 +87,7 @@ const Credit = styled.p`
   color: #9dbce7;
   font-family: Oswald;
   font-weight: 400;
+  line-height: 2;
 `
 const ListenIcon = styled.a`
   display: inline-block;

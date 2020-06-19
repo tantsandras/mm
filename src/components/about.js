@@ -20,7 +20,10 @@ const About = () => (
         <Slogan>Sandra & Joe</Slogan>
       </Description>
       <Card>
-        <UserMd size="60" color="#282D50" />
+        <ProfileAvatar>
+          &#x2B22;
+          <UserMd size="60" color="#282D50" />
+        </ProfileAvatar>
         <Name>Joe</Name>
         <Slogan>#notadoctor </Slogan>
         <Text>
@@ -30,7 +33,10 @@ const About = () => (
         </Text>
       </Card>
       <Card>
-        <UserAstronaut size="60" color="#282D50" />
+        <ProfileAvatar>
+          &#x2B22;
+          <UserAstronaut size="60" color="#282D50" />
+        </ProfileAvatar>
         <Name>Sandra</Name>
         <Slogan>Cats and carbs</Slogan>
         <Text>
@@ -55,12 +61,20 @@ const Description = styled.article`
   margin: 4% 16%;
 `
 
+const ProfileAvatar = styled.div`
+  text-align: center;
+  font-size: 170px;
+  color: #d22d4c;
+  mix-blend-mode: multiply;
+`
+
 const Card = styled.div`
   flex-direction: column;
   justify-content: space-evenly;
   text-align: center;
   align-items: center;
   width: 300px;
+  height: 600px;
   padding: 2rem;
   margin: 2rem 2rem 6rem 2rem;
   background-color: #fff;
