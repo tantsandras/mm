@@ -18,7 +18,7 @@ import { createGlobalStyle } from "styled-components"
 const GlobalStyle = createGlobalStyle`
   body {
     font-family: Oswald, Montserrat;
-    background-color: #5F728CCC;
+    background-color: #5F728CB3;
   }
 `
 
