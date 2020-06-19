@@ -59,7 +59,6 @@ const StyledLink = styled.span`
   margin-bottom: 30px;
   padding: 6px;
   text-align: center;
-  color: #d22d4c;
   &:hover ${Label} {
     max-width: 80px;
     animation: 0.2s ${fadeIn} forwards 0.2s;
@@ -75,6 +74,7 @@ const NavBar = () => (
           swipe
           direction="right"
           to="about"
+          style={{ color: `#d22d4c` }}
           activeStyle={{ color: `#5F728C` }}
         >
           <MusicArtist size="24" />
