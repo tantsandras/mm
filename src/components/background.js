@@ -36,7 +36,7 @@ const Card = styled.div`
   margin-top: 4%;
   margin-bottom: 600px;
   position: relative;
-  min-width: 320px;
+  min-width: 300px;
   max-width: 40vw;
   margin: 0 auto;
   height: auto;

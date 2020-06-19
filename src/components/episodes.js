@@ -170,7 +170,7 @@ const ListenIcon = styled.a`
 const Card = styled.div`
   margin-top: 4%;
   position: relative;
-  min-width: 320px;
+  min-width: 300px;
   max-width: 40vw;
   margin: 0 auto;
   height: auto;
