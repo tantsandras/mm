@@ -24,7 +24,6 @@ const Title = styled.div`
   font-family: Oswald;
   width: 100%;
   text-align: left;
-  position: absolute;
   mix-blend-mode: multiply;
   align-self: flex-end;
   text-transform: uppercase;
