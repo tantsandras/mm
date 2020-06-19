@@ -26,7 +26,11 @@ const Episodes = () => (
             marginTop: `20px`,
           }}
         >
-          <ListenIcon>
+          <ListenIcon
+            href="https://podcasts.apple.com/gb/podcast/midweek-murders/id1518983516"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <Podcast size="30" background="transparent" />
             <p style={{ transform: `translateX(-12px)` }}>Itunes</p>
           </ListenIcon>
@@ -160,7 +164,7 @@ const ListenIcon = styled.a`
   cursor: pointer;
   color: #441438;
   &:hover {
-    color: #D22D4C;
+    color: #d22d4c;
   }
 `
 const Card = styled.div`
@@ -236,7 +240,7 @@ const Date = styled.h3`
   font-family: Oswald;
   z-index: 6;
   font-size: 3.4rem;
-  color: #5F728CCC;
+  color: #5f728ccc;
   border-bottom: 1px #7a938f solid;
   padding-bottom: 6px;
 `
@@ -247,7 +251,7 @@ const Month = styled.h4`
   font-weight: 400;
   z-index: 6;
   font-size: 1.2rem;
-  color: #5F728CCC;
+  color: #5f728ccc;
   transform: translateY(-20px);
 `
 
@@ -263,7 +267,7 @@ const Icon = styled.a`
   padding-left: 40px;
   text-decoration: none;
   cursor: pointer;
-  color: #5F728CCC;
+  color: #5f728ccc;
   &:hover {
     color: #282d50;
   }
