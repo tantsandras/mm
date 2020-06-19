@@ -6,9 +6,6 @@ import Stitcher from "../images/output-onlinepngtools (2).png"
 
 const Footer = () => (
   <Container>
-    <Credit>
-      © {new Date().getFullYear()}, Design and code by Sandra Grahl
-    </Credit>
     <ListenBox>
       <Text>Listen here, or on:</Text>
       <ul
@@ -49,6 +46,9 @@ const Footer = () => (
         </ListenIcon>
       </ul>
     </ListenBox>
+    <Credit>
+      © {new Date().getFullYear()}, Design and code by Sandra Grahl
+    </Credit>
   </Container>
 )
 
@@ -71,6 +71,8 @@ const ListenBox = styled.article`
 flex-basis: 100%
 align-self: center;
 text-align: left;
+margin-left: 16%;
+font-family: Montserrat;
 `
 
 const Credit = styled.p`
