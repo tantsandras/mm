@@ -75,33 +75,57 @@ const NavBar = () => (
           direction="right"
           to="about"
           style={{ color: `#d22d4c` }}
-          activeStyle={{ color: `#5F728C` }}
+          activeStyle={{ color: `#5F728CB3` }}
         >
           <MusicArtist size="24" />
           <Label style={{ marginLeft: `18px` }}>About</Label>
         </AniLink>
       </StyledLink>
       <StyledLink>
-        <AniLink swipe direction="right" to="episodes">
-          <Radio size="30" color="#D22D4C" />
+        <AniLink
+          style={{ color: `#d22d4c` }}
+          activeStyle={{ color: `#5F728CB3` }}
+          swipe
+          direction="right"
+          to="episodes"
+        >
+          <Radio size="30" />
           <Label>Listen</Label>
         </AniLink>
       </StyledLink>
       <StyledLink>
-        <AniLink swipe direction="right" to="contact">
-          <Email size="24" color="#D22D4C" />
+        <AniLink
+          style={{ color: `#d22d4c` }}
+          activeStyle={{ color: `#5F728CB3` }}
+          swipe
+          direction="right"
+          to="contact"
+        >
+          <Email size="24" />
           <Label style={{ marginLeft: `18px` }}>Contact</Label>
         </AniLink>
       </StyledLink>
       <StyledLink>
-        <AniLink swipe direction="right" to="shop">
-          <ShoppingCart size="30" color="#D22D4C" />
+        <AniLink
+          style={{ color: `#d22d4c` }}
+          activeStyle={{ color: `#5F728CB3` }}
+          swipe
+          direction="right"
+          to="shop"
+        >
+          <ShoppingCart size="30" />
           <Label>Merch</Label>
         </AniLink>
       </StyledLink>
       <StyledLink>
-        <AniLink swipe direction="right" to="support">
-          <MoneyPoundCircle size="30" color="#D22D4C" />
+        <AniLink
+          style={{ color: `#d22d4c` }}
+          activeStyle={{ color: `#5F728CB3` }}
+          swipe
+          direction="right"
+          to="support"
+        >
+          <MoneyPoundCircle size="30" />
           <Label>Support</Label>
         </AniLink>
       </StyledLink>
