@@ -81,8 +81,8 @@ const ProfileAvatar = styled.div`
   align-items: center;
   justify-content: center;
   text-align: center;
-  font-size: 200px;
-  color: #5f728c;
+  font-size: 230px;
+  color: #5f728cb3;
   mix-blend-mode: multiply;
   position: relative;
 `
