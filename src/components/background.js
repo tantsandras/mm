@@ -23,9 +23,10 @@ const Title = styled.div`
   font-size: 4rem;
   font-family: Oswald;
   width: 100%;
-  text-align: left;
   mix-blend-mode: multiply;
-  align-self: flex-end;
+  position: absolute;
+  left: 22%;
+  top: 78%;
   text-transform: uppercase;
   line-height: 1;
 `

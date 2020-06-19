@@ -21,8 +21,9 @@ const Container = styled.footer`
 const Credit = styled.p`
   flex-basis: 100%;
   align-self: flex-end;
-  color: #5F728C;
+  color: #5f728c;
   font-family: Oswald;
+  font-weight: 400;
   padding-left: 80px;
 `
 
