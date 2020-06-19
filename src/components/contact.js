@@ -98,7 +98,7 @@ const Name = styled.h2`
   text-transform: uppercase;
   border-bottom: 1px solid #282d50;
   padding-top: 12px;
-  font-weight: 400;
+  font-weight: 500;
   padding-bottom: 6px;
   color: #282d50;
 `

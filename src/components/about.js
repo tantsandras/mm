@@ -24,8 +24,8 @@ const About = () => (
           &#x2B22;
           <UserMd
             size="60"
-            color="#282D50"
-            style={{ psoition: `absolute`, top: `0px`, left: `0px` }}
+            color="#5f728c"
+            style={{ psoition: `absolute`, top: `-60px`, left: `-60px` }}
           />
         </ProfileAvatar>
         <Name>Joe</Name>
@@ -39,7 +39,11 @@ const About = () => (
       <Card>
         <ProfileAvatar>
           &#x2B22;
-          <UserAstronaut size="60" color="#282D50" />
+          <UserAstronaut
+            size="60"
+            color="#5f728c"
+            style={{ psoition: `absolute`, top: `-60px`, left: `-60px` }}
+          />
         </ProfileAvatar>
         <Name>Sandra</Name>
         <Slogan>Cats and carbs</Slogan>
