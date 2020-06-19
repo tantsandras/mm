@@ -33,7 +33,7 @@ const Contact = () => (
             rel="noopener noreferrer"
           >
             <TwitterWithCircle
-              size="34"
+              size="30"
               style={{ marginBottom: `4px`, marginRight: `8px` }}
             />
           </SocialLink>
@@ -50,7 +50,7 @@ const Contact = () => (
             rel="noopener noreferrer"
           >
             <InstagramWithCircle
-              size="34"
+              size="30"
               style={{ marginBottom: `4px`, marginRight: `8px` }}
             />
           </SocialLink>
