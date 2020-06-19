@@ -65,6 +65,7 @@ const Container = styled.footer`
   display: flex;
   flex-flow: row wrap;
   min-height: 400px;
+  height: auto;
   margin-top: 80px;
   width: 100vw;
 `
