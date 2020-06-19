@@ -98,6 +98,7 @@ const Name = styled.h2`
   text-transform: uppercase;
   border-bottom: 1px solid #282d50;
   padding-top: 12px;
+  font-weight: 400;
   padding-bottom: 6px;
   color: #282d50;
 `
@@ -114,7 +115,7 @@ const SocialLink = styled.a`
   cursor: pointer;
   color: #441438;
   &:hover {
-    color: #D22D4C;
+    color: #d22d4c;
   }
 `
 const Text = styled.p`

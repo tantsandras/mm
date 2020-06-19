@@ -77,6 +77,7 @@ const Name = styled.h2`
   padding-top: 12px;
   padding-bottom: 6px;
   color: #282d50;
+  font-weight: 400;
 `
 
 const Slogan = styled.h3`

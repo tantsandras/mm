@@ -26,7 +26,7 @@ const Title = styled.div`
   text-align: left;
   position: absolute;
   mix-blend-mode: multiply;
-  aling-self: flex-start;
+  align-self: flex-end;
   text-transform: uppercase;
   line-height: 1;
 `
@@ -87,6 +87,7 @@ const TextContainer = styled.div`
 const PodTitle = styled.h2`
   font-family: Oswald;
   font-size: 2.6rem;
+  font-weight: 400;
   text-transform: uppercase;
   border-bottom: 1px solid #282d50;
   padding-bottom: 6px;
