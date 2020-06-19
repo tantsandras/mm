@@ -62,6 +62,8 @@ const Description = styled.article`
 `
 
 const ProfileAvatar = styled.div`
+  align-items: center;
+  justify-content: center;
   text-align: center;
   font-size: 170px;
   color: #d22d4c;

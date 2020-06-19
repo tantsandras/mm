@@ -8,18 +8,14 @@ const Footer = () => (
   <Container>
     <ListenBox>
       <Text>Listen here, or on:</Text>
-      <ul
-        style={{
-          marginTop: `20px`,
-        }}
-      >
+      <ul>
         <ListenIcon
           href="https://podcasts.apple.com/gb/podcast/midweek-murders/id1518983516"
           target="_blank"
           rel="noopener noreferrer"
         >
           <Podcast size="24" background="transparent" />
-          <p style={{ transform: `translateX(-12px)` }}>Itunes</p>
+          <Text style={{ transform: `translateX(-12px)` }}>Itunes</Text>
         </ListenIcon>
         <ListenIcon
           href="https://open.spotify.com/show/0R3YUEiCHBH1nUonVXTzIZ"
@@ -27,7 +23,7 @@ const Footer = () => (
           rel="noopener noreferrer"
         >
           <Spotify size="24" />
-          <p style={{ transform: `translateX(-16px)` }}>Spotify</p>
+          <Text style={{ transform: `translateX(-16px)` }}>Spotify</Text>
         </ListenIcon>
         <ListenIcon
           href="https://www.stitcher.com/podcast/midweek-murders"
@@ -42,7 +38,7 @@ const Footer = () => (
               height: `22px`,
             }}
           />
-          <p style={{ transform: `translateX(-18px)` }}>Stitcher</p>
+          <Text style={{ transform: `translateX(-18px)` }}>Stitcher</Text>
         </ListenIcon>
       </ul>
     </ListenBox>
