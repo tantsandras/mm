@@ -1,5 +1,8 @@
 import React from "react"
 import styled, { keyframes } from "styled-components"
+import { Spotify } from "@styled-icons/fa-brands"
+import { Podcast } from "@styled-icons/fa-solid"
+import Stitcher from "../images/output-onlinepngtools (2).png"
 
 const Footer = () => (
   <Container>

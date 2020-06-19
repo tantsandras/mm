@@ -8,7 +8,7 @@ import { Share } from "@styled-icons/entypo"
 import { TwitterWithCircle } from "@styled-icons/entypo-social"
 import { FacebookCircle } from "@styled-icons/boxicons-logos"
 import AudioPlayer from "./AudioPlayer"
-import { ItunesNote, Spotify } from "@styled-icons/fa-brands"
+import { Spotify } from "@styled-icons/fa-brands"
 import { Podcast } from "@styled-icons/fa-solid"
 import Stitcher from "../images/output-onlinepngtools (2).png"
 
