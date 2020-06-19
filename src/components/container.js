@@ -64,14 +64,11 @@ const Container = styled.section`
 `
 
 const HeadLine = styled.h1`
-  padding-bottom: 6px;
   font-family: Oswald;
-  font-weight: 400;
-  font-size: 1.8rem;
+  font-size: 2.8rem;
   text-transform: uppercase;
   text-align: center;
   color: #d22d4c;
-  transform: translateY(6px);
   mix-blend-mode: multiply;
 `
 
