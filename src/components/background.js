@@ -19,17 +19,20 @@ const turnVisible = keyframes`
 `
 
 const Title = styled.div`
-  color: #d22d4c;
   font-size: 4rem;
   font-family: Oswald;
   width: 100%;
-  mix-blend-mode: multiply;
+  letter-spacing: 0.1em;
   position: absolute;
-  left: 22%;
-  top: 78%;
+  left: 19%;
+  top: 79%;
   text-transform: uppercase;
   line-height: 1;
   z-index: 8;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 1.5px;
+  -webkit-text-stroke-color: white;
+  text-shadow: 4px 4px #d22d4c, 10px 10px #1e1c3c;
 `
 const Card = styled.div`
   margin-top: 4%;
@@ -144,6 +147,7 @@ const BackgroundSection = ({ className }) => (
             fluid={imageData}
             style={{
               marginBottom: `200px`,
+              opacity: 0.3,
             }}
             alt="Forest with noir feeling."
           >
@@ -211,12 +215,11 @@ const BackgroundSection = ({ className }) => (
 
 const StyledBackgroundSection = styled(BackgroundSection)`
   width: 100%;
-  background-size: contain;
+  background-size: cover;
   position: relative;
   top: 0;
   z-index: 0;
   left: 0;
-  height: 50vh;
   animation: ${turnVisible} 0.6s ease-in;
 `
 

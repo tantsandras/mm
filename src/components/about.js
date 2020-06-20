@@ -33,7 +33,7 @@ const About = () => (
             }}
           />
         </ProfileAvatar>
-        <Name style={{ marginTop: `60px` }}>Joe</Name>
+        <Name style={{ marginTop: `50px` }}>Joe</Name>
         <Slogan>#notadoctor </Slogan>
         <Text>
           Joe is a grumpy old man kind of guy despite not being especially old.
@@ -55,7 +55,7 @@ const About = () => (
             }}
           />
         </ProfileAvatar>
-        <Name style={{ marginTop: `60px` }}>Sandra</Name>
+        <Name style={{ marginTop: `50px` }}>Sandra</Name>
         <Slogan>Cats and carbs</Slogan>
         <Text>
           Sandra is a more insane version of Joe, with a lot more technical
