@@ -41,7 +41,7 @@ const Navigation = styled.nav`
   position: sticky;
   position: -webkit-sticky;
   margin-right: 6px;
-  top: 0;
+  top: 0%;
   left: 0;
   z-index: 5;
   width: 40px;
