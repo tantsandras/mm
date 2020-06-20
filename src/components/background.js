@@ -26,7 +26,7 @@ const Title = styled.div`
   mix-blend-mode: multiply;
   position: absolute;
   left: 22%;
-  top: 300px;
+  top: 78%;
   text-transform: uppercase;
   line-height: 1;
   z-index: 8;
@@ -146,8 +146,11 @@ const BackgroundSection = ({ className }) => (
               marginBottom: `200px`,
             }}
             alt="Forest with noir feeling."
-          ></BackgroundImage>
-          <Title>Midweek Murders</Title>
+          >
+            {" "}
+            <Title>Midweek Murders</Title>
+          </BackgroundImage>
+
           <Card>
             <Thumbnail>
               <Logo />
@@ -207,8 +210,6 @@ const BackgroundSection = ({ className }) => (
 )
 
 const StyledBackgroundSection = styled(BackgroundSection)`
-  -webkit-clip-path: polygon(50% 0%, 100% 65%, 100% 100%, 0 100%, 0 65%);
-  clip-path: polygon(50% 0%, 100% 65%, 100% 100%, 0 100%, 0 65%);
   width: 100%;
   background-size: contain;
   position: relative;
