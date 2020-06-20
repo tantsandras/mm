@@ -25,7 +25,7 @@ const Title = styled.div`
   letter-spacing: 0.1em;
   position: absolute;
   left: 19%;
-  top: 79%;
+  top: 49%;
   text-transform: uppercase;
   line-height: 1;
   z-index: 8;
