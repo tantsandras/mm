@@ -65,6 +65,7 @@ const MainContent = styled.main`
   z-index: 0;
   position: absolute;
   top: 0;
+  left: 0;
 `
 
 Layout.propTypes = {
