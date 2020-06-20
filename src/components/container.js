@@ -54,7 +54,7 @@ const HexDiv = styled.div`
 const Container = styled.section`
   padding-top: 4%;
   min-height: 100vh;
-  height: auto;
+  height: auto !important;
   transition: all ease-in 0.5s;
   display: flex;
   flex-direction: column;

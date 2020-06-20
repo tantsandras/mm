@@ -207,8 +207,8 @@ const BackgroundSection = ({ className }) => (
 )
 
 const StyledBackgroundSection = styled(BackgroundSection)`
-  -webkit-clip-path: polygon(50% 0%, 100% 25%, 100% 100%, 0 100%, 0 25%);
-  clip-path: polygon(50% 0%, 100% 25%, 100% 100%, 0 100%, 0 25%);
+  -webkit-clip-path: polygon(50% 0%, 100% 45%, 100% 100%, 0 100%, 0 45%);
+  clip-path: polygon(50% 0%, 100% 45%, 100% 100%, 0 100%, 0 45%);
   width: 100%;
   background-size: contain;
   position: relative;
