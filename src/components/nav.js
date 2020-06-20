@@ -37,19 +37,16 @@ const Label = styled.span`
 `
 
 const Navigation = styled.nav`
-  overflow: visible;
-  position: sticky;
-  position: -webkit-sticky;
-  box-sizing: border-box;
+  position: fixed;
+  position: -webkit-fixed;
   margin-right: 6px;
-  top: 0%;
+  top: 0;
   left: 0;
   z-index: 5;
-  width: 40px;
   display: flex;
   justify-content: center;
   flex-direction: column;
-  min-height: 100vh;
+  min-height: 100%;
   height: -moz-available;
   height: -webkit-fill-available;
   height: fill-available;

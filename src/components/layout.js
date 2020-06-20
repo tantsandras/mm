@@ -64,9 +64,6 @@ const MainContent = styled.main`
   min-height: 100vh;
   height: auto !important;
   z-index: 0;
-  position: absolute;
-  top: 0;
-  left: 0;
 `
 
 Layout.propTypes = {
