@@ -29,7 +29,7 @@ const About = () => (
               position: `absolute`,
               top: `20px`,
               left: `50%`,
-              marginLeft: `-10px`,
+              marginLeft: `-30px`,
             }}
           />
         </ProfileAvatar>
@@ -51,7 +51,7 @@ const About = () => (
               position: `absolute`,
               top: `20px`,
               left: `50%`,
-              marginLeft: `-10px`,
+              marginLeft: `-30px`,
             }}
           />
         </ProfileAvatar>
