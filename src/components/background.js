@@ -214,9 +214,6 @@ const StyledBackgroundSection = styled(BackgroundSection)`
   height: 100vh;
   background-size: cover;
   position: relative;
-  top: 0;
-  z-index: 0;
-  left: 0;
   opacity: 0.5;
 `
 
