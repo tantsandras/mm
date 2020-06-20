@@ -29,6 +29,7 @@ const Title = styled.div`
   top: 79%;
   text-transform: uppercase;
   line-height: 1;
+  z-index: 8;
 `
 const Card = styled.div`
   margin-top: 4%;
@@ -145,9 +146,8 @@ const BackgroundSection = ({ className }) => (
               marginBottom: `200px`,
             }}
             alt="Forest with noir feeling."
-          >
-            <Title>Midweek Murders</Title>
-          </BackgroundImage>
+          ></BackgroundImage>
+          <Title>Midweek Murders</Title>
           <Card>
             <Thumbnail>
               <Logo />
@@ -207,8 +207,8 @@ const BackgroundSection = ({ className }) => (
 )
 
 const StyledBackgroundSection = styled(BackgroundSection)`
-  -webkit-clip-path: polygon(50% 0%, 100% 60%, 100% 100%, 0 100%, 0 60%);
-  clip-path: polygon(50% 0%, 100% 60%, 100% 100%, 0 100%, 0 60%);
+  -webkit-clip-path: polygon(50% 0%, 100% 40%, 100% 100%, 0 100%, 0 40%);
+  clip-path: polygon(50% 0%, 100% 40%, 100% 100%, 0 100%, 0 40%);
   width: 100%;
   background-size: contain;
   position: relative;

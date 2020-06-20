@@ -40,6 +40,7 @@ const Navigation = styled.nav`
   overflow: visible;
   position: sticky;
   position: -webkit-sticky;
+  box-sizing: border-box;
   margin-right: 6px;
   top: 0%;
   left: 0;
