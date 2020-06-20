@@ -26,7 +26,7 @@ const Title = styled.div`
   mix-blend-mode: multiply;
   position: absolute;
   left: 22%;
-  top: -10%;
+  top: 10%;
   text-transform: uppercase;
   line-height: 1;
   z-index: 8;
