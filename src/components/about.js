@@ -29,11 +29,11 @@ const About = () => (
               position: `absolute`,
               top: `20px`,
               left: `50%`,
-              marginLeft: `-50px`,
+              marginLeft: `20px`,
             }}
           />
         </ProfileAvatar>
-        <Name style={{ marginTop: `40px` }}>Joe</Name>
+        <Name style={{ marginTop: `60px` }}>Joe</Name>
         <Slogan>#notadoctor </Slogan>
         <Text>
           Joe is a grumpy old man kind of guy despite not being especially old.
@@ -51,11 +51,11 @@ const About = () => (
               position: `absolute`,
               top: `20px`,
               left: `50%`,
-              marginLeft: `-50px`,
+              marginLeft: `20px`,
             }}
           />
         </ProfileAvatar>
-        <Name style={{ marginTop: `40px` }}>Sandra</Name>
+        <Name style={{ marginTop: `60px` }}>Sandra</Name>
         <Slogan>Cats and carbs</Slogan>
         <Text>
           Sandra is a more insane version of Joe, with a lot more technical

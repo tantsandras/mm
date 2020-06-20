@@ -50,7 +50,7 @@ const Card = styled.div`
 
 const Thumbnail = styled.div`
   transform: translateY(-40px);
-  height: 280px !important;
+  height: 260px;
   width: 280px;
   margin-left: 20px;
   margin-right: 20px;
