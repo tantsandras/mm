@@ -41,14 +41,14 @@ const Navigation = styled.nav`
   position: sticky;
   position: -webkit-sticky;
   margin-right: 6px;
-  top: o;
+  top: 0;
   left: 0;
   z-index: 5;
   width: 40px;
   display: flex;
   justify-content: center;
   flex-direction: column;
-  min-height: 100%;
+  min-height: 100vh;
   height: -moz-available;
   height: -webkit-fill-available;
   height: fill-available;
