@@ -66,7 +66,7 @@ const Container = styled.section`
 const HeadLine = styled.h1`
   margin-top: 10px;
   font-family: Oswald;
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-weight: 600;
   letter-spacing: 0.1em;
   text-transform: uppercase;

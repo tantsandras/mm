@@ -35,7 +35,7 @@ const Title = styled.div`
   text-shadow: 4px 4px #d22d4c, 10px 10px #1e1c3c;
 `
 const Card = styled.div`
-  margin-top: 4%;
+  margin-top: 400px;
   margin-bottom: 600px;
   position: relative;
   min-width: 300px;
@@ -145,10 +145,6 @@ const BackgroundSection = ({ className }) => (
             Tag="section"
             className={className}
             fluid={imageData}
-            style={{
-              opacity: 0.6,
-              marginBottom: `200px`,
-            }}
             alt="Forest with noir feeling."
           >
             {" "}
@@ -220,7 +216,7 @@ const StyledBackgroundSection = styled(BackgroundSection)`
   top: 0;
   z-index: 0;
   left: 0;
-  animation: ${turnVisible} 0.6s ease-in;
+  opacity: 0.5;
 `
 
 export default StyledBackgroundSection
