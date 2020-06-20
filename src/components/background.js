@@ -35,7 +35,7 @@ const Title = styled.div`
   text-shadow: 4px 4px #d22d4c, 10px 10px #1e1c3c;
 `
 const Card = styled.div`
-  margin-top: 400px;
+  margin-top: 600px;
   margin-bottom: 600px;
   position: relative;
   min-width: 300px;
@@ -211,7 +211,7 @@ const BackgroundSection = ({ className }) => (
 
 const StyledBackgroundSection = styled(BackgroundSection)`
   width: 100%;
-  height: 50vh;
+  height: 60vh;
   background-size: cover;
   position: relative;
   animation: ${turnVisible} 0.6s ease-in;
