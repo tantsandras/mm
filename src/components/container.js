@@ -68,10 +68,13 @@ const HeadLine = styled.h1`
   font-family: Oswald;
   font-size: 2rem;
   font-weight: 600;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
   text-align: center;
-  color: #d22d4c;
-  mix-blend-mode: multiply;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 1.5px;
+  -webkit-text-stroke-color: white;
+  text-shadow: 4px 4px #d22d4c, 10px 10px #1e1c3c;
 `
 
 const PageContainer = ({ id, header, children }) => (

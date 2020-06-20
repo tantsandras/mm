@@ -35,7 +35,7 @@ const Title = styled.div`
   text-shadow: 4px 4px #d22d4c, 10px 10px #1e1c3c;
 `
 const Card = styled.div`
-  margin-top: 400px;
+  margin-top: 4%;
   margin-bottom: 600px;
   position: relative;
   min-width: 300px;
@@ -147,6 +147,7 @@ const BackgroundSection = ({ className }) => (
             fluid={imageData}
             style={{
               opacity: 0.6,
+              marginBottom: `200px`,
             }}
             alt="Forest with noir feeling."
           >
