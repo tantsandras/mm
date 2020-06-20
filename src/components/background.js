@@ -14,7 +14,7 @@ const turnVisible = keyframes`
 		opacity: 0;
 	}
 	to {
-		opacity: 1;
+		opacity: 0.3;
 	}
 `
 
@@ -210,11 +210,11 @@ const BackgroundSection = ({ className }) => (
 )
 
 const StyledBackgroundSection = styled(BackgroundSection)`
-  width: 100vw;
-  height: 100vh;
+  width: 100%;
+  height: 50vh;
   background-size: cover;
   position: relative;
-  opacity: 0.5;
+  animation: ${turnVisible} 0.6s ease-in;
 `
 
 export default StyledBackgroundSection
