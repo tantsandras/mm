@@ -210,7 +210,8 @@ const BackgroundSection = ({ className }) => (
 )
 
 const StyledBackgroundSection = styled(BackgroundSection)`
-  width: 100%;
+  width: 100vw;
+  height: 100vh;
   background-size: cover;
   position: relative;
   top: 0;
