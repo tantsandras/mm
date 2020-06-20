@@ -212,7 +212,8 @@ const BackgroundSection = ({ className }) => (
 
 const StyledBackgroundSection = styled(BackgroundSection)`
   width: 100%;
-  height: 50vh;
+  height: 60vh;
+  mix-blend-mode: screen;
   background-size: cover;
   position: relative;
   animation: ${turnVisible} 0.6s ease-in;
