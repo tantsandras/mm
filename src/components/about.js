@@ -27,7 +27,7 @@ const About = () => (
             color="#282d50"
             style={{
               position: `absolute`,
-              top: `0`,
+              top: `20px`,
               left: `50%`,
               marginLeft: `-50px`,
             }}
@@ -49,7 +49,7 @@ const About = () => (
             color="#282d50"
             style={{
               position: `absolute`,
-              top: `0`,
+              top: `20px`,
               left: `50%`,
               marginLeft: `-50px`,
             }}
