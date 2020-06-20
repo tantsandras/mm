@@ -37,7 +37,7 @@ const Label = styled.span`
 `
 
 const Navigation = styled.nav`
-  overflow: auto;
+  overflow: visible;
   position: sticky;
   position: -webkit-sticky;
   margin-right: 6px;

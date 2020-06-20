@@ -62,7 +62,6 @@ const Layout = ({ children }) => {
 
 const MainContent = styled.main`
   min-height: 100vh;
-  margin-left: 40px;
 `
 
 Layout.propTypes = {
