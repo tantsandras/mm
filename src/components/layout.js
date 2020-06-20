@@ -52,9 +52,9 @@ const Layout = ({ children }) => {
         <html lang="en" style={{ fontFamily: `"Oswald", "Montserrat"` }} />
       </Helmet>
       <GlobalStyle />
-
-      <MainContent>{children}</MainContent>
       <NavBar />
+      <MainContent>{children}</MainContent>
+
       <Footer />
     </>
   )
