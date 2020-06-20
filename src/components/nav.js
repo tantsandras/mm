@@ -43,6 +43,7 @@ const Navigation = styled.nav`
   top: 0;
   left: 0;
   z-index: 5;
+  width: 40px;
   display: flex;
   justify-content: center;
   flex-direction: column;
