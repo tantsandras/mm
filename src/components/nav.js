@@ -37,8 +37,10 @@ const Label = styled.span`
 `
 
 const Navigation = styled.nav`
-  position: fixed;
+  position: sticky;
+  position: -webkit-sticky;
   margin-right: 6px;
+  top: 0;
   left: 0;
   z-index: 5;
   display: flex;
