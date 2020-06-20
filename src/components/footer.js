@@ -82,7 +82,7 @@ const Credit = styled.p`
   align-self: flex-end;
   color: #9dbce7;
   font-family: Oswald;
-  font-weight: 400;
+  font-size: 0.95rem;
   line-height: 2;
 `
 const ListenIcon = styled.a`

@@ -134,7 +134,7 @@ const Intro = styled.article`
 const Name = styled.h2`
   font-family: Oswald;
   text-transform: uppercase;
-  font-weight: 400;
+  font-weight: 600;
   border-bottom: 1px solid #282d50;
   padding-top: 12px;
   padding-bottom: 6px;
@@ -187,7 +187,7 @@ const Card = styled.div`
 
 const Thumbnail = styled.div`
   transform: translateY(-40px);
-  height: 280px;
+  height: 280px !important;
   width: 280px;
   margin-left: 20px;
   margin-right: 20px;
@@ -223,7 +223,7 @@ const TextContainer = styled.div`
 
 const PodTitle = styled.h2`
   font-family: Oswald;
-  font-weight: 500;
+  font-weight: 600;
   text-transform: uppercase;
   border-bottom: 1px solid #282d50;
   padding-bottom: 6px;

@@ -50,7 +50,7 @@ const Card = styled.div`
 
 const Thumbnail = styled.div`
   transform: translateY(-40px);
-  height: 280px;
+  height: 280px !important;
   width: 280px;
   margin-left: 20px;
   margin-right: 20px;
@@ -87,7 +87,7 @@ const TextContainer = styled.div`
 const PodTitle = styled.h2`
   font-family: Oswald;
   font-size: 2.6rem;
-  font-weight: 500;
+  font-weight: 600;
   text-transform: uppercase;
   border-bottom: 1px solid #282d50;
   padding-bottom: 6px;

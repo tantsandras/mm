@@ -28,7 +28,8 @@ const About = () => (
             style={{
               position: `absolute`,
               top: `0`,
-              left: `85px`,
+              left: `50%`,
+              marginLeft: `-50px`,
             }}
           />
         </ProfileAvatar>
@@ -49,7 +50,8 @@ const About = () => (
             style={{
               position: `absolute`,
               top: `0`,
-              left: `85px`,
+              left: `50%`,
+              marginLeft: `-50px`,
             }}
           />
         </ProfileAvatar>
@@ -110,7 +112,7 @@ const Name = styled.h2`
   padding-top: 12px;
   padding-bottom: 6px;
   color: #282d50;
-  font-weight: 500;
+  font-weight: 600;
 `
 
 const Slogan = styled.h3`
