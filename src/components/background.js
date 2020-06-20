@@ -26,7 +26,7 @@ const Title = styled.div`
   mix-blend-mode: multiply;
   position: absolute;
   left: 22%;
-  top: 400px;
+  top: 300px;
   text-transform: uppercase;
   line-height: 1;
   z-index: 8;
@@ -207,8 +207,8 @@ const BackgroundSection = ({ className }) => (
 )
 
 const StyledBackgroundSection = styled(BackgroundSection)`
-  -webkit-clip-path: polygon(50% 0%, 100% 45%, 100% 100%, 0 100%, 0 45%);
-  clip-path: polygon(50% 0%, 100% 45%, 100% 100%, 0 100%, 0 45%);
+  -webkit-clip-path: polygon(50% 0%, 100% 65%, 100% 100%, 0 100%, 0 65%);
+  clip-path: polygon(50% 0%, 100% 65%, 100% 100%, 0 100%, 0 65%);
   width: 100%;
   background-size: contain;
   position: relative;
