@@ -37,10 +37,11 @@ const Label = styled.span`
 `
 
 const Navigation = styled.nav`
+  overflow: auto;
   position: sticky;
   position: -webkit-sticky;
   margin-right: 6px;
-  top: 0;
+  top: o;
   left: 0;
   z-index: 5;
   width: 40px;
