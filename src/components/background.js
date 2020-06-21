@@ -14,7 +14,7 @@ const turnVisible = keyframes`
 		opacity: 0;
 	}
 	to {
-		opacity: 0.3;
+		opacity: 1;
 	}
 `
 
@@ -25,16 +25,18 @@ const Title = styled.div`
   letter-spacing: 0.1em;
   position: absolute;
   left: 19%;
-  top: 49%;
+  top: 13%;
   text-transform: uppercase;
   line-height: 1;
   z-index: 8;
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width: 1.5px;
   -webkit-text-stroke-color: white;
-  text-shadow: 4px 4px #d22d4c, 10px 10px #1e1c3c;
+  text-shadow: 2px 2px #d22d4c, 5px 5px #9DBCE7;
+  animation: ${turnVisible} 0.6s ease-in;
 `
 const Card = styled.div`
+
   margin-top: 4%;
   margin-bottom: 600px;
   position: relative;
@@ -123,6 +125,19 @@ const Icon = styled.a`
     color: #282d50;
   }
 `
+const StyledBackground = styled(BackgroundImage)`
+  width: 100%;
+  height: 70vh;
+  background-attachment: fixed;
+  margin-bottom: 150px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: opacity(4%);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+`
 
 const BackgroundSection = ({ className }) => (
   <StaticQuery
@@ -141,17 +156,17 @@ const BackgroundSection = ({ className }) => (
       const imageData = data.desktop.childImageSharp.fluid
       return (
         <>
-          <BackgroundImage
+          <StyledBackground
             Tag="section"
             className={className}
             fluid={imageData}
             alt="Forest with noir feeling."
-            style={{ marginBottom: `200px` }}
           >
             {" "}
-            <Title>Midweek Murders</Title>
-          </BackgroundImage>
+            
 
+         </StyledBackground>
+         <Title>Midweek Murders</Title>
           <Card>
             <Thumbnail>
               <Logo />
@@ -204,19 +219,13 @@ const BackgroundSection = ({ className }) => (
               </Description>
             </TextContainer>
           </Card>
+ 
         </>
       )
     }}
   />
 )
 
-const StyledBackgroundSection = styled(BackgroundSection)`
-  width: 100%;
-  height: 60vh;
-  mix-blend-mode: screen;
-  background-size: cover;
-  position: relative;
-  animation: ${turnVisible} 0.6s ease-in;
-`
 
-export default StyledBackgroundSection
+
+export default BackgroundSection

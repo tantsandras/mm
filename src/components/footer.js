@@ -72,6 +72,7 @@ text-align: left;
 margin-left: 16%;
 margin-top: 10%;
 font-family: Montserrat;
+font-size: 0.95rem;
 `
 
 const Credit = styled.p`

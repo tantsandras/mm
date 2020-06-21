@@ -8,32 +8,29 @@ const About = () => (
   <>
     <Container>
       <Description>
-        <Name>Midweek Murders</Name>
-        <Slogan>A true crime comedy podcast</Slogan>
-        <Text>
+        <Name style={{color: `#9DBCE7`, borderBottom: `1px solid #9DBCE7`}}>Midweek Murders</Name>
+        <Slogan style={{color: `#9DBCE7`}}>A true crime comedy podcast</Slogan>
+        <Text style={{color: `#9DBCE7`}}>
           Based in the UK, new episodes every Wednesday. Midweek Murders is a
           fully independent podcast. Created, produced and edited by the hosts.
         </Text>
       </Description>
       <Description>
-        <Name>Hosts</Name>
-        <Slogan>Sandra & Joe</Slogan>
+        <Name style={{color: `#9DBCE7`}}>Hosts</Name>
+        <Slogan style={{color: `#9DBCE7`}}>Sandra & Joe</Slogan>
       </Description>
       <Card>
         <ProfileAvatar>
           &#x2B22;
           <UserMd
-            size="60"
-            color="#282d50"
+            size="50"
+            color="#fff"
             style={{
-              position: `absolute`,
-              top: `20px`,
-              left: `50%`,
-              marginLeft: `-30px`,
+              transform: `translateY(-140px)`,
             }}
           />
         </ProfileAvatar>
-        <Name style={{ marginTop: `50px` }}>Joe</Name>
+        <HostName>Joe</HostName>
         <Slogan>#notadoctor </Slogan>
         <Text>
           Joe is a grumpy old man kind of guy despite not being especially old.
@@ -45,17 +42,14 @@ const About = () => (
         <ProfileAvatar>
           &#x2B22;
           <UserAstronaut
-            size="60"
-            color="#282d50"
+            size="50"
+            color="#fff"
             style={{
-              position: `absolute`,
-              top: `20px`,
-              left: `50%`,
-              marginLeft: `-30px`,
+              transform: `translateY(-140px)`
             }}
           />
         </ProfileAvatar>
-        <Name style={{ marginTop: `50px` }}>Sandra</Name>
+        <HostName>Sandra</HostName>
         <Slogan>Cats and carbs</Slogan>
         <Text>
           Sandra is a more insane version of Joe, with a lot more technical
@@ -66,6 +60,7 @@ const About = () => (
     </Container>
   </>
 )
+
 
 const Container = styled.div`
   display: flex;
@@ -83,10 +78,9 @@ const ProfileAvatar = styled.div`
   align-items: center;
   justify-content: center;
   text-align: center;
-  font-size: 230px;
-  color: #5f728cb3;
-  mix-blend-mode: multiply;
-  position: relative;
+  font-size: 270px;
+  color: #5f728c;
+  z-index: 0;
 `
 
 const Card = styled.div`
@@ -95,7 +89,7 @@ const Card = styled.div`
   text-align: center;
   align-items: center;
   width: 300px;
-  height: 600px;
+  height: 500px;
   padding: 2rem;
   margin: 2rem 2rem 6rem 2rem;
   background-color: #fff;
@@ -108,24 +102,39 @@ const Card = styled.div`
 const Name = styled.h2`
   font-family: Oswald;
   text-transform: uppercase;
-  border-bottom: 1px solid #282d50;
+  color: #9DBCE7;
+  border-bottom: 1px solid #9DBCE7;
   padding-top: 12px;
   padding-bottom: 6px;
-  color: #282d50;
   font-weight: 600;
+`
+
+
+const HostName = styled(Name)`
+border-bottom: 1px solid #282d50;
+margin-top: -150px;
+padding-bottom: 56px;
+color: #282d50;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+text-align: center;
+z-index: 2;
+-webkit-text-fill-color: transparent;
+-webkit-text-stroke-width: 1.5px;
+-webkit-text-stroke-color: white;
+text-shadow: 2px 2px #d22d4c, 5px 5px #1e1c3c;
 `
 
 const Slogan = styled.h3`
   color: #1e1c3c;
   margin-top: -20px;
-  font-size: 1rem;
+  font-size: 0.95rem;
   font-family: Montserrat;
   font-weight: 400;
-  text-transform: uppercase;
 `
 const Text = styled.p`
   color: #1e1c3c;
-  font-size: 1rem;
+  font-size: 0.95rem;
   text-align: left;
   font-family: Montserrat;
 `

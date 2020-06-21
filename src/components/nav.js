@@ -27,7 +27,7 @@ const Label = styled.span`
   opacity: 0;
   transition: all 0.1s ease-in;
   font-family: Oswald;
-  color: #1e1c3c;
+  color: #9DBCE7;
   font-size: 1rem;
   margin-left: 12px;
   margin-top: 6px;
@@ -64,7 +64,7 @@ const StyledLink = styled.span`
   &:hover ${Label} {
     max-width: 80px;
     animation: 0.2s ${fadeIn} forwards 0.2s;
-    border-bottom: 1px solid #282d50;
+    border-bottom: 1px solid #9DBCE7;
   }
 `
 

@@ -10,7 +10,7 @@ import { FacebookCircle } from "@styled-icons/boxicons-logos"
 import AudioPlayer from "./AudioPlayer"
 import { Spotify } from "@styled-icons/fa-brands"
 import { Podcast } from "@styled-icons/fa-solid"
-import Stitcher from "../images/output-onlinepngtools (2).png"
+import Stitcher from "../images/blue-stitcher.png"
 
 const Episodes = () => (
   <Container>
@@ -32,7 +32,7 @@ const Episodes = () => (
             rel="noopener noreferrer"
           >
             <Podcast size="30" background="transparent" />
-            <p style={{ transform: `translateX(-12px)` }}>Itunes</p>
+            <p style={{ transform: `translateX(-12px)`, fontSize: `0.95rem` }}>Itunes</p>
           </ListenIcon>
           <ListenIcon
             href="https://open.spotify.com/show/0R3YUEiCHBH1nUonVXTzIZ"
@@ -40,7 +40,7 @@ const Episodes = () => (
             rel="noopener noreferrer"
           >
             <Spotify size="30" />
-            <p style={{ transform: `translateX(-14px)` }}>Spotify</p>
+            <p style={{ transform: `translateX(-14px)`, fontSize: `0.95rem`  }}>Spotify</p>
           </ListenIcon>
           <ListenIcon
             href="https://www.stitcher.com/podcast/midweek-murders"
@@ -55,7 +55,7 @@ const Episodes = () => (
                 height: `28px`,
               }}
             />
-            <p style={{ transform: `translateX(-18px)` }}>Stitcher</p>
+            <p style={{ transform: `translateX(-18px)`, fontSize: `0.95rem`  }}>Stitcher</p>
           </ListenIcon>
         </ul>
       </Text>
@@ -135,24 +135,23 @@ const Name = styled.h2`
   font-family: Oswald;
   text-transform: uppercase;
   font-weight: 600;
-  border-bottom: 1px solid #282d50;
+  border-bottom: 1px solid #9DBCE7;
   padding-top: 12px;
   padding-bottom: 6px;
-  color: #282d50;
+  color: #9DBCE7;
 `
 
 const Slogan = styled.h3`
-  color: #1e1c3c;
+  color: #9DBCE7;
   margin-top: -20px;
-  font-size: 1rem;
+  font-size: 0.95rem;
   font-family: Montserrat;
   font-weight: 400;
-  text-transform: uppercase;
 `
 const Text = styled.span`
   flex-direction: row;
-  color: #1e1c3c;
-  font-size: 1rem;
+  color: #9DBCE7;
+  font-size: 0.95rem;
   text-align: left;
   font-family: Montserrat;
 `
@@ -163,7 +162,7 @@ const ListenIcon = styled.a`
   padding-right: 40px;
   text-decoration: none;
   cursor: pointer;
-  color: #441438;
+  color: #9DBCE7;
   &:hover {
     color: #d22d4c;
   }
