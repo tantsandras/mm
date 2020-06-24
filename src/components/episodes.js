@@ -32,7 +32,9 @@ const Episodes = () => (
             rel="noopener noreferrer"
           >
             <Podcast size="30" background="transparent" />
-            <p style={{ transform: `translateX(-12px)`, fontSize: `0.95rem` }}>Itunes</p>
+            <p style={{ transform: `translateX(-12px)`, fontSize: `0.95rem` }}>
+              Itunes
+            </p>
           </ListenIcon>
           <ListenIcon
             href="https://open.spotify.com/show/0R3YUEiCHBH1nUonVXTzIZ"
@@ -40,7 +42,9 @@ const Episodes = () => (
             rel="noopener noreferrer"
           >
             <Spotify size="30" />
-            <p style={{ transform: `translateX(-14px)`, fontSize: `0.95rem`  }}>Spotify</p>
+            <p style={{ transform: `translateX(-14px)`, fontSize: `0.95rem` }}>
+              Spotify
+            </p>
           </ListenIcon>
           <ListenIcon
             href="https://www.stitcher.com/podcast/midweek-murders"
@@ -55,7 +59,9 @@ const Episodes = () => (
                 height: `28px`,
               }}
             />
-            <p style={{ transform: `translateX(-18px)`, fontSize: `0.95rem`  }}>Stitcher</p>
+            <p style={{ transform: `translateX(-18px)`, fontSize: `0.95rem` }}>
+              Stitcher
+            </p>
           </ListenIcon>
         </ul>
       </Text>
@@ -86,7 +92,7 @@ const Episodes = () => (
         </Icon>
       </Icons>
       <Break />
-      <AudioPlayer url="https://embed.sounder.fm/e/ba8d621b9ff2454eb73d7d6585644fa8/aLn9D?player_style=blue" />
+      <AudioPlayer url="/play/42428" />
       <div
         style={{
           fontFamily: `Montserrat`,
@@ -115,6 +121,60 @@ const Episodes = () => (
         </Description>
       </TextContainer>
     </Card>
+    <Card>
+      <Thumbnail>
+        <Logo />
+      </Thumbnail>
+      <Column>
+        <Date>24</Date>
+        <Month>June</Month>
+      </Column>
+      <Icons>
+        <Icon
+          className="twitter-share-button"
+          href="https://twitter.com/intent/tweet?text=Listen%20to%20Midweek%20Murders%20on%20Sounder.fm%0A--%20https://midweekmurders.sounder.fm/show/midweek-murders"
+        >
+          <TwitterWithCircle size="40" />
+        </Icon>
+        <Icon
+          className="fb-share-button"
+          href="https://www.facebook.com/sharer/sharer.php?u=https://midweekmurders.sounder.fm/show/midweek-murders"
+        >
+          <FacebookCircle size="40" />
+        </Icon>
+        <Icon href="https://midweekmurders.sounder.fm/show/midweek-murders">
+          <Share size="40" />
+        </Icon>
+      </Icons>
+      <Break />
+      <AudioPlayer url="/play/43055" />
+      <div
+        style={{
+          fontFamily: `Montserrat`,
+          fontSize: `12px`,
+          color: `#999`,
+          opacity: `0.5`,
+          paddingTop: `5px`,
+        }}
+      >
+        powered by{" "}
+        <a
+          href="https://sounder.fm?utm_campaign=saas&utm_source=sounder.fm-Episode&utm_medium=sounder&utm_content=sounder-embedded-poweredbysounder&utm_term=EN"
+          style={{ color: `#999` }}
+          target="_blank"
+        >
+          Sounder
+        </a>
+      </div>
+      <TextContainer>
+        <PodTitle>The Pimlico Mystery</PodTitle>
+        <Description>
+          The case discussed is the poisoning of Thomas Edwin Bartlett. Joe
+          solves the case using his trusty companion, science, and Sandra
+          speculates about how many food items one eats whole without chewing.
+        </Description>
+      </TextContainer>
+    </Card>
   </Container>
 )
 
@@ -135,14 +195,14 @@ const Name = styled.h2`
   font-family: Oswald;
   text-transform: uppercase;
   font-weight: 600;
-  border-bottom: 1px solid #9DBCE7;
+  border-bottom: 1px solid #9dbce7;
   padding-top: 12px;
   padding-bottom: 6px;
-  color: #9DBCE7;
+  color: #9dbce7;
 `
 
 const Slogan = styled.h3`
-  color: #9DBCE7;
+  color: #9dbce7;
   margin-top: -20px;
   font-size: 0.95rem;
   font-family: Montserrat;
@@ -150,7 +210,7 @@ const Slogan = styled.h3`
 `
 const Text = styled.span`
   flex-direction: row;
-  color: #9DBCE7;
+  color: #9dbce7;
   font-size: 0.95rem;
   text-align: left;
   font-family: Montserrat;
@@ -162,7 +222,7 @@ const ListenIcon = styled.a`
   padding-right: 40px;
   text-decoration: none;
   cursor: pointer;
-  color: #9DBCE7;
+  color: #9dbce7;
   &:hover {
     color: #d22d4c;
   }

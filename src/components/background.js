@@ -32,11 +32,10 @@ const Title = styled.div`
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width: 1.5px;
   -webkit-text-stroke-color: white;
-  text-shadow: 2px 2px #d22d4c, 5px 5px #9DBCE7;
+  text-shadow: 2px 2px #d22d4c, 5px 5px #9dbce7;
   animation: ${turnVisible} 0.6s ease-in;
 `
 const Card = styled.div`
-
   margin-top: 4%;
   margin-bottom: 600px;
   position: relative;
@@ -163,10 +162,8 @@ const BackgroundSection = ({ className }) => (
             alt="Forest with noir feeling."
           >
             {" "}
-            
-
-         </StyledBackground>
-         <Title>Midweek Murders</Title>
+          </StyledBackground>
+          <Title>Midweek Murders</Title>
           <Card>
             <Thumbnail>
               <Logo />
@@ -190,7 +187,7 @@ const BackgroundSection = ({ className }) => (
               </Icon>
             </Icons>
             <Break />
-            <AudioPlayer url="https://embed.sounder.fm/e/ba8d621b9ff2454eb73d7d6585644fa8/jz18L?player_style=blue" />
+            <AudioPlayer url="/play/42429" />
             <div
               style={{
                 fontFamily: `Montserrat`,
@@ -219,13 +216,10 @@ const BackgroundSection = ({ className }) => (
               </Description>
             </TextContainer>
           </Card>
- 
         </>
       )
     }}
   />
 )
-
-
 
 export default BackgroundSection

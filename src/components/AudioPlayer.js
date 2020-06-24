@@ -11,11 +11,11 @@ export default function AudioPlayer({ url }) {
       ce = d.createElement,
       gt = d.getElementsByTagName,
       id = "soun_der",
-      b = "https://embed.sounder.fm/"
+      b = "/"
     if (!gi.call(d, id)) {
       js = ce.call(d, "script")
       js.id = id
-      js.src = b + "embed.js"
+      js.src = b + "js/v1/embed.js"
       q = gt.call(d, "script")[0]
       q.parentNode.insertBefore(js, q)
     }
