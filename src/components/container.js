@@ -22,7 +22,7 @@ const Label = styled.span`
   opacity: 0;
   transition: all 0.1s ease-in;
   font-family: Oswald;
-  color: #9DBCE7;
+  color: #E5E5E5;
   font-size: 1rem;
   margin-left: 12px;
   margin-top: 6px;
@@ -40,7 +40,7 @@ const BackButton = styled.a`
   &:hover ${Label} {
     max-width: 80px;
     animation: 0.2s ${fadeIn} forwards 0.2s;
-    border-bottom: 1px solid #9DBCE7;
+    border-bottom: 1px solid #E5E5E5;
   }
 `
 
@@ -71,7 +71,7 @@ const HeadLine = styled.h1`
   text-transform: uppercase;
   text-align: center;
   -webkit-text-fill-color: transparent;
-  -webkit-text-stroke-width: 1.5px;
+  -webkit-text-stroke-width: 0.5px;
   -webkit-text-stroke-color: white;
   text-shadow: 2px 2px #d22d4c, 5px 5px #1e1c3c;
 `
@@ -79,8 +79,8 @@ const HeadLine = styled.h1`
 const PageContainer = ({ id, header, children }) => (
   <Container id={id}>
     <BackButton>
-      <AniLink swipe direction="left" to="/">
-        <LeftArrowCircle size="40" color="#9DBCE7" />
+      <AniLink swipe direction="left" to="/" >
+        <LeftArrowCircle size="40" color="#5f728c" />
         <Label>Home</Label>
       </AniLink>
     </BackButton>

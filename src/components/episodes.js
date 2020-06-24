@@ -12,7 +12,8 @@ import { Spotify } from "@styled-icons/fa-brands"
 import { Podcast } from "@styled-icons/fa-solid"
 import Stitcher from "../images/blue-stitcher.png"
 
-const Episodes = () => (
+
+const Episodes = ({ status }) => (
   <Container>
     <Intro>
       <Name>Midweek Murders</Name>
@@ -32,7 +33,7 @@ const Episodes = () => (
             rel="noopener noreferrer"
           >
             <Podcast size="30" background="transparent" />
-            <p style={{ transform: `translateX(-12px)`, fontSize: `0.95rem` }}>
+            <p style={{ transform: `translateX(-10px)`, fontSize: `0.85rem` }}>
               Itunes
             </p>
           </ListenIcon>
@@ -42,7 +43,7 @@ const Episodes = () => (
             rel="noopener noreferrer"
           >
             <Spotify size="30" />
-            <p style={{ transform: `translateX(-14px)`, fontSize: `0.95rem` }}>
+            <p style={{ transform: `translateX(-12px)`, fontSize: `0.85rem` }}>
               Spotify
             </p>
           </ListenIcon>
@@ -58,8 +59,9 @@ const Episodes = () => (
                 width: `28px`,
                 height: `28px`,
               }}
+              alt="Stitcher icon"
             />
-            <p style={{ transform: `translateX(-18px)`, fontSize: `0.95rem` }}>
+            <p style={{ transform: `translateX(-16px)`, fontSize: `0.85rem` }}>
               Stitcher
             </p>
           </ListenIcon>
@@ -71,101 +73,27 @@ const Episodes = () => (
         <Logo />
       </Thumbnail>
       <Column>
-        <Date>17</Date>
-        <Month>June</Month>
-      </Column>
-      <Icons>
-        <Icon
-          className="twitter-share-button"
-          href="https://twitter.com/intent/tweet?text=Listen%20to%20Midweek%20Murders%20on%20Sounder.fm%0A--%20https://midweekmurders.sounder.fm/show/midweek-murders"
-        >
-          <TwitterWithCircle size="40" />
-        </Icon>
-        <Icon
-          className="fb-share-button"
-          href="https://www.facebook.com/sharer/sharer.php?u=https://midweekmurders.sounder.fm/show/midweek-murders"
-        >
-          <FacebookCircle size="40" />
-        </Icon>
-        <Icon href="https://midweekmurders.sounder.fm/show/midweek-murders">
-          <Share size="40" />
-        </Icon>
-      </Icons>
-      <Break />
-      <AudioPlayer url="/play/42428" />
-      <div
-        style={{
-          fontFamily: `Montserrat`,
-          fontSize: `12px`,
-          color: `#999`,
-          opacity: `0.5`,
-          paddingTop: `5px`,
-        }}
-      >
-        powered by{" "}
-        <a
-          href="https://sounder.fm?utm_campaign=saas&utm_source=sounder.fm-Episode&utm_medium=sounder&utm_content=sounder-embedded-poweredbysounder&utm_term=EN"
-          style={{ color: `#999` }}
-          target="_blank"
-        >
-          Sounder
-        </a>
-      </div>
-      <TextContainer>
-        <PodTitle>Russian Spies</PodTitle>
-        <Description>
-          In this weeks episode Sandra talks about 'bee medicine', Joe explains
-          nerve agents, and the case discussed is the Salisbury poisonings,
-          a.k.a the attempted murders of Sergei and Yulia Skripal, as well as
-          the death of Dawn Sturgess.
-        </Description>
-      </TextContainer>
-    </Card>
-    <Card>
-      <Thumbnail>
-        <Logo />
-      </Thumbnail>
-      <Column>
         <Date>24</Date>
         <Month>June</Month>
       </Column>
       <Icons>
         <Icon
           className="twitter-share-button"
-          href="https://twitter.com/intent/tweet?text=Listen%20to%20Midweek%20Murders%20on%20Sounder.fm%0A--%20https://midweekmurders.sounder.fm/show/midweek-murders"
+          href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fembed.sounder.fm%2Fplay%2F43055"
         >
           <TwitterWithCircle size="40" />
         </Icon>
         <Icon
           className="fb-share-button"
-          href="https://www.facebook.com/sharer/sharer.php?u=https://midweekmurders.sounder.fm/show/midweek-murders"
+          href="https://www.facebook.com/sharer/sharer.php?u=https://embed.sounder.fm/play/430055"
         >
           <FacebookCircle size="40" />
         </Icon>
-        <Icon href="https://midweekmurders.sounder.fm/show/midweek-murders">
+        <Icon href="https://embed.sounder.fm/play/43055">
           <Share size="40" />
         </Icon>
       </Icons>
-      <Break />
-      <AudioPlayer url="/play/43055" />
-      <div
-        style={{
-          fontFamily: `Montserrat`,
-          fontSize: `12px`,
-          color: `#999`,
-          opacity: `0.5`,
-          paddingTop: `5px`,
-        }}
-      >
-        powered by{" "}
-        <a
-          href="https://sounder.fm?utm_campaign=saas&utm_source=sounder.fm-Episode&utm_medium=sounder&utm_content=sounder-embedded-poweredbysounder&utm_term=EN"
-          style={{ color: `#999` }}
-          target="_blank"
-        >
-          Sounder
-        </a>
-      </div>
+      <AudioPlayer url="https://embed.sounder.fm/play/43055" status={status} />
       <TextContainer>
         <PodTitle>The Pimlico Mystery</PodTitle>
         <Description>
@@ -175,34 +103,70 @@ const Episodes = () => (
         </Description>
       </TextContainer>
     </Card>
+    <Card>
+      <Thumbnail>
+        <Logo />
+      </Thumbnail>
+      <Column>
+        <Date>17</Date>
+        <Month>June</Month>
+      </Column>
+      <Icons>
+        <Icon
+          className="twitter-share-button"
+          href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fembed.sounder.fm%2Fplay%2F42428"
+        >
+          <TwitterWithCircle size="40" />
+        </Icon>
+        <Icon
+          className="fb-share-button"
+          href="https://www.facebook.com/sharer/sharer.php?u=https://embed.sounder.fm/play/42428"
+        >
+          <FacebookCircle size="40" />
+        </Icon>
+        <Icon href="https://embed.sounder.fm/play/42428">
+          <Share size="40" />
+        </Icon>
+      </Icons>
+      <AudioPlayer url="https://embed.sounder.fm/play/42428" status={status} />
+      <TextContainer>
+        <PodTitle>Russian Spies</PodTitle>
+        <Description>
+          In this episode Sandra talks about 'bee medicine', Joe explains
+          nerve agents, and the case discussed is the Salisbury poisonings,
+          a.k.a the attempted murders of Sergei and Yulia Skripal, as well as
+          the death of Dawn Sturgess.
+        </Description>
+      </TextContainer>
+    </Card>
   </Container>
 )
+
 
 const Container = styled.div`
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
   align-items: center;
-  padding-bottom: 200px;
+  margin-bottom: 200px;
 `
 const Intro = styled.article`
   flex-basis: 60%;
   margin: 4% 16%;
-  margin-bottom: 120px;
 `
 
 const Name = styled.h2`
   font-family: Oswald;
   text-transform: uppercase;
   font-weight: 600;
-  border-bottom: 1px solid #9dbce7;
+  border-bottom: 1px solid #E5E5E5;
   padding-top: 12px;
   padding-bottom: 6px;
-  color: #9dbce7;
+  color: #5f728c;
 `
 
 const Slogan = styled.h3`
-  color: #9dbce7;
+  color: #5f728c;
   margin-top: -20px;
   font-size: 0.95rem;
   font-family: Montserrat;
@@ -210,8 +174,8 @@ const Slogan = styled.h3`
 `
 const Text = styled.span`
   flex-direction: row;
-  color: #9dbce7;
-  font-size: 0.95rem;
+  color: #E5E5E5;
+  font-size: 0.85rem;
   text-align: left;
   font-family: Montserrat;
 `
@@ -222,23 +186,25 @@ const ListenIcon = styled.a`
   padding-right: 40px;
   text-decoration: none;
   cursor: pointer;
-  color: #9dbce7;
+  color: #5f728c;
   &:hover {
     color: #d22d4c;
   }
 `
 const Card = styled.div`
-  margin-top: 4%;
+  margin-top: 100px;
   position: relative;
-  min-width: 300px;
+  min-width: 320px;
   max-width: 40vw;
-  margin: 0 auto;
-  height: auto;
+  margin-left: 4%;
+  margin-right: 4%;
+  min-height: 100%;
+  height: auto !important;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  background-color: #fff;
+  background-color: #E5E5E5;
   -webkit-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
   box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
@@ -292,7 +258,7 @@ const PodTitle = styled.h2`
 const Description = styled.p`
   text-align: left;
   padding-top: 10px;
-  font-size: 0.95rem;
+  font-size: 0.85rem;
   color: #1e1c3c;
   font-family: Montserrat;
 `
@@ -300,7 +266,7 @@ const Description = styled.p`
 const Date = styled.h3`
   font-family: Oswald;
   z-index: 6;
-  font-size: 3.4rem;
+  font-size: 3rem;
   color: #5f728ccc;
   border-bottom: 1px #7a938f solid;
   padding-bottom: 6px;

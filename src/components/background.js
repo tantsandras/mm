@@ -32,22 +32,23 @@ const Title = styled.div`
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width: 1.5px;
   -webkit-text-stroke-color: white;
-  text-shadow: 2px 2px #d22d4c, 5px 5px #9dbce7;
+  text-shadow: 2px 2px #d22d4c, 5px 5px #5f728c;
   animation: ${turnVisible} 0.6s ease-in;
 `
 const Card = styled.div`
   margin-top: 4%;
   margin-bottom: 600px;
   position: relative;
-  min-width: 300px;
+  min-width: 320px;
   max-width: 40vw;
   margin: 0 auto;
-  height: auto;
+  min-height: 100%;
+  height: auto !important;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  background-color: #fff;
+  background-color: #E5E5E5;
   -webkit-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
   box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
@@ -102,7 +103,7 @@ const PodTitle = styled.h2`
 const Description = styled.p`
   text-align: left;
   padding-top: 10px;
-  font-size: 0.95rem;
+  font-size: 0.85rem;
   color: #1e1c3c;
   font-family: Montserrat;
 `
@@ -132,13 +133,13 @@ const StyledBackground = styled(BackgroundImage)`
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  filter: opacity(4%);
+  filter: opacity(6%);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
 `
 
-const BackgroundSection = ({ className }) => (
+const BackgroundSection = ({ className, status }) => (
   <StaticQuery
     query={graphql`
       query {
@@ -172,40 +173,22 @@ const BackgroundSection = ({ className }) => (
             <Icons>
               <Icon
                 className="twitter-share-button"
-                href="https://twitter.com/intent/tweet?text=Listen%20to%20Midweek%20Murders%20on%20Sounder.fm%0A--%20https://midweekmurders.sounder.fm/show/midweek-murders"
+                href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fembed.sounder.fm%2Fplay%2F42429"
               >
                 <TwitterWithCircle size="40" />
               </Icon>
               <Icon
                 className="fb-share-button"
-                href="https://www.facebook.com/sharer/sharer.php?u=https://midweekmurders.sounder.fm/show/midweek-murders"
+                href="https://www.facebook.com/sharer/sharer.php?u=https://embed.sounder.fm/play/42429"
               >
                 <FacebookCircle size="40" />
               </Icon>
-              <Icon href="https://midweekmurders.sounder.fm/show/midweek-murders">
+              <Icon href="https://embed.sounder.fm/play/42429">
                 <Share size="40" />
               </Icon>
             </Icons>
             <Break />
-            <AudioPlayer url="/play/42429" />
-            <div
-              style={{
-                fontFamily: `Montserrat`,
-                fontSize: `12px`,
-                color: `#999`,
-                opacity: `0.5`,
-                paddingTop: `5px`,
-              }}
-            >
-              powered by{" "}
-              <a
-                href="https://sounder.fm?utm_campaign=saas&utm_source=sounder.fm-Episode&utm_medium=sounder&utm_content=sounder-embedded-poweredbysounder&utm_term=EN"
-                style={{ color: `#999` }}
-                target="_blank"
-              >
-                Sounder
-              </a>
-            </div>
+            <AudioPlayer url="https://embed.sounder.fm/play/42429" status={status} />
             <TextContainer>
               <PodTitle>Trailer</PodTitle>
               <Description>

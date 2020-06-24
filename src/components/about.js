@@ -8,23 +8,23 @@ const About = () => (
   <>
     <Container>
       <Description>
-        <Name style={{color: `#9DBCE7`, borderBottom: `1px solid #9DBCE7`}}>Midweek Murders</Name>
-        <Slogan style={{color: `#9DBCE7`}}>A true crime comedy podcast</Slogan>
-        <Text style={{color: `#9DBCE7`}}>
+        <Name>Midweek Murders</Name>
+        <Slogan style={{color: `#5f728c`}}>A true crime comedy podcast</Slogan>
+        <Text style={{color: `#E5E5E5`}}>
           Based in the UK, new episodes every Wednesday. Midweek Murders is a
           fully independent podcast. Created, produced and edited by the hosts.
         </Text>
       </Description>
       <Description>
-        <Name style={{color: `#9DBCE7`}}>Hosts</Name>
-        <Slogan style={{color: `#9DBCE7`}}>Sandra & Joe</Slogan>
+        <Name style={{color: `#5f728c`}}>Hosts</Name>
+        <Slogan style={{color: `#5f728c`}}>Sandra & Joe</Slogan>
       </Description>
       <Card>
         <ProfileAvatar>
           &#x2B22;
           <UserMd
             size="50"
-            color="#fff"
+            color="#E5E5E5"
             style={{
               transform: `translateY(-140px)`,
             }}
@@ -43,7 +43,7 @@ const About = () => (
           &#x2B22;
           <UserAstronaut
             size="50"
-            color="#fff"
+            color="#E5E5E5"
             style={{
               transform: `translateY(-140px)`
             }}
@@ -92,7 +92,7 @@ const Card = styled.div`
   height: 500px;
   padding: 2rem;
   margin: 2rem 2rem 6rem 2rem;
-  background-color: #fff;
+  background-color: #E5E5E5;
   padding-top: 80px;
   -webkit-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
@@ -102,8 +102,8 @@ const Card = styled.div`
 const Name = styled.h2`
   font-family: Oswald;
   text-transform: uppercase;
-  color: #9DBCE7;
-  border-bottom: 1px solid #9DBCE7;
+  color: #5f728c;
+  border-bottom: 1px solid #E5E5E5;
   padding-top: 12px;
   padding-bottom: 6px;
   font-weight: 600;
@@ -120,7 +120,7 @@ text-transform: uppercase;
 text-align: center;
 z-index: 2;
 -webkit-text-fill-color: transparent;
--webkit-text-stroke-width: 1.5px;
+-webkit-text-stroke-width: 0.5px;
 -webkit-text-stroke-color: white;
 text-shadow: 2px 2px #d22d4c, 5px 5px #1e1c3c;
 `
@@ -134,7 +134,7 @@ const Slogan = styled.h3`
 `
 const Text = styled.p`
   color: #1e1c3c;
-  font-size: 0.95rem;
+  font-size: 0.85rem;
   text-align: left;
   font-family: Montserrat;
 `

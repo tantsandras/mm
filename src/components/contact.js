@@ -96,15 +96,15 @@ const Description = styled.article`
 const Name = styled.h2`
   font-family: Oswald;
   text-transform: uppercase;
-  border-bottom: 1px solid #9DBCE7;
+  border-bottom: 1px solid #E5E5E5;
   padding-top: 12px;
   font-weight: 600;
   padding-bottom: 6px;
-  color: #9DBCE7;
+  color: #5f728c;
 `
 
 const Slogan = styled.h3`
-  color: #9DBCE7;
+  color: #5f728c;
   font-size: 0.95rem;
   font-family: Montserrat;
   font-weight: 400;
@@ -113,14 +113,14 @@ const Slogan = styled.h3`
 const SocialLink = styled.a`
   text-decoration: none;
   cursor: pointer;
-  color: #9DBCE7;
+  color: #5f728c;
   &:hover {
     color: #d22d4c;
   }
 `
 const Text = styled.p`
-  color: #9DBCE7;
-  font-size: 0.95rem;
+  color: #E5E5E5;
+  font-size: 0.85rem;
   text-align: left;
   font-family: Montserrat;
 `

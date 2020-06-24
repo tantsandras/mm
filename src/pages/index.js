@@ -13,11 +13,11 @@ const Wrapper = styled.div`
   position: relative;
 `
 
-const IndexPage = () => (
+const IndexPage = ({transitionStatus, entry, exit}) => (
   <>
     <SEO title="Home" />
     <Wrapper>
-      <StyledBackground id="home" />
+      <StyledBackground id="home" status={transitionStatus} />
     </Wrapper>
   </>
 )

@@ -27,7 +27,7 @@ const Label = styled.span`
   opacity: 0;
   transition: all 0.1s ease-in;
   font-family: Oswald;
-  color: #9DBCE7;
+  color: #E5E5E5;
   font-size: 1rem;
   margin-left: 12px;
   margin-top: 6px;
@@ -64,7 +64,7 @@ const StyledLink = styled.span`
   &:hover ${Label} {
     max-width: 80px;
     animation: 0.2s ${fadeIn} forwards 0.2s;
-    border-bottom: 1px solid #9DBCE7;
+    border-bottom: 1px solid #E5E5E5;
   }
 `
 
@@ -77,7 +77,7 @@ const NavBar = () => (
           direction="right"
           to="about"
           style={{ color: `#d22d4c` }}
-          activeStyle={{ color: `#9DBCE7` }}
+          activeStyle={{ color: `#5f728c` }}
         >
           <MusicArtist size="24" />
           <Label style={{ marginLeft: `18px` }}>About</Label>
@@ -86,10 +86,11 @@ const NavBar = () => (
       <StyledLink>
         <AniLink
           style={{ color: `#d22d4c` }}
-          activeStyle={{ color: `#9DBCE7` }}
+          activeStyle={{ color: `#5f728c` }}
           swipe
           direction="right"
           to="episodes"
+         
         >
           <Radio size="30" />
           <Label>Listen</Label>
@@ -98,7 +99,7 @@ const NavBar = () => (
       <StyledLink>
         <AniLink
           style={{ color: `#d22d4c` }}
-          activeStyle={{ color: `#9DBCE7` }}
+          activeStyle={{ color: `#5f728c` }}
           swipe
           direction="right"
           to="contact"
@@ -110,7 +111,7 @@ const NavBar = () => (
       <StyledLink>
         <AniLink
           style={{ color: `#d22d4c` }}
-          activeStyle={{ color: `#9DBCE7` }}
+          activeStyle={{ color: `#5f728c` }}
           swipe
           direction="right"
           to="shop"
@@ -122,7 +123,7 @@ const NavBar = () => (
       <StyledLink>
         <AniLink
           style={{ color: `#d22d4c` }}
-          activeStyle={{ color: `#9DBCE7` }}
+          activeStyle={{ color: `#5f728c` }}
           swipe
           direction="right"
           to="support"

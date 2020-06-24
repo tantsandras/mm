@@ -15,7 +15,7 @@ const Footer = () => (
           rel="noopener noreferrer"
         >
           <Podcast size="24" background="transparent" />
-          <Text style={{ transform: `translateX(-12px)` }}>Itunes</Text>
+          <p style={{ transform: `translateX(-10px)` }}>Itunes</p>
         </ListenIcon>
         <ListenIcon
           href="https://open.spotify.com/show/0R3YUEiCHBH1nUonVXTzIZ"
@@ -23,7 +23,7 @@ const Footer = () => (
           rel="noopener noreferrer"
         >
           <Spotify size="24" />
-          <Text style={{ transform: `translateX(-16px)` }}>Spotify</Text>
+          <p style={{ transform: `translateX(-14px)` }}>Spotify</p>
         </ListenIcon>
         <ListenIcon
           href="https://www.stitcher.com/podcast/midweek-murders"
@@ -37,8 +37,9 @@ const Footer = () => (
               width: `22px`,
               height: `22px`,
             }}
+            alt="Stitcher icon"
           />
-          <Text style={{ transform: `translateX(-18px)` }}>Stitcher</Text>
+          <p style={{ transform: `translateX(-16px)` }}>Stitcher</p>
         </ListenIcon>
       </ul>
     </ListenBox>
@@ -50,8 +51,8 @@ const Footer = () => (
 )
 
 const Text = styled.p`
-  color: #9dbce7;
-  font-size: 0.95rem;
+  color: #5f728c;
+  font-size: 0.85rem;
   text-align: left;
   font-family: Montserrat;
 `
@@ -72,7 +73,7 @@ text-align: left;
 margin-left: 16%;
 margin-top: 10%;
 font-family: Montserrat;
-font-size: 0.95rem;
+font-size: 0.85rem;
 `
 
 const Credit = styled.p`
@@ -81,7 +82,7 @@ const Credit = styled.p`
   text-align: right;
   flex-basis: 100%;
   align-self: flex-end;
-  color: #9dbce7;
+  color: #5f728c;
   font-family: Oswald;
   font-size: 0.95rem;
   line-height: 2;
@@ -92,7 +93,7 @@ const ListenIcon = styled.a`
   padding-right: 40px;
   text-decoration: none;
   cursor: pointer;
-  color: #9dbce7;
+  color: #5f728c;
   &:hover {
     color: #d22d4c;
   }
