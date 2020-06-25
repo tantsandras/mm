@@ -70,8 +70,8 @@ const Container = styled.div`
   padding-bottom: 200px;
 `
 const Description = styled.article`
-  flex-basis: 60%;
-  margin: 4% 16%;
+  flex-basis: 70%;
+  margin: 4% 15%;
 `
 
 const ProfileAvatar = styled.div`

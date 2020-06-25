@@ -74,28 +74,28 @@ const Footer = () => (
   </Text2>
     </Contact>
     
-    <div style={{flexBasis: `60%`, margin: `2% 16%`, overflow: `hidden`, textAlign: `center`}}>
+    <div style={{flexBasis: `80%`, margin: `2% 10%`, overflow: `hidden`, textAlign: `center`}}>
   
       <Thumbnail><ImgStyle/></Thumbnail>  
     <NavFooter>
     <HexDiv> &#x2B22; </HexDiv>
-    <AniLink paintDrip to="/" hex="#1e1c3c" style={{ color: `#d22d4c`, paddingRight: `20px`, textTransform: `uppercase`, textDecoration: `none` }}
+    <AniLink paintDrip to="/" hex="#1e1c3c" style={{ color: `#d22d4c`, paddingRight: `10px`, textTransform: `uppercase`, textDecoration: `none` }}
           activeStyle={{ color: `#E5E5E5` }}>Home</AniLink> 
         
     <AniLink paintDrip to="about" hex="#1e1c3c"
-              style={{ color: `#d22d4c`, paddingRight: `20px`, textTransform: `uppercase`, textDecoration: `none` }}
+              style={{ color: `#d22d4c`, paddingRight: `10px`, textTransform: `uppercase`, textDecoration: `none` }}
               activeStyle={{ color: `#E5E5E5` }}
     >About</AniLink>
     <AniLink paintDrip to="episodes" hex="#1e1c3c"
-              style={{ color: `#d22d4c`, paddingRight: `20px`, textTransform: `uppercase`, textDecoration: `none` }}
+              style={{ color: `#d22d4c`, paddingRight: `10px`, textTransform: `uppercase`, textDecoration: `none` }}
               activeStyle={{ color: `#E5E5E5` }}
     >Listen</AniLink>
     <AniLink paintDrip to="contact" hex="#1e1c3c"
-              style={{ color: `#d22d4c`, paddingRight: `20px`, textTransform: `uppercase`, textDecoration: `none` }}
+              style={{ color: `#d22d4c`, paddingRight: `10px`, textTransform: `uppercase`, textDecoration: `none` }}
               activeStyle={{ color: `#E5E5E5` }}
     >Contact</AniLink>
     <AniLink paintDrip to="merch" hex="#1e1c3c"
-              style={{ color: `#d22d4c`, paddingRight: `20px`, textTransform: `uppercase`, textDecoration: `none` }}
+              style={{ color: `#d22d4c`, paddingRight: `10px`, textTransform: `uppercase`, textDecoration: `none` }}
               activeStyle={{ color: `#E5E5E5` }}
     >Merch</AniLink>
     <AniLink paintDrip to="support" hex="#1e1c3c"
@@ -120,7 +120,6 @@ const turnVisible = keyframes`
 const Name = styled.h4`
   font-family: Oswald;
   text-transform: uppercase;
-  font-weight: 600;
   border-bottom: 0.5px solid #E5E5E5;
   padding-bottom: 6px;
   color: #5f728c;
@@ -128,6 +127,7 @@ const Name = styled.h4`
 
 const NavFooter = styled.span`
 display: inline-block;
+flex-flow: row wrap;
 text-align: center;
 font-size: 0.85rem;
 flex: 1;
@@ -136,7 +136,7 @@ const HexDiv = styled.div`
   align-items: center;
   justify-content: center;
   text-align: center;
-  font-size: 270px;
+  font-size: 250px;
   z-index: 0;
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width: 0.8px;
@@ -201,11 +201,11 @@ const Container = styled.footer`
 const ListenBox = styled.article`
 flex: 1;
 text-align: left;
-margin-left: 16%;
+margin-left: 10%;
 `
 
 const Contact = styled.article`
-  margin-right: 16%;
+  margin-right: 10%;
   text-align: right;
   flex: 1;
 `

@@ -46,7 +46,7 @@ const BackButton = styled.span`
 
 const HexDiv = styled.div`
   text-align: center;
-  font-size: 270px;
+  font-size: 230px;
   margin-top: 70px;
   margin-bottom: 80px;
   -webkit-text-fill-color: transparent;
@@ -69,6 +69,7 @@ const Container = styled.section`
 const HeadLine = styled.h1`
   font-family: Oswald;
   font-size: 3.2rem;
+  transform: translateY(-20px);
   font-weight: 600;
   letter-spacing: 0.1em;
   text-transform: uppercase;
