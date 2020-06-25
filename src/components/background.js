@@ -30,16 +30,16 @@ const Title = styled.div`
   line-height: 1;
   z-index: 8;
   -webkit-text-fill-color: transparent;
-  -webkit-text-stroke-width: 1.5px;
+  -webkit-text-stroke-width: 0.5px;
   -webkit-text-stroke-color: white;
-  text-shadow: 2px 2px #d22d4c, 5px 5px #5f728c;
+  text-shadow: 2px 2px #d22d4c, 4px 4px #5f728c;
   animation: ${turnVisible} 0.6s ease-in;
 `
 const Card = styled.div`
   margin-top: 4%;
   margin-bottom: 600px;
   position: relative;
-  min-width: 320px;
+  min-width: 300px;
   max-width: 40vw;
   margin: 0 auto;
   min-height: 100%;
@@ -92,12 +92,11 @@ const TextContainer = styled.div`
 
 const PodTitle = styled.h2`
   font-family: Oswald;
-  font-size: 2.6rem;
   font-weight: 600;
   text-transform: uppercase;
-  border-bottom: 1px solid #282d50;
+  border-bottom: 1px solid #1e1c3c;
   padding-bottom: 6px;
-  color: #282d50;
+  color: #1e1c3c;
 `
 
 const Description = styled.p`
@@ -127,9 +126,11 @@ const Icon = styled.a`
 `
 const StyledBackground = styled(BackgroundImage)`
   width: 100%;
-  height: 70vh;
+  height: 80vh;
   background-attachment: fixed;
-  margin-bottom: 150px;
+  -webkit-background-attachment: fixed;
+  -moz-background-attachment: fixed;
+  -o-background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -137,6 +138,9 @@ const StyledBackground = styled(BackgroundImage)`
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
+  -webkit-box-shadow: inset 10px 10px 93px 0px rgba(0, 0, 0, 0.95);
+  -moz-box-shadow: inset 10px 10px 93px 0px rgba(0, 0, 0, 0.95);
+  box-shadow: inset 10px 10px 93px 0px rgba(0, 0, 0, 0.95);
 `
 
 const BackgroundSection = ({ className, status }) => (

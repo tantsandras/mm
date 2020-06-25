@@ -74,9 +74,9 @@ const Thumbnail = styled.div`
   position: relative;
   top: -20px;
   left: 80px;
-  height: 200px;
+  height: 176px;
   display: block;
-  width: 160px;
+  width: 158px;
   overflow: hidden;
   animation: ${turnVisible} 0.6s ease-in;
 `
@@ -96,7 +96,7 @@ const Description = styled.article`
 const Name = styled.h2`
   font-family: Oswald;
   text-transform: uppercase;
-  border-bottom: 1px solid #E5E5E5;
+  border-bottom: 0.2px solid #E5E5E5;
   padding-top: 12px;
   font-weight: 600;
   padding-bottom: 6px;

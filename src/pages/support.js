@@ -7,7 +7,7 @@ import Support from "../components/support"
 const SupportPage = () => (
   <>
     <SEO title="Support" />
-    <PageContainer id={"support"} header={"Support the show"}>
+    <PageContainer id={"support"} header={"Support"}>
       <Support />
     </PageContainer>
   </>

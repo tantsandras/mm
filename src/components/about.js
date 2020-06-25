@@ -16,7 +16,7 @@ const About = () => (
         </Text>
       </Description>
       <Description>
-        <Name style={{color: `#5f728c`}}>Hosts</Name>
+        <Name>Hosts</Name>
         <Slogan style={{color: `#5f728c`}}>Sandra & Joe</Slogan>
       </Description>
       <Card>
@@ -79,8 +79,12 @@ const ProfileAvatar = styled.div`
   justify-content: center;
   text-align: center;
   font-size: 270px;
-  color: #5f728c;
+  // color: #5f728c;
   z-index: 0;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 0.8px;
+  -webkit-text-stroke-color: white;
+  text-shadow: 0.5px 0.5px #5f728c, 5px 5px rgba(0, 0, 0, 0.02);
 `
 
 const Card = styled.div`
@@ -103,7 +107,7 @@ const Name = styled.h2`
   font-family: Oswald;
   text-transform: uppercase;
   color: #5f728c;
-  border-bottom: 1px solid #E5E5E5;
+  border-bottom: 0.2px solid #E5E5E5;
   padding-top: 12px;
   padding-bottom: 6px;
   font-weight: 600;
@@ -111,10 +115,9 @@ const Name = styled.h2`
 
 
 const HostName = styled(Name)`
-border-bottom: 1px solid #282d50;
+border-bottom: 0.5px solid #1e1c3c;
 margin-top: -150px;
 padding-bottom: 56px;
-color: #282d50;
 letter-spacing: 0.1em;
 text-transform: uppercase;
 text-align: center;
@@ -122,7 +125,7 @@ z-index: 2;
 -webkit-text-fill-color: transparent;
 -webkit-text-stroke-width: 0.5px;
 -webkit-text-stroke-color: white;
-text-shadow: 2px 2px #d22d4c, 5px 5px #1e1c3c;
+text-shadow: 2px 2px #d22d4c, 4px 4px #1e1c3c;
 `
 
 const Slogan = styled.h3`

@@ -23,7 +23,7 @@ const Label = styled.span`
   transition: all 0.1s ease-in;
   font-family: Oswald;
   color: #E5E5E5;
-  font-size: 1rem;
+  font-size: 0.85rem;
   margin-left: 12px;
   margin-top: 6px;
   padding-bottom: 2px;
@@ -31,7 +31,7 @@ const Label = styled.span`
   z-index: 2;
 `
 
-const BackButton = styled.a`
+const BackButton = styled.span`
   align-self: flex-start;
   margin-left: 60px;
   text-decoration: none;
@@ -40,16 +40,19 @@ const BackButton = styled.a`
   &:hover ${Label} {
     max-width: 80px;
     animation: 0.2s ${fadeIn} forwards 0.2s;
-    border-bottom: 1px solid #E5E5E5;
+    border-bottom: 0.5px solid #E5E5E5;
   }
 `
 
 const HexDiv = styled.div`
   text-align: center;
-  color: #5f728c;
   font-size: 270px;
   margin-top: 70px;
   margin-bottom: 80px;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color: white;
+  text-shadow: 0.5px 0.5px #1e1c3c, 10px 10px rgba(0, 0, 0, 0.05);
 `
 const Container = styled.section`
   padding-top: 4%;
@@ -65,7 +68,7 @@ const Container = styled.section`
 
 const HeadLine = styled.h1`
   font-family: Oswald;
-  font-size: 1.8rem;
+  font-size: 3.2rem;
   font-weight: 600;
   letter-spacing: 0.1em;
   text-transform: uppercase;
@@ -73,7 +76,7 @@ const HeadLine = styled.h1`
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width: 0.5px;
   -webkit-text-stroke-color: white;
-  text-shadow: 2px 2px #d22d4c, 5px 5px #1e1c3c;
+  text-shadow: 2px 2px #d22d4c, 3px 3px #5f728c;
 `
 
 const PageContainer = ({ id, header, children }) => (

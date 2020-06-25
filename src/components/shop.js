@@ -24,8 +24,8 @@ const Thumbnail = styled.div`
   position: relative;
   top: 160px;
   left: 0px;
-  height: 320px;
-  width: 260px;
+  height: 285px;
+  width: 253px;
   display: block;
   overflow: hidden;
   background-color: transparent;

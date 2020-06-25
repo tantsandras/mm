@@ -24,7 +24,8 @@ const Episodes = ({ status }) => (
         on Itunes). Listen here, or on:
         <ul
           style={{
-            marginTop: `20px`,
+            marginTop: `10px`,
+            marginLeft: `0px`,
           }}
         >
           <ListenIcon
@@ -32,8 +33,8 @@ const Episodes = ({ status }) => (
             target="_blank"
             rel="noopener noreferrer"
           >
-            <Podcast size="30" background="transparent" />
-            <p style={{ transform: `translateX(-10px)`, fontSize: `0.85rem` }}>
+            <Podcast size="26" background="transparent" />
+            <p style={{ transform: `translateX(-10px)`, fontSize: `0.75rem` }}>
               Itunes
             </p>
           </ListenIcon>
@@ -42,26 +43,26 @@ const Episodes = ({ status }) => (
             target="_blank"
             rel="noopener noreferrer"
           >
-            <Spotify size="30" />
-            <p style={{ transform: `translateX(-12px)`, fontSize: `0.85rem` }}>
+            <Spotify size="26" />
+            <p style={{ transform: `translateX(-10px)`, fontSize: `0.75rem` }}>
               Spotify
             </p>
           </ListenIcon>
           <ListenIcon
-            href="https://www.stitcher.com/podcast/midweek-murders"
+            href="https://www.stitcher.com/s?fid=544619&refid=stpr"
             target="_blank"
             rel="noopener noreferrer"
           >
             <img
               src={Stitcher}
               style={{
-                transform: `translateY(28px)`,
-                width: `28px`,
-                height: `28px`,
+                transform: `translateY(26px)`,
+                width: `22px`,
+                height: `22px`,
               }}
               alt="Stitcher icon"
             />
-            <p style={{ transform: `translateX(-16px)`, fontSize: `0.85rem` }}>
+            <p style={{ transform: `translateX(-14px)`, fontSize: `0.75rem` }}>
               Stitcher
             </p>
           </ListenIcon>
@@ -159,7 +160,7 @@ const Name = styled.h2`
   font-family: Oswald;
   text-transform: uppercase;
   font-weight: 600;
-  border-bottom: 1px solid #E5E5E5;
+  border-bottom: 0.5px solid #E5E5E5;
   padding-top: 12px;
   padding-bottom: 6px;
   color: #5f728c;
@@ -183,7 +184,8 @@ const Text = styled.span`
 const ListenIcon = styled.a`
   display: inline-block;
   list-style: none;
-  padding-right: 40px;
+  padding-right: 10px;
+  padding-left: 12px;
   text-decoration: none;
   cursor: pointer;
   color: #5f728c;
@@ -194,7 +196,7 @@ const ListenIcon = styled.a`
 const Card = styled.div`
   margin-top: 100px;
   position: relative;
-  min-width: 320px;
+  min-width: 300px;
   max-width: 40vw;
   margin-left: 4%;
   margin-right: 4%;
@@ -221,11 +223,6 @@ const Thumbnail = styled.div`
   box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
   overflow: hidden;
 `
-const Break = styled.div`
-  flex-basis: 100%;
-  height: 0;
-`
-
 const Column = styled.span`
   flex-direction: column;
   justify-content: center;
@@ -250,9 +247,9 @@ const PodTitle = styled.h2`
   font-family: Oswald;
   font-weight: 600;
   text-transform: uppercase;
-  border-bottom: 1px solid #282d50;
+  border-bottom: 0.5px solid #1e1c3c;
   padding-bottom: 6px;
-  color: #282d50;
+  color: #1e1c3c;
 `
 
 const Description = styled.p`
