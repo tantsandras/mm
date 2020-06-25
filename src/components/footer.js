@@ -21,7 +21,7 @@ const Footer = () => (
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Podcast size="26" background="transparent" />
+          <Podcast size="22" background="transparent" />
        
         </ListenIcon>
         <ListenIcon
@@ -29,7 +29,7 @@ const Footer = () => (
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Spotify size="26" />
+          <Spotify size="22" />
       
         </ListenIcon>
         <ListenIcon
@@ -40,8 +40,8 @@ const Footer = () => (
           <img
             src={Stitcher}
             style={{
-              width: `22px`,
-              height: `22px`,
+              width: `18px`,
+              height: `18px`,
             }}
             alt="Stitcher icon"
           />
@@ -58,7 +58,7 @@ const Footer = () => (
             rel="noopener noreferrer"
           >
         <TwitterWithCircle
-              size="26"
+              size="22"
             />
             </SocialLink>
       <SocialLink
@@ -66,7 +66,7 @@ const Footer = () => (
                target="_blank"
                rel="noopener noreferrer">
         <InstagramWithCircle
-              size="26"
+              size="22"
             />
           </SocialLink><br />
       
@@ -117,7 +117,7 @@ const turnVisible = keyframes`
 		opacity: 1;
 	}
 `
-const Name = styled.h4`
+const Name = styled.h6`
   font-family: Oswald;
   text-transform: uppercase;
   border-bottom: 0.5px solid #E5E5E5;
@@ -139,7 +139,7 @@ const HexDiv = styled.div`
   font-size: 250px;
   z-index: 0;
   -webkit-text-fill-color: transparent;
-  -webkit-text-stroke-width: 0.8px;
+  -webkit-text-stroke-width: 0.5px;
   -webkit-text-stroke-color: white;
   text-shadow: 0.5px 0.5px #1e1c3c, 5px 5px rgba(0, 0, 0, 0.05);
 `
@@ -162,8 +162,8 @@ display: block;
 
 const Thumbnail = styled.div`
   margin: 0 auto;
-  height: 120px;
-  width: 120px;
+  height: 100px;
+  width: 100px;
   display: block;
   overflow: hidden;
   background-color: transparent;
@@ -201,11 +201,11 @@ const Container = styled.footer`
 const ListenBox = styled.article`
 flex: 1;
 text-align: left;
-margin-left: 10%;
+margin-left: 12%;
 `
 
 const Contact = styled.article`
-  margin-right: 10%;
+  margin-right: 12%;
   text-align: right;
   flex: 1;
 `
@@ -215,7 +215,7 @@ flex: 1;
 color: #5f728c;
 font-family: Oswald;
 font-size: 0.85rem;
-padding-top: 100px;
+padding-top: 120px;
 `
 const ListenIcon = styled.a`
   display: inline-block;
