@@ -122,6 +122,8 @@ const Name = styled.h6`
   text-transform: uppercase;
   border-bottom: 0.5px solid #E5E5E5;
   padding-bottom: 6px;
+  font-size: 0.85rem;
+  font-weight: 400;
   color: #5f728c;
 `
 
