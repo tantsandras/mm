@@ -1,5 +1,4 @@
-import { Link } from "gatsby"
-import PropTypes from "prop-types"
+
 import React from "react"
 import styled, { keyframes } from "styled-components"
 import { UserMd, UserAstronaut } from "@styled-icons/fa-solid"

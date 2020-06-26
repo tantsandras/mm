@@ -1,7 +1,6 @@
 import React from "react"
 import SEO from "../components/seo"
-import PropTypes from "prop-types"
-import styled, { keyframes } from "styled-components"
+import styled from "styled-components"
 import StyledBackground from "../components/background"
 
 const Wrapper = styled.div`
@@ -13,11 +12,11 @@ const Wrapper = styled.div`
   position: relative;
 `
 
-const IndexPage = ({transitionStatus}) => (
+const IndexPage = () => (
   <>
     <SEO title="Home" />
     <Wrapper>
-      <StyledBackground id="home" status={transitionStatus} />
+      <StyledBackground id="home" />
     </Wrapper>
   </>
 )

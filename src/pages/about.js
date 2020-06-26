@@ -1,6 +1,5 @@
 import React from "react"
 import SEO from "../components/seo"
-import PropTypes from "prop-types"
 import About from "../components/about"
 import PageContainer from "../components/container"
 

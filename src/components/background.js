@@ -3,11 +3,10 @@ import { StaticQuery, graphql } from "gatsby"
 import BackgroundImage from "gatsby-background-image-es5"
 import styled, { keyframes } from "styled-components"
 import Logo from "./logo"
-import { PlayCircleFilled } from "@styled-icons/material"
 import { Share } from "@styled-icons/entypo"
 import { TwitterWithCircle } from "@styled-icons/entypo-social"
 import { FacebookCircle } from "@styled-icons/boxicons-logos"
-import AudioPlayer from "./AudioPlayer"
+import AudioPlayer from "./useAudioPlayer"
 
 const turnVisible = keyframes`
 	from {
@@ -64,22 +63,6 @@ const Thumbnail = styled.div`
   -moz-box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
   box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
   overflow: hidden;
-`
-const Break = styled.div`
-  flex-basis: 100%;
-  height: 0;
-`
-
-const Column = styled.span`
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  align-self: flex-start;
-  padding-top: 26px;
-  width: 100px;
-  margin-right: 40px;
-  padding-left: 30px;
 `
 
 const TextContainer = styled.div`
@@ -143,7 +126,7 @@ const StyledBackground = styled(BackgroundImage)`
   box-shadow: inset 10px 10px 93px 0px rgba(0, 0, 0, 0.95);
 `
 
-const BackgroundSection = ({ className, status }) => (
+const BackgroundSection = ({ className }) => (
   <StaticQuery
     query={graphql`
       query {
@@ -158,6 +141,7 @@ const BackgroundSection = ({ className, status }) => (
     `}
     render={data => {
       const imageData = data.desktop.childImageSharp.fluid
+  
       return (
         <>
           <StyledBackground
@@ -173,7 +157,6 @@ const BackgroundSection = ({ className, status }) => (
             <Thumbnail>
               <Logo />
             </Thumbnail>
-            <Column></Column>
             <Icons>
               <Icon
                 className="twitter-share-button"
@@ -191,8 +174,7 @@ const BackgroundSection = ({ className, status }) => (
                 <Share size="40" />
               </Icon>
             </Icons>
-            <Break />
-            <AudioPlayer url="https://embed.sounder.fm/play/42429" status={status} />
+            <AudioPlayer url="https://embed.sounder.fm/play/42429" />
             <TextContainer>
               <PodTitle>Trailer</PodTitle>
               <Description>

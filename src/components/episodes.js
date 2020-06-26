@@ -1,19 +1,18 @@
-import { Link } from "gatsby"
-import PropTypes from "prop-types"
+
 import React from "react"
-import styled, { keyframes } from "styled-components"
+import styled from "styled-components"
 import Logo from "./logo"
-import { PlayCircleFilled } from "@styled-icons/material"
 import { Share } from "@styled-icons/entypo"
 import { TwitterWithCircle } from "@styled-icons/entypo-social"
 import { FacebookCircle } from "@styled-icons/boxicons-logos"
-import AudioPlayer from "./AudioPlayer"
 import { Spotify } from "@styled-icons/fa-brands"
 import { Podcast } from "@styled-icons/fa-solid"
 import Stitcher from "../images/blue-stitcher.png"
+import AudioPlayer from "./useAudioPlayer"
 
-
-const Episodes = ({ status }) => (
+const Episodes = () => {
+  
+return (
   <Container>
     <Intro>
       <Name>Midweek Murders</Name>
@@ -94,7 +93,8 @@ const Episodes = ({ status }) => (
           <Share size="40" />
         </Icon>
       </Icons>
-      <AudioPlayer url="https://embed.sounder.fm/play/43055" status={status} />
+      <AudioPlayer url="https://embed.sounder.fm/play/43055" />
+    
       <TextContainer>
         <PodTitle>The Pimlico Mystery</PodTitle>
         <Description>
@@ -129,7 +129,8 @@ const Episodes = ({ status }) => (
           <Share size="40" />
         </Icon>
       </Icons>
-      <AudioPlayer url="https://embed.sounder.fm/play/42428" status={status} />
+      <AudioPlayer url="https://embed.sounder.fm/play/42428" />
+     
       <TextContainer>
         <PodTitle>Russian Spies</PodTitle>
         <Description>
@@ -141,7 +142,8 @@ const Episodes = ({ status }) => (
       </TextContainer>
     </Card>
   </Container>
-)
+  )
+}
 
 
 const Container = styled.div`

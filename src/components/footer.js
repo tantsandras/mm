@@ -94,7 +94,7 @@ const Footer = () => (
               style={{ color: `#d22d4c`, paddingRight: `10px`, textTransform: `uppercase`, textDecoration: `none` }}
               activeStyle={{ color: `#E5E5E5` }}
     >Contact</AniLink>
-    <AniLink paintDrip to="merch" hex="#1e1c3c"
+    <AniLink paintDrip to="shop" hex="#1e1c3c"
               style={{ color: `#d22d4c`, paddingRight: `10px`, textTransform: `uppercase`, textDecoration: `none` }}
               activeStyle={{ color: `#E5E5E5` }}
     >Merch</AniLink>

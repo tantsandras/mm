@@ -1,4 +1,4 @@
-import PropTypes from "prop-types"
+
 import React from "react"
 import { MusicArtist } from "@styled-icons/zondicons"
 import { MoneyPoundCircle } from "@styled-icons/remix-fill"
