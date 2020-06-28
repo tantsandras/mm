@@ -12,9 +12,19 @@ collections:
         create: true
         folder: "content/podcastEpisodesFolder"
         slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+        media_library:
+          config:
+            multiple: true
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Google file id, name: file, widget: string}
+          - {label: Serial, name: serial, widget: number}
+          - {label: Number, name: number, widget: string}
           - {label: Description, name: descriptionText, widget: text}
           - {label: Date, name: date, widget: number}
           - {label: Month, name: month, widget: string}
+          - label: Images 
+            name: images 
+            widget: list 
+            fields:
+            - {label: image, name: image, widget: image}
+            - {label: Image description, name: alt, widget: text}

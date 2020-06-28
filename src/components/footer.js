@@ -9,20 +9,20 @@ import {
 } from "@styled-icons/entypo-social"
 import Image from "./icon"
 import AniLink from "gatsby-plugin-transition-link/AniLink"
+import { Itunes, Googlepodcasts, Castbox } from '@styled-icons/simple-icons'
 
 const Footer = () => (
   <Container>
 
     <ListenBox>
       <Name>Listen</Name>
-      <Text> 
+      <Text>
         <ListenIcon
           href="https://podcasts.apple.com/gb/podcast/midweek-murders/id1518983516"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Podcast size="22" background="transparent" />
-       
+          <Itunes size="22" style={{ transform: `translateY(-3px)`, }} />
         </ListenIcon>
         <ListenIcon
           href="https://open.spotify.com/show/0R3YUEiCHBH1nUonVXTzIZ"
@@ -30,7 +30,7 @@ const Footer = () => (
           rel="noopener noreferrer"
         >
           <Spotify size="22" />
-      
+
         </ListenIcon>
         <ListenIcon
           href="https://www.stitcher.com/s?fid=544619&refid=stpr "
@@ -45,67 +45,89 @@ const Footer = () => (
             }}
             alt="Stitcher icon"
           />
- 
+
+        </ListenIcon>
+        <ListenIcon
+          href="https://podcasts.google.com/feed/aHR0cHM6Ly9taWR3ZWVrbXVyZGVycy5zb3VuZ"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <Googlepodcasts size="20" style={{ transform: `translateY(-4px)`, }} />
+        </ListenIcon>
+        <ListenIcon
+          href="https://castbox.fm/channel/Midweek-Murders-id3009183?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=Midweek%20Murders-CastBox_FM"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <Castbox size="22" style={{ transform: `translateY(-3px)`, }} />
+        </ListenIcon>
+        <ListenIcon
+          href="https://podcasts.apple.com/gb/podcast/midweek-murders/id1518983516"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <Podcast size="22" style={{ transform: `translateY(1px)`, }}/>
+
         </ListenIcon>
       </Text>
     </ListenBox>
     <Contact>
-   <Name>Contact</Name>
-   <Text2>
-      <SocialLink     
-            href="https://twitter.com/midweekmurders/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-        <TwitterWithCircle
-              size="22"
-            />
-            </SocialLink>
-      <SocialLink
-               href="https://www.instagram.com/midweekmurders/"
-               target="_blank"
-               rel="noopener noreferrer">
-        <InstagramWithCircle
-              size="22"
-            />
-          </SocialLink><br />
-      
-  midweekmurders@gmail.com
+      <Name>Contact</Name>
+      <Text2>
+        <SocialLink
+          href="https://twitter.com/midweekmurders/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <TwitterWithCircle
+            size="22"
+          />
+        </SocialLink>
+        <SocialLink
+          href="https://www.instagram.com/midweekmurders/"
+          target="_blank"
+          rel="noopener noreferrer">
+          <InstagramWithCircle
+            size="22"
+          />
+        </SocialLink><br />
+
+        midweekmurders@gmail.com
   </Text2>
     </Contact>
-    
-    <div style={{flexBasis: `80%`, margin: `2% 10%`, overflow: `hidden`, textAlign: `center`}}>
-  
-      <Thumbnail><ImgStyle/></Thumbnail>  
-    <NavFooter>
-    <HexDiv> &#x2B22; </HexDiv>
-    <AniLink paintDrip to="/" hex="#1e1c3c" style={{ color: `#d22d4c`, paddingRight: `10px`, textTransform: `uppercase`, textDecoration: `none` }}
-          activeStyle={{ color: `#E5E5E5` }}>Home</AniLink> 
-        
-    <AniLink paintDrip to="about" hex="#1e1c3c"
-              style={{ color: `#d22d4c`, paddingRight: `10px`, textTransform: `uppercase`, textDecoration: `none` }}
-              activeStyle={{ color: `#E5E5E5` }}
-    >About</AniLink>
-    <AniLink paintDrip to="episodes" hex="#1e1c3c"
-              style={{ color: `#d22d4c`, paddingRight: `10px`, textTransform: `uppercase`, textDecoration: `none` }}
-              activeStyle={{ color: `#E5E5E5` }}
-    >Listen</AniLink>
-    <AniLink paintDrip to="contact" hex="#1e1c3c"
-              style={{ color: `#d22d4c`, paddingRight: `10px`, textTransform: `uppercase`, textDecoration: `none` }}
-              activeStyle={{ color: `#E5E5E5` }}
-    >Contact</AniLink>
-    <AniLink paintDrip to="shop" hex="#1e1c3c"
-              style={{ color: `#d22d4c`, paddingRight: `10px`, textTransform: `uppercase`, textDecoration: `none` }}
-              activeStyle={{ color: `#E5E5E5` }}
-    >Merch</AniLink>
-    <AniLink paintDrip to="support" hex="#1e1c3c"
-              style={{ color: `#d22d4c`, textTransform: `uppercase`, textDecoration: `none` }}
-              activeStyle={{ color: `#E5E5E5` }}
-    >Support</AniLink>
-    </NavFooter>
-    <Credit>© {new Date().getFullYear()},
+
+    <div style={{ flexBasis: `80%`, margin: `2% 10%`, overflow: `hidden`, textAlign: `center` }}>
+
+      <Thumbnail><ImgStyle /></Thumbnail>
+      <NavFooter>
+        <HexDiv> &#x2B22; </HexDiv>
+        <AniLink paintDrip to="/" hex="#1e1c3c" style={{ color: `#d22d4c`, paddingRight: `10px`, textTransform: `uppercase`, textDecoration: `none` }}
+          activeStyle={{ color: `#E5E5E5` }}>Home</AniLink>
+
+        <AniLink paintDrip to="about" hex="#1e1c3c"
+          style={{ color: `#d22d4c`, paddingRight: `10px`, textTransform: `uppercase`, textDecoration: `none` }}
+          activeStyle={{ color: `#E5E5E5` }}
+        >About</AniLink>
+        <AniLink paintDrip to="episodes" hex="#1e1c3c"
+          style={{ color: `#d22d4c`, paddingRight: `10px`, textTransform: `uppercase`, textDecoration: `none` }}
+          activeStyle={{ color: `#E5E5E5` }}
+        >Listen</AniLink>
+        <AniLink paintDrip to="contact" hex="#1e1c3c"
+          style={{ color: `#d22d4c`, paddingRight: `10px`, textTransform: `uppercase`, textDecoration: `none` }}
+          activeStyle={{ color: `#E5E5E5` }}
+        >Contact</AniLink>
+        <AniLink paintDrip to="shop" hex="#1e1c3c"
+          style={{ color: `#d22d4c`, paddingRight: `10px`, textTransform: `uppercase`, textDecoration: `none` }}
+          activeStyle={{ color: `#E5E5E5` }}
+        >Merch</AniLink>
+        <AniLink paintDrip to="support" hex="#1e1c3c"
+          style={{ color: `#d22d4c`, textTransform: `uppercase`, textDecoration: `none` }}
+          activeStyle={{ color: `#E5E5E5` }}
+        >Support</AniLink>
+      </NavFooter>
+      <Credit>© {new Date().getFullYear()},
       Design and code by Sandra Grahl</Credit>
-      </div>
+    </div>
   </Container>
 )
 
@@ -176,7 +198,7 @@ const Thumbnail = styled.div`
 const Text = styled.p`
   margin-top: -20px;
   color: #5f728c;
-  line-height: 2.5;
+  line-height: 2;
   text-align: left;
   font-family: Oswald;
   text-transform: uppercase;
