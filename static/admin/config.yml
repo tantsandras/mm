@@ -11,13 +11,13 @@ collections:
         identifier_field: name
         create: true
         folder: "content/podcastEpisodesFolder"
-        slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+        slug: "{{slug}}"
         media_library:
           config:
             multiple: true
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Serial, name: serial, widget: number}
+          - {label: Serial, name: serial, widget: string}
           - {label: Number, name: number, widget: string}
           - {label: Description, name: descriptionText, widget: text}
           - {label: Date, name: date, widget: number}

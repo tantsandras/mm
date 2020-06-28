@@ -1,6 +1,6 @@
 ---
 title: Russian Spies
-serial: 1
+serial: "01"
 number: "42428"
 descriptionText: In this episode Sandra talks about 'bee medicine', Joe explains
   nerve agents, and the case discussed is the Salisbury poisonings, a.k.a the
@@ -18,7 +18,7 @@ date: 17
 month: June
 images:
   - image: /imgUploads/chepiga_boshirov.jpg
-    alt: Side by side photos of Col Chepiga and Mr Boshirov
+    alt: Side by side comparison of Col Chepiga and Mr Boshirov.
   - image: /imgUploads/1200px-forensic_tent_at_the_maltings-_salisbury_-cropped-.jpg
     alt: Forensic tent around the bench where Yulia and Skripal was found
       unconscious.
