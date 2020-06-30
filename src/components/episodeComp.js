@@ -39,19 +39,24 @@ const Text = styled.span`
   font-family: Montserrat;
 `
 
-const EpsiodeComp = props => {
-    return (
-        <PageContainer header={props.serial}>
-            <Container>
-                <Intro>
-                    <Name></Name>
-                    <Slogan></Slogan>
-                    <Text></Text>
-                </Intro>
-            </Container>
-        </PageContainer>
-    )
+const EpisodeComp = ({ episode }) => {
+  const { title, serial, descriptionText, date, month } = episode
+  console.log("HELLO", title)
+  // const { title, serial, descriptionText, date, month } = props.episode
+  return (
+
+    < PageContainer header={serial}>
+      <Container>
+        <Intro>
+          <Name>{title}</Name>
+          <Slogan>{date} {month}</Slogan>
+          <Text>{descriptionText}</Text>
+        </Intro>
+      </Container>
+    </PageContainer >
+  )
 }
 
 
-export default EpsiodeComp
+
+export default EpisodeComp

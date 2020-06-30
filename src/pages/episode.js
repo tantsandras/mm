@@ -3,16 +3,33 @@ import SEO from "../components/seo"
 import PageContainer from "../components/container"
 import { Router } from '@reach/router'
 import EpisodeComp from "../components/episodeComp"
+import { graphql } from "gatsby"
 
-const EpisodePage = () => {
+const EpisodePage = ({ data }) => {
     return (
-
-        <Router>
-            <EpisodeComp path="/episode/:serial" />
-        </Router>
-
+        <>
+            <EpisodeComp episode={data.markdownRemark.frontmatter} />
+        </>
     )
 }
 
+// <Router>
+//     <EpisodeComp path="/episode/:serial" />
+// </Router>
 
 export default EpisodePage
+
+
+export const EpisodeQuery = graphql`
+  query EpisodePageQuery($slug: String!) {
+    markdownRemark(fields: { slug: { eq: $slug } }) {
+      frontmatter {
+        title
+        serial
+        descriptionText
+        date
+        month
+      }
+    }
+  }
+`;

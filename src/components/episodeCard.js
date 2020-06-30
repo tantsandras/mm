@@ -7,6 +7,7 @@ import { FacebookCircle } from "@styled-icons/boxicons-logos"
 import AudioPlayer from "./useAudioPlayer"
 import { RightArrowCircle } from "@styled-icons/boxicons-regular"
 import AniLink from "gatsby-plugin-transition-link/AniLink"
+import slugTransformer from "./slugTransformer"
 
 const fadeIn = keyframes`
 from {
@@ -160,49 +161,50 @@ const Icon = styled.a`
   }
 `
 
-const EpisodeCard = ({ number, date, month, serial, title, description }) => (
-
+const EpisodeCard = ({ number, date, month, serial, title, description }) => {
+  const slug = slugTransformer(title);
+  return (
     <Card>
-        <Thumbnail>
-            <Logo />
-        </Thumbnail>
-        <Column>
-            <Date>{date}</Date>
-            <Month>{month}</Month>
-        </Column>
-        <Icons>
-            <Icon
-                className="twitter-share-button"
-                href={`https://twitter.com/intent/tweet?url=https%3A%2F%2Fembed.sounder.fm%2Fplay%2F${number}`}
-            >
-                <TwitterWithCircle size="40" />
-            </Icon>
-            <Icon
-                className="fb-share-button"
-                href={`https://www.facebook.com/sharer/sharer.php?u=https://embed.sounder.fm/play/${number}`}
-            >
-                <FacebookCircle size="40" />
-            </Icon>
-            <Icon href={`https://embed.sounder.fm/play/${number}`}>
-                <Share size="40" />
-            </Icon>
-        </Icons>
-        <AudioPlayer url={`https://embed.sounder.fm/play/${number}`} />
+      <Thumbnail>
+        <Logo />
+      </Thumbnail>
+      <Column>
+        <Date>{date}</Date>
+        <Month>{month}</Month>
+      </Column>
+      <Icons>
+        <Icon
+          className="twitter-share-button"
+          href={`https://twitter.com/intent/tweet?url=https%3A%2F%2Fembed.sounder.fm%2Fplay%2F${number}`}
+        >
+          <TwitterWithCircle size="40" />
+        </Icon>
+        <Icon
+          className="fb-share-button"
+          href={`https://www.facebook.com/sharer/sharer.php?u=https://embed.sounder.fm/play/${number}`}
+        >
+          <FacebookCircle size="40" />
+        </Icon>
+        <Icon href={`https://embed.sounder.fm/play/${number}`}>
+          <Share size="40" />
+        </Icon>
+      </Icons>
+      <AudioPlayer url={`https://embed.sounder.fm/play/${number}`} />
 
-        <TextContainer>
-            <PodTitle>{serial}. {title}</PodTitle>
-            <Description>{description}</Description>
-        </TextContainer>
-        <ReadMore>
-            <AniLink paintDrip to={`/episode/${serial}`} hex="#1e1c3c">
-                <Label>More</Label>
-                <RightArrowCircle size="60" color="#E5E5E5" style={{
-                    position: `absolute`, right: `0px`,
-                    bottom: `0px`
-                }} />
-            </AniLink>
-        </ReadMore>
+      <TextContainer>
+        <PodTitle>{serial}. {title}</PodTitle>
+        <Description>{description}</Description>
+      </TextContainer>
+      <ReadMore>
+        <AniLink paintDrip to={`/episode/${slug}`} hex="#1e1c3c">
+          <Label>More</Label>
+          <RightArrowCircle size="60" color="#E5E5E5" style={{
+            position: `absolute`, right: `0px`,
+            bottom: `0px`
+          }} />
+        </AniLink>
+      </ReadMore>
     </Card >
-)
-
+  )
+}
 export default EpisodeCard
