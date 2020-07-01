@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Midweek Murders`,
-    keywords: `best-podcasts-uk,comedy-podcast,uk-podcasts,true-crime-comedy-podcast,Midweek-Murders,crime-podcasts`,
+    keywords: `best podcasts uk,crime,comedy,podcast,uk podcasts,true crime comedy podcast,Midweek Murders,crime podcasts`,
     description: `A true crime comedy podcast`,
     author: `Sandra Grahl`,
     siteUrl: `https://www.midweekmurders.netlify.app`,
