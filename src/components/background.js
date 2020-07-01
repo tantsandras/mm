@@ -31,7 +31,7 @@ const Title = styled.div`
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width: 0.5px;
   -webkit-text-stroke-color: white;
-  text-shadow: 2px 2px #d22d4c, 4px 4px #5f728c;
+  text-shadow: 2px 2px #d22d4c, 4px 4px #1e1c3c;
   animation: ${turnVisible} 0.6s ease-in;
 `
 const Card = styled.div`
@@ -109,7 +109,7 @@ const Icon = styled.a`
 `
 const StyledBackground = styled(BackgroundImage)`
   width: 100%;
-  height: 80vh;
+  height: 100vh;
   background-attachment: fixed;
   -webkit-background-attachment: fixed;
   -moz-background-attachment: fixed;
@@ -117,7 +117,7 @@ const StyledBackground = styled(BackgroundImage)`
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  filter: opacity(6%);
+  filter: opacity(30%);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -130,7 +130,7 @@ const BackgroundSection = ({ className }) => (
   <StaticQuery
     query={graphql`
       query {
-        desktop: file(relativePath: { eq: "mmcropped.jpeg" }) {
+        desktop: file(relativePath: { eq: "hello.jpg" }) {
           childImageSharp {
             fluid(quality: 90, maxWidth: 1920) {
               ...GatsbyImageSharpFluid_withWebp

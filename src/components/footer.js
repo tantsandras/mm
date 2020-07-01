@@ -96,7 +96,7 @@ const Footer = () => (
   </Text2>
     </Contact>
 
-    <div style={{ flexBasis: `80%`, margin: `2% 10%`, overflow: `hidden`, textAlign: `center` }}>
+    <div style={{ flexBasis: `80%`, margin: `10% 10% 2% 10%`, overflow: `hidden`, textAlign: `center` }}>
 
       <Thumbnail><ImgStyle /></Thumbnail>
       <NavFooter>
@@ -239,7 +239,7 @@ flex: 1;
 color: #5f728c;
 font-family: Oswald;
 font-size: 0.85rem;
-padding-top: 120px;
+padding-top: 200px;
 `
 const ListenIcon = styled.a`
   display: inline-block;

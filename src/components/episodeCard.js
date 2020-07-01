@@ -28,9 +28,8 @@ const Label = styled.span`
   font-family: Oswald;
   color: #1e1c3c;
   font-size: 0.85rem;
-  top: 10px;
+  top: 14px;
   left: 65px;
-  padding-bottom: 2px;
   text-transform: uppercase;
   z-index: 2;
 `
@@ -128,7 +127,6 @@ const ReadMore = styled.div`
   &:hover ${Label} {
     max-width: 80px;
     animation: 0.2s ${fadeIn} forwards 0.2s;
-    border-bottom: 0.5px solid #1e1c3c;
   }
 `
 
