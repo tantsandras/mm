@@ -26,6 +26,7 @@ const Title = styled.div`
   left: 19%;
   top: 14%;
   text-transform: uppercase;
+  line-height: 1;
   z-index: 4;
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width: 0.5px;
