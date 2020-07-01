@@ -20,14 +20,14 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 }
 
 exports.createPages = async ({ graphql, actions }) => {
-    // You could keep the GQL Query in here - I prefer to separate
+
     const { data } = await getPageData(graphql)
 
     data.podcastEpisode.edges.forEach(({ node }) => {
         const { slug } = node.fields;
         actions.createPage({
             path: `/episode/${slug}`,
-            component: path.resolve("./src/pages/episode.js"),
+            component: path.resolve("./src/templates/episode-template.js"),
             context: { slug: slug },
         })
     })

@@ -40,7 +40,7 @@ const Text = styled.span`
 `
 
 const EpisodeComp = ({ episode }) => {
-  const { title, serial, descriptionText, date, month } = episode
+  const { title, serial, longText, date, month } = episode
 
   return (
 
@@ -49,7 +49,8 @@ const EpisodeComp = ({ episode }) => {
         <Intro>
           <Name>{title}</Name>
           <Slogan>{date} {month}</Slogan>
-          <Text>{descriptionText}</Text>
+          <Text>{longText}
+          </Text>
         </Intro>
       </Container>
     </PageContainer >

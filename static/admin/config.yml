@@ -11,7 +11,6 @@ collections:
         identifier_field: name
         create: true
         folder: "content/podcastEpisodesFolder"
-        slug: "{{slug}}"
         media_library:
           config:
             multiple: true
@@ -20,6 +19,7 @@ collections:
           - {label: Serial, name: serial, widget: string}
           - {label: Number, name: number, widget: string}
           - {label: Description, name: descriptionText, widget: text}
+          - {label: LongText, name: longText, widget: text}
           - {label: Date, name: date, widget: number}
           - {label: Month, name: month, widget: string}
           - label: Images 

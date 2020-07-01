@@ -7,7 +7,7 @@ import Stitcher from "../images/blue-stitcher.png"
 import { Itunes, Googlepodcasts, Castbox } from '@styled-icons/simple-icons'
 import EpisodeCard from "./episodeCard"
 
-const Episodes = () => {
+const Episodes = ({ children }) => {
 
   return (
     <Container>
@@ -96,35 +96,7 @@ const Episodes = () => {
           </ul>
         </Text>
       </Intro>
-      <EpisodeCard
-        number="45123"
-        date="1"
-        month="July"
-        serial="03"
-        title="The A6 Murder"
-        description={`This week, your hosts discuss The A6 Murder, a.k.a the murder of Michael Gregsten and the attempted murder of Valerie Storie. Joe (the lackey sitting in the corner) explains the DNA evidence and Sandra talks about why her mum thinks she has brain damage.`}
-      />
-      <EpisodeCard
-        number="43055"
-        date="24"
-        month="June"
-        serial="02"
-        title="The Pimlico Mystery"
-        description={`The case discussed is the poisoning of Thomas Edwin Bartlett. Joe
-        solves the case using his trusty companion, science, and Sandra
-        speculates about how many food items one eats whole without chewing.`}
-      />
-      <EpisodeCard
-        number="42428"
-        date="17"
-        month="June"
-        serial="01"
-        title="Russian Spies"
-        description={`In this episode Sandra talks about 'bee medicine', Joe explains
-        nerve agents, and the case discussed is the Salisbury poisonings,
-        a.k.a the attempted murders of Sergei and Yulia Skripal, as well as
-        the death of Dawn Sturgess.`}
-      />
+      {children}
     </Container>
   )
 }

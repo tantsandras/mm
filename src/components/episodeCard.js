@@ -161,8 +161,8 @@ const Icon = styled.a`
   }
 `
 
-const EpisodeCard = ({ number, date, month, serial, title, description }) => {
-  const slug = slugTransformer(title);
+const EpisodeCard = ({ slug, number, date, month, serial, title, description }) => {
+
   return (
     <Card>
       <Thumbnail>
