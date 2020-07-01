@@ -26,6 +26,10 @@ export const EpisodeQuery = graphql`
         longText
         date
         month
+        images {
+            alt
+            image
+          }
       }
     }
   }

@@ -5,7 +5,6 @@ import { Spotify } from "@styled-icons/fa-brands"
 import { Podcast } from "@styled-icons/fa-solid"
 import Stitcher from "../images/blue-stitcher.png"
 import { Itunes, Googlepodcasts, Castbox } from '@styled-icons/simple-icons'
-import EpisodeCard from "./episodeCard"
 
 const Episodes = ({ children }) => {
 

@@ -30,6 +30,7 @@ const Slogan = styled.h3`
   font-size: 0.95rem;
   font-family: Montserrat;
   font-weight: 400;
+  text-transform: uppercase;
 `
 const Text = styled.span`
   flex-direction: row;
@@ -39,18 +40,33 @@ const Text = styled.span`
   font-family: Montserrat;
 `
 
+const ImageWrapper = styled.div`
+width: 80%;
+height: auto;
+margin: 0 auto;
+padding: 40px;
+`
+
 const EpisodeComp = ({ episode }) => {
-  const { title, serial, longText, date, month } = episode
+  const { title, serial, longText, date, month, images } = episode
 
   return (
 
     <PageContainer header={serial}>
       <Container>
         <Intro>
+
           <Name>{title}</Name>
           <Slogan>{date} {month}</Slogan>
-          <Text>{longText}
-          </Text>
+          {images.map(
+            img => (
+              <ImageWrapper>
+                <img src={img.image} alt={img.alt} />
+              </ImageWrapper>
+            )
+          )}
+          <Text>{longText}</Text>
+
         </Intro>
       </Container>
     </PageContainer >

@@ -7,7 +7,6 @@ import { FacebookCircle } from "@styled-icons/boxicons-logos"
 import AudioPlayer from "./useAudioPlayer"
 import { RightArrowCircle } from "@styled-icons/boxicons-regular"
 import AniLink from "gatsby-plugin-transition-link/AniLink"
-import slugTransformer from "./slugTransformer"
 
 const fadeIn = keyframes`
 from {
