@@ -96,7 +96,7 @@ const Footer = () => (
   </Text2>
     </Contact>
 
-    <div style={{ flexBasis: `80%`, margin: `10% 10% 2% 10%`, overflow: `hidden`, textAlign: `center` }}>
+    <div style={{ flexBasis: `80%`, margin: `200px 10% 2% 10%`, overflow: `hidden`, textAlign: `center` }}>
 
       <Thumbnail><ImgStyle /></Thumbnail>
       <NavFooter>
