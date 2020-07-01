@@ -40,12 +40,11 @@ const Layout = ({ children }) => {
         meta={[
           {
             name: "description",
-            content: "True Crime Comedy Podcast",
+            content: "A True Crime Comedy Podcast",
           },
           {
             name: "keywords",
-            content:
-              "True Crime podcast, Comedy podcast, UK Podcasts, True Crime Comedy Podcast, UK true crime podcast, Midweek Murders",
+            content: "best podcasts uk,comedy podcast,uk podcasts,true crime comedy podcast,Midweek Murders,crime podcasts",
           },
         ]}
       >

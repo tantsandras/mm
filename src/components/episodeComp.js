@@ -41,11 +41,10 @@ const Text = styled.span`
 
 const EpisodeComp = ({ episode }) => {
   const { title, serial, descriptionText, date, month } = episode
-  console.log("HELLO", title)
-  // const { title, serial, descriptionText, date, month } = props.episode
+
   return (
 
-    < PageContainer header={serial}>
+    <PageContainer header={serial}>
       <Container>
         <Intro>
           <Name>{title}</Name>

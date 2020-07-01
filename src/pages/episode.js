@@ -6,16 +6,15 @@ import EpisodeComp from "../components/episodeComp"
 import { graphql } from "gatsby"
 
 const EpisodePage = ({ data }) => {
-    return (
-        <>
-            <EpisodeComp episode={data.markdownRemark.frontmatter} />
-        </>
-    )
+  return (
+    <>
+    <SEO title={data.markdownRemark.frontmatter.title} />
+      <EpisodeComp episode={data.markdownRemark.frontmatter} />
+    </>
+  )
 }
 
-// <Router>
-//     <EpisodeComp path="/episode/:serial" />
-// </Router>
+
 
 export default EpisodePage
 
@@ -33,3 +32,4 @@ export const EpisodeQuery = graphql`
     }
   }
 `;
+

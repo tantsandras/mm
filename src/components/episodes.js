@@ -39,7 +39,7 @@ const Episodes = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <Spotify size="26" />
+              <Spotify size="26" style={{ transform: `translateY(3px)`, }} />
               <p style={{ transform: `translateX(-10px)`, fontSize: `0.75rem` }}>
                 Spotify
             </p>
@@ -51,7 +51,7 @@ const Episodes = () => {
               rel="noopener noreferrer"
             >
               <Googlepodcasts size="24" style={{ transform: `translateY(-6px)`, }} />
-              <p style={{ transform: `translateX(-12px)`, fontSize: `0.75rem` }}>
+              <p style={{ transform: `translateX(-10px)`, fontSize: `0.75rem` }}>
                 Google
             </p>
             </ListenIcon>
@@ -61,7 +61,7 @@ const Episodes = () => {
               rel="noopener noreferrer"
             >
               <Castbox size="26" style={{ transform: `translateY(-4px)`, }} />
-              <p style={{ transform: `translateX(-14px)`, fontSize: `0.75rem` }}>
+              <p style={{ transform: `translateX(-12px)`, fontSize: `0.75rem` }}>
                 Castbox
             </p>
             </ListenIcon>
@@ -89,13 +89,21 @@ const Episodes = () => {
                 }}
                 alt="Stitcher icon"
               />
-              <p style={{ transform: `translateX(-14px)`, fontSize: `0.75rem` }}>
+              <p style={{ transform: `translateX(-12px)`, fontSize: `0.75rem` }}>
                 Stitcher
             </p>
             </ListenIcon>
           </ul>
         </Text>
       </Intro>
+      <EpisodeCard
+        number="45123"
+        date="1"
+        month="July"
+        serial="03"
+        title="The A6 Murder"
+        description={`This week, your hosts discuss The A6 Murder, a.k.a the murder of Michael Gregsten and the attempted murder of Valerie Storie. Joe (the lackey sitting in the corner) explains the DNA evidence and Sandra talks about why her mum thinks she has brain damage.`}
+      />
       <EpisodeCard
         number="43055"
         date="24"
@@ -156,6 +164,7 @@ const Text = styled.span`
   font-size: 0.85rem;
   text-align: left;
   font-family: Montserrat;
+  line-height: 2;
 `
 
 const ListenIcon = styled.a`
