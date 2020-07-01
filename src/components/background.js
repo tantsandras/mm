@@ -109,7 +109,7 @@ const Icon = styled.a`
 `
 const StyledBackground = styled(BackgroundImage)`
   width: 100vw;
-  height: 100vh;
+  height: 98vh;
   background-attachment: fixed;
   -webkit-background-attachment: fixed;
   -moz-background-attachment: fixed;
