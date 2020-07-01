@@ -117,7 +117,7 @@ const StyledBackground = styled(BackgroundImage)`
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  filter: opacity(30%);
+  filter: opacity(20%);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
