@@ -24,15 +24,14 @@ const Title = styled.div`
   letter-spacing: 0.1em;
   position: absolute;
   left: 19%;
-  top: 13%;
+  top: 14%;
   text-transform: uppercase;
-  line-height: 1;
-  z-index: 8;
+  z-index: 4;
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width: 0.5px;
   -webkit-text-stroke-color: white;
   text-shadow: 2px 2px #d22d4c, 4px 4px #1e1c3c;
-  animation: ${turnVisible} 0.6s ease-in;
+  animation: ${turnVisible} 2.4s ease-in;
 `
 const Card = styled.div`
   margin-top: 4%;
@@ -108,7 +107,7 @@ const Icon = styled.a`
   }
 `
 const StyledBackground = styled(BackgroundImage)`
-  width: 100%;
+  width: 100vw;
   height: 100vh;
   background-attachment: fixed;
   -webkit-background-attachment: fixed;
@@ -124,13 +123,14 @@ const StyledBackground = styled(BackgroundImage)`
   -webkit-box-shadow: inset 10px 10px 93px 0px rgba(0, 0, 0, 0.95);
   -moz-box-shadow: inset 10px 10px 93px 0px rgba(0, 0, 0, 0.95);
   box-shadow: inset 10px 10px 93px 0px rgba(0, 0, 0, 0.95);
+  animation: ${turnVisible} 1.8s ease-in;
 `
 
 const BackgroundSection = ({ className }) => (
   <StaticQuery
     query={graphql`
       query {
-        desktop: file(relativePath: { eq: "hello.jpg" }) {
+        desktop: file(relativePath: { eq: "index.jpg" }) {
           childImageSharp {
             fluid(quality: 90, maxWidth: 1920) {
               ...GatsbyImageSharpFluid_withWebp
@@ -150,7 +150,6 @@ const BackgroundSection = ({ className }) => (
             fluid={imageData}
             alt="Forest with noir feeling."
           >
-            {" "}
           </StyledBackground>
           <Title>Midweek Murders</Title>
           <Card>
