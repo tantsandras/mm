@@ -191,7 +191,7 @@ const EpisodeCard = ({ slug, number, date, month, serial, title, description }) 
         <Description>{description}</Description>
       </TextContainer>
       <ReadMore>
-        <AniLink paintDrip to={`/episode/${slug}`} hex="#1e1c3c">
+        <AniLink paintDrip to={`/episode/${slug}`} hex="#1e1c3c" duration={1}>
           <Label>More</Label>
           <RightArrowCircle size="50" color="#E5E5E5" style={{
             position: `absolute`, right: `0px`,

@@ -66,7 +66,7 @@ const Footer = () => (
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Podcast size="22" style={{ transform: `translateY(1px)`, }}/>
+          <Podcast size="22" style={{ transform: `translateY(1px)`, }} />
 
         </ListenIcon>
       </Text>
