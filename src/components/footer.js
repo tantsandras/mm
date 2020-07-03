@@ -21,21 +21,24 @@ const Footer = () => (
           href="https://podcasts.apple.com/gb/podcast/midweek-murders/id1518983516"
           target="_blank"
           rel="noopener noreferrer"
+          aria-label="Listen on Itunes"
         >
-          <Itunes size="22" style={{ transform: `translateY(-3px)`, }} />
+          <Itunes size="22" style={{ transform: `translateY(-3px)`, }} aria-hidden="true" />
         </ListenIcon>
         <ListenIcon
           href="https://open.spotify.com/show/0R3YUEiCHBH1nUonVXTzIZ"
           target="_blank"
           rel="noopener noreferrer"
+          aria-label="Listen on Spotify"
         >
-          <Spotify size="22" />
+          <Spotify size="22" aria-hidden="true"/>
 
         </ListenIcon>
         <ListenIcon
           href="https://www.stitcher.com/s?fid=544619&refid=stpr "
           target="_blank"
           rel="noopener noreferrer"
+          aria-label="Listen on Stitcher"
         >
           <img
             src={Stitcher}
@@ -51,22 +54,25 @@ const Footer = () => (
           href="https://podcasts.google.com/feed/aHR0cHM6Ly9taWR3ZWVrbXVyZGVycy5zb3VuZ"
           target="_blank"
           rel="noopener noreferrer"
+          aria-label="Listen on Google Play"
         >
-          <Googlepodcasts size="20" style={{ transform: `translateY(-4px)`, }} />
+          <Googlepodcasts size="20" style={{ transform: `translateY(-4px)`, }} aria-hidden="true" />
         </ListenIcon>
         <ListenIcon
           href="https://castbox.fm/channel/Midweek-Murders-id3009183?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=Midweek%20Murders-CastBox_FM"
           target="_blank"
           rel="noopener noreferrer"
+          aria-label="Listen on Castbox"
         >
-          <Castbox size="22" style={{ transform: `translateY(-3px)`, }} />
+          <Castbox size="22" style={{ transform: `translateY(-3px)`, }} aria-hidden="true"/>
         </ListenIcon>
         <ListenIcon
           href="https://podcasts.apple.com/gb/podcast/midweek-murders/id1518983516"
           target="_blank"
           rel="noopener noreferrer"
+          aria-label="Listen on Apple"
         >
-          <Podcast size="22" style={{ transform: `translateY(1px)`, }} />
+          <Podcast size="22" style={{ transform: `translateY(1px)`, }} aria-hidden="true"/>
 
         </ListenIcon>
       </Text>
@@ -78,17 +84,22 @@ const Footer = () => (
           href="https://twitter.com/midweekmurders/"
           target="_blank"
           rel="noopener noreferrer"
+          aria-label="Follow us on Twitter"
         >
           <TwitterWithCircle
             size="22"
+            aria-hidden="true"
           />
         </SocialLink>
         <SocialLink
           href="https://www.instagram.com/midweekmurders/"
           target="_blank"
-          rel="noopener noreferrer">
+          rel="noopener noreferrer"
+          aria-label="Follow us on Instagram"
+          >
           <InstagramWithCircle
             size="22"
+            aria-hidden="true"
           />
         </SocialLink><br />
 
@@ -146,13 +157,14 @@ const Name = styled.h6`
   padding-bottom: 6px;
   font-size: 0.85rem;
   font-weight: 400;
-  color: #5f728c;
+  color: #E5E5E5;
 `
 
 const NavFooter = styled.span`
 display: inline-block;
 flex-flow: row wrap;
 text-align: center;
+font-family: 'Oswald', sans-serif;
 font-size: 0.85rem;
 flex: 1;
 `
@@ -206,7 +218,7 @@ const Text = styled.p`
 
 const Text2 = styled.p`
   margin-top: -20px;
-  color: #5f728c;
+  color: #E5E5E5;
   line-height: 2.5;
   text-align: right;
   font-family: 'Oswald', sans-serif;

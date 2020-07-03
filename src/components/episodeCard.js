@@ -28,10 +28,11 @@ const Label = styled.span`
   font-family: 'Oswald', sans-serif;
   color: #1e1c3c;
   font-size: 0.85rem;
-  top: 10px;
-  right: 65px;
+  top: 6px;
+  right: 60px;
   text-transform: uppercase;
   z-index: 2;
+  white-space: nowrap;
 `
 const Card = styled.div`
 border-bottom-right-radius: 15%;
@@ -80,7 +81,7 @@ const TextContainer = styled.div`
   padding-left: 40px;
   padding-right: 40px;
   height: auto;
-  padding-bottom: 20px;
+  padding-bottom: 40px;
 `
 
 const PodTitle = styled.h4`
@@ -98,13 +99,15 @@ const Description = styled.p`
   font-size: 0.75rem;
   color: #1e1c3c;
   font-family: 'Montserrat', sans-serif;
+  margin-bottom: 0px;
 `
 
 const Date = styled.h3`
   font-family: 'Oswald', sans-serif;
   z-index: 6;
-  color: #5f728ccc;
-  border-bottom: 1px #5f728c solid;
+  // color: #5f728ccc;
+  color: #E5E5E5;
+  border-bottom: 1px #E5E5E5 solid;
   padding-bottom: 6px;
 `
 
@@ -124,7 +127,8 @@ const ReadMore = styled.div`
   text-decoration: none;
   display: inline-block;
   &:hover ${Label} {
-    max-width: 80px;
+    max-width: 300px;
+    margin: 6px;
     animation: 0.2s ${fadeIn} forwards 0.2s;
   }
 `
@@ -134,13 +138,14 @@ const Month = styled.h4`
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   z-index: 6;
-  color: #5f728c;
+  color: #E5E5E5;
   transform: translateY(-20px);
 `
 
-const Icons = styled.ul`
+const Icons = styled.span`
   align-self: flex-start;
   padding-top: 15px;
+  padding-bottom: 20px;
   margin-left: -40px;
 `
 
@@ -171,17 +176,19 @@ const EpisodeCard = ({ slug, number, date, month, serial, title, description }) 
         <Icon
           className="twitter-share-button"
           href={`https://twitter.com/intent/tweet?url=https%3A%2F%2Fembed.sounder.fm%2Fplay%2F${number}`}
+          aria-label="Share on twitter"
         >
-          <TwitterWithCircle size="30" />
+          <TwitterWithCircle size="30" aria-hidden="true"/>
         </Icon>
         <Icon
           className="fb-share-button"
           href={`https://www.facebook.com/sharer/sharer.php?u=https://embed.sounder.fm/play/${number}`}
+          aria-label="Share on facebook"
         >
-          <FacebookCircle size="30" />
+          <FacebookCircle size="30" aria-hidden="true"/>
         </Icon>
-        <Icon href={`https://embed.sounder.fm/play/${number}`}>
-          <Share size="30" />
+        <Icon href={`https://embed.sounder.fm/play/${number}`}  aria-label="Link to embed this episode">
+          <Share size="30" aria-hidden="true"/>
         </Icon>
       </Icons>
       <AudioPlayer url={`https://embed.sounder.fm/play/${number}`} />
@@ -191,12 +198,12 @@ const EpisodeCard = ({ slug, number, date, month, serial, title, description }) 
         <Description>{description}</Description>
       </TextContainer>
       <ReadMore>
-        <AniLink paintDrip to={`/episode/${slug}`} hex="#1e1c3c" duration={1}>
-          <Label>More</Label>
+        <AniLink paintDrip to={`/episode/${slug}`} hex="#1e1c3c" duration={1} aria-label="Read more about this episode">
+          <Label>Read more</Label>
           <RightArrowCircle size="50" color="#E5E5E5" style={{
             position: `absolute`, right: `0px`,
             bottom: `0px`
-          }} />
+          }} aria-hidden="true" />
         </AniLink>
       </ReadMore>
     </Card >

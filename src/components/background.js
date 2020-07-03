@@ -32,7 +32,7 @@ const Title = styled.div`
   -webkit-text-stroke-width: 0.5px;
   -webkit-text-stroke-color: white;
   text-shadow: 2px 2px #d22d4c, 4px 4px #1e1c3c;
-  animation: ${turnVisible} 2.4s ease-in;
+  animation: ${turnVisible} 2s ease-in;
 `
 const Card = styled.div`
   margin-top: 4%;
@@ -90,9 +90,10 @@ const Description = styled.p`
   font-family: 'Montserrat', sans-serif;
 `
 
-const Icons = styled.ul`
+const Icons = styled.span`
   align-self: flex-start;
   padding-top: 30px;
+  padding-bottom: 20px;
   margin-left: -40px;
 `
 
@@ -128,7 +129,7 @@ const StyledBackground = styled(BackgroundImage)`
   -webkit-box-shadow: inset 10px 10px 93px 0px rgba(0, 0, 0, 0.95);
   -moz-box-shadow: inset 10px 10px 93px 0px rgba(0, 0, 0, 0.95);
   box-shadow: inset 10px 10px 93px 0px rgba(0, 0, 0, 0.95);
-  animation: ${turnVisible} 1.8s ease-in;
+  animation: ${turnVisible} 1.4s ease-in;
 `
 
 const BackgroundSection = ({ className }) => (
@@ -165,17 +166,19 @@ const BackgroundSection = ({ className }) => (
               <Icon
                 className="twitter-share-button"
                 href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fembed.sounder.fm%2Fplay%2F42429"
+                aria-label="Share on twitter"
               >
-                <TwitterWithCircle size="40" />
+                <TwitterWithCircle size="40" aria-hidden="true"/>
               </Icon>
               <Icon
                 className="fb-share-button"
                 href="https://www.facebook.com/sharer/sharer.php?u=https://embed.sounder.fm/play/42429"
+                aria-label="Share on facebook"
               >
-                <FacebookCircle size="40" />
+                <FacebookCircle size="40" aria-hidden="true"/>
               </Icon>
-              <Icon href="https://embed.sounder.fm/play/42429">
-                <Share size="40" />
+              <Icon href="https://embed.sounder.fm/play/42429" aria-label="Link to embed this episode">
+                <Share size="40" aria-hidden="true"/>
               </Icon>
             </Icons>
             <AudioPlayer url="https://embed.sounder.fm/play/42429" />

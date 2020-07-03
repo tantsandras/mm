@@ -52,6 +52,8 @@ const Layout = ({ children }) => {
         ]}
       >
         <html lang="en" style={{ fontFamily: `"Oswald", "Montserrat"` }} />
+        <link rel="preload" href="src/styles/global.css" as="style" />
+        <link rel="preload" href="src/components/useAudioPlayer.js" as="embed" />
 
       </Helmet>
 

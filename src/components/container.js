@@ -45,6 +45,9 @@ const BackButton = styled.span`
 `
 
 const HexDiv = styled.div`
+flex-direction: column;
+  justify-content: center;
+  align-items: center;
   text-align: center;
   font-size: 230px;
   margin-top: 70px;
@@ -67,9 +70,9 @@ const Container = styled.section`
 `
 
 const HeadLine = styled.h1`
+margin-top: -40px;
   font-family: 'Oswald', sans-serif;
   font-size: 3rem;
-  transform: translateY(-16px);
   font-weight: 600;
   letter-spacing: 0.1em;
   text-transform: uppercase;
@@ -83,14 +86,15 @@ const HeadLine = styled.h1`
 const PageContainer = ({ id, header, children }) => (
   <Container id={id}>
     <BackButton>
-      <AniLink swipe direction="left" to="/" >
-        <LeftArrowCircle size="40" color="#5f728c" />
+      <AniLink swipe direction="left" to="/" aria-label="Back to home page" >
+        <LeftArrowCircle size="40" color="#5f728c" aria-hidden="true"/>
         <Label>Home</Label>
       </AniLink>
     </BackButton>
     <HexDiv>
-      &#x2B22;
+    &#x2B22;
       <HeadLine>{header}</HeadLine>
+
     </HexDiv>
     {children}
   </Container>

@@ -79,7 +79,7 @@ const NavBar = () => (
           style={{ color: `#d22d4c` }}
           activeStyle={{ color: `#5f728c` }}
         >
-          <MusicArtist size="24" />
+          <MusicArtist size="24" aria-hidden="true"/>
           <Label style={{ marginLeft: `18px` }}>About</Label>
         </AniLink>
       </StyledLink>
@@ -92,7 +92,7 @@ const NavBar = () => (
           to="episodes"
          
         >
-          <Radio size="30" />
+          <Radio size="30" aria-hidden="true"/>
           <Label>Listen</Label>
         </AniLink>
       </StyledLink>
@@ -104,7 +104,7 @@ const NavBar = () => (
           direction="right"
           to="contact"
         >
-          <Email size="24" />
+          <Email size="24" aria-hidden="true"/>
           <Label style={{ marginLeft: `18px` }}>Contact</Label>
         </AniLink>
       </StyledLink>
@@ -116,7 +116,7 @@ const NavBar = () => (
           direction="right"
           to="shop"
         >
-          <ShoppingCart size="30" />
+          <ShoppingCart size="30" aria-hidden="true"/>
           <Label>Merch</Label>
         </AniLink>
       </StyledLink>
@@ -128,7 +128,7 @@ const NavBar = () => (
           direction="right"
           to="support"
         >
-          <MoneyPoundCircle size="30" />
+          <MoneyPoundCircle size="30" aria-hidden="true"/>
           <Label>Support</Label>
         </AniLink>
       </StyledLink>

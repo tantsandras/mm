@@ -30,10 +30,12 @@ const Contact = () => (
             href="https://twitter.com/midweekmurders/"
             target="_blank"
             rel="noopener noreferrer"
+            aria-label="Follow us on Twitter"
           >
             <TwitterWithCircle
               size="30"
               style={{ marginBottom: `4px`, marginRight: `8px` }}
+              aria-hidden="true"
             />
           </SocialLink>
           Social media ain't our thing, but feel free to try.
@@ -47,10 +49,12 @@ const Contact = () => (
             href="https://www.instagram.com/midweekmurders/"
             target="_blank"
             rel="noopener noreferrer"
+            aria-label="Follow us on Instagram"
           >
             <InstagramWithCircle
               size="30"
               style={{ marginBottom: `4px`, marginRight: `8px` }}
+              aria-hidden="true"
             />
           </SocialLink>
           There might be photos of Ollie (the dog) or Bodil (the cat) on here,

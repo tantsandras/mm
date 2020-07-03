@@ -16,10 +16,10 @@ const Episodes = ({ children }) => {
 
         <Text>
           If you like what you hear, please rate, reveiw and subscribe (preferably
-          on Itunes). Listen here, or on:
-        <ul
+          on Itunes). Listen here, or on: <br />
+        <span
             style={{
-              marginTop: `6px`,
+              marginTop: `10px`,
               marginLeft: `0px`,
             }}
           >
@@ -27,8 +27,9 @@ const Episodes = ({ children }) => {
               href="https://podcasts.apple.com/gb/podcast/midweek-murders/id1518983516"
               target="_blank"
               rel="noopener noreferrer"
+              aria-label="Listen on Itunes"
             >
-              <Itunes size="26" style={{ transform: `translateY(-4px)`, }} />
+              <Itunes size="26" style={{ transform: `translateY(-4px)`, }} aria-hidden="true"/>
               <p style={{ transform: `translateX(-10px)`, fontSize: `0.75rem` }}>
                 Itunes
             </p>
@@ -37,8 +38,9 @@ const Episodes = ({ children }) => {
               href="https://open.spotify.com/show/0R3YUEiCHBH1nUonVXTzIZ"
               target="_blank"
               rel="noopener noreferrer"
+              aria-label="Listen on Spotify"
             >
-              <Spotify size="26" style={{ transform: `translateY(3px)`, }} />
+              <Spotify size="26" style={{ transform: `translateY(3px)`, }} aria-hidden="true"/>
               <p style={{ transform: `translateX(-10px)`, fontSize: `0.75rem` }}>
                 Spotify
             </p>
@@ -48,8 +50,9 @@ const Episodes = ({ children }) => {
               href="https://podcasts.google.com/feed/aHR0cHM6Ly9taWR3ZWVrbXVyZGVycy5zb3VuZ"
               target="_blank"
               rel="noopener noreferrer"
+              aria-label="Listen on Google Play"
             >
-              <Googlepodcasts size="24" style={{ transform: `translateY(-6px)`, }} />
+              <Googlepodcasts size="24" style={{ transform: `translateY(-6px)`, }} aria-hidden="true"/>
               <p style={{ transform: `translateX(-10px)`, fontSize: `0.75rem` }}>
                 Google
             </p>
@@ -58,8 +61,9 @@ const Episodes = ({ children }) => {
               href="https://castbox.fm/channel/Midweek-Murders-id3009183?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=Midweek%20Murders-CastBox_FM"
               target="_blank"
               rel="noopener noreferrer"
+              aria-label="Listen on Castbox"
             >
-              <Castbox size="26" style={{ transform: `translateY(-4px)`, }} />
+              <Castbox size="26" style={{ transform: `translateY(-4px)`, }} aria-hidden="true"/>
               <p style={{ transform: `translateX(-12px)`, fontSize: `0.75rem` }}>
                 Castbox
             </p>
@@ -68,8 +72,9 @@ const Episodes = ({ children }) => {
               href="https://podcasts.apple.com/gb/podcast/midweek-murders/id1518983516"
               target="_blank"
               rel="noopener noreferrer"
+              aria-label="Listen on Apple"
             >
-              <Podcast size="26" style={{ transform: `translate(-8px, 2px)`, }} />
+              <Podcast size="26" style={{ transform: `translate(-8px, 2px)`, }} aria-hidden="true"/>
               <p style={{ transform: `translateX(-14px)`, fontSize: `0.75rem` }}>
                 Apple
             </p>
@@ -78,6 +83,7 @@ const Episodes = ({ children }) => {
               href="https://www.stitcher.com/s?fid=544619&refid=stpr"
               target="_blank"
               rel="noopener noreferrer"
+              aria-label="Listen on Stitcher"
             >
               <img
                 src={Stitcher}
@@ -92,7 +98,7 @@ const Episodes = ({ children }) => {
                 Stitcher
             </p>
             </ListenIcon>
-          </ul>
+          </span>
         </Text>
       </Intro>
       {children}

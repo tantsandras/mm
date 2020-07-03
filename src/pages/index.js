@@ -15,6 +15,7 @@ const Wrapper = styled.div`
 const IndexPage = () => (
   <>
     <SEO title="Home" />
+    <link rel="preload" href="src/images/index.jpg" as="image" />
     <Wrapper>
       <StyledBackground id="home" />
     </Wrapper>
