@@ -53,6 +53,7 @@ const Layout = ({ children }) => {
         ]}
       >
         <html lang="en" />
+        <link href='//fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
 
       </Helmet>
 
