@@ -93,7 +93,7 @@ const Description = styled.article`
 `
 
 const Name = styled.h2`
-  font-family: Oswald;
+  font-family: 'Oswald', sans-serif;
   text-transform: uppercase;
   border-bottom: 0.2px solid #E5E5E5;
   padding-top: 12px;
@@ -105,7 +105,7 @@ const Name = styled.h2`
 const Slogan = styled.h3`
   color: #5f728c;
   font-size: 0.95rem;
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   margin-top: -20px;
 `
@@ -121,7 +121,7 @@ const Text = styled.p`
   color: #E5E5E5;
   font-size: 0.85rem;
   text-align: left;
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 `
 
 export default Contact

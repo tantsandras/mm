@@ -140,7 +140,7 @@ const turnVisible = keyframes`
 	}
 `
 const Name = styled.h6`
-  font-family: Oswald;
+  font-family: 'Oswald', sans-serif;
   text-transform: uppercase;
   border-bottom: 0.5px solid #E5E5E5;
   padding-bottom: 6px;
@@ -200,7 +200,7 @@ const Text = styled.p`
   color: #5f728c;
   line-height: 2;
   text-align: left;
-  font-family: Oswald;
+  font-family: 'Oswald', sans-serif;
   text-transform: uppercase;
 `
 
@@ -209,7 +209,7 @@ const Text2 = styled.p`
   color: #5f728c;
   line-height: 2.5;
   text-align: right;
-  font-family: Oswald;
+  font-family: 'Oswald', sans-serif;
   font-size: 0.85rem;
 `
 
@@ -237,7 +237,7 @@ const Contact = styled.article`
 const Credit = styled.p`
 flex: 1;
 color: #5f728c;
-font-family: Oswald;
+font-family: 'Oswald', sans-serif;
 font-size: 0.85rem;
 padding-top: 200px;
 `

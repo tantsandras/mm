@@ -26,7 +26,7 @@ const Label = styled.span`
   overflow: hidden;
   opacity: 0;
   transition: all 0.1s ease-in;
-  font-family: Oswald;
+  font-family: 'Oswald', sans-serif;
   color: #E5E5E5;
   font-size: 0.85rem;
   margin-left: 12px;

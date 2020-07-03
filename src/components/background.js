@@ -19,7 +19,7 @@ const turnVisible = keyframes`
 
 const Title = styled.div`
   font-size: 4rem;
-  font-family: Oswald;
+  font-family: 'Oswald', sans-serif;
   width: 100%;
   letter-spacing: 0.1em;
   position: absolute;
@@ -74,7 +74,7 @@ const TextContainer = styled.div`
 `
 
 const PodTitle = styled.h2`
-  font-family: Oswald;
+  font-family: 'Oswald', sans-serif;
   font-weight: 600;
   text-transform: uppercase;
   border-bottom: 1px solid #1e1c3c;
@@ -87,7 +87,7 @@ const Description = styled.p`
   padding-top: 10px;
   font-size: 0.85rem;
   color: #1e1c3c;
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 `
 
 const Icons = styled.ul`

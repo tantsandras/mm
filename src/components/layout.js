@@ -17,8 +17,10 @@ import { createGlobalStyle } from "styled-components"
 
 const GlobalStyle = createGlobalStyle`
   body {
-    font-family: Oswald, Montserrat;
     background-color: #1e1c3c;
+  }
+  h1 {
+    font-family: 'Oswald', sans-serif;
   }
 `
 
@@ -35,6 +37,7 @@ const Layout = ({ children }) => {
 
   return (
     <>
+      <GlobalStyle />
       <Helmet
         title={data.site.siteMetadata.title}
         meta={[
@@ -44,14 +47,14 @@ const Layout = ({ children }) => {
           },
           {
             name: "keywords",
-            content: "best podcasts uk,comedy podcast,uk podcasts,true crime comedy podcast,Midweek Murders,crime podcasts",
+            content: "best, podcasts, uk, podcasts, true crime, comedy, podcast, Midweek Murders, crime",
           },
         ]}
       >
         <html lang="en" style={{ fontFamily: `"Oswald", "Montserrat"` }} />
 
       </Helmet>
-      <GlobalStyle />
+
       <NavBar />
       <MainContent>{children}</MainContent>
 

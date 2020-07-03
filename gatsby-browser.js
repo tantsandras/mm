@@ -6,6 +6,8 @@
 
 // You can delete this file if you're not using it
 import "./src/styles/global.css"
+require("typeface-montserrat");
+require("typeface-oswald");
 
 export const onServiceWorkerUpdateReady = () => {
   const answer = window.confirm(

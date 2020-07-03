@@ -16,7 +16,7 @@ const Intro = styled.article`
 `
 
 const Name = styled.h2`
-  font-family: Oswald;
+  font-family: 'Oswald', sans-serif;
   text-transform: uppercase;
   font-weight: 600;
   border-bottom: 0.5px solid #E5E5E5;
@@ -29,7 +29,7 @@ const Slogan = styled.h3`
   color: #5f728c;
   margin-top: -20px;
   font-size: 0.95rem;
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   text-transform: uppercase;
 `
@@ -38,7 +38,7 @@ const Text = styled.span`
   color: #E5E5E5;
   font-size: 0.85rem;
   text-align: left;
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 `
 
 const ImageWrapper = styled.div`

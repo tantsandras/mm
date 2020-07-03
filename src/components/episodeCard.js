@@ -25,7 +25,7 @@ const Label = styled.span`
   overflow: hidden;
   opacity: 0;
   transition: all 0.1s ease-in;
-  font-family: Oswald;
+  font-family: 'Oswald', sans-serif;
   color: #1e1c3c;
   font-size: 0.85rem;
   top: 10px;
@@ -85,7 +85,7 @@ const TextContainer = styled.div`
 
 const PodTitle = styled.h4`
   margin-top: 10px;
-  font-family: Oswald;
+  font-family: 'Oswald', sans-serif;
   font-weight: 600;
   text-transform: uppercase;
   border-bottom: 0.5px solid #1e1c3c;
@@ -97,11 +97,11 @@ const Description = styled.p`
   text-align: left;
   font-size: 0.75rem;
   color: #1e1c3c;
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 `
 
 const Date = styled.h3`
-  font-family: Oswald;
+  font-family: 'Oswald', sans-serif;
   z-index: 6;
   color: #5f728ccc;
   border-bottom: 1px #5f728c solid;
@@ -131,7 +131,7 @@ const ReadMore = styled.div`
 
 const Month = styled.h4`
   text-transform: uppercase;
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   z-index: 6;
   color: #5f728c;

@@ -103,7 +103,7 @@ const Card = styled.div`
 `
 
 const Name = styled.h2`
-  font-family: Oswald;
+  font-family: 'Oswald', sans-serif;
   text-transform: uppercase;
   color: #5f728c;
   border-bottom: 0.2px solid #E5E5E5;
@@ -131,14 +131,14 @@ const Slogan = styled.h3`
   color: #1e1c3c;
   margin-top: -20px;
   font-size: 0.95rem;
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 400;
 `
 const Text = styled.p`
   color: #1e1c3c;
   font-size: 0.85rem;
   text-align: left;
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 `
 
 export default About
