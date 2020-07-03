@@ -53,10 +53,9 @@ const Layout = ({ children }) => {
         ]}
       >
         <html lang="en" style={{ fontFamily: `"Oswald", "Montserrat"` }} />
-        <link rel="preload" href="src/styles/global.css" as="style" />
-        <link rel="preload" href="src/components/useAudioPlayer.js" as="embed" />
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preload" href="src/images/index.jpg" as="image" />
+        <link rel="preload" href="./useAudioPlayer.js" as="embed" />
+        <link href="https://fonts.googleapis.com/css?family=Oswald:600&display=swap" rel="preconnect" />
+        <link rel="preload" href="../images/index.jpg" as="image" />
 
       </Helmet>
 
