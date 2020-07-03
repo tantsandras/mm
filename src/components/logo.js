@@ -6,9 +6,9 @@ import styled, { keyframes } from "styled-components"
 const Image = () => {
   const data = useStaticQuery(graphql`
     query {
-      placeholderImage: file(relativePath: { eq: "mmlogo.png" }) {
+      placeholderImage: file(relativePath: { eq: "mmlogo2.png" }) {
         childImageSharp {
-          fluid(quality: 90, maxWidth: 360) {
+          fluid(quality: 90, maxWidth: 260) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }

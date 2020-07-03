@@ -18,6 +18,7 @@ import { createGlobalStyle } from "styled-components"
 const GlobalStyle = createGlobalStyle`
   body {
     background-color: #1e1c3c;
+    font-family: 'Oswald', sans-serif;
   }
   h1 {
     font-family: 'Oswald', sans-serif;
@@ -54,6 +55,8 @@ const Layout = ({ children }) => {
         <html lang="en" style={{ fontFamily: `"Oswald", "Montserrat"` }} />
         <link rel="preload" href="src/styles/global.css" as="style" />
         <link rel="preload" href="src/components/useAudioPlayer.js" as="embed" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preload" href="src/images/index.jpg" as="image" />
 
       </Helmet>
 

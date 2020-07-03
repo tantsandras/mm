@@ -8,13 +8,14 @@ const Wrapper = styled.div`
   height: auto !important;
   padding-bottom: 200px;
   min-width: 100vw;
-  font-family: Montserrat, sans-serif;
+  font-family: 'Oswald', sans-serif;
   position: relative;
 `
 
 const IndexPage = () => (
   <>
     <SEO title="Home" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preload" href="src/images/index.jpg" as="image" />
     <Wrapper>
       <StyledBackground id="home" />

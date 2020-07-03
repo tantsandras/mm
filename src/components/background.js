@@ -32,7 +32,7 @@ const Title = styled.div`
   -webkit-text-stroke-width: 0.5px;
   -webkit-text-stroke-color: white;
   text-shadow: 2px 2px #d22d4c, 4px 4px #1e1c3c;
-  animation: ${turnVisible} 2s ease-in;
+  animation: ${turnVisible} 0.6s ease-in;
 `
 const Card = styled.div`
   margin-top: 4%;
@@ -129,7 +129,7 @@ const StyledBackground = styled(BackgroundImage)`
   -webkit-box-shadow: inset 10px 10px 93px 0px rgba(0, 0, 0, 0.95);
   -moz-box-shadow: inset 10px 10px 93px 0px rgba(0, 0, 0, 0.95);
   box-shadow: inset 10px 10px 93px 0px rgba(0, 0, 0, 0.95);
-  animation: ${turnVisible} 1.4s ease-in;
+  animation: ${turnVisible} 0.4s ease-in;
 `
 
 const BackgroundSection = ({ className }) => (
