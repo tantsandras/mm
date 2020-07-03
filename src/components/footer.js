@@ -256,7 +256,7 @@ padding-top: 200px;
 const ListenIcon = styled.a`
   display: inline-block;
   list-style: none;
-  margin-right: 24px;
+  margin-right: 26px;
   text-decoration: none;
   cursor: pointer;
   color: #5f728c;

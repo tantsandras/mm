@@ -8,15 +8,15 @@ const About = () => (
     <Container>
       <Description>
         <Name>Midweek Murders</Name>
-        <Slogan style={{color: `#5f728c`}}>A true crime comedy podcast</Slogan>
-        <Text style={{color: `#E5E5E5`}}>
+        <Slogan style={{ color: `#5f728c` }}>A true crime comedy podcast</Slogan>
+        <Text style={{ color: `#E5E5E5` }}>
           Based in the UK, new episodes every Wednesday. Midweek Murders is a
           fully independent podcast. Created, produced and edited by the hosts.
         </Text>
       </Description>
       <Description>
         <Name>Hosts</Name>
-        <Slogan style={{color: `#5f728c`}}>Sandra & Joe</Slogan>
+        <Slogan style={{ color: `#5f728c` }}>Sandra & Joe</Slogan>
       </Description>
       <Card>
         <ProfileAvatar>
@@ -124,7 +124,7 @@ z-index: 2;
 -webkit-text-fill-color: transparent;
 -webkit-text-stroke-width: 0.5px;
 -webkit-text-stroke-color: white;
-text-shadow: 2px 2px #d22d4c, 4px 4px #1e1c3c;
+text-shadow: 2px 2px #d22d4c, 3px 3px #1e1c3c;
 `
 
 const Slogan = styled.h3`
