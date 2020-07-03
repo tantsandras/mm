@@ -8,7 +8,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
-import styled, { keyframes } from "styled-components"
+import styled from "styled-components"
 import NavBar from "./nav"
 import { Helmet } from "react-helmet"
 import "./layout.css"
@@ -53,9 +53,7 @@ const Layout = ({ children }) => {
         ]}
       >
         <html lang="en" style={{ fontFamily: `'Oswald', sans-serif` }} />
-        <link rel="preload" href="./useAudioPlayer.js" as="embed" />
-        <link href="https://fonts.googleapis.com/css?family=Oswald:600&display=swap" rel="preconnect" as="font" />
-        <link rel="preload" href="../images/index.jpg" as="image" />
+        <link href="https://fonts.googleapis.com/css?family=Oswald:600&display=swap" rel="preconnect" />
 
       </Helmet>
 

@@ -1,6 +1,5 @@
 import React from "react"
 import styled, { keyframes } from "styled-components"
-import Logo from "./logo"
 import { Share } from "@styled-icons/entypo"
 import { TwitterWithCircle } from "@styled-icons/entypo-social"
 import { FacebookCircle } from "@styled-icons/boxicons-logos"

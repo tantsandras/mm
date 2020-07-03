@@ -1,6 +1,6 @@
 
 import React from "react"
-import styled, { keyframes } from "styled-components"
+import styled from "styled-components"
 import { UserMd, UserAstronaut } from "@styled-icons/fa-solid"
 
 const About = () => (
