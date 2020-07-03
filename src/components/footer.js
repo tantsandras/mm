@@ -58,7 +58,7 @@ const Footer = () => (
           rel="noopener noreferrer"
           aria-label="Listen on Google Play"
         >
-          <Googlepodcasts size="20" style={{ transform: `translateY(-4px)`,  marginLeft: `3px`,}} aria-hidden="true" />
+          <Googlepodcasts size="21" style={{ transform: `translateY(-4px)`,  marginLeft: `2px`,}} aria-hidden="true" />
         </ListenIcon>
         <ListenIcon
           href="https://castbox.fm/channel/Midweek-Murders-id3009183?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=Midweek%20Murders-CastBox_FM"
@@ -66,7 +66,7 @@ const Footer = () => (
           rel="noopener noreferrer"
           aria-label="Listen on Castbox"
         >
-          <Castbox size="22" style={{ transform: `translateY(-3px)`, }} aria-hidden="true"/>
+          <Castbox size="22" style={{ transform: `translateY(-3px)`, marginLeft: `-1px`,}} aria-hidden="true"/>
         </ListenIcon>
         <ListenIcon
           href="https://podcasts.apple.com/gb/podcast/midweek-murders/id1518983516"
@@ -109,7 +109,7 @@ const Footer = () => (
   </Text2>
     </Contact>
 
-    <div style={{ flexBasis: `80%`, margin: `200px 10% 2% 10%`, overflow: `hidden`, textAlign: `center` }}>
+    <div style={{ flexBasis: `70%`, margin: `200px 15% 2% 15%`, overflow: `hidden`, textAlign: `center` }}>
 
       <Thumbnail><ImgStyle /></Thumbnail>
       <NavFooter>
