@@ -2,11 +2,11 @@
 title: The A6 Murder
 serial: "03"
 number: "45123"
-descriptionText: This week, your hosts discuss The A6 Murder, a.k.a the murder
+descriptionText: The case discussed is The A6 Murder, a.k.a the murder
   of Michael Gregsten and the attempted murder of Valerie Storie. Joe (the
   lackey sitting in the corner) explains the DNA evidence and Sandra talks about
   why her mum thinks she has brain damage.
-longText: 'This week, your hosts discuss The A6 Murder, a.k.a the murder of
+longText: 'The case discussed is The A6 Murder, a.k.a the murder of
   Michael Gregsten and the attempted murder of Valerie Storie. Joe (the lackey
   sitting in the corner) explains the DNA evidence and Sandra talks about why
   her mum thinks she has brain damage. Sandra got her information from The

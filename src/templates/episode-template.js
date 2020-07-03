@@ -4,12 +4,12 @@ import EpisodeComp from "../components/episodeComp"
 import { graphql } from "gatsby"
 
 const EpisodePage = ({ data }) => {
-    return (
-        <>
-            <SEO title={data.markdownRemark.frontmatter.title} />
-            <EpisodeComp episode={data.markdownRemark.frontmatter} />
-        </>
-    )
+  return (
+    <>
+      <SEO title={data.markdownRemark.frontmatter.title} />
+      <EpisodeComp episode={data.markdownRemark.frontmatter} />
+    </>
+  )
 }
 
 
@@ -23,6 +23,7 @@ export const EpisodeQuery = graphql`
       frontmatter {
         title
         serial
+        number
         longText
         date
         month

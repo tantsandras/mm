@@ -1,6 +1,7 @@
 import React from "react"
 import PageContainer from "./container"
 import styled from "styled-components"
+import AudioPlayer from "./useAudioPlayer"
 
 const Container = styled.div`
   display: flex;
@@ -41,14 +42,14 @@ const Text = styled.span`
 `
 
 const ImageWrapper = styled.div`
-width: 80%;
+width: 100%;
 height: auto;
 margin: 0 auto;
 padding: 40px;
 `
 
 const EpisodeComp = ({ episode }) => {
-  const { title, serial, longText, date, month, images } = episode
+  const { title, serial, number, longText, date, month, images } = episode
 
   return (
 
@@ -58,6 +59,7 @@ const EpisodeComp = ({ episode }) => {
 
           <Name>{title}</Name>
           <Slogan>{date} {month}</Slogan>
+
           {images.map(
             img => (
               <ImageWrapper>
@@ -66,7 +68,7 @@ const EpisodeComp = ({ episode }) => {
             )
           )}
           <Text>{longText}</Text>
-
+          <AudioPlayer url={`https://embed.sounder.fm/play/${number}`} />
         </Intro>
       </Container>
     </PageContainer >

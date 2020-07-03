@@ -28,12 +28,13 @@ const Label = styled.span`
   font-family: Oswald;
   color: #1e1c3c;
   font-size: 0.85rem;
-  top: 14px;
-  left: 65px;
+  top: 10px;
+  right: 65px;
   text-transform: uppercase;
   z-index: 2;
 `
 const Card = styled.div`
+border-bottom-right-radius: 15%;
   margin-top: 100px;
   position: relative;
   min-width: 300px;
@@ -53,15 +54,16 @@ const Card = styled.div`
 `
 
 const Thumbnail = styled.div`
-  transform: translateY(-40px);
-  height: 260px;
-  width: 270px;
-  margin-left: 20px;
+  transform: translateY(-30px);
+  height: 115px;
+  width: 160px;
   margin-right: 20px;
+  margin-left: 20px;
   -webkit-box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
   box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
   overflow: hidden;
+  background-color: #1e1c3c;
 `
 const Column = styled.span`
   flex-direction: column;
@@ -69,7 +71,6 @@ const Column = styled.span`
   align-items: center;
   text-align: center;
   align-self: flex-start;
-  padding-top: 26px;
   width: 100px;
   margin-right: 40px;
   padding-left: 30px;
@@ -78,12 +79,12 @@ const Column = styled.span`
 const TextContainer = styled.div`
   padding-left: 40px;
   padding-right: 40px;
-  padding-bottom: 40px;
-  margin-top: 40px;
   height: auto;
+  padding-bottom: 20px;
 `
 
-const PodTitle = styled.h2`
+const PodTitle = styled.h4`
+  margin-top: 10px;
   font-family: Oswald;
   font-weight: 600;
   text-transform: uppercase;
@@ -94,8 +95,7 @@ const PodTitle = styled.h2`
 
 const Description = styled.p`
   text-align: left;
-  padding-top: 10px;
-  font-size: 0.85rem;
+  font-size: 0.75rem;
   color: #1e1c3c;
   font-family: Montserrat;
 `
@@ -103,19 +103,18 @@ const Description = styled.p`
 const Date = styled.h3`
   font-family: Oswald;
   z-index: 6;
-  font-size: 3rem;
   color: #5f728ccc;
-  border-bottom: 1px #7a938f solid;
+  border-bottom: 1px #5f728c solid;
   padding-bottom: 6px;
 `
 
 const ReadMore = styled.div`
-  position: relative;
-  margin-bottom: -20px;
-  transform: translateX(80px);
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
 	background-color: #d22d4c;
-	width: 60px;
-	height: 60px;
+	width: 50px;
+	height: 50px;
 	border-radius: 50%;
 	-webkit-box-shadow: 10px 10px 50px 0px rgba(0,0,0,0.75);
 	-moz-box-shadow: 10px 10px 50px 0px rgba(0,0,0,0.75);
@@ -135,14 +134,13 @@ const Month = styled.h4`
   font-family: Montserrat;
   font-weight: 400;
   z-index: 6;
-  font-size: 1.2rem;
-  color: #5f728ccc;
+  color: #5f728c;
   transform: translateY(-20px);
 `
 
 const Icons = styled.ul`
   align-self: flex-start;
-  padding-top: 30px;
+  padding-top: 15px;
   margin-left: -40px;
 `
 
@@ -163,27 +161,27 @@ const EpisodeCard = ({ slug, number, date, month, serial, title, description }) 
   return (
     <Card>
       <Thumbnail>
-        <Logo />
+        <Column>
+          <Date>{date}</Date>
+          <Month>{month}</Month>
+        </Column>
       </Thumbnail>
-      <Column>
-        <Date>{date}</Date>
-        <Month>{month}</Month>
-      </Column>
+
       <Icons>
         <Icon
           className="twitter-share-button"
           href={`https://twitter.com/intent/tweet?url=https%3A%2F%2Fembed.sounder.fm%2Fplay%2F${number}`}
         >
-          <TwitterWithCircle size="40" />
+          <TwitterWithCircle size="30" />
         </Icon>
         <Icon
           className="fb-share-button"
           href={`https://www.facebook.com/sharer/sharer.php?u=https://embed.sounder.fm/play/${number}`}
         >
-          <FacebookCircle size="40" />
+          <FacebookCircle size="30" />
         </Icon>
         <Icon href={`https://embed.sounder.fm/play/${number}`}>
-          <Share size="40" />
+          <Share size="30" />
         </Icon>
       </Icons>
       <AudioPlayer url={`https://embed.sounder.fm/play/${number}`} />
@@ -195,7 +193,7 @@ const EpisodeCard = ({ slug, number, date, month, serial, title, description }) 
       <ReadMore>
         <AniLink paintDrip to={`/episode/${slug}`} hex="#1e1c3c">
           <Label>More</Label>
-          <RightArrowCircle size="60" color="#E5E5E5" style={{
+          <RightArrowCircle size="50" color="#E5E5E5" style={{
             position: `absolute`, right: `0px`,
             bottom: `0px`
           }} />
