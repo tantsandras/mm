@@ -15,7 +15,7 @@ const Wrapper = styled.div`
 const IndexPage = () => (
   <>
     <SEO title="Home" />
-    <link href="https://fonts.googleapis.com/css?family=Oswald:600&display=swap" rel="preconnect" />
+    <link href="https://fonts.googleapis.com/css?family=Oswald:600&display=swap" rel="preconnect" as="font" />
     <link rel="preload" href="../images/index.jpg" as="image" />
     <Wrapper>
       <StyledBackground id="home" />

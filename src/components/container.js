@@ -70,7 +70,7 @@ const Container = styled.section`
 `
 
 const HeadLine = styled.h1`
-margin-top: -40px;
+  margin-top: -20px;
   font-family: 'Oswald', sans-serif;
   font-size: 3rem;
   font-weight: 600;
