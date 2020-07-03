@@ -52,8 +52,7 @@ const Layout = ({ children }) => {
           },
         ]}
       >
-        <html lang="en" style={{ fontFamily: `'Oswald', sans-serif` }} />
-        <link href="https://fonts.googleapis.com/css?family=Oswald:600&display=swap" rel="preconnect" />
+        <html lang="en" />
 
       </Helmet>
 

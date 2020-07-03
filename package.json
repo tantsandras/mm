@@ -31,8 +31,8 @@
     "simple-icons": "^2.19.0",
     "styled-components": "^5.1.1",
     "styled-icons": "^10.2.1",
+    "typeface-oswald": "^1.1.4",
     "typeface-montserrat": "0.0.75",
-    "typeface-oswald": "^1.1.4"
   },
   "devDependencies": {
     "prettier": "2.0.5"

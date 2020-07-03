@@ -43,8 +43,10 @@ const Footer = () => (
           <img
             src={Stitcher}
             style={{
-              width: `18px`,
-              height: `18px`,
+              width: `19px`,
+              height: `19px`,
+              marginLeft: `1px`,
+              transform: `translateY(1px)`,
             }}
             alt="Stitcher icon"
           />
@@ -56,7 +58,7 @@ const Footer = () => (
           rel="noopener noreferrer"
           aria-label="Listen on Google Play"
         >
-          <Googlepodcasts size="20" style={{ transform: `translateY(-4px)`, }} aria-hidden="true" />
+          <Googlepodcasts size="20" style={{ transform: `translateY(-4px)`,  marginLeft: `3px`,}} aria-hidden="true" />
         </ListenIcon>
         <ListenIcon
           href="https://castbox.fm/channel/Midweek-Murders-id3009183?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=Midweek%20Murders-CastBox_FM"
