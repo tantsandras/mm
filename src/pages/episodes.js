@@ -19,10 +19,11 @@ const EpisodesPage = ({ data }) => {
     )
 
     function renderEpisodes(episode) {
+
+
         return episode.map(item => {
             const { slug } = item.node.fields
             const { title, serial, number, date, month, descriptionText } = item.node.frontmatter
-
             return (
                 <EpisodeCard
                     number={number}
@@ -43,7 +44,10 @@ export default EpisodesPage
 
 export const EpisodesQuery = graphql`
 {
-    allMarkdownRemark {
+    allMarkdownRemark (
+        limit: 4
+        sort: { fields: [frontmatter___serial], order: DESC }
+      ) {
       edges {
         node {
           frontmatter {
