@@ -75,11 +75,11 @@ const NavBar = () => (
         <AniLink
           swipe
           direction="right"
-          to="about"
+          to="/about"
           style={{ color: `#d22d4c` }}
           activeStyle={{ color: `#5f728c` }}
         >
-          <MusicArtist size="24" aria-hidden="true"/>
+          <MusicArtist size="24" aria-hidden="true" />
           <Label style={{ marginLeft: `18px` }}>About</Label>
         </AniLink>
       </StyledLink>
@@ -89,10 +89,10 @@ const NavBar = () => (
           activeStyle={{ color: `#5f728c` }}
           swipe
           direction="right"
-          to="episodes"
-         
+          to="/episodes"
+
         >
-          <Radio size="30" aria-hidden="true"/>
+          <Radio size="30" aria-hidden="true" />
           <Label>Listen</Label>
         </AniLink>
       </StyledLink>
@@ -102,9 +102,9 @@ const NavBar = () => (
           activeStyle={{ color: `#5f728c` }}
           swipe
           direction="right"
-          to="contact"
+          to="/contact"
         >
-          <Email size="24" aria-hidden="true"/>
+          <Email size="24" aria-hidden="true" />
           <Label style={{ marginLeft: `18px` }}>Contact</Label>
         </AniLink>
       </StyledLink>
@@ -114,9 +114,9 @@ const NavBar = () => (
           activeStyle={{ color: `#5f728c` }}
           swipe
           direction="right"
-          to="shop"
+          to="/shop"
         >
-          <ShoppingCart size="30" aria-hidden="true"/>
+          <ShoppingCart size="30" aria-hidden="true" />
           <Label>Merch</Label>
         </AniLink>
       </StyledLink>
@@ -126,9 +126,9 @@ const NavBar = () => (
           activeStyle={{ color: `#5f728c` }}
           swipe
           direction="right"
-          to="support"
+          to="/support"
         >
-          <MoneyPoundCircle size="30" aria-hidden="true"/>
+          <MoneyPoundCircle size="30" aria-hidden="true" />
           <Label>Support</Label>
         </AniLink>
       </StyledLink>

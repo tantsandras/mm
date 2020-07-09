@@ -117,23 +117,23 @@ const Footer = () => (
         <AniLink paintDrip to="/" hex="#1e1c3c" style={{ color: `#d22d4c`, paddingRight: `10px`, textTransform: `uppercase`, textDecoration: `none` }}
           activeStyle={{ color: `#E5E5E5` }}>Home</AniLink>
 
-        <AniLink paintDrip to="about" hex="#1e1c3c"
+        <AniLink paintDrip to="/about" hex="#1e1c3c"
           style={{ color: `#d22d4c`, paddingRight: `10px`, textTransform: `uppercase`, textDecoration: `none` }}
           activeStyle={{ color: `#E5E5E5` }}
         >About</AniLink>
-        <AniLink paintDrip to="episodes" hex="#1e1c3c"
+        <AniLink paintDrip to="/episodes" hex="#1e1c3c"
           style={{ color: `#d22d4c`, paddingRight: `10px`, textTransform: `uppercase`, textDecoration: `none` }}
           activeStyle={{ color: `#E5E5E5` }}
         >Listen</AniLink>
-        <AniLink paintDrip to="contact" hex="#1e1c3c"
+        <AniLink paintDrip to="/contact" hex="#1e1c3c"
           style={{ color: `#d22d4c`, paddingRight: `10px`, textTransform: `uppercase`, textDecoration: `none` }}
           activeStyle={{ color: `#E5E5E5` }}
         >Contact</AniLink>
-        <AniLink paintDrip to="shop" hex="#1e1c3c"
+        <AniLink paintDrip to="/shop" hex="#1e1c3c"
           style={{ color: `#d22d4c`, paddingRight: `10px`, textTransform: `uppercase`, textDecoration: `none` }}
           activeStyle={{ color: `#E5E5E5` }}
         >Merch</AniLink>
-        <AniLink paintDrip to="support" hex="#1e1c3c"
+        <AniLink paintDrip to="/support" hex="#1e1c3c"
           style={{ color: `#d22d4c`, textTransform: `uppercase`, textDecoration: `none` }}
           activeStyle={{ color: `#E5E5E5` }}
         >Support</AniLink>

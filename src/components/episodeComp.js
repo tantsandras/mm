@@ -2,6 +2,8 @@ import React from "react"
 import PageContainer from "./container"
 import styled from "styled-components"
 import AudioPlayer from "./useAudioPlayer"
+import AniLink from "gatsby-plugin-transition-link/AniLink"
+import { LeftArrowCircle } from "@styled-icons/boxicons-regular"
 
 const Container = styled.div`
   display: flex;
@@ -45,19 +47,21 @@ const ImageWrapper = styled.div`
 width: 100%;
 height: auto;
 margin: 0 auto;
+text-align: center;
 padding: 40px;
 `
 
 const EpisodeComp = ({ episode }) => {
   const { title, serial, number, longText, date, month, images } = episode
-
   return (
 
     <PageContainer header={serial}>
       <Container>
-        <Intro>
 
-          <Name>{title}</Name>
+        <Intro>
+          <Name>{title}
+
+          </Name>
           <Slogan>{date} {month}</Slogan>
 
           {images.map(
@@ -68,8 +72,16 @@ const EpisodeComp = ({ episode }) => {
             )
           )}
           <Text>{longText}</Text>
+
+        </Intro>
+        <Intro>
           <AudioPlayer url={`https://embed.sounder.fm/play/${number}`} />
         </Intro>
+        <AniLink style={{ textDecoration: `none`, color: `#E5E5E5`, textTransform: `uppercase` }}
+          swipe direction="left" to="/episodes" aria-label="Back to episodes page"
+        >
+          <LeftArrowCircle size="30" color="#5f728c" aria-hidden="true" style={{ marginRight: `6px`, marginBottom: `4px` }} />
+          Back to episodes </AniLink>
       </Container>
     </PageContainer >
   )

@@ -4,9 +4,10 @@ import EpisodeComp from "../components/episodeComp"
 import { graphql } from "gatsby"
 
 const EpisodePage = ({ data }) => {
+  const tags = data.markdownRemark.frontmatter.hashtags.map(item => item.tag)
   return (
     <>
-      <SEO title={data.markdownRemark.frontmatter.title} />
+      <SEO title={data.markdownRemark.frontmatter.title} keywords={tags} />
       <EpisodeComp episode={data.markdownRemark.frontmatter} />
     </>
   )
@@ -31,6 +32,9 @@ export const EpisodeQuery = graphql`
             alt
             image
           }
+        hashtags {
+            tag
+        }
       }
     }
   }
