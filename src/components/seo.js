@@ -1,9 +1,9 @@
-/**
- * SEO component that queries for data with
- *  Gatsby's useStaticQuery React hook
- *
- * See: https://www.gatsbyjs.org/docs/use-static-query/
- */
+// /**
+//  * SEO component that queries for data with
+//  *  Gatsby's useStaticQuery React hook
+//  *
+//  * See: https://www.gatsbyjs.org/docs/use-static-query/
+//  */
 
 import React from "react"
 import PropTypes from "prop-types"
@@ -21,6 +21,8 @@ function SEO({ description, lang, meta, title }) {
             author
             keywords
             siteUrl
+            image
+            twitterUsername
           }
         }
       }
@@ -46,6 +48,10 @@ function SEO({ description, lang, meta, title }) {
           content: site.siteMetadata.keywords,
         },
         {
+          name: `image`,
+          content: site.siteMetadata.image,
+        },
+        {
           property: `og:title`,
           content: title,
         },
@@ -63,7 +69,7 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           name: `twitter:creator`,
-          content: site.siteMetadata.author,
+          content: site.siteMetadata.twitterUsername,
         },
         {
           name: `twitter:title`,
@@ -92,3 +98,4 @@ SEO.propTypes = {
 }
 
 export default SEO
+

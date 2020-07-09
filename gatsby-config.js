@@ -5,9 +5,12 @@ module.exports = {
     description: `A true crime comedy podcast`,
     author: `Sandra Grahl`,
     siteUrl: `https://www.midweekmurders.netlify.app`,
+    image: "/images/mmlogo.png",
+    twitterUsername: "@midweekmurders",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {

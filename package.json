@@ -16,6 +16,7 @@
     "gatsby-plugin-offline": "^3.2.11",
     "gatsby-plugin-react-helmet": "^3.3.2",
     "gatsby-plugin-sharp": "^2.6.9",
+    "gatsby-plugin-sitemap": "^2.4.11",
     "gatsby-plugin-styled-components": "^3.3.4",
     "gatsby-plugin-transition-link": "^1.18.0",
     "gatsby-plugin-web-font-loader": "^1.0.4",
@@ -31,8 +32,8 @@
     "simple-icons": "^2.19.0",
     "styled-components": "^5.1.1",
     "styled-icons": "^10.2.1",
-    "typeface-oswald": "^1.1.4",
-    "typeface-montserrat": "0.0.75"
+    "typeface-montserrat": "0.0.75",
+    "typeface-oswald": "^1.1.4"
   },
   "devDependencies": {
     "prettier": "2.0.5"
