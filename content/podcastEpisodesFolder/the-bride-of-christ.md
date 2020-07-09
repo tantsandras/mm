@@ -4,8 +4,9 @@ serial: "04"
 number: "46832"
 descriptionText: The Bride of Christ, or Åsa Waldau, is at the epicentre of the
   Knutby Murder, the murder of Alexandra Fossmo commited by a brainwashed cult
-  member and orchestrated by a pastor (Alexandras husband). Sandra tries to teach Joe how to pronounce
-  Swedish words, and Joe is trying not to get sued for defamation.
+  member and orchestrated by a pastor (Alexandras husband). Sandra tries to
+  teach Joe how to pronounce Swedish words, and Joe is trying not to get sued
+  for defamation.
 longText: 'The Bride of Christ, or Åsa Waldau, is at the epicentre of the Knutby
   Murder, the murder of Alexandra Fossmo commited by a brainwashed cult member
   and orchestrated by a pastor (Alexandras husband) in a congregation situated
@@ -22,4 +23,9 @@ images:
   - image: /imgUploads/paolo_veronese_013.jpg
     alt: Painting of St Catherine being symbolically married to baby Jesus, by Paolo
       Veronese.
+hashtags:
+  - tag: sect crimes
+  - tag: Knutby
+  - tag: Knutby mordet
+  - tag: "cult crimes "
 ---
