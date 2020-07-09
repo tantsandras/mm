@@ -21,4 +21,8 @@ month: June
 images:
   - image: /imgUploads/adelaide_bartlett.jpg
     alt: Adelaide Bartlett.
+hashtags:
+  - tag: poison crimes uk
+  - tag: Pimlico mystery
+  - tag: true crime uk
 ---
