@@ -93,7 +93,6 @@ const Card = styled.div`
   text-align: center;
   align-items: center;
   width: 300px;
-  height: 360px;
   padding: 2rem;
   margin: 6rem 2rem 6rem 2rem;
   background-color: #E5E5E5;
