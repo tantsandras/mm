@@ -1,13 +1,16 @@
-
 import React from "react"
 import styled from "styled-components"
 import { Spotify } from "@styled-icons/fa-brands"
 import { Podcast } from "@styled-icons/fa-solid"
 import Stitcher from "../images/blue-stitcher.png"
-import { Itunes, Googlepodcasts, Castbox } from '@styled-icons/simple-icons'
+import {
+  Itunes,
+  Googlepodcasts,
+  Castbox,
+  Tunein,
+} from "@styled-icons/simple-icons"
 
 const Episodes = ({ children }) => {
-
   return (
     <Container>
       <Intro>
@@ -15,9 +18,8 @@ const Episodes = ({ children }) => {
         <Slogan>A true crime comedy podcast</Slogan>
 
         <Text>
-          If you like what you hear, please rate, reveiw and subscribe (preferably
-          on Itunes).
-
+          If you like what you hear, please rate, reveiw and subscribe
+          (preferably on Itunes).
         </Text>
       </Intro>
 
@@ -44,7 +46,6 @@ const Episodes = ({ children }) => {
             Spotify
           </ListenIcon>
 
-
           <ListenIcon
             href="https://podcasts.google.com/feed/aHR0cHM6Ly9taWR3ZWVrbXVyZGVycy5zb3VuZ"
             target="_blank"
@@ -70,7 +71,6 @@ const Episodes = ({ children }) => {
             aria-label="Listen on Apple"
           >
             <Podcast size="26" aria-hidden="true" />
-
             Apple
           </ListenIcon>
 
@@ -92,10 +92,19 @@ const Episodes = ({ children }) => {
             />
             Stitcher
           </ListenIcon>
+          <ListenIcon
+            href="https://tunein.com/podcasts/True-Crime-Podcasts/Midweek-Murders-p1339835/"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Listen on Tune in"
+          >
+            <Tunein size="26" aria-hidden="true" />
+            TuneIn
+          </ListenIcon>
         </Text2>
       </Intro>
       {children}
-    </Container >
+    </Container>
   )
 }
 
@@ -112,10 +121,10 @@ const Intro = styled.article`
 `
 
 const Name = styled.h2`
-  font-family: 'Oswald', sans-serif;
+  font-family: "Oswald", sans-serif;
   text-transform: uppercase;
   font-weight: 600;
-  border-bottom: 0.5px solid #E5E5E5;
+  border-bottom: 0.5px solid #e5e5e5;
   padding-top: 12px;
   padding-bottom: 6px;
   color: #5f728c;
@@ -125,30 +134,30 @@ const Slogan = styled.h3`
   color: #5f728c;
   margin-top: -20px;
   font-size: 0.95rem;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 400;
 `
 const Text = styled.span`
   flex-direction: row;
-  color: #E5E5E5;
+  color: #e5e5e5;
   font-size: 0.85rem;
   text-align: left;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   line-height: 2;
 `
 const Text2 = styled.span`
   display: flex;
   flex-flow: row wrap;
-  color: #E5E5E5;
+  color: #e5e5e5;
   font-size: 0.75rem;
   // text-align: left;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   line-height: 2.5;
 `
 
 const ListenIcon = styled.a`
   display: flex;
-  -webkit-flex-direction: column; 
+  -webkit-flex-direction: column;
   flex-direction: column;
   align-items: center;
   padding-right: 6px;
