@@ -9,12 +9,30 @@ import { FacebookCircle } from "@styled-icons/boxicons-logos"
 import AudioPlayer from "./useAudioPlayer"
 
 const turnVisible = keyframes`
-	from {
-		opacity: 0;
-	}
-	to {
-		opacity: 1;
-	}
+0% {
+  filter: opacity(0%);
+  transform: scale(1.04);
+}
+40% {
+  filter: opacity(10%);
+  transform: scale(1.02);
+}
+100% {
+  filter: opacity(20%);
+  transform: scale(1);
+}
+`
+
+const turnVisible2 = keyframes`
+0% {
+  filter: opacity(0%);
+}
+40% {
+  filter: opacity(40%);
+}
+100% {
+  filter: opacity(100%);
+}
 `
 
 const Title = styled.div`
@@ -32,7 +50,7 @@ const Title = styled.div`
   -webkit-text-stroke-width: 0.5px;
   -webkit-text-stroke-color: white;
   text-shadow: 2px 2px #d22d4c, 4px 4px #1e1c3c;
-  animation: ${turnVisible} 0.6s ease-in;
+  animation: ${turnVisible2} 0.6s ease-in;
 `
 const Card = styled.div`
   margin-top: 4%;
@@ -90,6 +108,17 @@ const Description = styled.p`
   font-family: 'Montserrat', sans-serif;
 `
 
+const Icon = styled.a`
+  display: inline;
+  padding-left: 40px;
+  text-decoration: none;
+  cursor: pointer;
+  color: #5f728ccc;
+  &:hover {
+    color: #1e1c3c;
+  }
+`
+
 const Icons = styled.span`
   align-self: flex-start;
   padding-top: 30px;
@@ -97,39 +126,23 @@ const Icons = styled.span`
   margin-left: -40px;
 `
 
-const Icon = styled.a`
-  display: inline;
-  list-style: none;
-  padding-left: 40px;
-  text-decoration: none;
-  cursor: pointer;
-  color: #5f728ccc;
-  &:hover {
-    color: #282d50;
-  }
-`
 const StyledBackground = styled(BackgroundImage)`
-  display: block;
-  position: fixed;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 97vh;
   background-attachment: fixed;
   -webkit-background-attachment: fixed;
   -moz-background-attachment: fixed;
   -o-background-attachment: fixed;
+  width: 100%;
+  height: 97vh;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  filter: opacity(20%);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   -webkit-box-shadow: inset 10px 10px 93px 0px rgba(0, 0, 0, 0.95);
   -moz-box-shadow: inset 10px 10px 93px 0px rgba(0, 0, 0, 0.95);
   box-shadow: inset 10px 10px 93px 0px rgba(0, 0, 0, 0.95);
-  animation: ${turnVisible} 0.4s ease-in;
+  animation: ${turnVisible} ease-in 1.4s forwards;
 `
 
 const BackgroundSection = ({ className }) => (
@@ -156,7 +169,9 @@ const BackgroundSection = ({ className }) => (
             fluid={imageData}
             alt="Forest with noir feeling."
           >
+
           </StyledBackground>
+
           <Title>Midweek Murders</Title>
           <Card>
             <Thumbnail>
