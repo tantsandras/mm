@@ -34,6 +34,8 @@ const Label = styled.span`
   white-space: nowrap;
 `
 const Card = styled.div`
+flex-direction: column;
+justify-content: space-evenly;
 border-bottom-right-radius: 15%;
   margin-top: 100px;
   position: relative;
@@ -54,26 +56,26 @@ border-bottom-right-radius: 15%;
 `
 
 const Thumbnail = styled.div`
-  transform: translateY(-30px);
-  height: 115px;
-  width: 160px;
+align-items: center;
+justify-content: center;
+text-align: center;
+font-size: 220px;
+  transform: translateY(-10px);
+  z-index: 0;
   margin-right: 20px;
   margin-left: 20px;
-  -webkit-box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
-  -moz-box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
-  box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
-  overflow: hidden;
-  background-color: #1e1c3c;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 0.8px;
+  -webkit-text-stroke-color: white;
+  text-shadow: 0.5px 0.5px #1e1c3c, 5px 5px rgba(0, 0, 0, 0.02);
 `
 const Column = styled.span`
+transform: translateY(-25px);
+width: 110px;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
-  align-self: flex-start;
-  width: 100px;
-  margin-right: 40px;
-  padding-left: 30px;
 `
 
 const TextContainer = styled.div`
@@ -142,10 +144,8 @@ const Month = styled.h4`
 `
 
 const Icons = styled.span`
-  align-self: flex-start;
-  padding-top: 15px;
   padding-bottom: 20px;
-  margin-left: -40px;
+  margin-left: -38px;
 `
 
 const Icon = styled.a`
@@ -165,12 +165,12 @@ const EpisodeCard = ({ slug, number, date, month, serial, title, description }) 
   return (
     <Card>
       <Thumbnail>
-        <Column>
-          <Date>{date}</Date>
-          <Month>{month}</Month>
-        </Column>
+        &#x2B22;
       </Thumbnail>
-
+      <Column>
+        <Date>{date}</Date>
+        <Month>{month}</Month>
+      </Column>
       <Icons>
         <Icon
           className="twitter-share-button"

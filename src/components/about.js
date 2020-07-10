@@ -25,7 +25,7 @@ const About = () => (
             size="50"
             color="#E5E5E5"
             style={{
-              transform: `translateY(-140px)`,
+              transform: `translateY(-130px)`,
             }}
           />
         </ProfileAvatar>
@@ -44,7 +44,7 @@ const About = () => (
             size="50"
             color="#E5E5E5"
             style={{
-              transform: `translateY(-140px)`
+              transform: `translateY(-130px)`
             }}
           />
         </ProfileAvatar>
@@ -77,7 +77,8 @@ const ProfileAvatar = styled.div`
   align-items: center;
   justify-content: center;
   text-align: center;
-  font-size: 270px;
+  transform: translateY(-100px);
+  font-size: 250px;
   // color: #5f728c;
   z-index: 0;
   -webkit-text-fill-color: transparent;
@@ -92,9 +93,9 @@ const Card = styled.div`
   text-align: center;
   align-items: center;
   width: 300px;
-  height: 500px;
+  height: 360px;
   padding: 2rem;
-  margin: 2rem 2rem 6rem 2rem;
+  margin: 6rem 2rem 6rem 2rem;
   background-color: #E5E5E5;
   padding-top: 80px;
   -webkit-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
@@ -115,12 +116,13 @@ const Name = styled.h2`
 
 const HostName = styled(Name)`
 border-bottom: 0.5px solid #1e1c3c;
-margin-top: -150px;
+transform: translateY(-240px);
+margin-bottom: -230px;
 padding-bottom: 56px;
 letter-spacing: 0.1em;
 text-transform: uppercase;
 text-align: center;
-z-index: 2;
+z-index: 5;
 -webkit-text-fill-color: transparent;
 -webkit-text-stroke-width: 0.5px;
 -webkit-text-stroke-color: white;
