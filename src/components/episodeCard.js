@@ -26,7 +26,7 @@ const Label = styled.span`
   transition: all 0.1s ease-in;
   font-family: 'Oswald', sans-serif;
   color: #1e1c3c;
-  font-size: 0.85rem;
+  font-size: 0.75rem;
   top: 6px;
   right: 60px;
   text-transform: uppercase;
@@ -177,17 +177,17 @@ const EpisodeCard = ({ slug, number, date, month, serial, title, description }) 
           href={`https://twitter.com/intent/tweet?url=https%3A%2F%2Fembed.sounder.fm%2Fplay%2F${number}`}
           aria-label="Share on twitter"
         >
-          <TwitterWithCircle size="30" aria-hidden="true"/>
+          <TwitterWithCircle size="30" aria-hidden="true" />
         </Icon>
         <Icon
           className="fb-share-button"
           href={`https://www.facebook.com/sharer/sharer.php?u=https://embed.sounder.fm/play/${number}`}
           aria-label="Share on facebook"
         >
-          <FacebookCircle size="30" aria-hidden="true"/>
+          <FacebookCircle size="30" aria-hidden="true" />
         </Icon>
-        <Icon href={`https://embed.sounder.fm/play/${number}`}  aria-label="Link to embed this episode">
-          <Share size="30" aria-hidden="true"/>
+        <Icon href={`https://embed.sounder.fm/play/${number}`} aria-label="Link to embed this episode">
+          <Share size="30" aria-hidden="true" />
         </Icon>
       </Icons>
       <AudioPlayer url={`https://embed.sounder.fm/play/${number}`} />
