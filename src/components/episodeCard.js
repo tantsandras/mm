@@ -62,8 +62,7 @@ text-align: center;
 font-size: 220px;
   transform: translateY(-10px);
   z-index: 0;
-  margin-right: 20px;
-  margin-left: 20px;
+
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width: 0.8px;
   -webkit-text-stroke-color: white;
@@ -144,19 +143,20 @@ const Month = styled.h4`
 `
 
 const Icons = styled.span`
+z-index: 6;
   padding-bottom: 20px;
-  margin-left: -38px;
+  margin: 0 auto;
 `
 
 const Icon = styled.a`
   display: inline;
-  list-style: none;
-  padding-left: 40px;
+  padding-right: 40px;
   text-decoration: none;
   cursor: pointer;
-  color: #5f728ccc;
+  color: #5f728c;
   &:hover {
-    color: #282d50;
+    color: #1e1c3c;
+    cursor: pointer;
   }
 `
 
@@ -186,7 +186,7 @@ const EpisodeCard = ({ slug, number, date, month, serial, title, description }) 
         >
           <FacebookCircle size="30" aria-hidden="true" />
         </Icon>
-        <Icon href={`https://embed.sounder.fm/play/${number}`} aria-label="Link to embed this episode">
+        <Icon href={`https://embed.sounder.fm/play/${number}`} aria-label="Link to embed this episode" style={{ paddingRight: `0px` }}>
           <Share size="30" aria-hidden="true" />
         </Icon>
       </Icons>
