@@ -17,6 +17,7 @@ const Name = styled.h6`
   text-transform: uppercase;
   border-bottom: 0.5px solid #E5E5E5;
   padding-bottom: 6px;
+  margin-bottom: 0px;
   font-size: 0.85rem;
   font-weight: 400;
   color: #E5E5E5;
@@ -32,7 +33,7 @@ const SocialLink = styled.a`
   }
 `
 const Text2 = styled.p`
-  margin-top: -20px;
+  margin-top: 6px;
   color: #E5E5E5;
   line-height: 2.5;
   text-align: right;

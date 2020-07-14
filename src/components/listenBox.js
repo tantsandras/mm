@@ -10,6 +10,7 @@ const Name = styled.h6`
   text-transform: uppercase;
   border-bottom: 0.5px solid #e5e5e5;
   padding-bottom: 6px;
+  margin-bottom: 0px;
   font-size: 0.85rem;
   font-weight: 400;
   color: #e5e5e5;
@@ -18,7 +19,7 @@ const Name = styled.h6`
 const Text = styled.p`
   display: flex;
   flex-flow: row wrap;
-  margin-top: -10px;
+  margin-top: 16px;
   color: #5f728c;
   line-height: 2.5;
   text-align: left;

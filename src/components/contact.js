@@ -33,8 +33,8 @@ const Contact = () => (
             aria-label="Follow us on Twitter"
           >
             <TwitterWithCircle
-              size="30"
-              style={{ marginBottom: `4px`, marginRight: `8px` }}
+              size="22"
+              style={{ marginRight: `8px`, transform: `translateY(-1.5px)` }}
               aria-hidden="true"
             />
           </SocialLink>
@@ -52,8 +52,8 @@ const Contact = () => (
             aria-label="Follow us on Instagram"
           >
             <InstagramWithCircle
-              size="30"
-              style={{ marginBottom: `4px`, marginRight: `8px` }}
+              size="22"
+              style={{ marginRight: `8px`, transform: `translateY(-1.5px)` }}
               aria-hidden="true"
             />
           </SocialLink>
