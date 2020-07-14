@@ -84,10 +84,10 @@ const Thumbnail = styled.div`
 `
 
 const TextContainer = styled.div`
-  padding-left: 40px;
-  padding-right: 40px;
-  padding-bottom: 40px;
-  margin-top: 40px;
+  padding-left: 1.8rem;
+  padding-right: 1.8rem;
+  padding-bottom: 1.8rem;
+  margin-top: 1.8rem;
   height: auto;
 `
 

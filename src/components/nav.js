@@ -28,10 +28,10 @@ const Label = styled.span`
   transition: all 0.1s ease-in;
   font-family: 'Oswald', sans-serif;
   color: #E5E5E5;
-  font-size: 0.85rem;
-  margin-left: 12px;
-  margin-top: 6px;
-  padding-bottom: 2px;
+  font-size: 0.75rem;
+  margin-left: 8px;
+  margin-top: 2px;
+  padding-bottom: 1px;
   text-transform: uppercase;
   z-index: 2;
 `
@@ -59,7 +59,7 @@ const StyledLink = styled.span`
   position: relative;
   margin-top: 30px;
   margin-bottom: 30px;
-  padding: 6px;
+  padding: 4px;
   text-align: center;
   &:hover ${Label} {
     max-width: 80px;
@@ -79,8 +79,8 @@ const NavBar = () => (
           style={{ color: `#d22d4c` }}
           activeStyle={{ color: `#5f728c` }}
         >
-          <MusicArtist size="24" aria-hidden="true" />
-          <Label style={{ marginLeft: `18px` }}>About</Label>
+          <MusicArtist size="22" aria-hidden="true" />
+          <Label style={{ marginLeft: `12px` }}>About</Label>
         </AniLink>
       </StyledLink>
       <StyledLink>
@@ -92,7 +92,7 @@ const NavBar = () => (
           to="/episodes"
 
         >
-          <Radio size="30" aria-hidden="true" />
+          <Radio size="26" aria-hidden="true" />
           <Label>Listen</Label>
         </AniLink>
       </StyledLink>
@@ -104,8 +104,8 @@ const NavBar = () => (
           direction="right"
           to="/contact"
         >
-          <Email size="24" aria-hidden="true" />
-          <Label style={{ marginLeft: `18px` }}>Contact</Label>
+          <Email size="22" aria-hidden="true" />
+          <Label style={{ marginLeft: `12px` }}>Contact</Label>
         </AniLink>
       </StyledLink>
       <StyledLink>
@@ -116,7 +116,7 @@ const NavBar = () => (
           direction="right"
           to="/shop"
         >
-          <ShoppingCart size="30" aria-hidden="true" />
+          <ShoppingCart size="26" aria-hidden="true" />
           <Label>Merch</Label>
         </AniLink>
       </StyledLink>
@@ -128,7 +128,7 @@ const NavBar = () => (
           direction="right"
           to="/support"
         >
-          <MoneyPoundCircle size="30" aria-hidden="true" />
+          <MoneyPoundCircle size="26" aria-hidden="true" />
           <Label>Support</Label>
         </AniLink>
       </StyledLink>

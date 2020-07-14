@@ -27,8 +27,8 @@ const Label = styled.span`
   font-family: 'Oswald', sans-serif;
   color: #1e1c3c;
   font-size: 0.75rem;
-  top: 6px;
-  right: 60px;
+  top: 2px;
+  right: 44px;
   text-transform: uppercase;
   z-index: 2;
   white-space: nowrap;
@@ -78,10 +78,10 @@ width: 110px;
 `
 
 const TextContainer = styled.div`
-  padding-left: 40px;
-  padding-right: 40px;
+  padding-left: 1.8rem;
+  padding-right: 1.8rem;
   height: auto;
-  padding-bottom: 40px;
+  padding-bottom: 2rem;
 `
 
 const PodTitle = styled.h4`
@@ -114,10 +114,10 @@ const Date = styled.h3`
 const ReadMore = styled.div`
   position: absolute;
   bottom: 0px;
-  right: 0px;
+  right: 4px;
 	background-color: #d22d4c;
-	width: 50px;
-	height: 50px;
+	width: 40px;
+	height: 40px;
 	border-radius: 50%;
 	-webkit-box-shadow: 10px 10px 50px 0px rgba(0,0,0,0.75);
 	-moz-box-shadow: 10px 10px 50px 0px rgba(0,0,0,0.75);
@@ -199,7 +199,7 @@ const EpisodeCard = ({ slug, number, date, month, serial, title, description }) 
       <ReadMore>
         <AniLink paintDrip to={`/episode/${slug}`} hex="#1e1c3c" duration={1} aria-label="Read more about this episode">
           <Label>Read more</Label>
-          <RightArrowCircle size="50" color="#E5E5E5" style={{
+          <RightArrowCircle size="40" color="#E5E5E5" style={{
             position: `absolute`, right: `0px`,
             bottom: `0px`
           }} aria-hidden="true" />

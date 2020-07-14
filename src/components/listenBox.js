@@ -18,7 +18,7 @@ const Name = styled.h6`
 const Text = styled.p`
   display: flex;
   flex-flow: row wrap;
-  transform: translateY(-8px);
+  margin-top: -10px;
   color: #5f728c;
   line-height: 2.5;
   text-align: left;
@@ -58,14 +58,6 @@ const Listen = () => (
         <Itunes size="22" aria-hidden="true" />
       </ListenIcon>
       <ListenIcon
-        href="https://open.spotify.com/show/0R3YUEiCHBH1nUonVXTzIZ"
-        target="_blank"
-        rel="noopener noreferrer"
-        aria-label="Listen on Spotify"
-      >
-        <Spotify size="22" aria-hidden="true" />
-      </ListenIcon>
-      <ListenIcon
         href="https://www.stitcher.com/s?fid=544619&refid=stpr "
         target="_blank"
         rel="noopener noreferrer"
@@ -77,7 +69,7 @@ const Listen = () => (
             width: `19px`,
             height: `19px`,
             marginLeft: `1px`,
-            marginRight: `1px`,
+            marginRight: `2px`,
           }}
           alt="Stitcher icon"
         />
@@ -89,6 +81,14 @@ const Listen = () => (
         aria-label="Listen on Google Play"
       >
         <Googlepodcasts size="22" aria-hidden="true" />
+      </ListenIcon>
+      <ListenIcon
+        href="https://open.spotify.com/show/0R3YUEiCHBH1nUonVXTzIZ"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Listen on Spotify"
+      >
+        <Spotify size="22" aria-hidden="true" />
       </ListenIcon>
       <ListenIcon
         href="https://castbox.fm/channel/Midweek-Murders-id3009183?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=Midweek%20Murders-CastBox_FM"

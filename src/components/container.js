@@ -23,10 +23,10 @@ const Label = styled.span`
   transition: all 0.1s ease-in;
   font-family: 'Oswald', sans-serif;
   color: #E5E5E5;
-  font-size: 0.85rem;
-  margin-left: 12px;
-  margin-top: 6px;
-  padding-bottom: 2px;
+  font-size: 0.75rem;
+  margin-left: 8px;
+  margin-top: 1px;
+  padding-bottom: 1px;
   text-transform: uppercase;
   z-index: 2;
 `
@@ -87,7 +87,7 @@ const PageContainer = ({ id, header, children }) => (
   <Container id={id}>
     <BackButton>
       <AniLink swipe direction="left" to="/" aria-label="Back to home page" >
-        <LeftArrowCircle size="40" color="#5f728c" aria-hidden="true"/>
+        <LeftArrowCircle size="30" color="#5f728c" aria-hidden="true"/>
         <Label>Home</Label>
       </AniLink>
     </BackButton>
