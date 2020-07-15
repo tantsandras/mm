@@ -45,11 +45,10 @@ const Text = styled.span`
 `
 
 const ImageWrapper = styled.div`
-max-width: 70%;
-height: auto;
+max-width: 100%;
 margin: 0 auto;
 text-align: center;
-padding: 40px;
+padding: 40px 0px 40px 0px;
 `
 
 
@@ -59,37 +58,35 @@ const EpisodeComp = ({ episode }) => {
   return (
 
     <PageContainer header={serial}>
-      <Container>
 
-        <Intro>
-          <Name>{title}
+      <Intro>
+        <Name>{title}
 
-          </Name>
-          <Slogan>{date} {month}</Slogan>
+        </Name>
+        <Slogan>{date} {month}</Slogan>
 
-          {images.map(
-            img => (
-              <ImageWrapper>
-                <img src={img.image} alt={img.alt} />
-              </ImageWrapper>
-            )
-          )}
-          <Text>{longText}</Text>
-          <ImageWrapper style={{ paddingLeft: `0px`, paddingRight: `0px` }}>
-            <AudioPlayer url={`https://embed.sounder.fm/play/${number}`} />
-          </ImageWrapper>
+        {images.map(
+          img => (
+            <ImageWrapper>
+              <img src={img.image} alt={img.alt} />
+            </ImageWrapper>
+          )
+        )}
+        <Text>{longText}</Text>
+        <ImageWrapper>
+          <AudioPlayer url={`https://embed.sounder.fm/play/${number}`} />
+        </ImageWrapper>
 
-        </Intro>
+      </Intro>
 
 
-        <AniLink style={{ textDecoration: `none`, color: `#E5E5E5`, textTransform: `uppercase` }}
-          swipe direction="left" to="/episodes"
-          aria-label="Back to episodes page"
-        >
-          <LeftArrowCircle size="30" color="#5f728c" aria-hidden="true" style={{ marginRight: `6px`, marginBottom: `4px` }} />
-          Back to episodes</AniLink>
-      </Container>
-    </PageContainer >
+      <AniLink style={{ textDecoration: `none`, color: `#E5E5E5`, textTransform: `uppercase` }}
+        swipe direction="left" to="/episodes"
+        aria-label="Back to episodes page"
+      >
+        <LeftArrowCircle size="30" color="#5f728c" aria-hidden="true" style={{ marginRight: `6px`, marginBottom: `4px` }} />
+        Back to episodes</AniLink>
+    </PageContainer>
   )
 }
 

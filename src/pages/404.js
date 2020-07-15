@@ -15,7 +15,7 @@ const Container = styled.div`
 
 const Intro = styled.article`
   flex-basis: 70%;
-  margin: 4% 15%;
+  margin: 4% 15% 6% 15%;
 `
 
 const Name = styled.h2`
