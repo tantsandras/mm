@@ -11,7 +11,6 @@ const Container = styled.div`
   justify-content: center;
   align-items: center;
   padding-bottom: 200px;
-  width: 100vw;
 `
 const Intro = styled.article`
   flex-basis: 70%;
@@ -45,11 +44,11 @@ const Text = styled.span`
 `
 
 const ImageWrapper = styled.div`
-width: 100%;
+max-width: 100%;
 height: auto;
 margin: 0 auto;
 text-align: center;
-padding: 40px;
+padding: 4% 15%;
 `
 
 
