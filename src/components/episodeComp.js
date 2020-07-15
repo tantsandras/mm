@@ -45,7 +45,7 @@ const Text = styled.span`
 `
 
 const ImageWrapper = styled.div`
-max-width: 100%;
+max-width: 70%;
 height: auto;
 margin: 0 auto;
 text-align: center;
