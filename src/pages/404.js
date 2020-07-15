@@ -1,7 +1,17 @@
 import React from "react"
 import styled from "styled-components"
-import Layout from "../components/layout"
 import SEO from "../components/seo"
+import { LeftArrowCircle } from "@styled-icons/boxicons-regular"
+import AniLink from "gatsby-plugin-transition-link/AniLink"
+
+
+const Container = styled.div`
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 200px;
+`
 
 const Intro = styled.article`
   flex-basis: 70%;
@@ -27,24 +37,35 @@ const Text = styled.p`
 `
 
 const Thumbnail = styled.div`
+  top: 40px;
   position: relative;
   height: auto;
-  width: 80%;
+  width: 70%;
   display: block;
   overflow: hidden;
   margin: 0 auto;
 `
 
 
-
 const NotFoundPage = () => (
   <>
     <SEO title="404: Not found" />
-    <Intro>
-      <Name>NOT FOUND</Name>
-      <Text>I don't know what you're looking for, but somewhere along the way you've taken a wrong turn. Here lies only emptiness.</Text>
-      <Thumbnail><img src="https://i.imgflip.com/1c1uej.jpg" alt="Pablo Escobar looking lonely." style={{ width: `100%`, height: `100%` }} /></Thumbnail>
-    </Intro>
+    <Container>
+      <Intro>
+        <Name>NOT FOUND</Name>
+        <Text>I don't know what you're looking for, but somewhere along the way you've taken a wrong turn. Here lies only emptiness.</Text>
+        <Thumbnail><img src="https://i.imgflip.com/1c1uej.jpg" alt="Pablo Escobar looking lonely." style={{ width: `100%`, height: `100%` }} /></Thumbnail>
+
+      </Intro>
+      <AniLink style={{ textDecoration: `none`, color: `#E5E5E5`, textTransform: `uppercase` }}
+        swipe direction="left" to="/"
+        aria-label="Back to home page"
+      >
+
+        <LeftArrowCircle size="30" color="#5f728c" aria-hidden="true" style={{ marginRight: `6px`, marginBottom: `4px` }} />
+        Take me back!</AniLink>
+
+    </Container>
   </>
 )
 

@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useState } from "react"
 import styled, { keyframes } from "styled-components"
 import { Share } from "@styled-icons/entypo"
 import { TwitterWithCircle } from "@styled-icons/entypo-social"
@@ -6,15 +6,7 @@ import { FacebookCircle } from "@styled-icons/boxicons-logos"
 import AudioPlayer from "./useAudioPlayer"
 import { RightArrowCircle } from "@styled-icons/boxicons-regular"
 import AniLink from "gatsby-plugin-transition-link/AniLink"
-// import Screen14 from "https://midweekmurders.netlify.app/imgUploads/14.png"
-// import Screen15 from "https://midweekmurders.netlify.app/imgUploads/15.png"
-// import Screen16 from "https://midweekmurders.netlify.app/imgUploads/16.png"
-// import Screen17 from "https://midweekmurders.netlify.app/imgUploads/17.png"
-// import Screen18 from "https://midweekmurders.netlify.app/imgUploads/18.png"
-// import Screen20 from "https://midweekmurders.netlify.app/imgUploads/20.png"
-// import Screen21 from "https://midweekmurders.netlify.app/imgUploads/21.png"
-// import Screen22 from "https://midweekmurders.netlify.app/imgUploads/22.png"
-// import Screen23 from "https://midweekmurders.netlify.app/imgUploads/23.png"
+
 
 
 const fadeIn = keyframes`
@@ -171,15 +163,12 @@ const Icon = styled.a`
 `
 
 const EpisodeCard = ({ slug, number, date, month, serial, title, description }) => {
+  const [index] = useState(() => Math.floor(Math.random() * 10))
 
+  const imagesArray = ["https://midweekmurders.netlify.app/imgUploads/14.png", "https://midweekmurders.netlify.app/imgUploads/15.png", "https://midweekmurders.netlify.app/imgUploads/16.png", "https://midweekmurders.netlify.app/imgUploads/17.png", "https://midweekmurders.netlify.app/imgUploads/18.png", "https://midweekmurders.netlify.app/imgUploads/20.png", "https://midweekmurders.netlify.app/imgUploads/21.png", "https://midweekmurders.netlify.app/imgUploads/22.png", "https://midweekmurders.netlify.app/imgUploads/23.png"];
 
-  //   const imagesArray = ["https://midweekmurders.netlify.app/imgUploads/14.png", "https://midweekmurders.netlify.app/imgUploads/15.png", "https://midweekmurders.netlify.app/imgUploads/16.png", "https://midweekmurders.netlify.app/imgUploads/17.png", "https://midweekmurders.netlify.app/imgUploads/18.png", "https://midweekmurders.netlify.app/imgUploads/20.png", "https://midweekmurders.netlify.app/imgUploads/21.png", "https://midweekmurders.netlify.app/imgUploads/22.png", "https://midweekmurders.netlify.app/imgUploads/23.png"];
+  const image = imagesArray[index];
 
-  //   const displayImage = () => {
-  //     let num = Math.floor(Math.random() * 10);
-  //     return imagesArray[num];
-  //   }
-  // const image = displayImage();
   return (
     <Card>
       <Thumbnail>
@@ -222,18 +211,15 @@ const EpisodeCard = ({ slug, number, date, month, serial, title, description }) 
           // duration={2}
           cover
           to={`/episode/${slug}`}
-          direction="left"
-          duration={3}
-          // bg="
-          //   url(https://midweekmurders.netlify.app/imgUploads/14.png)
-          //   center / cover   /* position / size */
-          //   no-repeat        /* repeat */
-          //   fixed            /* attachment */
-          //   padding-box      /* origin */
-          //   content-box      /* clip */
-
-          // "
-
+          direction="right"
+          duration={5}
+          bg={`url(${image})
+            center / contain
+            no-repeat      
+            fixed           
+            padding-box     
+            content-box     
+            #1e1c3c`}
           aria-label="Read more about this episode">
           <Label>Read more</Label>
           <RightArrowCircle size="40" color="#E5E5E5" style={{
