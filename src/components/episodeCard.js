@@ -173,13 +173,13 @@ const Icon = styled.a`
 const EpisodeCard = ({ slug, number, date, month, serial, title, description }) => {
 
 
-  // const imagesArray = ["https://midweekmurders.netlify.app/imgUploads/14.png", `${Screen15}`, `${Screen16}`, `${Screen17}`, `${Screen18}`, `${Screen19}`, `${Screen20}`, `${Screen21}`, `${Screen22}`, `${Screen23}`];
+  //   const imagesArray = ["https://midweekmurders.netlify.app/imgUploads/14.png", "https://midweekmurders.netlify.app/imgUploads/15.png", "https://midweekmurders.netlify.app/imgUploads/16.png", "https://midweekmurders.netlify.app/imgUploads/17.png", "https://midweekmurders.netlify.app/imgUploads/18.png", "https://midweekmurders.netlify.app/imgUploads/20.png", "https://midweekmurders.netlify.app/imgUploads/21.png", "https://midweekmurders.netlify.app/imgUploads/22.png", "https://midweekmurders.netlify.app/imgUploads/23.png"];
 
-  // let image = function displayImage() {
-  //   let num = Math.floor(Math.random() * 10);
-  //   return imagesArray[num];
-  // }
-
+  //   const displayImage = () => {
+  //     let num = Math.floor(Math.random() * 10);
+  //     return imagesArray[num];
+  //   }
+  // const image = displayImage();
   return (
     <Card>
       <Thumbnail>
@@ -216,10 +216,23 @@ const EpisodeCard = ({ slug, number, date, month, serial, title, description }) 
       </TextContainer>
       <ReadMore>
         <AniLink
-          paintDrip
+          // paintDrip
+          // to={`/episode/${slug}`}
+          // hex="#1e1c3c"
+          // duration={2}
+          cover
           to={`/episode/${slug}`}
-          hex="#1e1c3c"
-          duration={2}
+          direction="left"
+          duration={3}
+          // bg="
+          //   url(https://midweekmurders.netlify.app/imgUploads/14.png)
+          //   center / cover   /* position / size */
+          //   no-repeat        /* repeat */
+          //   fixed            /* attachment */
+          //   padding-box      /* origin */
+          //   content-box      /* clip */
+
+          // "
 
           aria-label="Read more about this episode">
           <Label>Read more</Label>
