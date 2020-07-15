@@ -48,7 +48,7 @@ max-width: 100%;
 height: auto;
 margin: 0 auto;
 text-align: center;
-padding: 4% 15%;
+padding: 40px;
 `
 
 
