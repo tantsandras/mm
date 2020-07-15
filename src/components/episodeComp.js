@@ -11,6 +11,7 @@ const Container = styled.div`
   justify-content: center;
   align-items: center;
   padding-bottom: 200px;
+  width: 100vw;
 `
 const Intro = styled.article`
   flex-basis: 70%;
