@@ -14,6 +14,7 @@ const Container = styled.div`
 `
 const Intro = styled.article`
   flex-basis: 70%;
+  max-width: 70%;
   margin: 4% 15%;
 `
 
