@@ -205,14 +205,10 @@ const EpisodeCard = ({ slug, number, date, month, serial, title, description }) 
       </TextContainer>
       <ReadMore>
         <AniLink
-          // paintDrip
-          // to={`/episode/${slug}`}
-          // hex="#1e1c3c"
-          // duration={2}
           cover
           to={`/episode/${slug}`}
           direction="right"
-          duration={5}
+          duration={4}
           bg={`url(${image})
             center / contain
             no-repeat      

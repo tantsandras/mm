@@ -74,11 +74,13 @@ const EpisodeComp = ({ episode }) => {
             )
           )}
           <Text>{longText}</Text>
+          <ImageWrapper style={{ paddingLeft: `0px`, paddingRight: `0px` }}>
+            <AudioPlayer url={`https://embed.sounder.fm/play/${number}`} />
+          </ImageWrapper>
 
         </Intro>
-        <Intro>
-          <AudioPlayer url={`https://embed.sounder.fm/play/${number}`} />
-        </Intro>
+
+
         <AniLink style={{ textDecoration: `none`, color: `#E5E5E5`, textTransform: `uppercase` }}
           swipe direction="left" to="/episodes"
           aria-label="Back to episodes page"
