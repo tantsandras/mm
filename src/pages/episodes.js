@@ -45,7 +45,6 @@ export default EpisodesPage
 export const EpisodesQuery = graphql`
 {
     allMarkdownRemark (
-        limit: 4
         sort: { fields: [frontmatter___serial], order: DESC }
       ) {
       edges {

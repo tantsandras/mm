@@ -51,8 +51,10 @@ text-align: center;
 padding: 40px;
 `
 
+
 const EpisodeComp = ({ episode }) => {
   const { title, serial, number, longText, date, month, images } = episode
+
   return (
 
     <PageContainer header={serial}>
@@ -78,10 +80,11 @@ const EpisodeComp = ({ episode }) => {
           <AudioPlayer url={`https://embed.sounder.fm/play/${number}`} />
         </Intro>
         <AniLink style={{ textDecoration: `none`, color: `#E5E5E5`, textTransform: `uppercase` }}
-          swipe direction="left" to="/episodes" aria-label="Back to episodes page"
+          swipe direction="left" to="/episodes"
+          aria-label="Back to episodes page"
         >
-          <LeftArrowCircle size="30" color="#5f728c" aria-hidden="true" style={{ marginRight: `6px`, marginBottom: `4px`}} />
-         Back to episodes</AniLink>
+          <LeftArrowCircle size="30" color="#5f728c" aria-hidden="true" style={{ marginRight: `6px`, marginBottom: `4px` }} />
+          Back to episodes</AniLink>
       </Container>
     </PageContainer >
   )

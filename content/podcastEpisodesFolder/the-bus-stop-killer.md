@@ -3,8 +3,7 @@ title: The Bus Stop Killer
 serial: "05"
 number: "48434"
 descriptionText: In this episode, we discuss serial killer Levi Bellfield and
-  his numerous crimes (such as the murders of Milly Dowler, Marsha McDonnell and
-  Amélie Delagrange). Sandra talks about her personal struggle with the british
+  his numerous crimes. Sandra talks about her personal struggle with the british
   plumbing system and Joe thanks Daniel Farke for enriching the Premier league
   press conferences.
 longText: 'In this episode, we discuss serial killer Levi Bellfield and his

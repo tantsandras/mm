@@ -6,6 +6,16 @@ import { FacebookCircle } from "@styled-icons/boxicons-logos"
 import AudioPlayer from "./useAudioPlayer"
 import { RightArrowCircle } from "@styled-icons/boxicons-regular"
 import AniLink from "gatsby-plugin-transition-link/AniLink"
+// import Screen14 from "https://midweekmurders.netlify.app/imgUploads/14.png"
+// import Screen15 from "https://midweekmurders.netlify.app/imgUploads/15.png"
+// import Screen16 from "https://midweekmurders.netlify.app/imgUploads/16.png"
+// import Screen17 from "https://midweekmurders.netlify.app/imgUploads/17.png"
+// import Screen18 from "https://midweekmurders.netlify.app/imgUploads/18.png"
+// import Screen20 from "https://midweekmurders.netlify.app/imgUploads/20.png"
+// import Screen21 from "https://midweekmurders.netlify.app/imgUploads/21.png"
+// import Screen22 from "https://midweekmurders.netlify.app/imgUploads/22.png"
+// import Screen23 from "https://midweekmurders.netlify.app/imgUploads/23.png"
+
 
 const fadeIn = keyframes`
 from {
@@ -162,6 +172,14 @@ const Icon = styled.a`
 
 const EpisodeCard = ({ slug, number, date, month, serial, title, description }) => {
 
+
+  // const imagesArray = ["https://midweekmurders.netlify.app/imgUploads/14.png", `${Screen15}`, `${Screen16}`, `${Screen17}`, `${Screen18}`, `${Screen19}`, `${Screen20}`, `${Screen21}`, `${Screen22}`, `${Screen23}`];
+
+  // let image = function displayImage() {
+  //   let num = Math.floor(Math.random() * 10);
+  //   return imagesArray[num];
+  // }
+
   return (
     <Card>
       <Thumbnail>
@@ -197,7 +215,13 @@ const EpisodeCard = ({ slug, number, date, month, serial, title, description }) 
         <Description>{description}</Description>
       </TextContainer>
       <ReadMore>
-        <AniLink paintDrip to={`/episode/${slug}`} hex="#1e1c3c" duration={1} aria-label="Read more about this episode">
+        <AniLink
+          paintDrip
+          to={`/episode/${slug}`}
+          hex="#1e1c3c"
+          duration={2}
+
+          aria-label="Read more about this episode">
           <Label>Read more</Label>
           <RightArrowCircle size="40" color="#E5E5E5" style={{
             position: `absolute`, right: `0px`,
