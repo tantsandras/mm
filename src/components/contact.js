@@ -75,8 +75,8 @@ const turnVisible = keyframes`
 `
 const Thumbnail = styled.div`
   position: relative;
-  top: -80px;
-  left: 10%;
+  top: -70px;
+  left: 8%;
   height: auto;
   display: block;
   width: 40%;
