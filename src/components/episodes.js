@@ -23,7 +23,8 @@ const Episodes = ({ children }) => {
         </Text>
       </Intro>
 
-      <Intro>
+      <Intro >
+
         <Name>Listen on</Name>
         <Text2>
           <ListenIcon
@@ -118,7 +119,7 @@ const Container = styled.div`
 `
 const Intro = styled.article`
   flex-basis: 70%;
-  margin: 4% 15% 6rem 15%;
+  margin: 4% 15% 4rem 15%;
 `
 
 const Name = styled.h2`

@@ -145,6 +145,26 @@ const StyledBackground = styled(BackgroundImage)`
   box-shadow: inset 10px 10px 93px 0px rgba(0, 0, 0, 0.95);
   animation: ${turnVisible} ease-in 1.4s forwards;
 `
+const ArrowUp = styled.div`
+height: 100px;
+margin-top: -100px;
+&:before {
+  content: "";
+  position:absolute;
+  left:0px;
+  width:50%;
+  height:100px;
+  background: linear-gradient(to right bottom, transparent 49%, #1e1c3c 50%);
+}
+&:after {
+  content: "";
+  position:absolute;
+  right:0px;
+  width:50%;
+  height:100px;
+  background: linear-gradient(to left bottom, transparent 49%, #1e1c3c 50%);
+}
+`
 
 const BackgroundSection = ({ className }) => (
   <StaticQuery
@@ -174,6 +194,7 @@ const BackgroundSection = ({ className }) => (
           </StyledBackground>
 
           <Title>Midweek Murders</Title>
+          <ArrowUp> </ArrowUp>
           <Card>
             <Thumbnail>
               <Logo />
