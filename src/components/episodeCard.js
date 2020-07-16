@@ -92,10 +92,24 @@ const PodTitle = styled.h4`
   font-weight: 500;
   letter-spacing: 0.05em;
   text-transform: uppercase;
-  border-bottom: 0.5px solid #1e1c3c;
-  padding-bottom: 6px;
   color: #1e1c3c;
 `
+const Divider = styled.div`
+position: relative;
+height: 1px;
+&:before {
+	content: "";
+	position: absolute;
+	top: -20px;
+	left: 0%;
+	right: 0%;
+	width: 100%;
+	height: 1px;
+	background-image: linear-gradient(to right, transparent, #e5e5e5, transparent);
+}
+
+`
+
 
 const Description = styled.p`
   text-align: left;
@@ -110,8 +124,6 @@ const Date = styled.h3`
   z-index: 6;
   // color: #5f728ccc;
   color: #E5E5E5;
-  border-bottom: 1px #E5E5E5 solid;
-  padding-bottom: 6px;
 `
 
 const ReadMore = styled.div`
@@ -142,7 +154,7 @@ const Month = styled.h4`
   font-weight: 400;
   z-index: 6;
   color: #E5E5E5;
-  transform: translateY(-20px);
+  transform: translateY(-16px);
 `
 
 const Icons = styled.span`
@@ -163,6 +175,21 @@ const Icon = styled.a`
   }
 `
 
+const DarkDivider = styled.div`
+position: relative;
+height: 1px;
+&:before {
+	content: "";
+	position: absolute;
+	top: -20px;
+	left: -5%;
+	right: 0%;
+	width: 110%;
+	height: 1px;
+	background-image: linear-gradient(to right, transparent, #1e1c3c, transparent);
+}
+`
+
 const EpisodeCard = ({ slug, number, date, month, serial, title, description }) => {
   const [index] = useState(() => Math.floor(Math.random() * 9))
 
@@ -177,6 +204,7 @@ const EpisodeCard = ({ slug, number, date, month, serial, title, description }) 
       </Thumbnail>
       <Column>
         <Date>{date}</Date>
+        <Divider></Divider>
         <Month>{month}</Month>
       </Column>
       <Icons>
@@ -202,6 +230,7 @@ const EpisodeCard = ({ slug, number, date, month, serial, title, description }) 
 
       <TextContainer>
         <PodTitle>{serial}. {title}</PodTitle>
+        <DarkDivider> </DarkDivider>
         <Description>{description}</Description>
       </TextContainer>
       <ReadMore>

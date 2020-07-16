@@ -8,6 +8,7 @@ const About = () => (
     <Container>
       <Description>
         <Name>Midweek Murders</Name>
+        <Divider> </Divider>
         <Slogan style={{ color: `#5f728c` }}>A true crime comedy podcast</Slogan>
         <Text style={{ color: `#E5E5E5` }}>
           Based in the UK, new episodes every Wednesday. Midweek Murders is a
@@ -16,6 +17,7 @@ const About = () => (
       </Description>
       <Description>
         <Name>Hosts</Name>
+        <Divider> </Divider>
         <Slogan style={{ color: `#5f728c` }}>Sandra & Joe</Slogan>
       </Description>
       <Card>
@@ -30,6 +32,7 @@ const About = () => (
           />
         </ProfileAvatar>
         <HostName>Joe</HostName>
+        <DarkDivider> </DarkDivider>
         <Slogan>#notadoctor </Slogan>
         <Text>
           Joe is a grumpy old man kind of guy despite not being especially old.
@@ -49,6 +52,7 @@ const About = () => (
           />
         </ProfileAvatar>
         <HostName>Sandra</HostName>
+        <DarkDivider> </DarkDivider>
         <Slogan>Cats and carbs</Slogan>
         <Text>
           Sandra is a more insane version of Joe, with a lot more technical
@@ -71,6 +75,21 @@ const Container = styled.div`
 const Description = styled.article`
   flex-basis: 70%;
   margin: 4% 15%;
+`
+const Divider = styled.div`
+position: relative;
+height: 1px;
+&:before {
+	content: "";
+	position: absolute;
+	top: -20px;
+	left: -10%;
+	right: 0%;
+	width: 120%;
+	height: 1px;
+	background-image: linear-gradient(to right, transparent, #e5e5e5, transparent);
+}
+
 `
 
 const ProfileAvatar = styled.div`
@@ -108,16 +127,13 @@ const Name = styled.h2`
   font-family: 'Oswald', sans-serif;
   text-transform: uppercase;
   color: #5f728c;
-  border-bottom: 0.2px solid #E5E5E5;
   padding-top: 12px;
-  padding-bottom: 6px;
   font-weight: 500;
   letter-spacing: 0.05em;
 `
 
 
 const HostName = styled(Name)`
-border-bottom: 0.5px solid #1e1c3c;
 transform: translateY(-230px);
 margin-bottom: -224px;
 padding-bottom: 56px;
@@ -132,9 +148,24 @@ letter-spacing: 4px;
 text-shadow: 2px 2px #d22d4c, 3px 3px #1e1c3c;
 `
 
+const DarkDivider = styled.div`
+position: relative;
+height: 1px;
+&:before {
+	content: "";
+	position: absolute;
+	top: -20px;
+	left: 0%;
+	right: 0%;
+	width: 100%;
+	height: 1px;
+	background-image: linear-gradient(to right, transparent, #1e1c3c, transparent);
+}
+`
+
 const Slogan = styled.h3`
   color: #1e1c3c;
-  margin-top: -20px;
+  margin-top: -16px;
   font-size: 0.95rem;
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;

@@ -17,15 +17,28 @@ const Name = styled.h2`
   text-transform: uppercase;
   font-weight: 500;
   letter-spacing: 0.05em;
-  border-bottom: 0.5px solid #E5E5E5;
   padding-top: 12px;
-  padding-bottom: 6px;
   color: #5f728c;
+`
+
+const Divider = styled.div`
+position: relative;
+height: 1px;
+&:before {
+	content: "";
+	position: absolute;
+	top: -20px;
+	left: -10%;
+	right: 0%;
+	width: 120%;
+	height: 1px;
+	background-image: linear-gradient(to right, transparent, #e5e5e5, transparent);
+}
 `
 
 const Slogan = styled.h3`
   color: #5f728c;
-  margin-top: -20px;
+  margin-top: -16px;
   font-size: 0.95rem;
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
@@ -55,9 +68,8 @@ const EpisodeComp = ({ episode }) => {
     <PageContainer header={serial}>
 
       <Intro>
-        <Name>{title}
-
-        </Name>
+        <Name>{title}</Name>
+        <Divider> </Divider>
         <Slogan>{date} {month}</Slogan>
 
         {images.map(

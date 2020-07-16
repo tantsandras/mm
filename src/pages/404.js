@@ -22,11 +22,24 @@ const Name = styled.h2`
   font-family: 'Oswald', sans-serif;
   text-transform: uppercase;
   font-weight: 500;
-  border-bottom: 0.5px solid #E5E5E5;
   letter-spacing: 0.05em;
   padding-top: 12px;
-  padding-bottom: 6px;
   color: #5f728c;
+`
+const Divider = styled.div`
+position: relative;
+height: 1px;
+&:before {
+	content: "";
+	position: absolute;
+	top: -20px;
+	left: -10%;
+	right: 0%;
+	width: 120%;
+	height: 1px;
+	background-image: linear-gradient(to right, transparent, #e5e5e5, transparent);
+}
+
 `
 
 const Text = styled.p`
@@ -54,6 +67,7 @@ const NotFoundPage = () => (
     <Container>
       <Intro>
         <Name>NOT FOUND</Name>
+        <Divider> </Divider>
         <Text>I don't know what you're looking for, but somewhere along the way you've taken a wrong turn. Here lies only emptiness.</Text>
         <Thumbnail><img src="https://i.imgflip.com/1c1uej.jpg" alt="Pablo Escobar looking lonely." style={{ width: `100%`, height: `100%` }} /></Thumbnail>
 

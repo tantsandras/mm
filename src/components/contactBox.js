@@ -15,13 +15,27 @@ const Contact = styled.article`
 const Name = styled.h6`
   font-family: 'Oswald', sans-serif;
   text-transform: uppercase;
-  border-bottom: 0.5px solid #E5E5E5;
-  padding-bottom: 6px;
+//   border-bottom: 0.5px solid #E5E5E5;
+    padding-bottom: 6px;
   margin-bottom: 0px;
   font-size: 0.85rem;
   letter-spacing: 0.05em;
   font-weight: 400;
   color: #E5E5E5;
+`
+const Divider = styled.div`
+position: relative;
+height: 1px;
+&:before {
+	content: "";
+	position: absolute;
+	left: -20%;
+	right: 0%;
+	width: 140%;
+	height: 1px;
+	background-image: linear-gradient(to right, transparent, #e5e5e5, transparent);
+}
+
 `
 const SocialLink = styled.a`
   text-decoration: none;
@@ -48,6 +62,7 @@ const ContactBox = () => (
 
     <Contact>
         <Name>Contact</Name>
+        <Divider> </Divider>
         <Text2>
             <SocialLink
                 href="https://twitter.com/midweekmurders/"

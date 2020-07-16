@@ -31,8 +31,7 @@ const Label = styled.span`
   font-size: 0.75rem;
   letter-spacing: 0.05em;
   margin-left: 8px;
-  margin-top: 2px;
-  padding-bottom: 1px;
+  margin-top: 3px;
   text-transform: uppercase;
   z-index: 2;
 `
@@ -65,7 +64,6 @@ const StyledLink = styled.span`
   &:hover ${Label} {
     max-width: 80px;
     animation: 0.2s ${fadeIn} forwards 0.2s;
-    border-bottom: 0.5px solid #E5E5E5;
   }
 `
 
@@ -82,6 +80,8 @@ const NavBar = () => (
         >
           <MusicArtist size="22" aria-hidden="true" />
           <Label style={{ marginLeft: `12px` }}>About</Label>
+
+
         </AniLink>
       </StyledLink>
       <StyledLink>
@@ -95,6 +95,8 @@ const NavBar = () => (
         >
           <Radio size="26" aria-hidden="true" />
           <Label>Listen</Label>
+
+
         </AniLink>
       </StyledLink>
       <StyledLink>
@@ -107,6 +109,8 @@ const NavBar = () => (
         >
           <Email size="22" aria-hidden="true" />
           <Label style={{ marginLeft: `12px` }}>Contact</Label>
+
+
         </AniLink>
       </StyledLink>
       <StyledLink>
@@ -119,6 +123,8 @@ const NavBar = () => (
         >
           <ShoppingCart size="26" aria-hidden="true" />
           <Label>Merch</Label>
+
+
         </AniLink>
       </StyledLink>
       <StyledLink>
@@ -131,6 +137,8 @@ const NavBar = () => (
         >
           <MoneyPoundCircle size="26" aria-hidden="true" />
           <Label>Support</Label>
+
+
         </AniLink>
       </StyledLink>
     </Navigation>

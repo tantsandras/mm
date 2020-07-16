@@ -26,8 +26,7 @@ const Label = styled.span`
   color: #E5E5E5;
   font-size: 0.75rem;
   margin-left: 8px;
-  margin-top: 1px;
-  padding-bottom: 1px;
+  margin-top: 2px;
   text-transform: uppercase;
   z-index: 2;
 `
@@ -41,7 +40,6 @@ const BackButton = styled.span`
   &:hover ${Label} {
     max-width: 80px;
     animation: 0.2s ${fadeIn} forwards 0.2s;
-    border-bottom: 0.5px solid #E5E5E5;
   }
 `
 

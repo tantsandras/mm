@@ -4,7 +4,7 @@ serial: "04"
 number: "46832"
 descriptionText: The Bride of Christ, or Åsa Waldau, is at the epicentre of the
   Knutby Murder, the murder of Alexandra Fossmo commited by a brainwashed cult
-  member and orchestrated by a pastor (Alexandras husband). Sandra tries to
+  member and orchestrated by a pastor. Sandra tries to
   teach Joe how to pronounce Swedish words, and Joe is trying not to get sued
   for defamation.
 longText: 'The Bride of Christ, or Åsa Waldau, is at the epicentre of the Knutby

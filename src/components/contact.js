@@ -7,6 +7,22 @@ import {
 } from "@styled-icons/entypo-social"
 import Image from "./getInTouch"
 
+const Divider = styled.div`
+position: relative;
+height: 1px;
+&:before {
+	content: "";
+	position: absolute;
+	top: -20px;
+	left: -10%;
+	right: 0%;
+	width: 120%;
+	height: 1px;
+	background-image: linear-gradient(to right, transparent, #e5e5e5, transparent);
+}
+
+`
+
 const Contact = () => (
   <>
     <Container>
@@ -15,6 +31,7 @@ const Contact = () => (
       </Thumbnail>
       <Description>
         <Name>Email</Name>
+        <Divider> </Divider>
         <Slogan>midweekmurders@gmail.com</Slogan>
         <Text>
           Send us your true crime stories, interesting headlines, or case
@@ -23,7 +40,7 @@ const Contact = () => (
       </Description>
       <Description>
         <Name>Twitter</Name>
-
+        <Divider> </Divider>
         <Slogan>@midweekmurders</Slogan>
         <Text>
           <SocialLink
@@ -43,6 +60,7 @@ const Contact = () => (
       </Description>
       <Description>
         <Name>Instagram</Name>
+        <Divider> </Divider>
         <Slogan>@midweekmurders</Slogan>
         <Text>
           <SocialLink
@@ -100,11 +118,10 @@ const Description = styled.article`
 const Name = styled.h2`
   font-family: 'Oswald', sans-serif;
   text-transform: uppercase;
-  border-bottom: 0.2px solid #E5E5E5;
   padding-top: 12px;
+  
   font-weight: 500;
   letter-spacing: 0.05em;
-  padding-bottom: 6px;
   color: #5f728c;
 `
 
@@ -113,7 +130,7 @@ const Slogan = styled.h3`
   font-size: 0.95rem;
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
-  margin-top: -20px;
+  margin-top: -16px;
 `
 const SocialLink = styled.a`
   text-decoration: none;

@@ -96,8 +96,6 @@ const PodTitle = styled.h2`
   font-weight: 500;
   letter-spacing: 0.05em;
   text-transform: uppercase;
-  border-bottom: 1px solid #1e1c3c;
-  padding-bottom: 6px;
   color: #1e1c3c;
 `
 
@@ -166,6 +164,21 @@ margin-top: -100px;
 }
 `
 
+const DarkDivider = styled.div`
+position: relative;
+height: 1px;
+&:before {
+	content: "";
+	position: absolute;
+	top: -20px;
+	left: -5%;
+	right: 0%;
+	width: 110%;
+	height: 1px;
+	background-image: linear-gradient(to right, transparent, #1e1c3c, transparent);
+}
+`
+
 const BackgroundSection = ({ className }) => (
   <StaticQuery
     query={graphql`
@@ -221,6 +234,7 @@ const BackgroundSection = ({ className }) => (
             <AudioPlayer url="https://embed.sounder.fm/play/42429" />
             <TextContainer>
               <PodTitle>Trailer</PodTitle>
+              <DarkDivider> </DarkDivider>
               <Description>
                 Midweek Murders is a True Crime Comedy podcast based in the UK
                 made by Sandra and Joe. They talk about a different case each
