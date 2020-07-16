@@ -8,7 +8,7 @@ const Image = () => {
     query {
       placeholderImage: file(relativePath: { eq: "mmlogo2.png" }) {
         childImageSharp {
-          fluid(quality: 90, maxWidth: 260) {
+          fluid(quality: 90, maxWidth: 270) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
@@ -25,7 +25,6 @@ const Image = () => {
 }
 
 const LeftImage = styled(Image)`
-  opacity: 1.8;
   position: absolute;
   left: 50%;
   top: 50%;
