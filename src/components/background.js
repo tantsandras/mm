@@ -53,7 +53,6 @@ const Title = styled.div`
   animation: ${turnVisible2} 0.6s ease-in;
 `
 const Card = styled.div`
-  margin-top: 4%;
   margin-bottom: 600px;
   position: relative;
   min-width: 300px;
@@ -146,6 +145,7 @@ const StyledBackground = styled(BackgroundImage)`
 const ArrowUp = styled.div`
 height: 100px;
 margin-top: -100px;
+margin-bottom: 40px;
 &:before {
   content: "";
   position:absolute;

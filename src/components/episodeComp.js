@@ -87,7 +87,7 @@ const EpisodeComp = ({ episode }) => {
       </Intro>
 
 
-      <AniLink style={{ textDecoration: `none`, color: `#E5E5E5`, textTransform: `uppercase`, letterSpacing: `0.05em`, }}
+      <AniLink style={{ textDecoration: `none`, color: `#E5E5E5`, textTransform: `uppercase`, letterSpacing: `0.05em`, marginBottom: `200px` }}
         swipe direction="left" to="/episodes"
         aria-label="Back to episodes page"
       >

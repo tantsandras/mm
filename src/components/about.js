@@ -27,7 +27,7 @@ const About = () => (
             size="65"
             color="#E5E5E5"
             style={{
-              transform: `translateY(-130px)`,
+              transform: `translateY(-126px)`,
             }}
           />
         </ProfileAvatar>
@@ -47,7 +47,7 @@ const About = () => (
             size="65"
             color="#E5E5E5"
             style={{
-              transform: `translateY(-130px)`
+              transform: `translateY(-126px)`
             }}
           />
         </ProfileAvatar>
@@ -134,8 +134,8 @@ const Name = styled.h2`
 
 
 const HostName = styled(Name)`
-transform: translateY(-230px);
-margin-bottom: -224px;
+transform: translateY(-224px);
+margin-bottom: -208px;
 padding-bottom: 56px;
 letter-spacing: 0.1em;
 text-transform: uppercase;
