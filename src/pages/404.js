@@ -21,8 +21,9 @@ const Intro = styled.article`
 const Name = styled.h2`
   font-family: 'Oswald', sans-serif;
   text-transform: uppercase;
-  font-weight: 600;
+  font-weight: 500;
   border-bottom: 0.5px solid #E5E5E5;
+  letter-spacing: 0.05em;
   padding-top: 12px;
   padding-bottom: 6px;
   color: #5f728c;
@@ -57,7 +58,7 @@ const NotFoundPage = () => (
         <Thumbnail><img src="https://i.imgflip.com/1c1uej.jpg" alt="Pablo Escobar looking lonely." style={{ width: `100%`, height: `100%` }} /></Thumbnail>
 
       </Intro>
-      <AniLink style={{ textDecoration: `none`, color: `#E5E5E5`, textTransform: `uppercase` }}
+      <AniLink style={{ textDecoration: `none`, color: `#E5E5E5`, textTransform: `uppercase`, letterSpacing: `0.05em`, }}
         swipe direction="left" to="/"
         aria-label="Back to home page"
       >

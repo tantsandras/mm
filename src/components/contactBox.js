@@ -19,6 +19,7 @@ const Name = styled.h6`
   padding-bottom: 6px;
   margin-bottom: 0px;
   font-size: 0.85rem;
+  letter-spacing: 0.05em;
   font-weight: 400;
   color: #E5E5E5;
 `
@@ -39,6 +40,7 @@ const Text2 = styled.p`
   text-align: right;
   font-family: 'Oswald', sans-serif;
   font-size: 0.85rem;
+  letter-spacing: 0.05em;
 `
 
 

@@ -75,11 +75,12 @@ const turnVisible = keyframes`
 `
 const Thumbnail = styled.div`
   position: relative;
-  top: -20px;
-  left: 80px;
-  height: 176px;
+  top: -80px;
+  left: 10%;
+  height: auto;
   display: block;
-  width: 158px;
+  width: 40%;
+  min-width: 300px;
   overflow: hidden;
   animation: ${turnVisible} 0.6s ease-in;
 `
@@ -93,7 +94,7 @@ const Container = styled.div`
 `
 const Description = styled.article`
   flex-basis: 70%;
-  margin: 4% 15%;
+  margin: 0% 15% 4% 15%;
 `
 
 const Name = styled.h2`
@@ -101,7 +102,8 @@ const Name = styled.h2`
   text-transform: uppercase;
   border-bottom: 0.2px solid #E5E5E5;
   padding-top: 12px;
-  font-weight: 600;
+  font-weight: 500;
+  letter-spacing: 0.05em;
   padding-bottom: 6px;
   color: #5f728c;
 `

@@ -29,6 +29,7 @@ const Label = styled.span`
   font-family: 'Oswald', sans-serif;
   color: #E5E5E5;
   font-size: 0.75rem;
+  letter-spacing: 0.05em;
   margin-left: 8px;
   margin-top: 2px;
   padding-bottom: 1px;

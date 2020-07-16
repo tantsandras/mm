@@ -13,8 +13,8 @@ longText: 'In this episode, we discuss serial killer Levi Bellfield and his
   press conferences. Sandra got her information from wikipedia and the
   documentary "Evil up close - His name is Evil". Joe got his information from
   wikipedia, https://www.crimeandinvestigation.co.uk/,
-  https://www.chillingcrimes.com/ and a character witness from his ex girlfriend
-  at BBC News (Predator - The true story of Levi Bellfield, the man who murdered Milly Dowler, Marsha McDonell and Amelie Delagrange by John McShane). The images are also from BBC news and can be found at:
+  https://www.chillingcrimes.com/ from "Predator - The true story of Levi Bellfield, the man who murdered Milly Dowler, Marsha McDonell and Amelie Delagrange by John McShane", and a character witness from his ex girlfriend
+  at BBC News. The images are also from BBC news and can be found at:
   https://ichef.bbci.co.uk/news/304/media/images/49390000/jpg/_49390632__47560637_44444222-1.jpg,
   and
   https://ichef.bbci.co.uk/news/624/media/images./53649000/jpg/_53649120_millie_dowler_624map.jpg.'

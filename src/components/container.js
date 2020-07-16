@@ -22,6 +22,7 @@ const Label = styled.span`
   opacity: 0;
   transition: all 0.1s ease-in;
   font-family: 'Oswald', sans-serif;
+  letter-spacing: 0.05em;
   color: #E5E5E5;
   font-size: 0.75rem;
   margin-left: 8px;
@@ -73,7 +74,7 @@ const HeadLine = styled.h1`
   margin-top: -20px;
   font-family: 'Oswald', sans-serif;
   font-size: 3rem;
-  font-weight: 600;
+  font-weight: 500;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   text-align: center;
@@ -87,12 +88,12 @@ const PageContainer = ({ id, header, children }) => (
   <Container id={id}>
     <BackButton>
       <AniLink swipe direction="left" to="/" aria-label="Back to home page" >
-        <LeftArrowCircle size="30" color="#5f728c" aria-hidden="true"/>
+        <LeftArrowCircle size="30" color="#5f728c" aria-hidden="true" />
         <Label>Home</Label>
       </AniLink>
     </BackButton>
     <HexDiv>
-    &#x2B22;
+      &#x2B22;
       <HeadLine>{header}</HeadLine>
 
     </HexDiv>

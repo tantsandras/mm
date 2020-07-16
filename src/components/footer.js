@@ -20,6 +20,7 @@ flex-flow: row wrap;
 text-align: center;
 font-family: 'Oswald', sans-serif;
 font-size: 0.85rem;
+letter-spacing: 0.05em;
 flex: 1;
 `
 const HexDiv = styled.div`
@@ -65,6 +66,7 @@ flex: 1;
 color: #5f728c;
 font-family: 'Oswald', sans-serif;
 font-size: 0.85rem;
+letter-spacing: 0.05em;
 padding-top: 200px;
 `
 

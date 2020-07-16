@@ -118,13 +118,14 @@ const Container = styled.div`
 `
 const Intro = styled.article`
   flex-basis: 70%;
-  margin: 4% 15% 6% 15%;
+  margin: 4% 15% 6rem 15%;
 `
 
 const Name = styled.h2`
   font-family: "Oswald", sans-serif;
   text-transform: uppercase;
-  font-weight: 600;
+  font-weight: 500;
+  letter-spacing: 0.05em;
   border-bottom: 0.5px solid #e5e5e5;
   padding-top: 12px;
   padding-bottom: 6px;

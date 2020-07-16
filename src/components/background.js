@@ -93,7 +93,8 @@ const TextContainer = styled.div`
 
 const PodTitle = styled.h2`
   font-family: 'Oswald', sans-serif;
-  font-weight: 600;
+  font-weight: 500;
+  letter-spacing: 0.05em;
   text-transform: uppercase;
   border-bottom: 1px solid #1e1c3c;
   padding-bottom: 6px;

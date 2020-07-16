@@ -11,6 +11,7 @@ const Name = styled.h6`
   border-bottom: 0.5px solid #e5e5e5;
   padding-bottom: 6px;
   margin-bottom: 0px;
+  letter-spacing: 0.05em;
   font-size: 0.85rem;
   font-weight: 400;
   color: #e5e5e5;

@@ -5,13 +5,7 @@ import AudioPlayer from "./useAudioPlayer"
 import AniLink from "gatsby-plugin-transition-link/AniLink"
 import { LeftArrowCircle } from "@styled-icons/boxicons-regular"
 
-const Container = styled.div`
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: center;
-  align-items: center;
-  padding-bottom: 200px;
-`
+
 const Intro = styled.article`
   flex-basis: 70%;
   max-width: 70%;
@@ -21,7 +15,8 @@ const Intro = styled.article`
 const Name = styled.h2`
   font-family: 'Oswald', sans-serif;
   text-transform: uppercase;
-  font-weight: 600;
+  font-weight: 500;
+  letter-spacing: 0.05em;
   border-bottom: 0.5px solid #E5E5E5;
   padding-top: 12px;
   padding-bottom: 6px;
@@ -80,7 +75,7 @@ const EpisodeComp = ({ episode }) => {
       </Intro>
 
 
-      <AniLink style={{ textDecoration: `none`, color: `#E5E5E5`, textTransform: `uppercase` }}
+      <AniLink style={{ textDecoration: `none`, color: `#E5E5E5`, textTransform: `uppercase`, letterSpacing: `0.05em`, }}
         swipe direction="left" to="/episodes"
         aria-label="Back to episodes page"
       >

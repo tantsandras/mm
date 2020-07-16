@@ -5,9 +5,9 @@ import Img from "gatsby-image"
 const Image = () => {
   const data = useStaticQuery(graphql`
     query {
-      placeholderImage: file(relativePath: { eq: "get-in-touch.png" }) {
+      placeholderImage: file(relativePath: { eq: "nice-to-meet-you.png" }) {
         childImageSharp {
-          fluid(quality: 90, maxWidth: 360) {
+          fluid(quality: 90, maxWidth: 960) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
@@ -18,7 +18,7 @@ const Image = () => {
   return (
     <Img
       fluid={data.placeholderImage.childImageSharp.fluid}
-      alt="Hexagon with text 'Get in touch'"
+      alt="Hexagon with quote 'Nice to meet you, sorry for my browser history'"
     />
   )
 }

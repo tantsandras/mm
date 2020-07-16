@@ -22,7 +22,7 @@ const About = () => (
         <ProfileAvatar>
           &#x2B22;
           <UserMd
-            size="70"
+            size="65"
             color="#E5E5E5"
             style={{
               transform: `translateY(-130px)`,
@@ -41,7 +41,7 @@ const About = () => (
         <ProfileAvatar>
           &#x2B22;
           <UserAstronaut
-            size="70"
+            size="65"
             color="#E5E5E5"
             style={{
               transform: `translateY(-130px)`
@@ -95,7 +95,7 @@ const Card = styled.div`
   width: 300px;
   padding-left: 1.8rem;
   padding-right: 1.8rem;
-  padding-bottom: 1rem;
+  padding-bottom: 40px;
   margin: 6rem 2rem 6rem 2rem;
   background-color: #E5E5E5;
   padding-top: 80px;
@@ -111,7 +111,8 @@ const Name = styled.h2`
   border-bottom: 0.2px solid #E5E5E5;
   padding-top: 12px;
   padding-bottom: 6px;
-  font-weight: 600;
+  font-weight: 500;
+  letter-spacing: 0.05em;
 `
 
 
@@ -125,6 +126,7 @@ text-transform: uppercase;
 text-align: center;
 z-index: 5;
 -webkit-text-fill-color: transparent;
+letter-spacing: 4px;
 -webkit-text-stroke-width: 0.5px;
 -webkit-text-stroke-color: white;
 text-shadow: 2px 2px #d22d4c, 3px 3px #1e1c3c;

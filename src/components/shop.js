@@ -1,6 +1,6 @@
 
 import React from "react"
-import styled, { keyframes } from "styled-components"
+import styled from "styled-components"
 import Image from "./comingSoon"
 
 const Shop = () => (
@@ -10,25 +10,18 @@ const Shop = () => (
     </Thumbnail>
   </Container>
 )
-const turnVisible = keyframes`
-	from {
-		opacity: 0;
-	}
-	to {
-		opacity: 1;
-	}
-`
+
 
 const Thumbnail = styled.div`
   position: relative;
-  top: 160px;
+  filter: opacity(86%);
+  top: -20px;
   left: 0px;
-  height: 285px;
-  width: 253px;
+  height: auto;
+  width: 300px;
   display: block;
   overflow: hidden;
   background-color: transparent;
-  animation: ${turnVisible} 0.6s ease-in;
 `
 
 const Container = styled.div`
