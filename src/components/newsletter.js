@@ -1,8 +1,9 @@
-import React from "react"
+import React, {useState} from "react"
 import styled from "styled-components"
 import { Email } from "@styled-icons/entypo"
 import { UserCircle } from "@styled-icons/boxicons-solid"
 import { RightArrowCircle } from "@styled-icons/boxicons-regular"
+import { navigate } from 'gatsby-link'
 
 const Name = styled.h3`
   font-family: 'Oswald', sans-serif;
@@ -126,17 +127,47 @@ box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
   // <Label><UserCircle size="22" color="#1e1c3c" aria-hidden="true" style={{ marginRight: `4px`, transform: `translateY(-2px)` }}/>Name <br />
   //   <Input type="text" name="name" placeholder="Jane Doe" style={{  fontSize: `0.75rem`}}/>
   //   </Label>
-const Newsletter = () => (
+
+  function encode(data) {
+    return Object.keys(data)
+      .map((key) => encodeURIComponent(key) + '=' + encodeURIComponent(data[key]))
+      .join('&')
+  }
+
+
+const Newsletter = () => {
+  const [state, setState] = useState({})
+
+  const handleChange = (e) => {
+    setState({ ...state, [e.target.name]: e.target.value })
+  }
+
+  const handleSubmit = (e) => {
+    e.preventDefault()
+    const form = e.target
+    fetch('/', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: encode({
+        'form-name': form.getAttribute('name'),
+        ...state,
+      }),
+    })
+      .then(() => navigate(form.getAttribute('action')))
+      .catch((error) => alert(error))
+  }
+  return (
     <SignUp>
 <Name>Want the latest updates?</Name>
 <Divider />
 <Slogan>Sign up for our newsletter</Slogan>
 
-    <Form action="POST" data-netlify="true">
+    <Form method="post" name="newsletter" action="/" data-netlify="true" data-netlify-honeypot="bot-field" onSubmit={handleSubmit}>
+    <input type="hidden" name="form-name" value="newsletter" />
+    <input type="hidden" name="bot-field" onChange={handleChange} />
   <Label><Email size="17" color="#1e1c3c" aria-hidden="true" style={{ marginRight: `1px`, transform: `translateY(-1.5px)` }}/> Email &#x2a;<br />
-    <Input type="email" name="email" placeholder="e.g. jane_doe@gmail.com" style={{  fontSize: `0.75rem`}} required />
+    <Input type="email" name="email" placeholder="e.g. jane_doe@gmail.com" style={{  fontSize: `0.75rem`}} required onChange={handleChange}/>
     </Label>
-    <div data-netlify-recaptcha="true"></div>
     <Button type="submit">
     Sign me up!
     <RightArrowCircle size="24" color="#d22d4c" aria-hidden="true" style={{ marginLeft: `4px`, transform: `translateY(-2.5px)` }}/>
@@ -144,5 +175,6 @@ const Newsletter = () => (
   </Form>
 </SignUp>
 )
+}
 
 export default Newsletter
