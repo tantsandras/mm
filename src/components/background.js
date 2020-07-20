@@ -65,14 +65,12 @@ const Card = styled.div`
   min-width: 300px;
   max-width: 40vw;
   margin: 0 auto;
+  display: flex;
   flex-direction: column;
 justify-content: space-evenly;
   min-height: 100%;
   height: auto !important;
-  display: flex;
-  flex-wrap: wrap;
   align-items: center;
-  justify-content: center;
   background-color: #E5E5E5;
   -webkit-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
