@@ -164,7 +164,11 @@ const Newsletter = () => {
 
     <Form method="post" name="newsletter" action="/" data-netlify="true" data-netlify-honeypot="bot-field" onSubmit={handleSubmit}>
     <input type="hidden" name="form-name" value="newsletter" />
-    <input type="hidden" name="bot-field" onChange={handleChange} />
+      <p hidden>
+          <label>
+            Don’t fill this out: <input name="bot-field" onChange={handleChange} />
+          </label>
+        </p>
   <Label><Email size="17" color="#1e1c3c" aria-hidden="true" style={{ marginRight: `1px`, transform: `translateY(-1.5px)` }}/> Email &#x2a;<br />
     <Input type="email" name="email" placeholder="e.g. jane_doe@gmail.com" style={{  fontSize: `0.75rem`}} required onChange={handleChange}/>
     </Label>
