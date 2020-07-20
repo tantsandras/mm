@@ -35,15 +35,18 @@ const turnVisible2 = keyframes`
 }
 `
 
-const Title = styled.div`
+const Title = styled.h1`
   font-size: 4rem;
   font-family: 'Oswald', sans-serif;
   width: 100%;
   letter-spacing: 0.1em;
   position: absolute;
-  left: 19%;
+  text-align: center;
+  padding-left: 20px;
+  left: 0;
   top: 14%;
   text-transform: uppercase;
+  font-weight: 400;
   line-height: 1;
   z-index: 4;
   -webkit-text-fill-color: transparent;
@@ -51,13 +54,19 @@ const Title = styled.div`
   -webkit-text-stroke-color: white;
   text-shadow: 2px 2px #d22d4c, 4px 4px #1e1c3c;
   animation: ${turnVisible2} 0.6s ease-in;
+  @media only screen and (max-width: 480px) {
+    top: 8%;
+    font-size: 3rem;
+  }
 `
 const Card = styled.div`
-  margin-bottom: 600px;
+
   position: relative;
   min-width: 300px;
   max-width: 40vw;
   margin: 0 auto;
+  flex-direction: column;
+justify-content: space-evenly;
   min-height: 100%;
   height: auto !important;
   display: flex;
@@ -72,8 +81,9 @@ const Card = styled.div`
 
 const Thumbnail = styled.div`
   transform: translateY(-40px);
-  height: 260px;
-  width: 270px;
+  margin-bottom: -20px;
+  height: 200px;
+  width: 210px;
   margin-left: 20px;
   margin-right: 20px;
   -webkit-box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
@@ -106,46 +116,53 @@ const Description = styled.p`
   font-family: 'Montserrat', sans-serif;
 `
 
+const Icons = styled.span`
+z-index: 6;
+  padding-bottom: 20px;
+  margin: 0 auto;
+`
+
 const Icon = styled.a`
   display: inline;
-  padding-left: 40px;
+  padding-right: 40px;
   text-decoration: none;
   cursor: pointer;
-  color: #5f728ccc;
+  color: #5f728c;
   &:hover {
     color: #1e1c3c;
+    cursor: pointer;
   }
 `
 
-const Icons = styled.span`
-  align-self: flex-start;
-  padding-top: 30px;
-  padding-bottom: 20px;
-  margin-left: -40px;
-`
-
 const StyledBackground = styled(BackgroundImage)`
-  background-attachment: fixed;
-  -webkit-background-attachment: fixed;
-  -moz-background-attachment: fixed;
-  -o-background-attachment: fixed;
-  width: 100%;
-  height: 97vh;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+  min-width: 100%;
+  min-height: 100%;
+  position: fixed; 
+  top: 0; 
+  right: 8%;
+  margin-right: -120px;
+  height: 96vh;
   -webkit-box-shadow: inset 10px 10px 93px 0px rgba(0, 0, 0, 0.95);
   -moz-box-shadow: inset 10px 10px 93px 0px rgba(0, 0, 0, 0.95);
   box-shadow: inset 10px 10px 93px 0px rgba(0, 0, 0, 0.95);
   animation: ${turnVisible} ease-in 1.4s forwards;
+  @media only screen and (max-width: 1030px) {
+    margin-right: -100px;
+    height: 70vh;
+    top: 0;
+    right: 12%;
+  }
+  @media only screen and (max-width: 480px) {
+  height: 60vh;
+  top: 0;
+  right: 17%;
+  margin-right: -80px;
+  }
 `
 const ArrowUp = styled.div`
 height: 100px;
-margin-top: -100px;
-margin-bottom: 40px;
+margin-top: -94px;
+margin-bottom: 80px;
 &:before {
   content: "";
   position:absolute;
@@ -197,6 +214,7 @@ const BackgroundSection = ({ className }) => (
   
       return (
         <>
+
           <StyledBackground
             Tag="section"
             className={className}
@@ -218,17 +236,17 @@ const BackgroundSection = ({ className }) => (
                 href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fembed.sounder.fm%2Fplay%2F42429"
                 aria-label="Share on twitter"
               >
-                <TwitterWithCircle size="40" aria-hidden="true"/>
+                <TwitterWithCircle size="30" aria-hidden="true"/>
               </Icon>
               <Icon
                 className="fb-share-button"
                 href="https://www.facebook.com/sharer/sharer.php?u=https://embed.sounder.fm/play/42429"
                 aria-label="Share on facebook"
               >
-                <FacebookCircle size="40" aria-hidden="true"/>
+                <FacebookCircle size="30" aria-hidden="true"/>
               </Icon>
-              <Icon href="https://embed.sounder.fm/play/42429" aria-label="Link to embed this episode">
-                <Share size="40" aria-hidden="true"/>
+              <Icon href="https://embed.sounder.fm/play/42429" aria-label="Link to embed this episode" style={{ paddingRight: `0px` }}>
+                <Share size="30" aria-hidden="true"/>
               </Icon>
             </Icons>
             <AudioPlayer url="https://embed.sounder.fm/play/42429" />

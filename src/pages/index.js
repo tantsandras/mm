@@ -6,10 +6,9 @@ import StyledBackground from "../components/background"
 const Wrapper = styled.div`
   min-height: 100vh;
   height: auto !important;
-  padding-bottom: 200px;
+  padding-bottom: 600px;
   min-width: 100vw;
   font-family: 'Oswald', sans-serif;
-  position: relative;
 `
 
 const IndexPage = () => (
