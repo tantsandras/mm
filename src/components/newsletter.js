@@ -1,4 +1,4 @@
-import React, {useState} from "react"
+import React, { useState } from "react"
 import styled from "styled-components"
 import { Email } from "@styled-icons/entypo"
 import { UserCircle } from "@styled-icons/boxicons-solid"
@@ -47,7 +47,6 @@ const Slogan = styled.h4`
 // `
 
 const SignUp = styled.article`
-
   flex-basis: 70%;
   margin: 200px 15% 4% 15%;
 
@@ -124,15 +123,15 @@ background-color: #E5E5E5;
 -moz-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
 box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
 `
-  // <Label><UserCircle size="22" color="#1e1c3c" aria-hidden="true" style={{ marginRight: `4px`, transform: `translateY(-2px)` }}/>Name <br />
-  //   <Input type="text" name="name" placeholder="Jane Doe" style={{  fontSize: `0.75rem`}}/>
-  //   </Label>
+// <Label><UserCircle size="22" color="#1e1c3c" aria-hidden="true" style={{ marginRight: `4px`, transform: `translateY(-2px)` }}/>Name <br />
+//   <Input type="text" name="name" placeholder="Jane Doe" style={{  fontSize: `0.75rem`}}/>
+//   </Label>
 
-  function encode(data) {
-    return Object.keys(data)
-      .map((key) => encodeURIComponent(key) + '=' + encodeURIComponent(data[key]))
-      .join('&')
-  }
+function encode(data) {
+  return Object.keys(data)
+    .map((key) => encodeURIComponent(key) + '=' + encodeURIComponent(data[key]))
+    .join('&')
+}
 
 
 const Newsletter = () => {
@@ -157,28 +156,30 @@ const Newsletter = () => {
       .catch((error) => alert(error))
   }
   return (
-    <SignUp>
-<Name>Want the latest updates?</Name>
-<Divider />
-<Slogan>Sign up for our newsletter</Slogan>
+    <section>
+      <SignUp>
+        <Name>Want the latest updates?</Name>
+        <Divider />
+        <Slogan>Sign up for our newsletter</Slogan>
+      </SignUp>
 
-    <Form method="post" name="newsletter" action="/" data-netlify="true" data-netlify-honeypot="bot-field" onSubmit={handleSubmit}>
-    <input type="hidden" name="form-name" value="newsletter" />
-      <p hidden>
+      <Form method="post" name="newsletter" action="/" data-netlify="true" data-netlify-honeypot="bot-field" onSubmit={handleSubmit}>
+        <input type="hidden" name="form-name" value="newsletter" />
+        <p hidden>
           <label>
             Don’t fill this out: <input name="bot-field" onChange={handleChange} />
           </label>
         </p>
-  <Label><Email size="17" color="#1e1c3c" aria-hidden="true" style={{ marginRight: `1px`, transform: `translateY(-1.5px)` }}/> Email &#x2a;<br />
-    <Input type="email" name="email" placeholder="e.g. jane_doe@gmail.com" style={{  fontSize: `0.75rem`}} required onChange={handleChange}/>
-    </Label>
-    <Button type="submit">
-    Sign me up!
-    <RightArrowCircle size="24" color="#d22d4c" aria-hidden="true" style={{ marginLeft: `4px`, transform: `translateY(-2.5px)` }}/>
-</Button>
-  </Form>
-</SignUp>
-)
+        <Label><Email size="17" color="#1e1c3c" aria-hidden="true" style={{ marginRight: `1px`, transform: `translateY(-1.5px)` }} /> Email &#x2a;<br />
+          <Input type="email" name="email" placeholder="e.g. jane_doe@gmail.com" style={{ fontSize: `0.75rem` }} required onChange={handleChange} />
+        </Label>
+        <Button type="submit">
+          Sign me up!
+    <RightArrowCircle size="24" color="#d22d4c" aria-hidden="true" style={{ marginLeft: `4px`, transform: `translateY(-2.5px)` }} />
+        </Button>
+      </Form>
+    </section>
+  )
 }
 
 export default Newsletter

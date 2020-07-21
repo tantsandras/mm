@@ -225,6 +225,7 @@ const BackgroundSection = ({ className }) => (
           <Title>Midweek Murders</Title>
           <ArrowUp> </ArrowUp>
           <Card>
+
             <Thumbnail>
               <Logo />
             </Thumbnail>
