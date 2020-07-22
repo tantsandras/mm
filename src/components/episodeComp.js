@@ -63,7 +63,6 @@ padding: 40px 0px 40px 0px;
 
 const EpisodeComp = ({ episode, html }) => {
   const { title, serial, number, date, month, images } = episode
-  console.log(html)
   return (
 
     <PageContainer header={serial}>

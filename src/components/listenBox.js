@@ -5,7 +5,7 @@ import { Spotify } from "@styled-icons/fa-brands"
 import { Podcast } from "@styled-icons/fa-solid"
 import Stitcher from "../images/blue-stitcher.png"
 
-const Name = styled.h6`
+const Name = styled.h5`
   font-family: "Oswald", sans-serif;
   text-transform: uppercase;
   // border-bottom: 0.5px solid #e5e5e5;

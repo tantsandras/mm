@@ -53,8 +53,6 @@ const Layout = ({ children }) => {
         ]}
       >
         <html lang="en" />
-        <link href='//fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css' />
-
       </Helmet>
 
       <NavBar />
@@ -66,10 +64,10 @@ const Layout = ({ children }) => {
 }
 
 const MainContent = styled.main`
-  min-height: 100vh;
-  height: auto !important;
-  z-index: 0;
-`
+        min-height: 100vh;
+        height: auto !important;
+        z-index: 0;
+      `
 
 Layout.propTypes = {
   children: PropTypes.node.isRequired,
