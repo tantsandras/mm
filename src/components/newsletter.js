@@ -164,10 +164,10 @@ const Newsletter = () => {
       </SignUp>
 
       <Form method="post" name="newsletter" action="/" data-netlify="true" data-netlify-honeypot="bot-field" onSubmit={handleSubmit}>
-        <input type="hidden" name="form-name" value="newsletter" />
+        <input aria-hidden="true" type="hidden" name="form-name" value="newsletter" />
         <p hidden>
           <label>
-            Don’t fill this out: <input name="bot-field" onChange={handleChange} />
+            Don’t fill this out: <input aria-hidden="true" name="bot-field" onChange={handleChange} />
           </label>
         </p>
         <Label><Email size="17" color="#1e1c3c" aria-hidden="true" style={{ marginRight: `1px`, transform: `translateY(-1.5px)` }} /> Email &#x2a;<br />

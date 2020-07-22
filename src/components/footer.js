@@ -104,7 +104,10 @@ const Footer = () => (
           activeStyle={{ color: `#E5E5E5` }}
         >Support</AniLink>
       </NavFooter>
-      <Credit>© {new Date().getFullYear()},
+
+      <Credit>
+        <a href="https://www.podchaser.com/podcasts/midweek-murders-1265761?utm_source=Midweek%20Murders%7C1265761&utm_medium=badge&utm_content=TRCAP1265761" target="__blank" style={{ textDecoration: `none` }} ><img alt="Podchaser - Midweek Murders" src="https://imagegen.podchaser.com/badge/TRCAP1265761.png" style={{ width: `300px`, maxWidth: `100%`, marginBottom: `20px` }} /></a> <br />
+        © {new Date().getFullYear()},
       Design and code by Sandra Grahl</Credit>
     </div>
   </Container>
