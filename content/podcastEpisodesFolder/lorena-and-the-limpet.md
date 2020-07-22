@@ -14,20 +14,14 @@ longText: >-
   executive producer Jordan Peele. Sandra got her information from wikipedia and
   the before mentioned documentary series, available to watch on amazon prime.
   Joe got his information from: 
+   - wikipedia
+   - https://www.encyclopedia.com/law/law-magazines/john-wayne-and-lorena-bobbitt-trials-1993-1994
+  - https://reuters.screenocean.com/record/1020257
 
-  <ul>
+  - https://cyber.harvard.edu/vaw00/Bobbitt.html
 
-  <li>wikipedia</li>
 
-  <li>https://www.encyclopedia.com/law/law-magazines/john-wayne-and-lorena-bobbitt-trials-1993-1994</li>
-
-  <li>https://reuters.screenocean.com/record/1020257</li>
-
-  <li>https://cyber.harvard.edu/vaw00/Bobbitt.html</li>
-
-  </ul>
-
-  The photos of Lorena and John Bobbitt from the trial can be found at https://www.rollingstone.it/wp-content/uploads/2018/07/bobbitt-lorena.jpg, and the poster can be found at https://www.imdb.com/title/tt9134666/mediaviewer/rm2724424192.
+  The photos of Lorena and John Bobbitt from the trial can be found at [Rolling Stone](https://www.rollingstone.it/wp-content/uploads/2018/07/bobbitt-lorena.jpg), and the poster can be found at [IMDb](https://www.imdb.com/title/tt9134666/mediaviewer/rm2724424192).
 date: 22
 month: July
 images:
