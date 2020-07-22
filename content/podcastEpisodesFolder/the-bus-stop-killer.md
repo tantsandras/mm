@@ -6,18 +6,26 @@ descriptionText: In this episode, we discuss serial killer Levi Bellfield and
   his numerous crimes. Sandra talks about her personal struggle with the british
   plumbing system and Joe thanks Daniel Farke for enriching the Premier league
   press conferences.
-longText: 'In this episode, we discuss serial killer Levi Bellfield and his
-  numerous crimes (such as the murders of Milly Dowler, Marsha McDonnell and
-  Amélie Delagrange). Sandra talks about her personal struggle with the british
+longText: >-
+  In this episode, we discuss serial killer Levi Bellfield and his numerous
+  crimes (such as the murders of Milly Dowler, Marsha McDonnell and Amélie
+  Delagrange). Sandra talks about her personal struggle with the british
   plumbing system and Joe thanks Daniel Farke for enriching the Premier league
   press conferences. Sandra got her information from wikipedia and the
-  documentary "Evil up close - His name is Evil". Joe got his information from
-  wikipedia, https://www.crimeandinvestigation.co.uk/,
-  https://www.chillingcrimes.com/ from "Predator - The true story of Levi Bellfield, the man who murdered Milly Dowler, Marsha McDonell and Amelie Delagrange by John McShane", and a character witness from his ex girlfriend
-  at BBC News. The images are also from BBC news and can be found at:
-  https://ichef.bbci.co.uk/news/304/media/images/49390000/jpg/_49390632__47560637_44444222-1.jpg,
-  and
-  https://ichef.bbci.co.uk/news/624/media/images./53649000/jpg/_53649120_millie_dowler_624map.jpg.'
+  documentary "Evil up close - His name is Evil". Joe got his information from:
+
+
+  * wikipedia
+
+  * https://www.crimeandinvestigation.co.uk/ 
+
+  * https://www.chillingcrimes.com/ 
+
+  * "Predator - The true story of Levi Bellfield, the man who murdered Milly Dowler, Marsha McDonell and Amelie Delagrange by John McShane"
+
+  * and a character witness from his ex girlfriend at BBC News. 
+
+    The images are also from BBC news and can be found [here](<* https://ichef.bbci.co.uk/news/304/media/images/49390000/jpg/_49390632__47560637_44444222-1.jpg>) , and [here](<* https://ichef.bbci.co.uk/news/624/media/images./53649000/jpg/_53649120_millie_dowler_624map.jpg>).
 date: 15
 month: July
 images:
