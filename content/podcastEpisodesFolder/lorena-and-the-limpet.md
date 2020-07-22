@@ -6,7 +6,7 @@ descriptionText: This episode is all about Lorena Bobbitt vs John Bobbitt, or as
   it's more commonly known, that case were an abused woman cut her abusive
   husband's penis off. Joe explains Virginian laws at the time, and Sandra talks
   about the trials, the media aftermath, and the documentary series "Lorena".
-longText: >-
+body: >-
   This episode is all about Lorena Bobbitt vs John Bobbitt, or as it's more
   commonly known, that case were an abused woman cut her abusive husband's penis
   off. Joe explains Virginian laws at the time, and Sandra talks about the

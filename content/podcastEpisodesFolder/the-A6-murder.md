@@ -6,7 +6,7 @@ descriptionText: The case discussed is The A6 Murder, a.k.a the murder of
   Michael Gregsten and the attempted murder of Valerie Storie. Joe (the lackey
   sitting in the corner) explains the DNA evidence and Sandra talks about why
   her mum thinks she has brain damage.
-longText: The case discussed is The A6 Murder, a.k.a the murder of Michael
+body: The case discussed is The A6 Murder, a.k.a the murder of Michael
   Gregsten and the attempted murder of Valerie Storie. Joe (the lackey sitting
   in the corner) explains the DNA evidence and Sandra talks about why her mum
   thinks she has brain damage. Sandra got her information from The Telegraphs

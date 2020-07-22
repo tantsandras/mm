@@ -6,7 +6,7 @@ descriptionText: In this episode Sandra talks about 'bee medicine', Joe explains
   nerve agents, and the case discussed is the Salisbury poisonings, a.k.a the
   attempted murders of Sergei and Yulia Skripal, as well as the death of Dawn
   Sturgess.
-longText: In this episode Sandra talks about 'bee medicine', Joe explains nerve
+body: In this episode Sandra talks about 'bee medicine', Joe explains nerve
   agents, and the case discussed is the Salisbury poisonings, a.k.a the
   attempted murders of Sergei and Yulia Skripal, as well as the death of Dawn
   Sturgess. Sandra got her information from wikipedia, an article from The
