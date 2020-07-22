@@ -24,7 +24,7 @@ Bonus content:
 * Introduction of G.I Joes arch nemesis G.I Damage 
 * A personalised message to the Russian bots (tirelessly scouring the InterNjet)
 
-  Not to mention, Joe solves the case (with a lil help from the British Medical Journal). Sandra got her information from murderpedia.org, Joe got his information from wikipedia (which is also where the photo of Adelaide comes from), as well as these two articles: 
+Not to mention, Joe solves the case (with a lil help from the British Medical Journal). Sandra got her information from murderpedia.org, Joe got his information from wikipedia (which is also where the photo of Adelaide comes from), as well as these two articles: 
 
-  * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2542684/ 
-  * https://pubmed.ncbi.nlm.nih.gov/27788591/.
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2542684/ 
+* https://pubmed.ncbi.nlm.nih.gov/27788591/.
