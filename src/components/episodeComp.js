@@ -44,12 +44,13 @@ const Slogan = styled.h3`
   font-weight: 400;
   text-transform: uppercase;
 `
-const Text = styled.span`
+const Text = styled.article`
   flex-direction: row;
   color: #E5E5E5;
   font-size: 0.85rem;
   text-align: left;
   font-family: 'Montserrat', sans-serif;
+  
 `
 
 const ImageWrapper = styled.div`
@@ -60,9 +61,9 @@ padding: 40px 0px 40px 0px;
 `
 
 
-const EpisodeComp = ({ episode }) => {
-  const { title, serial, number, body, date, month, images } = episode
-
+const EpisodeComp = ({ episode, html }) => {
+  const { title, serial, number, date, month, images } = episode
+  console.log(html)
   return (
 
     <PageContainer header={serial}>
@@ -79,7 +80,7 @@ const EpisodeComp = ({ episode }) => {
             </ImageWrapper>
           )
         )}
-        <Text>{body}</Text>
+        <Text dangerouslySetInnerHTML={{ __html: html }} />
         <ImageWrapper>
           <AudioPlayer url={`https://embed.sounder.fm/play/${number}`} />
         </ImageWrapper>

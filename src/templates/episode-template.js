@@ -8,7 +8,7 @@ const EpisodePage = ({ data }) => {
   return (
     <>
       <SEO title={data.markdownRemark.frontmatter.title} keywords={tags} />
-      <EpisodeComp episode={data.markdownRemark.frontmatter} />
+      <EpisodeComp episode={data.markdownRemark.frontmatter} html={data.markdownRemark.html} />
     </>
   )
 }
@@ -21,11 +21,11 @@ export default EpisodePage
 export const EpisodeQuery = graphql`
   query EpisodePageQuery($slug: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
+      html
       frontmatter {
         title
         serial
         number
-        body
         date
         month
         images {

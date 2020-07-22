@@ -41,6 +41,7 @@ template {
 }
 a {
   background-color: transparent;
+  color:  #5f728c;
   -webkit-text-decoration-skip: objects;
 }
 a:active,
