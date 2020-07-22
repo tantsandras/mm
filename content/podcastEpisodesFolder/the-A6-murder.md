@@ -6,15 +6,6 @@ descriptionText: The case discussed is The A6 Murder, a.k.a the murder of
   Michael Gregsten and the attempted murder of Valerie Storie. Joe (the lackey
   sitting in the corner) explains the DNA evidence and Sandra talks about why
   her mum thinks she has brain damage.
-body: The case discussed is The A6 Murder, a.k.a the murder of Michael
-  Gregsten and the attempted murder of Valerie Storie. Joe (the lackey sitting
-  in the corner) explains the DNA evidence and Sandra talks about why her mum
-  thinks she has brain damage. Sandra got her information from The Telegraphs
-  obituary on Valerie Storie, a documentary called "Horizon the A6 murder" and
-  wikipedia. Joe got his information from wikipedia (the morris minor photo and
-  the photo of James Hanratty is also from there, you can find it
-  [here](https://en.wikipedia.org/wiki/James_Hanratty)) as well as a BBC News
-  article written by Peter Gould.
 date: 1
 month: July
 images:
@@ -26,4 +17,6 @@ hashtags:
   - tag: James Hanratty
   - tag: A6 murder
   - tag: true crime comedy podcasts
+  - tag: UK podcasts
 ---
+The case discussed is The A6 Murder, a.k.a the murder of Michael Gregsten and the attempted murder of Valerie Storie. Joe (the lackey sitting in the corner) explains the DNA evidence and Sandra talks about why her mum thinks she has brain damage. Sandra got her information from The Telegraphs obituary on Valerie Storie, a documentary called "Horizon the A6 murder" and wikipedia. Joe got his information from wikipedia (the morris minor photo and the photo of James Hanratty is also from there, you can find it [here](https://en.wikipedia.org/wiki/James_Hanratty)) as well as a BBC News article written by Peter Gould.
