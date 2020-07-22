@@ -61,7 +61,7 @@ padding: 40px 0px 40px 0px;
 
 
 const EpisodeComp = ({ episode }) => {
-  const { title, serial, number, longText, date, month, images } = episode
+  const { title, serial, number, body, date, month, images } = episode
 
   return (
 
@@ -79,7 +79,7 @@ const EpisodeComp = ({ episode }) => {
             </ImageWrapper>
           )
         )}
-        <Text>{longText}</Text>
+        <Text>{body}</Text>
         <ImageWrapper>
           <AudioPlayer url={`https://embed.sounder.fm/play/${number}`} />
         </ImageWrapper>

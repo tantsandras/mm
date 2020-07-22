@@ -25,7 +25,7 @@ export const EpisodeQuery = graphql`
         title
         serial
         number
-        longText
+        body
         date
         month
         images {
