@@ -27,7 +27,7 @@ const About = () => (
             size="65"
             color="#E5E5E5"
             style={{
-              transform: `translateY(-126px)`,
+              transform: `translateY(-132px)`,
             }}
           />
         </ProfileAvatar>
@@ -44,10 +44,10 @@ const About = () => (
         <ProfileAvatar>
           &#x2B22;
           <UserAstronaut
-            size="65"
+            size="63"
             color="#E5E5E5"
             style={{
-              transform: `translateY(-126px)`
+              transform: `translateY(-132px)`,
             }}
           />
         </ProfileAvatar>
@@ -96,8 +96,8 @@ const ProfileAvatar = styled.div`
   align-items: center;
   justify-content: center;
   text-align: center;
-  transform: translateY(-90px);
-  font-size: 250px;
+  transform: translateY(-110px);
+  font-size: 260px;
   // color: #5f728c;
   z-index: 0;
   -webkit-text-fill-color: transparent;
@@ -134,8 +134,8 @@ const Name = styled.h2`
 
 
 const HostName = styled(Name)`
-transform: translateY(-224px);
-margin-bottom: -208px;
+transform: translateY(-254px);
+margin-bottom: -240px;
 padding-bottom: 56px;
 letter-spacing: 0.1em;
 text-transform: uppercase;

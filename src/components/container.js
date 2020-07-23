@@ -25,15 +25,15 @@ const Label = styled.span`
   letter-spacing: 0.05em;
   color: #E5E5E5;
   font-size: 0.75rem;
-  margin-left: 8px;
-  margin-top: 2px;
+  margin-left: 6px;
+  margin-top: 2.5px;
   text-transform: uppercase;
   z-index: 2;
 `
 
 const BackButton = styled.span`
   align-self: flex-start;
-  margin-left: 60px;
+  margin-left: 3rem;
   text-decoration: none;
   display: inline-block;
   text-align: center;
