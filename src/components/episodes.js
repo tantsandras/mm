@@ -57,7 +57,7 @@ const Episodes = ({ children }) => {
 
 
           <ListenIcon
-            href="https://podcasts.google.com/feed/aHR0cHM6Ly9taWR3ZWVrbXVyZGVycy5zb3VuZ"
+            href="https://podcasts.google.com/feed/aHR0cHM6Ly9taWR3ZWVrbXVyZGVycy5zb3VuZGVyLmZtL3Nob3cvV3pQWHovcnNzLnhtbA"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Listen on Google Play"
