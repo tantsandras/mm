@@ -82,7 +82,7 @@ const Card = styled.div`
   padding-left: 1.8rem;
   padding-right: 1.8rem;
   padding-bottom: 40px;
-  margin: 6rem 2rem 6rem 2rem;
+  margin: 4% 2rem 6rem 2rem;
   background-color: #E5E5E5;
   padding-top: 80px;
   -webkit-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
