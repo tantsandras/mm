@@ -2,24 +2,19 @@
 import React from "react"
 import styled from "styled-components"
 import { UserMd, UserAstronaut } from "@styled-icons/fa-solid"
+import Wrapper from "./wrapper"
+import Article from "./article"
 
 const About = () => (
   <>
-    <Container>
-      <Description>
-        <Name>Midweek Murders</Name>
-        <Divider> </Divider>
-        <Slogan style={{ color: `#5f728c` }}>A true crime comedy podcast</Slogan>
+    <Wrapper>
+      <Article name="Midweek Murders" slogan="A true crime comedy podcast">
         <Text style={{ color: `#E5E5E5` }}>
           Based in the UK, new episodes every Wednesday. Midweek Murders is a
           fully independent podcast. Created, produced and edited by the hosts.
         </Text>
-      </Description>
-      <Description>
-        <Name>Hosts</Name>
-        <Divider> </Divider>
-        <Slogan style={{ color: `#5f728c` }}>Sandra & Joe</Slogan>
-      </Description>
+      </Article>
+      <Article name="Hosts" slogan="Sandra & Joe" />
       <Card>
         <ProfileAvatar>
           &#x2B22;
@@ -60,37 +55,9 @@ const About = () => (
           includes the interwebz, pubs and Joe's dog Ollie.
         </Text>
       </Card>
-    </Container>
+    </Wrapper>
   </>
 )
-
-
-const Container = styled.div`
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: center;
-  align-items: center;
-  padding-bottom: 200px;
-`
-const Description = styled.article`
-  flex-basis: 70%;
-  margin: 4% 15%;
-`
-const Divider = styled.div`
-position: relative;
-height: 1px;
-&:before {
-	content: "";
-	position: absolute;
-	top: -20px;
-	left: -10%;
-	right: 0%;
-	width: 120%;
-	height: 1px;
-	background-image: linear-gradient(to right, transparent, #e5e5e5, transparent);
-}
-
-`
 
 const ProfileAvatar = styled.div`
   align-items: center;
@@ -123,17 +90,11 @@ const Card = styled.div`
   box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
 `
 
-const Name = styled.h2`
-  font-family: 'Oswald', sans-serif;
-  text-transform: uppercase;
-  color: #5f728c;
-  padding-top: 12px;
-  font-weight: 500;
-  letter-spacing: 0.05em;
-`
-
-
-const HostName = styled(Name)`
+const HostName = styled.h2`
+font-family: 'Oswald', sans-serif;
+padding-top: 12px;
+font-weight: 500;
+letter-spacing: 0.05em;
 transform: translateY(-254px);
 margin-bottom: -240px;
 padding-bottom: 56px;

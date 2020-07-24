@@ -9,41 +9,21 @@ import {
   Castbox,
   Tunein,
 } from "@styled-icons/simple-icons"
-
-const Divider = styled.div`
-position: relative;
-height: 1px;
-&:before {
-	content: "";
-	position: absolute;
-	top: -20px;
-	left: -10%;
-	right: 0%;
-	width: 120%;
-	height: 1px;
-	background-image: linear-gradient(to right, transparent, #e5e5e5, transparent);
-}
-`
+import Wrapper from "./wrapper"
+import Article from "./article"
 
 
 const Episodes = ({ children }) => {
   return (
-    <Container>
-      <Intro>
-        <Name>Midweek Murders</Name>
-        <Divider> </Divider>
-        <Slogan>A true crime comedy podcast</Slogan>
-
+    <Wrapper>
+      <Article name="Midweek Murders" slogan="A true crime comedy podcast">
         <Text>
           If you like what you hear, please rate, reveiw and subscribe
           (preferably on Itunes).
         </Text>
-      </Intro>
+      </Article>
 
-      <Intro >
-
-        <Name>Listen on</Name>
-        <Divider> </Divider>
+      <Article name="Listen on">
         <Text2>
           <ListenIcon
             href="https://podcasts.apple.com/gb/podcast/midweek-murders/id1518983516"
@@ -122,40 +102,12 @@ const Episodes = ({ children }) => {
             Spotify
           </ListenIcon>
         </Text2>
-      </Intro>
+      </Article>
       {children}
-    </Container>
+    </Wrapper>
   )
 }
 
-const Container = styled.div`
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: center;
-  align-items: center;
-  margin-bottom: 200px;
-`
-const Intro = styled.article`
-  flex-basis: 70%;
-  margin: 4% 15% 4rem 15%;
-`
-
-const Name = styled.h2`
-  font-family: "Oswald", sans-serif;
-  text-transform: uppercase;
-  font-weight: 500;
-  letter-spacing: 0.05em;
-  padding-top: 12px;
-  color: #5f728c;
-`
-
-const Slogan = styled.h3`
-  color: #5f728c;
-  margin-top: -16px;
-  font-size: 0.95rem;
-  font-family: "Montserrat", sans-serif;
-  font-weight: 400;
-`
 const Text = styled.span`
   flex-direction: row;
   color: #e5e5e5;
