@@ -4,6 +4,7 @@ import styled, { keyframes } from "styled-components"
 import {
   TwitterWithCircle,
   InstagramWithCircle,
+  YoutubeWithCircle,
 } from "@styled-icons/entypo-social"
 import Image from "./getInTouch"
 import Wrapper from "./wrapper"
@@ -11,7 +12,6 @@ import Article from "./article"
 
 
 const Contact = () => (
-  <>
     <Wrapper>
       <Thumbnail>
         <Image />
@@ -57,8 +57,24 @@ const Contact = () => (
           but no promises.
         </Text>
       </Article>
+      <Article name="YouTube" slogan="Midweek Murders" >
+        <Text>
+          <SocialLink
+            href="https://www.youtube.com/channel/UCqJw512scIqd_a56nUxY2Vw"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Subscribe on YouTube"
+          >
+            <YoutubeWithCircle
+              size="22"
+              style={{ marginRight: `8px`, transform: `translateY(-1.5px)` }}
+              aria-hidden="true"
+            />
+          </SocialLink>
+          Midweek Murders is now on YouTube as well. In case you want to, I don't know, listen on YouTube?
+        </Text>
+      </Article>
     </Wrapper>
-  </>
 )
 
 const turnVisible = keyframes`

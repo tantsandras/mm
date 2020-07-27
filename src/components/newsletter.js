@@ -121,7 +121,7 @@ const Newsletter = () => {
   }
 
   return (
-    <section style={{ marginTop: `200px` }}>
+    <section >
       <Article name="Want the latest updates?" slogan="Sign up for our newsletter">
       </Article>
 

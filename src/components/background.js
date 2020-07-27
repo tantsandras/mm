@@ -44,7 +44,7 @@ const Title = styled.h1`
   text-align: center;
   padding-left: 20px;
   left: 0;
-  top: 14%;
+  top: 4%;
   text-transform: uppercase;
   font-weight: 400;
   line-height: 1;
@@ -55,12 +55,10 @@ const Title = styled.h1`
   text-shadow: 2px 2px #d22d4c, 4px 4px #1e1c3c;
   animation: ${turnVisible2} 0.6s ease-in;
   @media only screen and (max-width: 480px) {
-    top: 8%;
     font-size: 3rem;
   }
 `
 const Card = styled.div`
-
   position: relative;
   min-width: 300px;
   max-width: 40vw;

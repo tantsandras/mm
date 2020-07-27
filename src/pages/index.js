@@ -3,6 +3,7 @@ import SEO from "../components/seo"
 import styled from "styled-components"
 import StyledBackground from "../components/background"
 import Newsletter from "../components/newsletter"
+import Latest from "../components/latest"
 
 const Wrapper = styled.div`
   min-height: 100vh;
@@ -17,6 +18,7 @@ const IndexPage = () => (
     <SEO title="Home" />
     <Wrapper>
       <StyledBackground id="home" />
+      <Latest />
       <Newsletter />
     </Wrapper>
   </>

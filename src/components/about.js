@@ -6,7 +6,6 @@ import Wrapper from "./wrapper"
 import Article from "./article"
 
 const About = () => (
-  <>
     <Wrapper>
       <Article name="Midweek Murders" slogan="A true crime comedy podcast">
         <Text style={{ color: `#E5E5E5` }}>
@@ -56,7 +55,6 @@ const About = () => (
         </Text>
       </Card>
     </Wrapper>
-  </>
 )
 
 const ProfileAvatar = styled.div`
