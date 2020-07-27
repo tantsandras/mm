@@ -36,8 +36,8 @@ const turnVisible2 = keyframes`
 `
 
 const Title = styled.h1`
-  font-size: 4rem;
-  font-family: 'Oswald', sans-serif;
+  font-size: 6rem;
+  font-family: "Oswald", sans-serif;
   width: 100%;
   letter-spacing: 0.1em;
   position: absolute;
@@ -65,11 +65,11 @@ const Card = styled.div`
   margin: 0 auto;
   display: flex;
   flex-direction: column;
-justify-content: space-evenly;
+  justify-content: space-evenly;
   min-height: 100%;
   height: auto !important;
   align-items: center;
-  background-color: #E5E5E5;
+  background-color: #e5e5e5;
   -webkit-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
   box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
@@ -97,7 +97,7 @@ const TextContainer = styled.div`
 `
 
 const PodTitle = styled.h2`
-  font-family: 'Oswald', sans-serif;
+  font-family: "Oswald", sans-serif;
   font-weight: 500;
   letter-spacing: 0.05em;
   text-transform: uppercase;
@@ -109,11 +109,11 @@ const Description = styled.p`
   padding-top: 10px;
   font-size: 0.85rem;
   color: #1e1c3c;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 `
 
 const Icons = styled.span`
-z-index: 6;
+  z-index: 6;
   padding-bottom: 20px;
   margin: 0 auto;
 `
@@ -133,8 +133,8 @@ const Icon = styled.a`
 const StyledBackground = styled(BackgroundImage)`
   min-width: 100%;
   min-height: 100%;
-  position: fixed; 
-  top: 0; 
+  position: fixed;
+  top: 0;
   right: 8%;
   margin-right: -120px;
   height: 96vh;
@@ -149,47 +149,52 @@ const StyledBackground = styled(BackgroundImage)`
     right: 12%;
   }
   @media only screen and (max-width: 480px) {
-  height: 60vh;
-  top: 0;
-  right: 17%;
-  margin-right: -80px;
+    height: 60vh;
+    top: 0;
+    right: 17%;
+    margin-right: -80px;
   }
 `
 const ArrowUp = styled.div`
-height: 100px;
-margin-top: -94px;
-margin-bottom: 80px;
-&:before {
-  content: "";
-  position:absolute;
-  left:0px;
-  width:50%;
-  height:100px;
-  background: linear-gradient(to right bottom, transparent 49%, #1e1c3c 50%);
-}
-&:after {
-  content: "";
-  position:absolute;
-  right:0px;
-  width:50%;
-  height:100px;
-  background: linear-gradient(to left bottom, transparent 49%, #1e1c3c 50%);
-}
+  height: 100px;
+  margin-top: -94px;
+  margin-bottom: 80px;
+  &:before {
+    content: "";
+    position: absolute;
+    left: 0px;
+    width: 50%;
+    height: 100px;
+    background: linear-gradient(to right bottom, transparent 49%, #1e1c3c 50%);
+  }
+  &:after {
+    content: "";
+    position: absolute;
+    right: 0px;
+    width: 50%;
+    height: 100px;
+    background: linear-gradient(to left bottom, transparent 49%, #1e1c3c 50%);
+  }
 `
 
 const DarkDivider = styled.div`
-position: relative;
-height: 1px;
-&:before {
-	content: "";
-	position: absolute;
-	top: -20px;
-	left: -5%;
-	right: 0%;
-	width: 110%;
-	height: 1px;
-	background-image: linear-gradient(to right, transparent, #1e1c3c, transparent);
-}
+  position: relative;
+  height: 1px;
+  &:before {
+    content: "";
+    position: absolute;
+    top: -20px;
+    left: -5%;
+    right: 0%;
+    width: 110%;
+    height: 1px;
+    background-image: linear-gradient(
+      to right,
+      transparent,
+      #1e1c3c,
+      transparent
+    );
+  }
 `
 
 const BackgroundSection = ({ className }) => (
@@ -207,23 +212,19 @@ const BackgroundSection = ({ className }) => (
     `}
     render={data => {
       const imageData = data.desktop.childImageSharp.fluid
-  
+
       return (
         <>
-
           <StyledBackground
             Tag="section"
             className={className}
             fluid={imageData}
             alt="Forest with noir feeling."
-          >
-
-          </StyledBackground>
+          ></StyledBackground>
 
           <Title>Midweek Murders</Title>
           <ArrowUp> </ArrowUp>
           <Card>
-
             <Thumbnail>
               <Logo />
             </Thumbnail>
@@ -233,17 +234,21 @@ const BackgroundSection = ({ className }) => (
                 href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fembed.sounder.fm%2Fplay%2F42429"
                 aria-label="Share on twitter"
               >
-                <TwitterWithCircle size="30" aria-hidden="true"/>
+                <TwitterWithCircle size="30" aria-hidden="true" />
               </Icon>
               <Icon
                 className="fb-share-button"
                 href="https://www.facebook.com/sharer/sharer.php?u=https://embed.sounder.fm/play/42429"
                 aria-label="Share on facebook"
               >
-                <FacebookCircle size="30" aria-hidden="true"/>
+                <FacebookCircle size="30" aria-hidden="true" />
               </Icon>
-              <Icon href="https://embed.sounder.fm/play/42429" aria-label="Link to embed this episode" style={{ paddingRight: `0px` }}>
-                <Share size="30" aria-hidden="true"/>
+              <Icon
+                href="https://embed.sounder.fm/play/42429"
+                aria-label="Link to embed this episode"
+                style={{ paddingRight: `0px` }}
+              >
+                <Share size="30" aria-hidden="true" />
               </Icon>
             </Icons>
             <AudioPlayer url="https://embed.sounder.fm/play/42429" />

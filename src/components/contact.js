@@ -1,4 +1,3 @@
-
 import React from "react"
 import styled, { keyframes } from "styled-components"
 import {
@@ -10,71 +9,71 @@ import Image from "./getInTouch"
 import Wrapper from "./wrapper"
 import Article from "./article"
 
-
 const Contact = () => (
-    <Wrapper>
-      <Thumbnail>
-        <Image />
-      </Thumbnail>
-      <Article name="Email" slogan="midweekmurders@gmail.com">
-        <Text>
-          Send us your true crime stories, interesting headlines, or case
-          suggestions.
-        </Text>
-      </Article>
-      <Article name="Twitter" slogan="@midweekmurders">
-        <Text>
-          <SocialLink
-            href="https://twitter.com/midweekmurders/"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="Follow us on Twitter"
-          >
-            <TwitterWithCircle
-              size="22"
-              style={{ marginRight: `8px`, transform: `translateY(-1.5px)` }}
-              aria-hidden="true"
-            />
-          </SocialLink>
-          Social media ain't our thing, but feel free to try.
-        </Text>
-      </Article>
-      <Article name="Instagram" slogan="@midweekmurders" >
-        <Text>
-          <SocialLink
-            href="https://www.instagram.com/midweekmurders/"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="Follow us on Instagram"
-          >
-            <InstagramWithCircle
-              size="22"
-              style={{ marginRight: `8px`, transform: `translateY(-1.5px)` }}
-              aria-hidden="true"
-            />
-          </SocialLink>
-          There might be photos of Ollie (the dog) or Bodil (the cat) on here,
-          but no promises.
-        </Text>
-      </Article>
-      <Article name="YouTube" slogan="Midweek Murders" >
-        <Text>
-          <SocialLink
-            href="https://www.youtube.com/channel/UCqJw512scIqd_a56nUxY2Vw"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="Subscribe on YouTube"
-          >
-            <YoutubeWithCircle
-              size="22"
-              style={{ marginRight: `8px`, transform: `translateY(-1.5px)` }}
-              aria-hidden="true"
-            />
-          </SocialLink>
-          Midweek Murders is now on YouTube as well. In case you want to, I don't know, listen on YouTube?
-        </Text>
-      </Article>
-    </Wrapper>
+  <Wrapper>
+    <Thumbnail>
+      <Image />
+    </Thumbnail>
+    <Article name="Email" slogan="midweekmurders@gmail.com">
+      <Text>
+        Send us your true crime stories, interesting headlines, or case
+        suggestions.
+      </Text>
+    </Article>
+    <Article name="Twitter" slogan="@midweekmurders">
+      <Text>
+        <SocialLink
+          href="https://twitter.com/midweekmurders/"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Follow us on Twitter"
+        >
+          <TwitterWithCircle
+            size="22"
+            style={{ marginRight: `8px`, transform: `translateY(-1.5px)` }}
+            aria-hidden="true"
+          />
+        </SocialLink>
+        Social media ain't our thing, but feel free to try.
+      </Text>
+    </Article>
+    <Article name="Instagram" slogan="@midweekmurders">
+      <Text>
+        <SocialLink
+          href="https://www.instagram.com/midweekmurders/"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Follow us on Instagram"
+        >
+          <InstagramWithCircle
+            size="22"
+            style={{ marginRight: `8px`, transform: `translateY(-1.5px)` }}
+            aria-hidden="true"
+          />
+        </SocialLink>
+        There might be photos of Ollie (the dog) or Bodil (the cat) on here, but
+        no promises.
+      </Text>
+    </Article>
+    <Article name="YouTube" slogan="Midweek Murders">
+      <Text>
+        <SocialLink
+          href="https://www.youtube.com/channel/UCqJw512scIqd_a56nUxY2Vw"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Subscribe on YouTube"
+        >
+          <YoutubeWithCircle
+            size="22"
+            style={{ marginRight: `8px`, transform: `translateY(-1.5px)` }}
+            aria-hidden="true"
+          />
+        </SocialLink>
+        Midweek Murders is now on YouTube as well. In case you want to, I don't
+        know, listen on YouTube?
+      </Text>
+    </Article>
+  </Wrapper>
 )
 
 const turnVisible = keyframes`
@@ -87,10 +86,11 @@ const turnVisible = keyframes`
 `
 const Thumbnail = styled.div`
   position: relative;
-  top: -50px;
+  top: -10px;
   left: 6%;
   height: auto;
   display: block;
+  filter: opacity(86%);
   width: 40%;
   min-width: 300px;
   overflow: hidden;
@@ -105,11 +105,10 @@ const SocialLink = styled.a`
   }
 `
 const Text = styled.p`
-  color: #E5E5E5;
+  color: #e5e5e5;
   font-size: 0.85rem;
   text-align: left;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 `
 
 export default Contact
-
