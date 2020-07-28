@@ -2,13 +2,16 @@ import React from "react"
 import SEO from "../components/seo"
 import EpisodeComp from "../components/episodeComp"
 import { graphql } from "gatsby"
+import PageContainer from "../components/container"
 
 const EpisodePage = ({ data }) => {
   const tags = data.markdownRemark.frontmatter.hashtags.map(item => item.tag)
   return (
     <>
       <SEO title={data.markdownRemark.frontmatter.title} keywords={tags} />
+      <PageContainer header={data.markdownRemark.frontmatter.serial}>
       <EpisodeComp episode={data.markdownRemark.frontmatter} html={data.markdownRemark.html} />
+      </PageContainer>
     </>
   )
 }
