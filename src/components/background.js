@@ -39,7 +39,7 @@ const Title = styled.h1`
   font-size: 6rem;
   font-family: "Oswald", sans-serif;
   width: 100%;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.05em;
   position: absolute;
   text-align: center;
   padding-left: 20px;
