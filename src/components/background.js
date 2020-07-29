@@ -55,7 +55,7 @@ const Title = styled.h1`
   text-shadow: 2px 2px #d22d4c, 4px 4px #1e1c3c;
   animation: ${turnVisible2} 0.6s ease-in;
   @media only screen and (max-width: 480px) {
-    font-size: 3rem;
+    font-size: 3.2rem;
   }
 `
 const Card = styled.div`
