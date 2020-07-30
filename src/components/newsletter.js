@@ -122,7 +122,7 @@ const Newsletter = () => {
 
   return (
     <section >
-      <Article name="Want the latest updates?" slogan="Sign up for our newsletter">
+      <Article name="Stay in touch" slogan="Want the latest updates?">
       </Article>
 
       <Form method="post" name="newsletter" data-netlify="true" data-netlify-honeypot="bot-field" onSubmit={handleSubmit}>

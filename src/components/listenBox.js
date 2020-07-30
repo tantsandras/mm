@@ -8,7 +8,6 @@ import Stitcher from "../images/blue-stitcher.png"
 const Name = styled.h5`
   font-family: "Oswald", sans-serif;
   text-transform: uppercase;
-  // border-bottom: 0.5px solid #e5e5e5;
   padding-bottom: 6px;
   margin-bottom: 0px;
   letter-spacing: 0.05em;

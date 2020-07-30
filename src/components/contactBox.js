@@ -15,7 +15,6 @@ const Contact = styled.article`
 const Name = styled.h6`
   font-family: 'Oswald', sans-serif;
   text-transform: uppercase;
-//   border-bottom: 0.5px solid #E5E5E5;
     padding-bottom: 6px;
   margin-bottom: 0px;
   font-size: 0.85rem;

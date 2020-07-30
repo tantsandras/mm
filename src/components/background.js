@@ -47,7 +47,6 @@ const Title = styled.h1`
   top: 4%;
   text-transform: uppercase;
   font-weight: 400;
-  line-height: 1;
   z-index: 4;
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width: 0.5px;

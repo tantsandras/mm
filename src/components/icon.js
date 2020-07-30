@@ -5,7 +5,7 @@ import Img from "gatsby-image"
 const Image = () => {
   const data = useStaticQuery(graphql`
     query {
-      placeholderImage: file(relativePath: { eq: "icon.png" }) {
+      placeholderImage: file(relativePath: { eq: "favicon2.png" }) {
         childImageSharp {
           fluid(quality: 90, maxWidth: 100) {
             ...GatsbyImageSharpFluid_withWebp
@@ -18,7 +18,7 @@ const Image = () => {
   return (
     <Img
       fluid={data.placeholderImage.childImageSharp.fluid}
-      alt="Hexagon with letters 'm m', for Midweek Murders."
+      alt="Hexagon with text 'Midweek Murders'."
     />
   )
 }
