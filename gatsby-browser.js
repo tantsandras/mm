@@ -5,9 +5,9 @@
  */
 
 // You can delete this file if you're not using it
-import "./src/styles/global.css"
-require("typeface-oswald");
-require("typeface-montserrat");
+import "typeface-oswald"
+import "typeface-montserrat"
+
 
 export const onServiceWorkerUpdateReady = () => {
   const answer = window.confirm(

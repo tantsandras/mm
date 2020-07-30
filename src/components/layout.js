@@ -13,6 +13,8 @@ import NavBar from "./nav"
 import { Helmet } from "react-helmet"
 import "./layout.css"
 import Footer from "./footer"
+import "typeface-oswald"
+import "typeface-montserrat"
 import { createGlobalStyle } from "styled-components"
 
 const GlobalStyle = createGlobalStyle`
@@ -22,6 +24,9 @@ const GlobalStyle = createGlobalStyle`
   }
   h1 {
     font-family: 'Oswald', sans-serif;
+  }
+  p {
+    font-family: 'Montserrat', sans-serif;
   }
 `
 
