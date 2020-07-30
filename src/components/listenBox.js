@@ -1,4 +1,4 @@
-import { Itunes, Googlepodcasts, Castbox, Tunein } from "@styled-icons/simple-icons"
+import { Itunes, Googlepodcasts, Castbox, Tunein, Playerfm } from "@styled-icons/simple-icons"
 import React from "react"
 import styled from "styled-components"
 import { Spotify } from "@styled-icons/fa-brands"
@@ -129,6 +129,14 @@ const Listen = () => (
         aria-label="Listen on Tune in"
       >
         <Tunein size="22" aria-hidden="true" />
+      </ListenIcon>
+      <ListenIcon
+        href="https://player.fm/series/midweek-murders"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Listen on Player FM"
+      >
+        <Playerfm size="22" aria-hidden="true" />
       </ListenIcon>
     </Text>
   </ListenBox>
