@@ -1,5 +1,4 @@
 import React from "react"
-import PageContainer from "./container"
 import styled from "styled-components"
 import AudioPlayer from "./useAudioPlayer"
 import AniLink from "gatsby-plugin-transition-link/AniLink"
@@ -28,7 +27,7 @@ const Container = styled.section`
 
 
 const EpisodeComp = ({ episode, html }) => {
-  const { title, serial, number, date, month, images } = episode
+  const { title, number, date, month, images } = episode
   return (
     <>
 

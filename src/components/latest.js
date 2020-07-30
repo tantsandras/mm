@@ -2,7 +2,7 @@ import React from "react"
 import Wrapper from "./wrapper"
 import Article from "./article"
 import styled from "styled-components"
-import YT from "../images/Trailer (1).png"
+import YT from "./youtube"
 
 const ImageWrapper = styled.div`
   max-width: 100%;
@@ -23,7 +23,7 @@ const Latest = () => (
             rel="noopener noreferrer"
             aria-label="Midweek Murders channel on YouTube"
           >
-            <img src={YT} alt="trailer artwork" />
+            <YT />
           </a>
         </ImageWrapper>
       </Article>

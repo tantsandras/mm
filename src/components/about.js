@@ -97,7 +97,7 @@ const HostName = styled.h2`
   font-weight: 500;
   letter-spacing: 0.05em;
   transform: translateY(-254px);
-  margin-bottom: -244px;
+  margin-bottom: -236px;
   padding-bottom: 56px;
   letter-spacing: 0.1em;
   text-transform: uppercase;

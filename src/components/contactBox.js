@@ -12,7 +12,7 @@ const Contact = styled.article`
   flex: 1;
 `
 
-const Name = styled.h6`
+const Name = styled.h5`
   font-family: 'Oswald', sans-serif;
   text-transform: uppercase;
     padding-bottom: 6px;

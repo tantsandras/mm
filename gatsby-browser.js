@@ -5,8 +5,8 @@
  */
 
 // You can delete this file if you're not using it
-import "typeface-oswald"
-import "typeface-montserrat"
+require("typeface-oswald");
+require("typeface-montserrat");
 
 
 export const onServiceWorkerUpdateReady = () => {
