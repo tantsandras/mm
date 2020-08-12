@@ -10,7 +10,7 @@ const EpisodePage = ({ data }) => {
     <>
       <SEO title={data.markdownRemark.frontmatter.title} keywords={tags} />
       <PageContainer header={data.markdownRemark.frontmatter.serial}>
-      <EpisodeComp episode={data.markdownRemark.frontmatter} html={data.markdownRemark.html} />
+        <EpisodeComp episode={data.markdownRemark.frontmatter} html={data.markdownRemark.html} />
       </PageContainer>
     </>
   )

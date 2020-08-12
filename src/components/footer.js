@@ -88,7 +88,7 @@ const Footer = () => (
           style={{ color: `#d22d4c`, paddingRight: `8px`, textTransform: `uppercase`, textDecoration: `none` }}
           activeStyle={{ color: `#E5E5E5` }}
         >About</AniLink>
-        <AniLink paintDrip to="/episodes" hex="#1e1c3c"
+        <AniLink paintDrip to="/episodes/" hex="#1e1c3c"
           style={{ color: `#d22d4c`, paddingRight: `8px`, textTransform: `uppercase`, textDecoration: `none` }}
           activeStyle={{ color: `#E5E5E5` }}
         >Listen</AniLink>

@@ -30,7 +30,7 @@ const Label = styled.span`
   color: #1e1c3c;
   font-size: 0.75rem;
   top: 2px;
-  right: 44px;
+  right: 54px;
   text-transform: uppercase;
   z-index: 2;
   white-space: nowrap;
@@ -248,8 +248,8 @@ const EpisodeCard = ({ slug, number, date, month, serial, title, description }) 
             #1e1c3c`}
           aria-label="Read more about this episode">
           <Label>Read more</Label>
-          <RightArrowCircle size="40" color="#E5E5E5" style={{
-            position: `absolute`, right: `0px`,
+          <RightArrowCircle size="41" color="#E5E5E5" style={{
+            position: `absolute`, right: `-0.5px`,
             bottom: `0px`
           }} aria-hidden="true" />
         </AniLink>

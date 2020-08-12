@@ -90,7 +90,7 @@ const NavBar = () => (
           activeStyle={{ color: `#5f728c` }}
           swipe
           direction="right"
-          to="/episodes"
+          to="/episodes/"
 
         >
           <Radio size="26" aria-hidden="true" />

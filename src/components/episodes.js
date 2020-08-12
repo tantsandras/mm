@@ -103,13 +103,13 @@ const Episodes = ({ children }) => {
             Spotify
           </ListenIcon>
           <ListenIcon
-        href="https://player.fm/series/midweek-murders"
-        target="_blank"
-        rel="noopener noreferrer"
-        aria-label="Listen on Player fm"
-      >
-        <Playerfm size="22" aria-hidden="true" />
-        PlayerFM
+            href="https://player.fm/series/midweek-murders"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Listen on Player fm"
+          >
+            <Playerfm size="22" aria-hidden="true" />
+            PlayerFM
       </ListenIcon>
         </Text2>
       </Article>

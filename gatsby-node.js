@@ -31,12 +31,35 @@ exports.createPages = async ({ graphql, actions }) => {
             context: { slug: slug },
         })
     })
+
+
+    const postsPerPage = 4;
+    const numPages = Math.ceil(data.podcastEpisode.edges.length / postsPerPage);
+
+    Array.from({ length: numPages }).forEach((_, i) => {
+        actions.createPage({
+            path: i === 0 ? `/episodes/` : `/episodes/${i + 1}`,
+            component: path.resolve('./src/templates/episodes-list-template.js'),
+            context: {
+                limit: postsPerPage,
+                skip: i * postsPerPage,
+                numPages,
+                currentPage: i + 1
+            },
+        });
+    });
 }
+
+
+
 
 async function getPageData(graphql) {
     return await graphql(`
     {
-      podcastEpisode: allMarkdownRemark {
+      podcastEpisode: allMarkdownRemark(
+        sort: { fields: [frontmatter___serial], order: DESC }
+        limit: 1000
+      ) {
         edges {
           node {
             fields {
@@ -49,14 +72,5 @@ async function getPageData(graphql) {
   `)
 }
 
-// exports.onCreatePage = async ({ page, actions }) => {
-//     const { createPage } = actions
 
-//     if (page.path.match(/^\/episode/)) {
-//         createPage({
-//             path: "/episode/",
-//             matchPath: "/episode/*",
-//             component: path.resolve(`src/pages/episode.js`),
-//         })
-//     }
-// }
+
