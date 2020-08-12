@@ -24,16 +24,6 @@ hashtags:
 ---
 Dr (in air quotes) Hawley Harvey Crippen, who was put on trial for murdering his wife Cora Crippen (stage name Belle Elmore), is the infamous snake oil selling criminal we're discussing in this episode. Joe (the hormone monster) feels like his forensic education is under scrutiny, and Sandra reads telegrams and gets told she needs to get out more.
 
-> <!--StartFragment-->
->
-> "Have strong suspicions that Crippen London cellar murderer and accomplice are among saloon passengers. Mustache taken off growing beard. Accomplice dressed as boy. Manner and build undoubtedly a girl." <!--StartFragment-->
->
-> \- Captain Henry George Kendal's telegram to the British authorities
->
-> <!--EndFragment-->
->
-> <!--EndFragment-->
-
 Sandra got her information wikipedia, as well as these articles:
 
 * The notorious case of Dr Crippen, [The History Press](https://www.thehistorypress.co.uk/articles/the-notorious-case-of-dr-crippen/)
