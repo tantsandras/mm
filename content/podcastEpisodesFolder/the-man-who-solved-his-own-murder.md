@@ -21,6 +21,13 @@ hashtags:
   - tag: polonium poisoning
   - tag: podcasts uk
   - tag: comedy
+  - tag: assassinations
+  - tag: political assassinations
+  - tag: raditation posioning
+  - tag: radiation exposure
+  - tag: russian spies
+  - tag: KGB 
+  - tag: spies
 ---
 The poisoning of Alexander Litvinenko, the man who solved his own murder, is the crime being discussed in this episode. Joe explains what effect polonium-210 has after being ingested, and Sandra forgets Joe's birthday. Sandra got her information from wikipedia and an article in The Guardian written by Luke Harding. 
 

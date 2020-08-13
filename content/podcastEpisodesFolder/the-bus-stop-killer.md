@@ -19,6 +19,10 @@ hashtags:
   - tag: UK true crime
   - tag: UK podcasts
   - tag: Podcast about serial killers
+  - tag: Famous british crime cases
+  - tag: british serial killers
+  - tag: Psychopaths
+  - tag: forensic evidence explained
 ---
 In this episode, we discuss serial killer Levi Bellfield and his numerous crimes (such as the murders of Milly Dowler, Marsha McDonnell and Amélie Delagrange). Sandra talks about her personal struggle with the british plumbing system and Joe thanks Daniel Farke for enriching the Premier league press conferences. Sandra got her information from wikipedia and the documentary "Evil up close - His name is Evil". Joe got his information from:
 

@@ -19,6 +19,13 @@ hashtags:
   - tag: Podcast about Lorena Bobbitt
   - tag: John and Lorena Bobbitt trials
   - tag: 1993 Bobbitt scandal
+  - tag: domestic abuse 
+  - tag: outdated laws
+  - tag: rape legislation
+  - tag: Lorena documentary series
+  - tag: crime podcasts
+  - tag: infuriating legislation
+  - tag: domestic abuse advocate
 ---
 This episode is all about Lorena Bobbitt vs John Bobbitt, or as it's more commonly known, that case were an abused woman cut her abusive husband's penis off. Joe explains Virginian laws at the time, and Sandra talks about the trials, the media aftermath, and the documentary series "Lorena" from executive producer Jordan Peele. Sandra got her information from wikipedia and the before mentioned documentary series, available to watch on amazon prime. Joe got his information from: 
 

@@ -24,10 +24,32 @@ padding: 40px 0px 40px 0px;
 const Container = styled.section`
   flex-basis: 100%;
 `
+const Topics = styled.h4`
+color: #E5E5E5;
+font-family: 'Oswald', sans-serif;
+text-transform: uppercase;
+font-weight: 400;
+letter-spacing: 0.05em;
+margin-top: 40px;
+`
+const TopicList = styled.ul`
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+align-items: center;
+padding: 0;
+font-size: 0.85rem;
+color: #E5E5E5;
+margin-top: 40px;
+margin-bottom: 100px;
+`
 
+const Tag = styled.li`
+margin-right: 20px;
+`
 
 const EpisodeComp = ({ episode, html }) => {
-  const { title, number, date, month, images } = episode
+  const { title, number, date, month, images, hashtags } = episode
   return (
     <>
 
@@ -45,8 +67,18 @@ const EpisodeComp = ({ episode, html }) => {
           <ImageWrapper>
             <AudioPlayer url={`https://embed.sounder.fm/play/${number}`} />
           </ImageWrapper>
+          <Topics>Topics</Topics>
+          <TopicList>
 
+            {hashtags.map(
+              item => (
+                <Tag>
+                  {item.tag}
+                </Tag>
+              )
+            )}
 
+          </TopicList>
           <AniLink style={{ textDecoration: `none`, color: `#E5E5E5`, textTransform: `uppercase`, letterSpacing: `0.05em`, fontSize: `1rem` }}
             swipe direction="left" to="/episodes"
             aria-label="Back to episodes page"

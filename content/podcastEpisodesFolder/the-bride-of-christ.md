@@ -16,7 +16,17 @@ hashtags:
   - tag: sect crimes
   - tag: Knutby
   - tag: Knutby mordet
-  - tag: "cult crimes "
-  - tag: Podcast about cult crime
+  - tag: cult crimes
+  - tag: Podcast about cult crimes
+  - tag: Knutby murder
+  - tag: little known cult crimes
+  - tag: bride of christ
+  - tag: brainwashing
+  - tag: criminal pastors
+  - tag: Kristi brud 
+  - tag: gaslighting
+  - tag: famous swedish crimes
+  - tag: Helge Fossmo
+  - tag: swedish crime cases
 ---
 The Bride of Christ, or Åsa Waldau, is at the epicentre of the Knutby Murder, the murder of Alexandra Fossmo commited by a brainwashed cult member and orchestrated by a pastor (Alexandras husband) in a congregation situated in a village in Sweden. Sandra tries to teach Joe how to pronounce Swedish words, and Joe is trying not to get sued for defamation. Sandra got her information from Uppdrag Gransknings (Mission: investigate) docu series called "Knutby" as well as wikipedia, Joe got his information from wikipedia (and allegedly, his brain). The picture of Saint Catherine being symbolically married to baby Jesus is painted by Paolo Veronese and can be found on [wikipedia](https://commons.wikimedia.org/wiki/File:Paolo_Veronese_013.jpg).

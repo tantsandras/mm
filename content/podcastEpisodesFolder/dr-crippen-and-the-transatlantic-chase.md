@@ -25,6 +25,15 @@ hashtags:
   - tag: old crimes
   - tag: crimes during the turn of the century
   - tag: crimes in the 1900s
+  - tag: homeopathy criminals
+  - tag: Music Hall artists
+  - tag: Vulcana the strongwoman
+  - tag: Cora Crippen
+  - tag: old murder mysteries
+  - tag: London crime cases
+  - tag: Transatlanic chases
+  - tag: Scotland Yard
+  - tag: detectives
 ---
 Dr (in air quotes) Hawley Harvey Crippen, who was put on trial for murdering his wife Cora Crippen (stage name Belle Elmore), is the infamous snake oil selling criminal we're discussing in this episode. Joe (the hormone monster) feels like his forensic education is under scrutiny, and Sandra reads telegrams and gets told she needs to get out more.
 
