@@ -2,8 +2,9 @@ import React from "react"
 import styled from "styled-components"
 import AudioPlayer from "./useAudioPlayer"
 import AniLink from "gatsby-plugin-transition-link/AniLink"
-import { LeftArrowCircle } from "@styled-icons/boxicons-regular"
+import { LeftArrowCircle, PlusCircle } from "@styled-icons/boxicons-regular"
 import Article from "./article"
+
 
 const Text = styled.p`
   flex-direction: row;
@@ -48,8 +49,40 @@ const Tag = styled.li`
 margin-right: 20px;
 `
 
+const Summary = styled.summary`
+color: #E5E5E5;
+font-family: 'Oswald', sans-serif;
+text-transform: uppercase;
+font-weight: 400;
+letter-spacing: 0.05em;
+margin-top: 40px;
+margin-bottom: 40px;
+background-color: #d22d4c;
+width: 185px;
+padding: 6px;
+border-radius: 6px;
+-webkit-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
+-moz-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
+box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
+transition: all 0.4s ease-in-out;
+cursor: pointer;
+  &:hover {
+    box-shadow: -2px -2px 5px rgba(0, 0, 0, 0.75), 2px 2px 5px #1e1c3c;
+    background-color: #1e1c3c;
+  }
+  
+  &:active {
+    box-shadow: inset 1px 1px 2px rgba(0, 0, 0, 0.75), inset -1px -1px 2px #1e1c3c;
+  }
+`
+
+
+const Collapsible = styled.details`
+margin-bottom: 100px;
+`
+
 const EpisodeComp = ({ episode, html }) => {
-  const { title, number, date, month, images, hashtags } = episode
+  const { title, number, date, month, audioTranscript, images, hashtags } = episode
   return (
     <>
 
@@ -67,6 +100,12 @@ const EpisodeComp = ({ episode, html }) => {
           <ImageWrapper>
             <AudioPlayer url={`https://embed.sounder.fm/play/${number}`} />
           </ImageWrapper>
+          <Collapsible>
+            <Summary>Audio Transcript <PlusCircle size="24" color="#e5e5e5" aria-hidden="true" style={{ marginTop: `-4px` }} /></Summary>
+            <div>
+              <Text>{audioTranscript}</Text>
+            </div>
+          </Collapsible>
           <Topics>Topics</Topics>
           <TopicList>
 

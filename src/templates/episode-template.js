@@ -31,6 +31,7 @@ export const EpisodeQuery = graphql`
         number
         date
         month
+        audioTranscript
         images {
             alt
             image

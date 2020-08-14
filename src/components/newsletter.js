@@ -39,7 +39,6 @@ transition: all 0.2s ease-in-out;
 appearance: none;
 -webkit-appearance: none;
 padding: 0.75rem;
-cursor: pointer;
 color: #d22d4c;
 font-family: 'Oswald', sans-serif;
 letter-spacing: 0.05em;

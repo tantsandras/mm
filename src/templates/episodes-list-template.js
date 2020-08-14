@@ -36,9 +36,8 @@ const EpisodesPage = ({ data, pageContext }) => {
                     {!isFirst && (
                         <AniLink
                             style={{ color: `#d22d4c`, textDecoration: `none`, paddingRight: `12px`, letterSpacing: `0.05em` }}
-                            activeStyle={{ color: `#5f728c` }}
-                            swipe
-                            direction="left"
+                            swipe direction="left"
+                            aria-label="Previous page"
                             to={prevPage} rel="prev">
                             ← Previous
     </AniLink>
@@ -54,8 +53,8 @@ const EpisodesPage = ({ data, pageContext }) => {
                             <AniLink
                                 style={{ color: `#d22d4c`, textDecoration: `none` }}
                                 activeStyle={{ color: `#5f728c` }}
-                                swipe
-                                direction="right"
+                                swipe direction="right"
+                                aria-label={`To page ${i === 0 ? '' : i + 1}`}
                                 to={`episodes/${i === 0 ? '' : i + 1}`}
                             >
                                 {i + 1}
@@ -65,9 +64,8 @@ const EpisodesPage = ({ data, pageContext }) => {
                     {!isLast && (
                         <AniLink
                             style={{ color: `#d22d4c`, textDecoration: `none`, letterSpacing: `0.05em` }}
-                            activeStyle={{ color: `#5f728c` }}
-                            swipe
-                            direction="right"
+                            swipe direction="right"
+                            aria-label="Next page"
                             to={nextPage} rel="next">
                             Next →
     </AniLink>

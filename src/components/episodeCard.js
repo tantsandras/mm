@@ -159,7 +159,7 @@ const Month = styled.h4`
 
 const Icons = styled.span`
 z-index: 6;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
   margin: 0 auto;
 `
 
@@ -233,6 +233,7 @@ const EpisodeCard = ({ slug, number, date, month, serial, title, description }) 
         <DarkDivider> </DarkDivider>
         <Description>{description}</Description>
       </TextContainer>
+
       <ReadMore>
         <AniLink
           cover
