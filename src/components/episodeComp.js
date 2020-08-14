@@ -24,7 +24,7 @@ padding: 40px 0px 40px 0px;
 const Container = styled.section`
   flex-basis: 100%;
 `
-const Topics = styled.h4`
+const Topics = styled.h5`
 color: #E5E5E5;
 font-family: 'Oswald', sans-serif;
 text-transform: uppercase;

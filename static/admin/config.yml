@@ -20,6 +20,7 @@ collections:
           - {label: Number, name: number, widget: string}
           - {label: Description, name: descriptionText, widget: text}
           - {label: LongText, name: body, widget: markdown}
+          - {label: AudioTranscript, name: audioTranscript, widget: text}
           - {label: Date, name: date, widget: number}
           - {label: Month, name: month, widget: string}
           - label: Images 
