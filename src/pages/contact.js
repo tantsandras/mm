@@ -5,7 +5,7 @@ import Contact from "../components/contact"
 
 const ContactPage = () => (
   <>
-    <SEO title="Contact" />
+    <SEO title="Contact" description="Find @midweekmurders on Twitter, Instagram, Youtube or email us with your suggestions" />
     <PageContainer id={"contact"} header={"Contact"}>
       <Contact />
     </PageContainer>

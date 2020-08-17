@@ -9,8 +9,8 @@ const About = () => (
     <Article name="Midweek Murders" slogan="A true crime comedy podcast">
       <Text style={{ color: `#E5E5E5` }}>
         New episodes every Wednesday. Midweek Murders is a True Crime Comedy
-        podcast based in the UK made by Sandra and Joe. They talk about a
-        different case each week, where Sandra introduces the case and Joe
+        podcast based in the UK made by Sandra and Joe. They talk about one
+        case each week, where Sandra introduces the case and Joe
         explains the forensic science. Mostly though, it's bants and beer.
         Midweek Murders is a fully independent podcast. Created, produced and
         edited by the hosts.

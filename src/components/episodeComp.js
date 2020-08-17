@@ -2,7 +2,7 @@ import React from "react"
 import styled from "styled-components"
 import AudioPlayer from "./useAudioPlayer"
 import AniLink from "gatsby-plugin-transition-link/AniLink"
-import { LeftArrowCircle, PlusCircle } from "@styled-icons/boxicons-regular"
+import { LeftArrowCircle } from "@styled-icons/boxicons-regular"
 import Article from "./article"
 
 
@@ -50,6 +50,10 @@ margin-right: 20px;
 `
 
 const Summary = styled.summary`
+display: flex;
+flex-flow: row wrap;
+align-items: center;
+justify-content: space-evenly;
 color: #E5E5E5;
 font-family: 'Oswald', sans-serif;
 text-transform: uppercase;
@@ -58,9 +62,11 @@ letter-spacing: 0.05em;
 margin-top: 40px;
 margin-bottom: 40px;
 background-color: #d22d4c;
-width: 185px;
+width: 200px;
 padding: 6px;
+border: none;
 border-radius: 6px;
+outline: none;
 -webkit-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
 -moz-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
 box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
@@ -101,7 +107,7 @@ const EpisodeComp = ({ episode, html }) => {
             <AudioPlayer url={`https://embed.sounder.fm/play/${number}`} />
           </ImageWrapper>
           <Collapsible>
-            <Summary>Audio Transcript <PlusCircle size="24" color="#e5e5e5" aria-hidden="true" style={{ marginTop: `-4px` }} /></Summary>
+            <Summary>Audio Transcript</Summary>
             <div>
               <Text>{audioTranscript}</Text>
             </div>

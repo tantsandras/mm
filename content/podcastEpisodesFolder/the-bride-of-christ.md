@@ -153,7 +153,7 @@ audioTranscript: |
   in that community they quickly on earth
   that one of the key players in
   that church was a woman called
-  Asa Waldau who
+  Åsa Waldau who
   said that she was the bride of christ
   and the people engaged in that
   church also called her the bride of
@@ -325,14 +325,14 @@ audioTranscript: |
   and that full of themselves they search
   for
   a community where that can be
-  used so Asa Waldau
+  used so Åsa Waldau
   psychologically broke her down
   because she told everyone that
   she was evil incarnated so it started
   out with
   helge fossmo trying to convince her that
   she was doing
-  god's mission and then Asa Waldau
+  god's mission and then Åsa Waldau
   broke her down by convincing her
   that she had sinned so badly
   that she was not a person anymore this
@@ -364,7 +364,7 @@ audioTranscript: |
   because i am a kind master
   and you will do this for god
   or you will forever be condemned
-  and in Asa Waldau's case she was
+  and in Åsa Waldau's case she was
   dubbed the bride of christ because
   she was a pastor in another
   congregation like a youth pastor and
@@ -401,7 +401,7 @@ audioTranscript: |
   listeners are going to be able to
   understand that
   okay he graduated from pe
-  he was 18. he gets married to Asa Waldau
+  he was 18. he gets married to Åsa Waldau
   his parents hold on
   are we talking about helga patrick
   waldau so what's us okay because
@@ -503,7 +503,7 @@ audioTranscript: |
   all of that shit
   so she formed a personal sect
   around her as the bride of christ
-  she brought helge fosmo to that
+  she brought helge fossmo to that
   congregation
   because they had met a couple years
   earlier and she was like he is the voice
@@ -514,7 +514,7 @@ audioTranscript: |
   person and he came in being like yeah
   we're gonna all of us are going to
   heaven
-  you all are chosen Asa
+  you all are chosen Åsa
   is the bride of christ this is like the
   reckoning
   history as we know it ends here
@@ -638,7 +638,7 @@ audioTranscript: |
   in any way because in 2004
   alexandra is murdered helge is put in
   prison
-  or Asa Waldau is still in the congregation
+  or Åsa Waldau is still in the congregation
   in 2020 the trial begins
   against osa valdau urban
   one of her ministers or pastors
@@ -649,7 +649,7 @@ audioTranscript: |
   sexual relationships with him because
   he said that it was a fight against the
   demons
-  to get jesus there for all Asa Waldau
+  to get jesus there for all Åsa Waldau
   to marry and looking on it from the
   outside
   i understand that this is so fucking
@@ -709,7 +709,7 @@ audioTranscript: |
   with her parents in the room and i feel
   like
   alsa should be locked up
-  forever i don't want wasa in our society
+  forever i don't want Åsa in our society
   i don't want urban in our fucking
   society
   both of them are still out in our

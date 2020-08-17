@@ -256,7 +256,7 @@ const BackgroundSection = ({ className }) => (
               <DarkDivider> </DarkDivider>
               <Description>
                 Midweek Murders is a True Crime Comedy podcast based in the UK
-                made by Sandra and Joe. They talk about a different case each
+                made by Sandra and Joe. They talk about one case each 
                 week, where Sandra introduces the case and Joe explains the
                 forensic science. Mostly though, it's bants and beer.
               </Description>

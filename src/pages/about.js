@@ -5,7 +5,7 @@ import PageContainer from "../components/container"
 
 const AboutPage = () => (
   <>
-    <SEO title="About" />
+    <SEO title="About" description="Midweek Murders is a true crime comedy podcast, based in the UK" />
     <PageContainer id={"about"} header={"About"}>
       <About />
     </PageContainer>

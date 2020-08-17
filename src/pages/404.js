@@ -28,7 +28,7 @@ const Thumbnail = styled.div`
 
 const NotFoundPage = () => (
   <>
-    <SEO title="404: Not found" />
+    <SEO title="404: Page not found" />
     <Wrapper>
       <Article name="Not found">
         <Text>I don't know what you're looking for, but somewhere along the way you've taken a wrong turn. Here lies only emptiness.</Text>

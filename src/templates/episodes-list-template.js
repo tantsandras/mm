@@ -16,7 +16,7 @@ const EpisodesPage = ({ data, pageContext }) => {
 
     return (
         <>
-            <SEO title="Episodes" />
+            <SEO title="Episodes" description="Listen to Midweek Murders here, or wherever you listen to podcasts" />
             <PageContainer id={"episodes"} header={"Episodes"} >
                 <Episodes>
                     {renderEpisodes(data.allMarkdownRemark.edges)}

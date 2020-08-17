@@ -5,7 +5,7 @@ import Shop from "../components/shop"
 
 const ShopPage = () => (
   <>
-    <SEO title="Merch" />
+    <SEO title="Merch" description="Merch, coming soon" />
     <PageContainer id={"merch"} header={"Merch"}>
       <Shop />
     </PageContainer>
