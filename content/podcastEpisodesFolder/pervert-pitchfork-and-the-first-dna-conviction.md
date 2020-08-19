@@ -6,7 +6,7 @@ descriptionText: The criminal discussed in this episode is Colin Pitchfork,
   guilty of murdering Lynda Mann and Dawn Ashworth, which was the first crime
   solved with the help of DNA evidence. Joe (the grammar police) explains
   genetic fingerprints, and Sandra takes the train all the way to Loonyville.
-audioTranscript: >
+audioTranscript: >-
   Midweek Murders contains graphic and explicit content listener discretion is
   advised.
 
@@ -318,6 +318,478 @@ audioTranscript: >
 
 
   Like rape scenario where he didn't murder the victim, I guess. Yeah. And then also charged with perverting the course of justice because, you know, tried to get away with it. And they're just like, Oh, well, you know, he's he's got a degree now from prison, and he was a good boy in prison. So he's probably reformed degree and what? I don't know. Okay. Did you have anything else about the forensic science? No, you made me say all earlier.
+
+  oops. But it was a a benchmark discovery
+
+  and it's now led to something like
+
+  55 000 prosecutions
+
+  worldwide i think there was someone in
+
+  death row
+
+  in the u.s who'd been on death row for
+
+  something like 30 years
+
+  who was then found innocent because of
+
+  this
+
+  advancement in technology so definitely
+
+  a good accident to have stumbled upon
+
+  definitely definitely and also why
+
+  people want you to upload your dna
+
+  because even if your siblings
+
+  or your parents have never committed a
+
+  crime
+
+  your third or second cousin
+
+  might have and your dna might be
+
+  pivotal to that yeah yeah it's enough to
+
+  make the link
+
+  once they can determine the
+
+  mitochondrial dna significance
+
+  yeah so i might need to at some point
+
+  but i feel like my mother's dna is
+
+  probably
+
+  already out there because she did one of
+
+  the
+
+  i think it was the national geographic
+
+  thing well it depends if the police
+
+  force have access to
+
+  public databases like that so i don't
+
+  know what the laws are in sweden but i
+
+  think it has to be
+
+  a special circumstance that the uk
+
+  police force would be able to access
+
+  genealogy companies databases
+
+  yeah because in the u.s i think that
+
+  they have an
+
+  opt-out opt-in option yeah but in the us
+
+  they also take your fingerprints upon
+
+  entry to the country
+
+  so they already have unique identifiers
+
+  unless you're a twin i read some
+
+  part of that in like reading about
+
+  alec jeffries the professor or the sir
+
+  and he was obviously very happy
+
+  that the discovery led to
+
+  resolve in a lot of crime cases but
+
+  very concerned about innocent
+
+  people being in the database
+
+  yeah so there's there was a lot of law
+
+  reforms in the last 10
+
+  20 years that limit the amount of time
+
+  governments can hold your dna
+
+  i think it was unlimited and now
+
+  there's a limit to it so they have to
+
+  destroy
+
+  i can't remember whether
+
+  they have to get rid of your dna if
+
+  you're found
+
+  innocent or whether it's a shorter time
+
+  period
+
+  that they keep it for because obviously
+
+  if they're
+
+  deleting everything then there'd be no
+
+  national dna database
+
+  and the whole point of the science would
+
+  be useless because
+
+  everybody who was found guilty would
+
+  already be in prison
+
+  so you'd never ever get a match but
+
+  there are very strict laws in the uk
+
+  about who can access it when they can
+
+  access it
+
+  why they access it and for how long that
+
+  date is available for
+
+  which is again why you wouldn't see
+
+  a whole community come together like you
+
+  did in the 80s
+
+  because so many people are now more
+
+  aware of
+
+  how long their data would be kept for
+
+  and
+
+  whether they would be comfortable with
+
+  that and
+
+  i think there were 5 500
+
+  men from that community that all donated
+
+  either blood or saliva to help
+
+  convict colin pitchfork oh i thought it
+
+  was like
+
+  i thought i said another number it was
+
+  in the thousands
+
+  when they first made the appeal but by
+
+  the end by the time they'd
+
+  caught colin it was over 5500 people
+
+  had donated dna samples and got
+
+  no match that's like that's how unique
+
+  that this
+
+  is and it's why in a court of law
+
+  you can be almost certain that the dna
+
+  that you're presenting is
+
+  for the person that you're convicting we
+
+  learn
+
+  a whole bunch of stats that never went
+
+  in my head are just plugged into the
+
+  formula
+
+  but something like one in
+
+  250 million or something like that and
+
+  that limitation is down to
+
+  the instruments that are used it's not
+
+  even down to the likelihood
+
+  of a similar result genetically
+
+  so you have that limiting factor is
+
+  because of instrumentation and human
+
+  error
+
+  it's genuinely unique unless you're
+
+  looking at mitochondrial dna but
+
+  or my dad and my grandpa being like
+
+  six cousins i have a question
+
+  where do stars go in the daytime
+
+  it's that my grandpa on my
+
+  dad's side had a
+
+  birthmark on the lower part of his
+
+  back i'll stop you there birthmarks are
+
+  one of these things
+
+  that have confused the scientific world
+
+  since they realized they could be passed
+
+  genetically
+
+  nobody knows why nobody knows how
+
+  but it's just a thing that happens so
+
+  i can't answer why you have almost the
+
+  identical same pattern
+
+  that he does because it was really funny
+
+  i don't but it's like one of those
+
+  raised brown ones you know
+
+  a mole a liver spot or a mole
+
+  i guess i don't know the english term
+
+  for it
+
+  but my granddad has it
+
+  on his lower back my dad has it
+
+  in the exact same spot my
+
+  oldest brother has it on the exact same
+
+  spot
+
+  and they all three of them have
+
+  really bright blue eyes as well
+
+  dreamy i know about it because we used
+
+  to go
+
+  swimming at my grandparents house and
+
+  then i noticed it
+
+  and i was like you have the same
+
+  birthmark at the exact same place
+
+  and they were like oh yeah we do and
+
+  then my grandpa
+
+  once swatted my dad really hard
+
+  because he thought it was uh one of
+
+  those blood
+
+  sucking insects that flies
+
+  a mosquito no it's a
+
+  bigger one it's like a moth that sucks
+
+  blood
+
+  oh you're thinking of a bat no
+
+  it's like an insect i used to be really
+
+  scared
+
+  of them because once i saw it on my
+
+  shoulder and i saw the
+
+  teeth going in i was like ah
+
+  i don't know what that is it was a thing
+
+  in
+
+  the north of sweden and my grandpa
+
+  swatted my dad really hard on the back
+
+  and it was
+
+  at the same exact birthmark that
+
+  he also had and i was like that's ironic
+
+  but maybe it's not if you don't know the
+
+  context
+
+  it's not ironic whether you know the
+
+  context or not
+
+  [Laughter]
+
+  oh there you go again with your
+
+  girlfriend
+
+  you know that's that's just an english
+
+  literature thing
+
+  [Laughter]
+
+  so what are you gonna do now i gotta
+
+  sleep
+
+  most of the time half ten probably
+
+  got time for a couple of furious
+
+  masturbations
+
+  hmm did you walk your dog did you have
+
+  dinner
+
+  yes i'm not an animal i feel what are
+
+  you gonna do
+
+  well i'm probably gonna take my beds do
+
+  my first cream blah blah
+
+  buddy was very funny today she
+
+  she was in the camera when
+
+  nicholas was in the meeting hello i'm
+
+  here
+
+  i can do the programming too hello i
+
+  want to
+
+  wrap all up in your uh laptop like
+
+  i can lead the team pay attention to me
+
+  and then nicholas did a quiz about like
+
+  his zoom backgrounds
+
+  what he should have from old movies and
+
+  i got
+
+  almost all of them because i've
+
+  watched every single thing
+
+  that is out there that is how bored i am
+
+  you need to take up knitting yeah i do
+
+  i did before when i was 12 i used to
+
+  no you were such a grandma
+
+  i've always been a grandma when i was 12
+
+  i used to knit mill scarves for my
+
+  grandchildren
+
+  i didn't have any grandchildren but
+
+  i was just preparing for the day do you
+
+  want to say
+
+  bye to the listeners thank you so much
+
+  for listening to
+
+  midweek murders see that means it's time
+
+  to talk about crime no we already did
+
+  that oh sorry i got confused
+
+  it's like muscle memory i hear midweek
+
+  murders and that means it's time
+
+  to talk about crime
+
+  thank you so much suzanne and lee for
+
+  listening
+
+  we'll see you guys
+
+  i'm that one listening from pakistan
+
+  welcome welcome
+
+  i'm my iceland boy homie
+
+  and the iceland boy hello hello
+
+  oh woman oh woman fucking sexist pig
+
+  okay goodbye peace out
+
+  [Music] 
 date: 19
 month: August
 images:
