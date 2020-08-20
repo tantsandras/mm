@@ -7,145 +7,140 @@ descriptionText: This episode is all about Lorena Bobbitt vs John Bobbitt, or as
   husband's penis off. Joe explains Virginian laws at the time, and Sandra talks
   about the trials, the media aftermath, and the documentary series "Lorena".
 audioTranscript: |-
-  midweek murders contains graphic and
-  explicit content
-  listener discretion is advised somebody
+  Midweek murders contains graphic and
+  explicit content,
+  listener discretion is advised. Somebody
   once
   told me the world has gone around me
-  i hate the sharpness to really
-  joe
+  i aint the sharpest tool in the shed...
+  Joe!
   [Laughter]
-  i helped you up wow
-  i should be a recording artist i know
-  hashtag some moron
-  in where in the place where i grew up
-  who plans vsb no
-  you know they ain't the truth
-  gonna get to the stage where that's
+  I helped you out. Wow.
+  I should be a recording artist, I know.
+  hashtag some moron in the place where i grew up...
+  Upplands Vasby. No!
+  You know that ain't the truth.
+  Gonna get to the stage where that's
   gonna be
-  genuinely where i thought you grew up
-  and i'm gonna believe you
-  oh no wait did i
+  genuinely where i thought you grew up.
+  And i'm gonna believe you.
+  Oh no, wait, did I?
   [Laughter]
-  i think some moron put alcohol
-  on a tampon and put that up their butt
-  it was a boy obviously
-  obviously
-  they tend to be a bit careless that's
+  I think some moron put alcohol
+  on a tampon and put that up their butt.
+  It was a boy obviously.
+  You say obviously...
+  They tend to be a bit careless. Is
   that just because of all of the stories
   of
   women putting vodka soaked tampons
   anywhere
-  revolve around the vagina i don't think
-  they would do that it has
-  definitely been done the ph
-  balance is so fragile i don't know how
+  revolve around the vagina? I don't think
+  they would do that. It has
+  definitely been done. The ph
+  balance is so fragile, I don't know how
   that would
-  turn out i mean they didn't enjoy it
-  very badly i'm assuming
-  i can 100 assure you i have read
-  a e reports where people have put oh
-  good lord spirit
+  turn out. I mean they didn't enjoy it.
+  Very badly, I'm assuming.
+  I can 100 percent assure you that I have read
+  AE reports where people have put... Oh
+  good lord. Spirit
   soaked tampons in their
-  hoo-ha
-  speaking of we're not allowed to say
+  hoo-ha.
+  Speaking of... We're not allowed to say
   that word live on
-  air speaking of the who house
-  the episode i'm seeing the hoo-ha
-  what more do you want jesus christ
-  fucking immigrants
+  air. Speaking of the va-hoo-ha
+  the episode... VA-HOO-HA! I'm saying va-hoo-ha
+  what more do you want?! Jesus christ,
+  fucking immigrants.
   [Laughter]
-  let me have my natural segue that you
+  Let me have my natural segway that you
   just
-  talked over speaking of the who has
+  talked over! Speaking of the va-hoo-ha, play the jingle.
   [Laughter]
-  what i was gonna say is
-  no leave it there you can't top that
-  you sure you haven't been drinking
-  i do have water i'm going to the animal
-  of course you do
-  because you're so dry you're listening
+  What I was gonna say is...
+  No leave it in, you can't top that.
+  Are you sure you haven't been drinking?
+  I do have water, I'm not an animal.
+  Of course you do,
+  because you're so dry. You're listening
   to midweek murders
   and this week we're going to discuss
-  the case it already went to shit
-  speaking of which natural secret
-  no i'm just kidding play the jingle
-  take it seriously man this is our
-  livelihood at stake
-  it is if you keep not hitting yourself
-  well if you'd have set up a go fund me
-  by now we could be bajillionaires
-  i think bots have money
-  just like me i should just because
-  would we legally be able to accept
-  payments from the russian government
-  i don't know let's say yes
-  i know a lawyer i'll ask her yeah
-  if it comes straight from putin's for
-  who has then maybe not
-  but it means vagina
-  okay welcome to midweek murders
-  this week oh shit
-  it's wednesday and that means it's
-  time to talk about crime but you know
+  the case... it already went to shit.
+  Speaking of which, natural segway,
+  no I'm just kidding. Play the jingle!
+  Take it seriously man, this is our
+  livelihood at stake.
+  It is if you keep not hitting your sales target.
+  Well if you'd have set up a go fund me
+  by now we could be bajillionaires.
+  I don't think bots have money.
+  Just like me. I should just become a bot! Would we legally be able to accept
+  payments from the russian government?
+  I don't know, let's say yes.
+  I know a lawyer, I'll ask her. Yeah
+  if it comes straight from Putin's va-hoo-ha then maybe not. It means vagina.
+  Okay welcome to midweek murders,
+  this week... oh shit.
+  It's wednesday, and that means it's
+  time to talk about crime, but you know
   that already bots because you've been
-  listening to all of our episodes
-  thank you ai and elon musk
-  i'm your host sandra and this is your
+  listening to all of our episodes.
+  Thank you AI and elon musk.
+  I'm your host sandra and this is your
   host
-  joe you did it again you left me with
-  fuck all to say
-  what am i gonna say then what am i
-  supposed to say
-  you said it that way last time so i
+  Joe. You did it again, you left me with
+  fuck all to say.
+  What am I supposed to say? 
+  You said it that way last time so I
   thought that was
-  a okay but some fussy little princess
-  sitting in his tower i'm sitting in my
+  a okay. But some fussy little princess
+  sitting in his tower... I'm sitting in my
   bed
-  actually and just because it's on the
+  actually, and just because it's on the
   fourth floor
-  doesn't mean it qualifies as a tower
-  i've checked
-  okay what do you want me to do also i
+  doesn't mean it qualifies as a tower.
+  I've checked.
+  Okay what do you want me to do? Also, I
   introduced you that way last time
   to make you feel deliberately
   uncomfortable so that you would
-  appreciate the position that i'm
-  in whenever you introduce me that way
-  oh it was your british
-  passive aggressiveness shining through
-  and if that didn't work
+  appreciate the position that I'm
+  in whenever you introduce me that way.
+  Oh it was your british
+  passive aggressiveness shining through.
+  And if that didn't work
   then please see my statement of 10
-  seconds ago
-  what do you want me to say hey dudes
+  seconds ago.
+  What do you want me to say? Hey dudes
   [Laughter]
-  this is my dude joe
-  and this is my dude sandy jean
-  said in the house
-  in the horse
-  do we have any working version of that
-  now
-  i don't think we have why don't we
+  this is my dude Joe,
+  and this is my dude Sandy G.
+  Sandy G in the house!
+  In the house!
+  Do we have any working version of that
+  now?
+  I don't think we have. Why don't we
   [Laughter]
   just throughout the whole podcast
   through the whole
-  40 minute but no it's gonna be more like
-  two hours
+  40 minutes, but no it's gonna be more like
+  two hours,
   but through like the whole two hour
   recording just
-  genuinely snip out the individual words
-  the introduction is you're listening
-  to the weak murders
+  genuinely snip out the individual words of
+  the introduction. You're, listening,
+  to, midweek, murders,
   that means it's time to talk about
-  crime i'm gonna use that one
-  i'm your host sandra and i'm
-  your host joe
-  perfect nailed it in one
-  they do call me one take juan
-  on on the film sets that i'm on
-  introduce the case okay this week we're
+  crime. I'm gonna use that one.
+  I'm your host sandra, and I'm
+  your host joe.
+  Perfect. Nailed it in one.
+  They do call me one take juan
+  on on the film sets that i'm on.
+  Introduce the case! Okay this week we're
   going to talk about
-  bobbitt versus bobbitt and the dancer
+  bobbitt versus bobbitt, and the dancer
   not the weirdest thing that has happened
   in in media after that i can say that
   john bobbitt has been participating
