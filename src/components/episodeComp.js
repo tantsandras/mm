@@ -46,7 +46,7 @@ margin-bottom: 100px;
 `
 
 const Tag = styled.li`
-margin-right: 20px;
+margin-right: 30px;
 `
 
 const Summary = styled.summary`

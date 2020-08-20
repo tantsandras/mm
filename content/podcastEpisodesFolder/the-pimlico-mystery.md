@@ -6,24 +6,25 @@ descriptionText: The case discussed is the poisoning of Thomas Edwin Bartlett.
   Joe solves the case using his trusty companion, science, and Sandra speculates
   about how many food items one eats whole without chewing.
 audioTranscript: |
-  midweek murders contains graphic and
-  explicit content
-  listener discretion is advised
-  crystal is clanking!
+  Midweek Murders contains graphic and
+  explicit content,
+  listener discretion is advised.
+  Oh! Oh ho hoo!
+  Crystal is clanking!
   I've opted for uh glenmoray single malt
   18 pounds from tesco, other
   retailers are available. Well somebody is
-  living life yeah
-  well i had to go to the shops because
+  living life. Yeah
+  well, I had to go to the shops because
   it's father's day in the uk tomorrow and
-  i hadn't got my dad anything
-  hmm what are you gonna get him i got him
+  I hadn't got my dad anything
+  hmm what are you gonna get him I got him
   some dessert flavored chocolates
   and a fancy bottle of
-  birra morate which i think is an italian
-  brand of beer
-  i'm not sure these continental europeans
-  it's post-brexit i don't care about them
+  birra morate which I think is an italian
+  brand of beer.
+  I'm not sure. These continental europeans,
+  it's post-brexit I don't care about them.
   [Music]
   that would have been a good opening of
   the episode
@@ -32,7 +33,7 @@ audioTranscript: |
   because nobody listens
   um we had 47 bots
   download our podcast thank you very much.
-  True story. Of which i would like to
+  True story. Of which I would like to
   express
   my eternal gratitude thank you
   the programmers who have created a bot
@@ -41,384 +42,381 @@ audioTranscript: |
   [Music]
   It was very funny she broke into the
   bedroom
-  very decisively... oh i heard that!
+  very decisively... oh I heard that!
   You can't come here and just scream at
   me
   what is the point?! Oh god, no, she can't
-  get out
-  what is oh my god
-  he answered you but not me
-  but do you want to get out
-  i walked into the radiator on my way
-  back
-  smooth smooth as
-  caramel oh smooth after that
+  get out.
+  What is.. oh my god,
+  she answered you but not me.
+  Bodil, do you want to get out?
+  I walked into the radiator on my way
+  back.
+  Smooth. Smooth as
+  caramel. Or smooth as that
   whiskey you bought from tesco for 18
-  pounds it's actually pretty nice
-  will you tell budo to shut up she's
-  introducing a lot of background noise
-  i think she wants dinner she is very
+  pounds. It's actually pretty nice.
+  Will you tell Bodil to shut up? She's
+  introducing a lot of background noise.
+  I think she wants dinner. She is very
   much
   wanting to be in this room but when
-  she's in she's like i can't get out i
-  can't get up
-  what did you do to me i was like you did
-  this to yourself
-  i know that feeling it's every time we
-  press record
-  [Music]
-  am i holding you hostage
+  she's in, she's like I can't get out, i
+  can't get out.
+  What did you do to me? I was like you did
+  this to yourself.
+  I know that feeling it's every time we
+  press record.
   [Laughter]
-  okay should we start i've been waiting
+  Am I holding you hostage in our friendship?
+  [Laughter]
+  Okay should we start? I've been waiting
   for you to start
-  for 15 minutes
-  oh god play the jingle
-  it worked last time
-  you're listening to midweek murders
-  and it's time to talk about crime
-  that's what i'm talking about do the
-  introductions
-  oh my god no i'm sandra
-  and this is my friend joe say hi to
-  hi joe oh i knew you were gonna go for
-  that one
-  hanging through
-  on today's episode on today's episode
+  for 15 minutes.
+  Oh god. Play the jingle.
+  It worked last time.
+  You're listening to Midweek Murders,
+  and it's time to talk about crime.
+  That's what I'm talking about! Do the
+  introductions!
+  Oh my god, nooo. I'm sandra
+  and this is my friend Joe. Say hi Joe.
+  Hi Joe. Oh I knew you were gonna go for
+  that one, low
+  hanging fruit.
+  On today's episode [get's interrupted again], on today's episode.
   [Laughter]
-  sorry sorry you're doing great
-  we're good
-  okay i'm ready today we're gonna talk
-  about the pimlico mystery
-  so our case starts on
+  Sorry, sorry you're doing great.
+  We're good.
+  Okay I'm ready. Today we're gonna talk
+  about the pimlico mystery.
+  So our case starts on
   the 1st of january 1886
-  when adelaide adelaide
-  atlanta adelaide
-  you know like the place
+  when adelaide... ADELAIDE!
+  Adelaide,
+  you know like the place.
   [Laughter]
-  i actually practiced her name
-  like by myself on the toilet when i was
-  pooping a lot of times
-  before we had this car they still can't
-  sit
-  you should probably cut the pooping part
-  out
-  adelaide adelaide yeah okay
-  i'm gonna like the place in america
-  is that a place in america yeah it is
-  the case we're gonna talk about today is
+  I actually practiced her name
+  like by myself on the toilet when I was
+  pooping. A lot of times
+  before we started recording, and I still can't
+  say them. 
+  You should probably cut the pooping part
+  out.
+  Adelaide. Adelaide, yeah okay.
+  I'm gonna... Like the place in america.
+  Is that a place in america? Yeah it is.
+  The case we're gonna talk about today is
   the pimlico mystery
   and it started the first of january
   1886 when
-  adelaide called her landlord to say
-  come down i think miss mr bartlett is
-  dead
-  and mr bartlett was thomas edwin
-  bartlett
-  her husband
-  that's the one she married thomas edwin
-  bartlett when she was 19 and he was
-  29. still younger than i am right now
-  oh yeah
-  and thomas edwin bartlett had been
+  adelaide called her landlord to say:
+  "come down I think miss Mr Bartlett is
+  dead"
+  and Mr Bartlett was Thomas Edwin
+  Bartlett.
+  Her husband.
+  That's the one. She married Thomas Edwin
+  Bartlett when she was 19 and he was
+  29. Still younger than I am right now.
+  Oh yeah.
+  And Thomas Edwin Bartlett had been
   diagnosed with
   subacute gastritis a couple of weeks
   before
-  he was poisoned i think what is
-  sub-acute gastritis
-  you know so gastritis
+  he was poisoned, I think. What is
+  sub-acute gastritis?
+  You know so gastritis
   is the inflammation
   of the gastric system so it's like
-  your abdominals and
-  your stomach and places like that
-  and inflammation is that like ibs or is
-  it
-  it could be yeah so um it's it's a
+  your abdominals, and
+  your stomach, and places like that.
+  And inflammation is that like IBS or is
+  it...
+  It could be yeah, so it's a
   general medical term
   to encompass an entire range
-  of inflammatory diseases so it could be
-  ibs
-  it could be inflammatory bowel disease
-  i'm pretty sure that's what ibs is yeah
-  i was just gonna say irritable bowel
-  syndrome
-  i think it's sad for so they married
-  kind of ten years before in 1875
-  their friend or spiritual guide
+  of inflammatory diseases. So it could be
+  IBS,
+  it could be inflammatory bowel disease.
+  I'm pretty sure that's what IBS is. Yeah,
+  I was just gonna say irritable bowel
+  syndrome,
+  I think it stands for. So they married
+  kind of ten years before in 1875.
+  Their friend, or spiritual guide,
   or spiritual counsel and
   a five-time winner of witch weekly's
   most charming
   smile award
   [Laughter]
-  reverend george dyson had
+  reverend George Dyson had
   bought the chloroform at four different
-  stores
+  stores,
   in such a small capacity that he didn't
   have to
-  sign his name and the
-  product that he bought because if he had
+  sign his name. And the
+  product that he bought, because if he had
   bought
   the same amount of chloroform at one
-  store
-  wait shit i should have said where i got
-  my
-  well i can say it now i got my research
+  store...
+  Wait, shit, I should have said where I got
+  my...
+  Well I can say it now. I got my research
   from
-  murderpedia.org
-  whereas i got my information from
+  murderpedia.org.
+  Whereas I got my information from
   uh wikipedia and
   a pubmed article published by
-  duchenne jayawira at al that was
+  duchenne jayawira at al, that was
   probably about
-  seven different authors and uh
-  the bmj which was authored by an
-  m farrell oh
-  you did so much more research than i did
-  yeah like three times as many sources
-  yeah something i think it's important to
-  mention that
-  uh thomas edwin bartlett had a history
+  seven different authors. And uh
+  the BMJ which was authored by an
+  m farrell. Oh.
+  You did so much more research than I did.
+  Yeah like three times as many sources.
+  I think it's important to
+  mention that Thomas Edwin Bartlett had a history
   of
-  conditions that he was being treated for
-  so he had um several teeth removed
-  he had his teeth filed down into stumps
-  and it was well documented by adelaide
+  conditions that he was being treated for.
+  So he had several teeth removed,
+  he had his teeth filed down into stumps,
+  and it was well documented by Adelaide
   that their relationship was
   non-sexual because of his
-  foul aroma oh
-  did she actually say that i'm not sure
+  foul aroma. Oh.
+  Did she actually say that? I'm not sure
   if those are her exact
-  words but it i think it was mentioned in
+  words, but it I think it was mentioned in
   her trial that they
-  they didn't uh regularly consummate
+  didn't regularly consummate
   their marriage
   because she was off put by the smell
-  from his mouth
-  well one thing's for sure he was not
+  from his mouth.
+  Well one thing's for sure, he was not
   a five-time witch weekly most charming
-  smile award winner she he's no gilderoy
-  lockhart let's put it that way
-  to be honest i never fancied gilderola
-  card did you
-  no but i am susceptible to a nice set of
-  teeth
-  well adelaide probably was as well
-  yeah and that's why they never boned
-  but they did though i read that uh
+  smile award winner. He's no gilderoy
+  lockhart let's put it that way.
+  To be honest, I never fancied gilderoy 
+  Lockhart, did you?
+  No, but I am susceptible to a nice set of
+  teeth.
+  Well Adelaide probably was as well.
+  Yeah, and that's why they never boned.
+  But they did though, I read that
   she did have a baby fathered by
-  thomas that was still born i think wait
-  yes it was uh delivered
-  unfortunately deceased
-  and thomas bartlett was very reluctant
+  Thomas that was still born I think. Wait.
+  Yes it was delivered
+  unfortunately deceased.
+  And Thomas Bartlett was very reluctant
   to have any kind of medical help
-  in that delivery whether that's any
+  in that delivery, whether that's any
   significance to his character or the
   case at all
-  remains to be determined
-  i did i did read that he had said
+  remains to be determined.
+  I did read that he had said
   during the delivery that he didn't want
   a doctor's help because he didn't want
   another man
-  interfering with her which is curious
+  interfering with her, which is curious
   because she said that she was encouraged
   to have a relationship
-  with um george dyson the
-  minister yeah so yeah the sources that i
-  read
-  uh also confirmed that they were
+  with George Dyson, the
+  minister. Yeah so the sources that I
+  read also confirmed that they were
   encouraged to have a relationship in so
   much as that he didn't
-  mind them kissing in front of him
-  but that's what they said wasn't it yeah
-  that was uh the opinion of adelaide
-  and george yeah so
-  adelaide blonde de la creme
-  married him as i said when she was 19
+  mind them kissing in front of him.
+  But that's what they said, wasn't it? Yeah
+  that was the opinion of Adelaide
+  and George. Yeah so,
+  Adelaide Blanche de la Tremoille
+  married him, as I said when she was 19,
   and he came from a very close-knit
   family
   of prosperous grocers and
-  some sources say that she well some
-  sources i only read the murder pedia so
-  what do i know
-  but it's like difference in opinion i
-  think
+  some sources say that she, well I say some
+  sources, I only read the murder pedia so
+  what do I know.
+  But it's like difference in opinion I
+  think,
   about like how much they
-  accepted her into the family which
+  accepted her into the family. Which
   doesn't obviously make
   any difference to what happened in the
-  end
+  end,
   but her father-in-law accused her of
   having a sexual relationship
-  with thomas's younger brother
-  yes yeah that's seconded
-  in the sources that i read yeah so the
+  with Thomas's younger brother.
+  Yes, yeah that's seconded
+  in the sources that I read. Yeah so the
   the father-in-law was a
   a particularly strong voice
-  against their relationship
+  against their relationship,
   which of course is hard to say anything
   about
-  because it was so long ago but
-  might have been might have not have been
-  thomas bartlett
+  because it was so long ago, but
+  might have been might have not have been.
+  Thomas Bartlett
   had drafted a will before he fell
-  acutely ill
+  acutely ill,
   as it seemed leaving everything to
-  adelaide and there was a stipulation in
-  that world seeing that
+  Adelaide and there was a stipulation in
+  that will, saying that
   she couldn't remarry if she had
-  inherited his estate
-  but then they redrew the will
-  or he redrew the will and made george
-  dyson an executor of that will
+  inherited his estate.
+  But then they redrew the will,
+  or he redrew the will, and made George
+  Dyson an executor of that will,
   and removed the bar
   where it said that adelaide couldn't
-  remarry
-  and that for me also indicates murder
-  it's quite suspicious that george dyson
-  should come on the scene and
-  somehow thomas bartlett would redraft
+  remarry.
+  And that, for me, also indicates murder.
+  It's quite suspicious that George Dyson
+  should come on the scene, and
+  somehow Thomas Bartlett would redraft
   his
-  entire will in that not only would
-  adelaide
-  inherit but she was now also allowed to
+  entire will, in that not only would
+  Adelaide
+  inherit, but she was now also allowed to
   remarry and basically do whatever she
-  wanted
-  and that also happened just four months
-  before he died
-  so for me that's like a red flag i
-  concur
-  the doctor that was treating thomas
-  bartlett was dr alfred leach
+  wanted.
+  And that also happened just four months
+  before he died,
+  so for me that's like a red flag. I
+  concur.
+  The doctor that was treating Thomas
+  Bartlett was dr alfred leach,
   and leach said that he prescribed
   chloroform
-  reluctantly but that thomas
-  insisted on that which is also
-  a bit strange but i guess like if he
+  reluctantly, but that Thomas
+  insisted on that. Which is also
+  a bit strange, but I guess like if he
   couldn't
-  get to sleep at some point you get
-  desperate
-  so i think it's important to note here
+  get to sleep, at some point you get
+  desperate.
+  So I think it's important to note here,
   that at the time chloroform
-  was like a seen as a miracle drug
-  it had recently come onto the scene a
+  was like a seen as a miracle drug.
+  It had recently come onto the scene, a
   lot of
   different countries and practitioners
   have used chloroform as the perfect
-  anesthetic
+  anesthetic,
   the perfect drug that would send you to
-  sleep
+  sleep,
   so it was it was widely used throughout
   continental europe for both pain relief
-  and as an analgesic so
+  and as an analgesic. So
   to ask your practitioner to prescribe
   you chloroform in those times
   was less questionable than it would be
-  in today's economy just like
-  if i were have to been alive at that
+  in today's economy. Just like
+  if I were have to been alive at that
   time they would have prescribed me
-  cocaine and vaginal stimulus
-  well we went we went different ways with
-  that
-  the mystery around the pimlico mystery
-  is that adelaide
-  and dyson was put on trial would but
-  mostly adelaide
-  for poisoning him thomas bartlett
+  cocaine and vaginal stimulus.
+  Well we went, we went different ways with
+  that.
+  The mystery around the pimlico mystery
+  is that Adelaide
+  and Dyson was put on trial, but
+  mostly Adelaide,
+  for poisoning him, Thomas Bartlett,
   because at the autopsy they discovered
   a lethal dose of chloroform in his
-  stomach
-  but the mystery of it is that he didn't
+  stomach.
+  But the mystery of it is that he didn't
   have
   abrasions in his throat or
-  mouth like if he had
+  mouth. Like if he had
   swallowed chloroform there would have
-  been like
-  wear i guess yeah so chloroform
+  been like,
+  wear I guess? Yeah so chloroform
   is a nasty liquid to administer
-  through the digestive tract and
-  quite often uh medics will see
+  through the digestive tract, and
+  quite often medics will see
   that liquid chloroform
-  will cause a lot of problems
-  so one article that was in the bmj
+  will cause a lot of problems.
+  So one article that was in the BMJ
   was of someone that tried to overdose
-  with 99 chloroform
-  in liquid form so they admitted that one
-  particular lady into a e and she had
-  a hepatotoxicity which is
+  with 99% chloroform
+  in liquid form, so they admitted that one
+  particular lady into AE and she had
+  a hepatotoxicity, which is
   liver failure she had severe gastritis
-  and ulceration
+  and ulceration,
   she had severe enterocolitis which is
   inflammatory
-  of the digestive tract and the colon
-  she had erosive esophagitis
+  of the digestive tract and the colon,
+  she had erosive esophagitis,
   and she also had dermal secretions
-  of the chloroform so the question
+  of the chloroform. So the question
   of the pimlico murders is how
-  adelaide managed to administer
-  a lethal dose of liquid chloroform which
-  was confirmed in the autopsy
-  but yet how thomas bartlett
+  Adelaide managed to administer
+  a lethal dose of liquid chloroform, which
+  was confirmed in the autopsy,
+  but yet how Thomas Bartlett
   had no signs of the corrosion
-  or the burning and the erosion
+  or the burning. And the erosion
   of his esophagus or his intestinal tract
-  from that chloroform but what i
-  wonder is like how much do you
-  digest chloroform
-  chloroform in itself is a well-absorbed
-  metabolite
+  from that chloroform. But what I
+  wonder is like, how much do you
+  digest chloroform?
+  Chloroform in itself is a well-absorbed
+  metabolite,
   it's quickly metabolized and eliminated
   within
-  the body okay so it could have been it
+  the body. Okay so it could have been, it
   couldn't have been like a
   poisoning throughout a couple of months
   because then
-  that's no definitely not so
-  so a couple of studies that are quoted
+  that's... No definitely not.
+  So a couple of studies that are quoted
   in wikipedia have got
   a half-life of chloroform at 6.5
-  hours so that means that if you had
+  hours, so that means that if you had
   a 10 milliliter dose
   within six and a half hours that would
   have been metabolized down to a five
-  milligram
-  uh milliliter dose so it's
-  really quickly absorbed and also
+  milliliter dose. So it's
+  really quickly absorbed, and also
   it's interesting to note that in the
   autopsy
   they only found six to eight
   drops of pure chloroform
-  in the stomach but they did also find
-  ulceration in the colon
+  in the stomach. But they did also find
+  ulceration in the colon,
   which would suggest that it was
   administered
   orally and absorbed in the time frame
   between when it was administered and
-  when it was reported by adelaide
-  which was supposedly a three-hour
-  difference
-  oh only a three-hour difference yeah
+  when it was reported by Adelaide.
+  Which was supposedly a three-hour
+  difference.
+  Oh only a three-hour difference? Yeah
   he went to bed and then in the morning
   she called
-  the landlord sources vary
-  but from what i've read it was a around
+  the landlord. Sources vary,
+  but from what I've read, it was a around
   three to four
   hours later that she reported
   to her landlord that her husband was
-  dead okay
-  all right when i first read about this
+  dead. Okay,
+  all right, when I first read about this
   case
-  i thought that well if you needed to
+  I thought that well if you needed to
   administer
-  a poison well needed is obviously
-  she didn't need to but you know and
+  a poison, well needed is... obviously
+  she didn't need to, but you know, and
   there were no like signs of it in the
   mouth
-  or the throat i thought maybe she
+  or the throat, I thought maybe she
   injected it in something that he would
   swallow whole
-  without chewing but then i also realized
+  without chewing but then I also realized
   there's not many food things that you
   would swallow a hole
-  without chewing and that raises the
+  without chewing. And that raises the
   interesting point
   as to how significant
   thomas's dental treatment was and he was
@@ -463,7 +461,7 @@ audioTranscript: |
   already
   damaged mouth well there's there's a
   couple of theories
-  as to how he died and i think
+  as to how he died and I think
   the one that lends the most reliability
   sort of coincides with with what
   adelaide
@@ -494,7 +492,7 @@ audioTranscript: |
   no way to prove it
   but in combination between the pubmed
   and
-  the bmj article that i read the sequence
+  the bmj article that I read the sequence
   of events
   was that she used a chloroform
   rag to help him get to sleep to aid
@@ -566,7 +564,7 @@ audioTranscript: |
   to the gi tract so more or less
   the pimlico mystery isn't actually a
   mystery anymore
-  well it's hypothetical i wouldn't like
+  well it's hypothetical I wouldn't like
   to criticize
   the coroners at the time um
   the coroners were were crown prosecution
@@ -577,9 +575,9 @@ audioTranscript: |
   it's the only way we can get over our
   social anxiety
   [Music]
-  i'm so sweaty
+  I'm so sweaty
   [Laughter]
-  but i think at the time there wasn't the
+  but I think at the time there wasn't the
   science available
   to determine the administration route
   and that's what got adelaide off
@@ -601,15 +599,15 @@ audioTranscript: |
   and body condition and things like that
   it will forever remain a mystery
   but also like looking back on it now
-  reverend dyson said that oh i didn't
+  reverend dyson said that oh I didn't
   realize
   how suspicious this was
-  until after i did it like
+  until after I did it like
   buying the bottles of small amounts of
   chloroform from
   four different uh shops and stuff like
-  that and i'm like oh
-  it smells like ether to me no i mean
+  that and I'm like oh
+  it smells like ether to me no I mean
   like
   it smells like pre-meditative murder to
   me
@@ -635,7 +633,7 @@ audioTranscript: |
   mind their relationship
   they could kiss in his presence while he
   was smoking a pipe in
-  the corner of the room but i don't think
+  the corner of the room but I don't think
   he
   did actually allow them to do that i
   think that was
@@ -643,7 +641,7 @@ audioTranscript: |
   and george dyson because it's like well
   they said that that was the case which
   then begs even more questions
-  as to why he changed his will i think
+  as to why he changed his will I think
   that they probably persuaded him
   to take that like clause out
   of the will maybe when he was already
@@ -663,7 +661,7 @@ audioTranscript: |
   expect
   through oral administration
   did you feel like you solved it no
-  i think it will always remain unsolved
+  I think it will always remain unsolved
   until someone looks at uh
   how easy it is to administer liquid
   chloroform
@@ -671,17 +669,17 @@ audioTranscript: |
   be
   possible right everything's
   possible so follow your dreams
-  oh i did have a question um are you
+  oh I did have a question um are you
   gonna do a trailer
   for every podcast or was it just a
   trailer
   for us in general it's a trailer for us
   in general
-  okay but i might change it if i have
+  okay but I might change it if I have
   something
-  better if i have
+  better if I have
   any shit to work with
-  this is fine i was just curious
+  this is fine I was just curious
   and curious uh all right let's get on
   with this shit
   okay should we say bye to the bolts
