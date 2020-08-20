@@ -1,9 +1,10 @@
-import { Itunes, Googlepodcasts, Castbox, Tunein, Playerfm } from "@styled-icons/simple-icons"
+import { Itunes, Googlepodcasts, Castbox, Tunein, Playerfm, } from "@styled-icons/simple-icons"
 import React from "react"
 import styled from "styled-components"
 import { Spotify } from "@styled-icons/fa-brands"
 import { Podcast } from "@styled-icons/fa-solid"
 import Stitcher from "../images/blue-stitcher.png"
+import IHeartRadio from "../images/heartRadio.png"
 
 const Name = styled.h4`
   font-family: "Oswald", sans-serif;
@@ -114,6 +115,24 @@ const Listen = () => (
       >
         <Castbox size="22" aria-hidden="true" />
       </ListenIcon>
+      <ListenIcon
+        href="https://www.iheart.com/podcast/269-midweek-murders-69295996/"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Listen on I heart radio"
+      >
+        <img
+          src={IHeartRadio}
+          style={{
+            width: `22px`,
+            height: `19px`,
+            marginTop: `1px`,
+            marginBottom: `1px`,
+          }}
+          alt="iHeart radio icon"
+        />
+      </ListenIcon>
+
       <ListenIcon
         href="https://podcasts.apple.com/gb/podcast/midweek-murders/id1518983516"
         target="_blank"
