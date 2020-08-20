@@ -9,7 +9,7 @@ descriptionText: In this episode Sandra talks about 'bee medicine', Joe explains
 audioTranscript: |-
   
   midweek murders contains graphic and
-  explicit content
+  explicit content,
   listener discretion is advised. I'm
   thinking that I might do
   like uh welcome to midweek murders
