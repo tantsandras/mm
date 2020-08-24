@@ -40,6 +40,7 @@ flex-direction: column;
 justify-content: space-evenly;
 border-bottom-right-radius: 15%;
   margin-top: 100px;
+  margin-bottom: 60px;
   position: relative;
   min-width: 300px;
   max-width: 40vw;
@@ -58,11 +59,12 @@ border-bottom-right-radius: 15%;
 `
 
 const Thumbnail = styled.div`
+align-self: flex-start;
 align-items: center;
 justify-content: center;
-text-align: center;
-font-size: 220px;
-  transform: translateY(-10px);
+font-size: 200px;
+  transform: translateY(-65px);
+//  margin-bottom: 20px;
   z-index: 0;
 
   -webkit-text-fill-color: transparent;
@@ -71,8 +73,10 @@ font-size: 220px;
   text-shadow: 0.5px 0.5px #1e1c3c, 5px 5px rgba(0, 0, 0, 0.02);
 `
 const Column = styled.span`
-transform: translateY(-25px);
-width: 110px;
+position: absolute;
+top: -35px;
+left: 0px;
+  width: 160px;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -121,6 +125,8 @@ const Description = styled.p`
 
 const Date = styled.h3`
   font-family: 'Oswald', sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.05em;
   z-index: 6;
   // color: #5f728ccc;
   color: #E5E5E5;
@@ -158,19 +164,24 @@ const Month = styled.h4`
 `
 
 const Icons = styled.span`
-z-index: 6;
-  padding-bottom: 10px;
-  margin: 0 auto;
+display: flex;
+flex-direction: row;
+align-content: flex-start;
+justify-content: flex-end;
+transform: translateY(-40px);
+width: 100%;
+  z-index: 6;
+  // margin: 0 auto;
 `
 
 const Icon = styled.a`
-  display: inline;
-  padding-right: 40px;
+  // display: inline;
+  padding-left: 30px;
   text-decoration: none;
   cursor: pointer;
   color: #5f728c;
   &:hover {
-    color: #1e1c3c;
+    color: #d22d4c;
     cursor: pointer;
   }
 `
@@ -199,6 +210,25 @@ const EpisodeCard = ({ slug, number, date, month, serial, title, description }) 
 
   return (
     <Card>
+          <Icons>
+        <Icon
+          className="twitter-share-button"
+          href={`https://twitter.com/intent/tweet?url=https%3A%2F%2Fembed.sounder.fm%2Fplay%2F${number}`}
+          aria-label="Share on twitter"
+        >
+          <TwitterWithCircle size="26" aria-hidden="true" />
+        </Icon>
+        <Icon
+          className="fb-share-button"
+          href={`https://www.facebook.com/sharer/sharer.php?u=https://embed.sounder.fm/play/${number}`}
+          aria-label="Share on facebook"
+        >
+          <FacebookCircle size="26" aria-hidden="true" />
+        </Icon>
+        <Icon href={`https://embed.sounder.fm/play/${number}`} aria-label="Link to embed this episode">
+          <Share size="26" aria-hidden="true" />
+        </Icon>
+      </Icons>
       <Thumbnail>
         &#x2B22;
       </Thumbnail>
@@ -207,25 +237,7 @@ const EpisodeCard = ({ slug, number, date, month, serial, title, description }) 
         <Divider></Divider>
         <Month>{month}</Month>
       </Column>
-      <Icons>
-        <Icon
-          className="twitter-share-button"
-          href={`https://twitter.com/intent/tweet?url=https%3A%2F%2Fembed.sounder.fm%2Fplay%2F${number}`}
-          aria-label="Share on twitter"
-        >
-          <TwitterWithCircle size="30" aria-hidden="true" />
-        </Icon>
-        <Icon
-          className="fb-share-button"
-          href={`https://www.facebook.com/sharer/sharer.php?u=https://embed.sounder.fm/play/${number}`}
-          aria-label="Share on facebook"
-        >
-          <FacebookCircle size="30" aria-hidden="true" />
-        </Icon>
-        <Icon href={`https://embed.sounder.fm/play/${number}`} aria-label="Link to embed this episode" style={{ paddingRight: `0px` }}>
-          <Share size="30" aria-hidden="true" />
-        </Icon>
-      </Icons>
+  
       <AudioPlayer url={`https://embed.sounder.fm/play/${number}`} />
 
       <TextContainer>
