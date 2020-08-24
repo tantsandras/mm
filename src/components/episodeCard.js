@@ -40,7 +40,6 @@ flex-direction: column;
 justify-content: space-evenly;
 border-bottom-right-radius: 15%;
   margin-top: 100px;
-  margin-bottom: 60px;
   position: relative;
   min-width: 300px;
   max-width: 40vw;
@@ -58,27 +57,10 @@ border-bottom-right-radius: 15%;
   box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
 `
 
-const Thumbnail = styled.div`
-align-self: flex-start;
-align-items: center;
-justify-content: center;
-font-size: 200px;
-  transform: translateY(-65px);
-//  margin-bottom: 20px;
-  z-index: 0;
-
-  -webkit-text-fill-color: transparent;
-  -webkit-text-stroke-width: 0.8px;
-  -webkit-text-stroke-color: white;
-  text-shadow: 0.5px 0.5px #1e1c3c, 5px 5px rgba(0, 0, 0, 0.02);
-`
 const Column = styled.span`
   flex-direction: column;
-  align-self: flex-start;
-  position: absolute; 
-top: -32px;
-left: 0;
-  width: 158.4px;
+  width: 140px;
+  margin-bottom: -1.8rem;
   text-align: center;
 `
 
@@ -108,7 +90,7 @@ height: 1px;
 	right: 0%;
 	width: 100%;
 	height: 1px;
-	background-image: linear-gradient(to right, transparent, #e5e5e5, transparent);
+	background-image: linear-gradient(to right, transparent, #d22d4c, transparent);
 }
 
 `
@@ -124,11 +106,10 @@ const Description = styled.p`
 
 const Date = styled.h3`
   font-family: 'Oswald', sans-serif;
-  font-weight: 400;
+  font-weight: 500;
   letter-spacing: 0.05em;
   z-index: 6;
-  // color: #5f728ccc;
-  color: #E5E5E5;
+  color: #d22d4c;
 `
 
 const ReadMore = styled.div`
@@ -158,7 +139,7 @@ const Month = styled.h4`
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   z-index: 6;
-  color: #E5E5E5;
+  color: #d22d4c;
   transform: translateY(-16px);
 `
 
@@ -167,14 +148,12 @@ display: flex;
 flex-direction: row;
 align-content: flex-start;
 justify-content: flex-end;
-transform: translateY(-40px);
+transform: translateY(-36px);
 width: 100%;
-  z-index: 6;
-  // margin: 0 auto;
+z-index: 6;
 `
 
 const Icon = styled.a`
-  // display: inline;
   padding-left: 30px;
   text-decoration: none;
   cursor: pointer;
@@ -183,21 +162,6 @@ const Icon = styled.a`
     color: #d22d4c;
     cursor: pointer;
   }
-`
-
-const DarkDivider = styled.div`
-position: relative;
-height: 1px;
-&:before {
-	content: "";
-	position: absolute;
-	top: -20px;
-	left: -5%;
-	right: 0%;
-	width: 110%;
-	height: 1px;
-	background-image: linear-gradient(to right, transparent, #1e1c3c, transparent);
-}
 `
 
 const EpisodeCard = ({ slug, number, date, month, serial, title, description }) => {
@@ -229,10 +193,7 @@ const EpisodeCard = ({ slug, number, date, month, serial, title, description }) 
         </Icon>
       </Icons>
 
-      <Thumbnail>
-        &#x2B22;
 
-      </Thumbnail>
       <Column>
         <Date>{date}</Date>
         <Divider></Divider>
@@ -243,7 +204,6 @@ const EpisodeCard = ({ slug, number, date, month, serial, title, description }) 
 
       <TextContainer>
         <PodTitle>{serial}. {title}</PodTitle>
-        <DarkDivider> </DarkDivider>
         <Description>{description}</Description>
       </TextContainer>
 

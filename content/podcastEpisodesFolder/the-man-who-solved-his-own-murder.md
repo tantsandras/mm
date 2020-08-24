@@ -259,40 +259,40 @@ audioTranscript: |
   was funny because the
   guardian article was like, yeah, it was
   at the governor street.
-  I went to london once with my pals
+  I went to london once with my pals,
   and we ended up in a taxi going back to
-  our hostel where we were staying at this
-  was before i lived here
-  and i told the taxi driver
+  our hostel where we were staying at. This
+  was before I lived here
+  and I told the taxi driver
   that the hostel was on gross vendor
   street and he didn't get it at all he
   was like the what
-  i was like the gross vendor street
+  I was like the gross vendor street
   it's right by the thames he was like
   what the fuck are you talking about what
   do you mean
-  i was like well if you just take us to
+  I was like well if you just take us to
   the thames
   i'm sure we can work it out it's close
   to this tube stage
   and he was a yes okay when we got closer
   he was like
   oh you're trying to say grovner
-  i was like is that how it's pronounced
-  and i think he
+  I was like is that how it's pronounced
+  and I think he
   pissed himself he was laughing so hard
   end of anecdote are you peeing again
   no we just didn't find that funny i've
   heard the story before
-  i know but the listener out hasn't sorry
-  i thought you were expecting a reaction
+  I know but the listener out hasn't sorry
+  I thought you were expecting a reaction
   from me
   yeah but also like you're gonna have to
   follow
   [Laughter]
   [Music]
   [Applause]
-  i'm stage trained i know i know
+  i'm stage trained I know I know
   and scene
   okay so that wasn't funny
   moving swiftly on
@@ -302,22 +302,22 @@ audioTranscript: |
   of his
   former friends from the federal
   security fucking shit
-  i don't think that's their technical
+  I don't think that's their technical
   service
   federal security fucking shit
   service would definitely get arrested by
   the kgb if you called them
-  i couldn't remember the last letter
+  I couldn't remember the last letter
   because
-  i i'm thinking like fbi for some reason
+  I i'm thinking like fbi for some reason
   i'm i'm um you know
   brainwashed by the american media yeah
   what does the fbi stand for federal
   bureau of
   investigation gazinga
-  you didn't think i knew that i did it
+  you didn't think I knew that I did it
   would do
-  if bureau was pronounced for yurio i not
+  if bureau was pronounced for yurio I not
   say that
   no you said burio
   god damn it okay
@@ -326,8 +326,8 @@ audioTranscript: |
   le golf boy lego villa
   he's an italian russian guy
   andre lugoyov
-  i knew it i i practiced all of these
-  names before and i brought them down
+  I knew it I i practiced all of these
+  names before and I brought them down
   and then they turned italian
   okay so he went to
   the bar met his friend and then he also
@@ -380,24 +380,24 @@ audioTranscript: |
   was the barnett general hospital
   in north london because he lived in
   muswell hill
-  which is very close to where i live
+  which is very close to where I live
   don't take note of that russian bots
   you're the next target for the cramland
   yeah probably vladimir if you're
   listening we are one of you do not
   target us thank you please
-  thank you please no i was gonna say that
-  i don't think i'm ever gonna be able to
+  thank you please no I was gonna say that
+  I don't think i'm ever gonna be able to
   visit
-  moscow but i don't think i would want to
-  either so that's fine i think you're
+  moscow but I don't think I would want to
+  either so that's fine I think you're
   also blacklisted apparently it's a
   very very pretty place oh yeah it's so
   pretty
   it is if you're a russian sympathizer
-  well i see i've seen it on the on the
+  well I see i've seen it on the on the
   google
-  yeah i've been watching google i was
+  yeah i've been watching google I was
   like oh
   pretty pretty and catherine the great
   was also her sense of
@@ -701,7 +701,7 @@ audioTranscript: |
   shake his hand eight-year-old son, and
   the eight-year-old son did,
   but it was poisonous. It's been
-  hypothesized that both Dimitri
+  hypothesized that both Dmitry
   and Andrei didn't actually know
   how contaminated they would be
   by handling the polonium.
@@ -720,50 +720,50 @@ audioTranscript: |
   they ended up disposing of their
   polonium down the toilet,
   and it was completely traceable.
-  So they found exactly the hotel room was
-  contaminated with polonium
+  So they found exactly the hotel room that was
+  contaminated with polonium,
   the flights from moscow to london
-  and london to moscow were contaminated
-  so the theory is that both demetri and
-  andre
+  and london to moscow were contaminated.
+  So the theory is that both Dmitry and
+  Andrei
   didn't actually know the
   level of risk that they were accepting
   when they took on the case of attempted
-  murder and
-  eventually successful murder of
-  libernyanko i thought it was quite
-  funny that the bb no the guardian
+  murder, and
+  eventually successful murder, of
+  Litvinenko. I thought it was quite
+  funny that the bbc, no, the guardian
   article
-  by luke cording said
+  by Luke Harding said
   that assassins nowadays
-  isn't really on the same like level
-  of the assassins during the kgb
-  and i thought that that was quite funny
-  that it was like
+  isn't really on the same level
+  of the assassins during the KGB.
+  And I thought that that was quite funny
+  that it was like,
   well they didn't do a very good job did
-  they
-  because it was like yeah they could
-  trace all of this
-  because of the radiation it was so
+  they.
+  Because it was like yeah they could
+  trace all of this,
+  because of the radiation, it was so
   clearly laid out
-  for them yeah and when alexander told
+  for them. Yeah. And when alexander told
   the investigators from the uk
   what had happened he obviously
   being a former secret agent
   know everything about like how to
   describe
-  what he was doing at what day
-  and how they looked and how they acted
-  and what they did he remembered
-  everything in clear detail
-  and it's actually really interesting
-  from a forensic point of view
-  in that as far as i'm aware from what i
-  could find in my research
+  what he was doing at what day,
+  and how they looked, and how they acted,
+  and what they did, he remembered
+  everything in clear detail.
+  And it's actually really interesting
+  from a forensic point of view,
+  in that as far as I'm aware from what I
+  could find in my research,
   there is only one worldwide
   site that creates polonium
-  210 for either scientific
-  economic whatever kind of use there is
+  210 for either scientific,
+  economic, or whatever kind of use, there is
   only one place in the world
   that creates polonium 210
   and it happens to be exactly the same
@@ -830,7 +830,7 @@ audioTranscript: |
   met once wait a minute i'm trying to
   look up the
   name
-  computing dimitri kofton
+  computing dmitry kovton
   he goes up to his hotel room
   he tries to flush the polonium
   down the drain it gets stuck in the
