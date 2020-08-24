@@ -73,13 +73,12 @@ font-size: 200px;
   text-shadow: 0.5px 0.5px #1e1c3c, 5px 5px rgba(0, 0, 0, 0.02);
 `
 const Column = styled.span`
-position: absolute;
-top: -35px;
-left: 0px;
-  width: 160px;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  align-self: flex-start;
+  position: absolute; 
+top: -32px;
+left: 0;
+  width: 158.4px;
   text-align: center;
 `
 
@@ -210,7 +209,7 @@ const EpisodeCard = ({ slug, number, date, month, serial, title, description }) 
 
   return (
     <Card>
-          <Icons>
+      <Icons>
         <Icon
           className="twitter-share-button"
           href={`https://twitter.com/intent/tweet?url=https%3A%2F%2Fembed.sounder.fm%2Fplay%2F${number}`}
@@ -229,15 +228,17 @@ const EpisodeCard = ({ slug, number, date, month, serial, title, description }) 
           <Share size="26" aria-hidden="true" />
         </Icon>
       </Icons>
+
       <Thumbnail>
         &#x2B22;
+
       </Thumbnail>
       <Column>
         <Date>{date}</Date>
         <Divider></Divider>
         <Month>{month}</Month>
       </Column>
-  
+
       <AudioPlayer url={`https://embed.sounder.fm/play/${number}`} />
 
       <TextContainer>
