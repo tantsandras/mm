@@ -7,131 +7,128 @@ descriptionText: "The poisoning of Alexander Litvinenko, the man who solved his
   effect polonium-210 has after being ingested, and Sandra forgets Joe's
   birthday. "
 audioTranscript: |
-  midweek murders contains graphic and
-  explicit content
-  listener discretion is advised
-  you know a funny thing that happened you
+  Midweek Murders contains graphic and
+  explicit content,
+  listener discretion is advised.
+  You know a funny thing that happened? You
   gave
-  birth to a live turtle that would have
-  been funnier
-  but alas would have been funny because
+  birth to a live turtle. That would have
+  been funnier,
+  but alas. Would have been funny because
   turtles
-  are born from eggs
-  well you don't know how i lived my life
-  i might have been impregnated by a bird
+  are born from eggs.
+  Well you don't know how I live my life.
+  I might have been impregnated by a bird
   then it still would have been born
-  through an egg dummy
-  that's the joke
-  i got home and the buddha had
+  through an egg dummy.
+  That's the joke.
+  I got home and Bodil had
   kicked out poop from her litter box
-  into the hallway i was like i'm just
+  into the hallway. I was like, I'm both
   disgusted
-  and impressed that is
-  not too shabby that's a fair distance
-  kicking better than the
-  watford football team okay fuck you
-  hashtag too soon too soon
+  and impressed. That is
+  not too shabby, that's a fair distance.
+  Kicking better than the
+  Watford football team. Okay, fuck you.
+  hashtag too soon. Too soon.
   [Music]
-  the worst part of this is that
-  i'm gonna ask her for your birthday but
-  you would rather i forget the worst part
+  The worst part of this is that
+  I'm gonna ask her for your birthday. But
+  you would rather I forget. The worst part
   of that is you don't remember when my
-  birthday is
-  i don't remember when your birthday is i
+  birthday is.
+  I don't remember when your birthday is, I
   thought that you would be
-  thrilled
-  i mean if there was one person
-  i would expect to remember when my
-  birthday is
-  it would be my best fucking friend
-  you sound like my mom i can't even
+  thrilled!
+  I mean if there was one person
+  I would expect to remember when my
+  birthday is,
+  it would be my best fucking friend.
+  You sound like my mom, I can't even
   remember my
-  own birthday okay no
-  that's not okay is it the fourth not
-  even fucking close to me
+  own birthday. Okay no,
+  that's not okay. Is it the fourth of September? Not
+  even fucking close mate.
   [Laughter]
-  i believe you oh it's hilarious
-  how long have we known each other now
-  i don't know that either man but you
-  don't celebrate our fucking friend
-  diversary
-  i don't use facebook
-  do you know how long we've been friends
-  i know when your fucking birthday is
-  though
+  I believe you. Oh it's hilarious.
+  How long have we known each other now?
+  I don't know that either man. Bet you
+  don't celebrate our fucking friend-iversary.
+  I don't use facebook.
+  Do you know how long we've been friends?
+  I know when your fucking birthday is
+  though.
   [Laughter]
-  when is it the 9th of march well that
+  When is it? The 9th of march. Well that
   just
-  shut me up didn't it yeah suck a dick
-  bitch
+  shut me up didn't it. Yeah, suck a dick
+  bitch.
   [Laughter]
-  i mean you're right i don't want any
+  I mean you're right, I don't want any
   undue attention
-  or focus brought to it but you know you
+  or focus brought to it, but you know you
   could at least still
-  fucking remember
-  adorable you could you could at least
+  fucking remember. You could at least
   remember the day
-  that you're meant to forget
+  that you're meant to forget.
   [Laughter]
-  i'm sorry i know it's in september
-  somewhere
-  it's very very easy to remember
-  it's the day after 9 11.
-  so is it the 10th oh good lord
-  just go back over what i said
-  in your head and then go back over
-  what you said and realize
-  why that is so incredibly wrong
-  i don't know what you're saying you're
-  talking and dolphin pitch
-  oh god i can't breathe i almost peed
-  myself
-  i realized it's the 12th
+  I'm sorry, I know it's in september
+  somewhere.
+  It's very, very easy to remember.
+  It's the day after 9 11.
+  So is it the 10th? Oh good lord.
+  Just go back over what i said
+  in your head, and then go back over
+  what you said, and realize
+  why that is so incredibly wrong.
+  I don't know what you're saying you're
+  talking in dolphin pitch.
+  Oh god, I can't breathe. I almost peed
+  myself.
+  I realized it's the 12th
   [Laughter]
-  which which kind of speaks to the
-  whole i can't remember any kind of
-  date or month thing that i didn't
+  which kind of speaks to the
+  whole "I can't remember any kind of
+  date or month" thing that i didn't
   realize
-  that 9 11 wasn't it was the other way
-  around
-  it wasn't the 9th of november
-  because in sweden we ride it the other
-  way around
-  yeah like like the rest of the world
-  yeah that was
-  hilarious but also painful
+  that 9 11 was written the other way
+  around.
+  It wasn't the 9th of november.
+  Because in sweden we write it the other
+  way around.
+  Yeah, like the rest of the world.
+  Yeah, that was
+  hilarious but also painful.
   [Laughter]
-  also i know what day of the week i was
-  born on
-  just fun fact for you because the day
-  after was friday the 13th
-  oh yeah you say oh yeah like you knew
+  Also, I know what day of the week I was
+  born on.
+  Just a fun fact for you, because the day
+  after was friday the 13th.
+  Oh yeah! You say "oh yeah" like you knew
   that the 12th of september in 1991 was a
-  thursday
-  no i just meant that it kind of it's a
+  thursday.
+  No, I just meant that it's kind of, it's a
   bit of a spoiler to your whole life
-  isn't it
-  no no it isn't although you were
-  quite a happy child weren't you fuck
-  knows i've repressed it all
-  so they didn't know that you would come
-  into the world and just hate it i didn't
-  know i would come into the world as
-  demons born
-  oh oh god i almost died
-  unlike alexander liptanyenko
-  who did you're listening to midweek
-  murders
-  prepare for a bumpy ride
-  it's gonna be a barbie ride don't
+  isn't it?
+  No, no it isn't. Although you were
+  quite a happy child weren't you? Fuck
+  knows, I've repressed it all.
+  So they didn't know that you would come
+  into the world and just hate it? They didn't
+  know I would come into the world as
+  demon spawn.
+  Oh god I almost died.
+  Unlike Alexander Litvinenko
+  who did. You're listening to midweek
+  murders,
+  prepare for a bumpy ride.
+  It's gonna be a bumpy ride. Don't
   pretend
-  like you know harry potter films
-  i did know that one
-  firstly
-  that needs work i did it perfectly thank
-  you very much
-  exactly like you did
+  like you know harry potter films.
+  I did know that one.
+  That needs work. I did it perfectly, thank
+  you very much.
+  Exactly like you did.
   oh feel slow
   oh i'm dying how how cheesy
   i'm dying already i'm afraid that we're
@@ -161,25 +158,25 @@ audioTranscript: |
   when my birthday is you don't even know
   where i was
   [Laughter]
-  i had born re-like sit and everything
-  to not pee myself because i realized
-  i had to practice my pelvic floor
-  exercises
-  i haven't done that since i was pregnant
+  I had to re-like sit and everything
+  to not pee myself because I realized.
+  I had to practice my pelvic floor
+  exercises.
+  I haven't done that since i was pregnant
   with the turtle that came out as a live
-  birth
-  i thought you were gonna say as a live
-  bird
-  turtles aren't birds
-  well you say that but just because
-  they're young are born in eggs doesn't
-  mean they're a verb
-  you're listening to midweek murders
+  birth.
+  I thought you were gonna say as a live
+  bird.
+  Turtles aren't birds.
+  Well you say that, but just because
+  their young are born in eggs, doesn't
+  mean they're a birb.
+  You're listening to midweek murders
   which means that it's time
-  to talk about crime i'm your host sandra
-  and with me is my pal you did it wrong
-  and tell me how i'm supposed to just say
-  i am your host sandra and then stop
+  to talk about crime. I'm your host sandra
+  and with me is my pal... You did it wrong.
+  Then tell me how I'm supposed to just say it!
+  I am your host sandra and then stop
   and then i can say and i'm your host
   don't leave me with just a one word
   response
@@ -238,31 +235,31 @@ audioTranscript: |
   went to a lunch meeting
   with an italian dude that was
   very strange very strange he had
-  a past of uh lying on a cv
+  a past of uh lying on his cv,
   and not like the normal lying that
-  everyone does
-  a lot of lying he went to itsu
-  a known sushi sushi
-  it sounded like i called my mom by her
+  everyone does,
+  a lot of lying. He went to itsu,
+  a known sushi. Sushi.
+  It sounded like i called my mom by her
   nickname
-  susie susie
-  do it just like that susie
-  oh yeah like that susie
-  sorry i got distracted stop being weird
-  about my mom dude
-  i can't help it she likes it when i get
-  frickin
-  so they went to a known sushi restaurant
+  susie. Susie.
+  Do it just like that susie,
+  Oh yeah, like that susie.
+  Sorry I got distracted. Stop being weird
+  about my mom dude.
+  I can't help it, she likes it when i get
+  freaky.
+  So they went to a known sushi restaurant
   called
-  itsu a chain restaurant here in london
+  itsu, a chain restaurant here in london,
   and then he went to a meeting
   with one of his friends and a dude that
   he had only met once
-  at the millennium hotel in london and it
+  at the millennium hotel in london. And it
   was funny because the
-  guardian article was like yeah it was
-  at the governor street
-  i went to london once with my pals
+  guardian article was like, yeah, it was
+  at the governor street.
+  I went to london once with my pals
   and we ended up in a taxi going back to
   our hostel where we were staying at this
   was before i lived here
@@ -405,328 +402,325 @@ audioTranscript: |
   pretty pretty and catherine the great
   was also her sense of
   interior design let's call it that was
-  supremely spectacular and pornographic
-  added to the bucket list
-  would be fun but we're probably never
-  gonna get in now
+  supremely spectacular and pornographic.
+  Added to the bucket list.
+  Would be fun but we're probably never
+  gonna get in now,
   so you're just gonna have to live with
-  that
-  can you say that as though anybody's
-  listening
-  hi lee love you
+  that. You say that as though anybody's
+  listening.
+  Hi Lee, love you.
   [Laughter]
-  at the hospital well he's first in one
-  hospital gets transferred for to the
+  At the hospital, well, he's first in one
+  hospital and then gets transferred to the
   university college hospital
   in central london because he's placed
   in intensive care and also under armed
-  police guard
-  because they're starting to suspect
-  a poisoning case first they thought it
+  police guard.
+  Because they're starting to suspect
+  a poisoning case. First they thought it
   was
-  salium please tell us a bit about that
-  this is your role jose
-  i have some information hit me with that
-  hit me hit me fantastic
-  hit me hit me hit me what
-  was that a thing in the original song
-  yes fucking google it bitch
-  some of the clinical symptoms that he
+  thallium, please tell us a bit about that.
+  [silence]
+  This is your role, Joe.
+  I have some information. Hit me with that rythm stick.
+  Hit me, hit me. Fantastic, Ich liebe dich,
+  hit me, hit me, hit me. What?
+  Was that a thing in the original song?
+  Yes, fucking google it bitch.
+  Some of the clinical symptoms that he
   was exhibiting
   when he was admitted to hospital were
   synonymous
-  with uh radiation poisoning in that he
-  was losing his hair
+  with radiation poisoning in that he
+  was losing his hair,
   he had vomiting and kidney and
-  renal failure and so they did
+  renal failure, and so they did
   quite a few extensive blood tests on him
   however they were quite quick
-  to rule out thallium poisoning they did
+  to rule out thallium poisoning. They did
   actually
-  test his blood for it i think and found
+  test his blood for it, I think, and found
   that
   the levels of thallium in his blood
   weren't clinically significant to
   indicate the symptoms that he was
-  showing
-  i don't actually know how long the
+  showing.
+  I don't actually know how long the
   thallium poisoning
-  was a hypothesis i read
+  was a hypothesis. I read
   that it was what he was treated for
   and then they realized that some of the
   symptoms that he was showing
   wasn't aligned with
-  stallion poisoning yeah they treated him
-  for thallium poisoning
-  and they did i think it was an x-ray
+  thallium poisoning. Yeah, they treated him
+  for thallium poisoning,
+  and they did, I think it was an x-ray
   to look at bone density and things like
-  that
+  that,
   and they didn't see conclusive evidence
   of thallium poisoning
   other than what they'd administered to
-  treat for it
-  so i think and you can correct me on
-  this
-  i would be glad to i know you would
-  little ravenclaw you that was
-  patronizing.jpg
-  they found and this is the part where i
-  think you will correct me
-  they found an ico taupe in his p
+  treat for it.
+  So I think, and you can correct me on
+  this...
+  I would be glad to. I know you would, you
+  little ravenclaw you. That was
+  patronizing.jpg.
+  They found... and this is the part where I
+  think you will correct me...
+  they found an isotope in his pee
   that they first ruled out as like
-  circumstantial
+  circumstantial,
   and then they asked for a larger
-  p sample urine sample sorry
-  this is why i'm like a bit apprehensive
-  about saying this
+  pee sample, urine sample sorry,
+  this is why I'm like a bit apprehensive
+  about saying this,
   but i think they ruled it out because
   there's
-  polonium and things around us i was like
+  polonium and things around us. I was like
   where the fuck is the polonium in things
   around
-  us i can't be circumstantial what
-  is there polonium in things around us
-  no but shortly no
-  so what i think they probably found in
+  us? It can't be circumstantial, what?
+  Is there polonium in things around us?
+  No. But shortly, no.
+  So what I think they probably found in
   his
-  urine samples was lead
-  yeah probably rather than polonium
-  so when polonium degrades
+  urine samples was lead.
+  Yeah, probably. Rather than polonium.
+  So when polonium degrades
   gives off all of its alpha radiation it
   turns into
-  lead oh okay and it's perfectly normal
+  lead. Oh, okay. And it's perfectly normal
   to have
   small amounts of lead exposure to be
   found
-  in blood and urine samples because there
+  in blood and urine samples. Because there
   can't be
-  like radioactive things around us so it
-  must have been led well
+  like radioactive things around us, so it
+  must have been lead. Well
   there are radioactive things around us
-  all the time we have a base level of
-  radiation exposure constantly
+  all the time. We have a base level of
+  radiation exposure constantly,
   when you rule out things like
   the gamma radiation from the sun which
   is
-  radioactive exposure there's always
+  radioactive exposure, there's always
   a baseline level of radioactivity
   just from natural rocks
-  and things i think so what you're seeing
+  and things, I think. So what you're saying
   is that
   we are in the midst of making
-  superheroes right that's what you're
-  saying
-  no
-  you will i'm gonna have a baby you will
-  not
-  put it out turn into the hulk
-  just from walking around
-  no i know it was just it would have been
-  funny though
-  it wouldn't have been funny because we
-  would have a shit ton of hulks
-  my turtle bird baby is going to be the
-  first symptoms your turtle bird baby
+  superheroes, right? That's what you're
+  saying?
+  No.
+  You will... I'm gonna have a baby... You will
+  not turn into the hulk
+  just from walking around.
+  No, I know, it was just it would have been
+  funny though.
+  It wouldn't have been funny because we
+  would have a shit ton of hulks.
+  My turtle bird baby is going to be the
+  first superhero. Your turtle bird baby
   is probably because you've been swimming
   around
-  in nuclear sewage which is more
+  in nuclear sewage, which is more
   likely to kill you than it is to make
-  your offspring a superhero hey don't
-  yuck my yum
-  i don't know what that means but i'm
-  gonna do it
-  all right okay so i think the
+  your offspring a superhero. Hey don't
+  yuck my yum.
+  I don't know what that means, but I'm
+  gonna do it.
+  All right, okay, so I think the
   initial tests that were from
-  litvinyenko's urine probably would have
-  shown an abnormal amount of lead
+  Litvinenko's urine probably would have
+  shown an abnormal amount of lead,
   but also lead exposure is
-  far more common than polonium exposure
+  far more common than polonium exposure,
   so any of that
   radioactivity that has degraded will
   have turned into
-  a more common element and that's perhaps
+  a more common element. And that's perhaps
   why they weren't
-  so concerned to start with yeah
-  a radioactive isotope poisoning i think
+  so concerned to start with. Yeah,
+  a radioactive isotope poisoning. I think
   they did
-  ask for a larger urine sample they did
+  ask for a larger urine sample. They did
   blood tests
-  too yeah just before he died and then
+  too. Yeah just before he died and then
   they found
-  out that it was polonium is that
-  incorrect i don't know what
-  tests they took in the hospital but i
+  out that it was polonium. Is that
+  incorrect? I don't know what
+  tests they took in the hospital, but I
   know his post-mortem results
-  were pretty much conclusive they was
-  polonium
-  yeah fun fact maybe not fun because you
+  were pretty much conclusive that it was
+  polonium.
+  Yeah. Fun fact, maybe not fun because you
   seem
-  to be a tough crowd tonight well i'm
-  gonna tell it anyways
-  is that sweden was the first country
+  to be a tough crowd tonight. Well i'm
+  gonna tell it anyways.
+  Is that sweden was the first country
   to expose the whole
   chernobyl disaster because
-  they got pings in their thing imagings
-  i'm pretty sure it was ukraine
+  they got pings in their thing imagings.
+  I'm pretty sure it was ukraine
   that was the first country to be exposed
-  to the chernobyl disaster
-  given that it happened in ukraine
-  exposed
-  i said expose no that's the same word
-  i just realized i mean exposed it to the
-  media oh
-  so you mean detect yeah because russia
+  to the chernobyl disaster,
+  given that it happened in ukraine.
+  Exposed,
+  I said expose, no, that's the same word.
+  I just realized, I mean exposed it to the
+  media. Oh
+  so you mean detect? Yeah because russia,
   well they
-  knew about it in russia they just uh had
-  it in a hush hush
-  and then sweden was like because ukraine
+  knew about it in russia, they just had
+  it in a hush hush.
+  And then sweden was like... Because ukraine
   was part of russia
-  back then yeah and then sweden was like
-  wait a minute
-  there's shit loads of radioactive thing
-  imaging
-  in the air this is not normal
-  that's definitely not a fun story the
-  chernobyl exposure was horrific
-  very much an international disaster
-  and then you're gonna tell me that 9 11
+  back then. Yeah, and then sweden was like
+  wait a minute,
+  there's shit loads of radioactive thing-imagings
+  in the air. This is not normal.
+  That's definitely not a fun story, the
+  chernobyl exposure was horrific.
+  Very much an international disaster.
+  And then you're gonna tell me that 9 11
   was a
-  date that i should have remembered just
-  like your birthday
-  apologies for the american bots for my
+  date that I should have remembered just
+  like your birthday.
+  Apologies to the american bots for my
   co-hosts
-  insensitivity to your national disasters
-  it was horrible obviously i remember it
-  when it was on the tv no you don't
-  i do you thought it was in november you
+  insensitivity to your national disasters.
+  It was horrible obviously, I remember it
+  when it was on the tv. No you don't.
+  I do! You thought it was in november, you
   don't remember
-  shit i remember seeing the news
-  about it but not as it's ingrained in
-  american
-  oh say can you see
-  by the dancer
-  that's for you american bots love you
-  guys
-  i did also remember that my mom was like
-  oh shit
+  shit. I remember seeing the news
+  about it, but not as it's ingrained in
+  american culture.
+  Oh say can you see
+  by the dawns early light.
+  That's for you american bots, love you
+  guys.
+  I did also remember that my mom was like,
+  oh shit,
   they've told us that like people born
   when my
   oldest brother was born has been
   affected
   by the radiation from the chernobyl
-  disaster and i'm like yeah
-  that's horrible obviously but she was
-  afraid of
-  my brother like afraid of his exposure
-  to it
-  i'm like he seems fine yeah i know
+  disaster. And I'm like, yeah,
+  that's horrible obviously. But she was
+  afraid that
+  my brother, like afraid of his exposure
+  to it,
+  I'm like he seems fine. Yeah, I know
   people that need to have annual blood
   tests
-  to determine their uh radiation levels
-  to see if they're still alive
-  it was definitely a thing that
+  to determine their radiation levels
+  to see if they're still alive.
+  It was definitely a thing that
   generations of people keep having
   problems with
-  still to this day and i can't really
+  still to this day. And I can't really
   understand that because of
   the fact that the polonium that
   alexander
   was poisoned with was
-  so traceable and still
+  so traceable, and still,
   it doesn't seem like that has been a big
-  deal
-  so in terms of the longevity of
+  deal.
+  So in terms of the longevity of
   risk it very much depends on what kind
   of radioactive isotope you're dealing
-  with
-  so all sorts of different elements
-  have different radioactive half-lives
-  so the half-life of polonium
-  is about 130 days i think 135 something
-  like that
-  which basically means that if you have
+  with.
+  So all sorts of different elements
+  have different radioactive half-lives.
+  So the half-life of polonium
+  is about 130 days, I think, 135. Something
+  like that.
+  Which basically means that if you have
   one gram of polonium
   in 130 days it will have
   degraded enough to be half a gram
   of polonium and half a gram of whatever
-  it degrades into i think in this case
-  it's lead
-  for other radioactive isotopes and we
-  can use the example of radium
-  radium has a half-life of 1005
-  years oh so that's probably what
-  happened in the chernobyl disaster like
-  yeah and that's why particularly with
-  these disasters
+  it degrades into, I think in this case
+  it's lead.
+  For other radioactive isotopes, and we
+  can use the example of radium.
+  Radium has a half-life of 1005
+  years. Oh, so that's probably what
+  happened in the chernobyl disaster, like...
+  Yeah and that's why particularly with
+  these disasters,
   that they're such high profile
-  international concern because they're
+  international concern, because they're
   usually using things that have a longer
-  half-life than polonium i think that's
+  half-life than polonium. I think that's
   got
   quite a short half-life compared to most
   of the
   isotopes that are used in nuclear
-  reactors
-  because like i remember from the
+  reactors.
+  Because like, I remember from the
   witness statement that they took from
-  alexander before he died
+  alexander before he died,
   so he said that he sat at that table
   had the tea just a couple of clunks of
-  it
-  like swallows of it and then
-  andre took his eight-year-old
+  it,
+  like swallows of it, and then
+  Andrei took his eight-year-old
   child to him and said this is your uncle
-  sasha was
+  sasha,
   which is like a nickname of alexander or
   like a
-  term of endearment of alexander i think
-  in russia
-  and he said say hello to him and then
+  term of endearment of alexander, I think,
+  in russia.
+  And he said say hello to him and then
   his eight-year-old child
   shook his hand and then they went to a
-  football game
+  football game,
   which was probably the cover of why they
-  said they were going to the uk
-  yeah and they used that as an excuse i
+  said they were going to the uk.
+  Yeah, and they used that as an excuse. I
   think it was chelsea versus
-  cska in moscow yeah or arsenal i don't
-  remember
-  but uh yeah it might have been arsenal
-  yeah but also like
+  cska in moscow. Yeah or arsenal. I don't
+  remember.
+  But yeah, it might have been arsenal.
+  Yeah but also like,
   when they realized that it was a
   polonium
-  poisoning case the ma in
+  poisoning case, the met in
   the uk checked his
   sleeve from his suit that he was wearing
-  at the
-  on the day of the meeting and his sleeve
-  was so radioactive
-  so andre i don't know how much he
-  knew about like the poison it felt like
-  he was like yeah
-  shake his hand eight-year-old son and
-  the eight-year-old son dead
-  but it was poisonous it's been
-  hypothesized that both dmitry
-  and andre didn't actually know
+  on the day of the meeting, and his sleeve
+  was so radioactive.
+  So Andrei, I don't know how much he
+  knew about like the poison. It felt like
+  he was like yeah,
+  shake his hand eight-year-old son, and
+  the eight-year-old son did,
+  but it was poisonous. It's been
+  hypothesized that both Dimitri
+  and Andrei didn't actually know
   how contaminated they would be
-  by handling the polonium
-  there's quite a lot both in the inquiry
-  and on the wikipedia page there was a
+  by handling the polonium.
+  There's quite a lot both in the inquiry
+  and on the wikipedia page. There was a
   couple of different
-  assassination attempts yeah they tried
-  three times once in mid-october
-  and they put it in his tea and literally
-  didn't drink it the second was
-  at the end of october the theory is that
+  assassination attempts. Yeah, they tried
+  three times, once in mid-october
+  and they put it in his tea and he literally
+  didn't drink it. The second was
+  at the end of october, the theory is that
   there were too many
   cameras around where they were trying to
-  administer the dose and both of those
+  administer the dose. And both of those
   occasions
   they ended up disposing of their
-  polonium down the toilet
-  and it was completely traceable
-  so they found exactly the hotel room was
+  polonium down the toilet,
+  and it was completely traceable.
+  So they found exactly the hotel room was
   contaminated with polonium
   the flights from moscow to london
   and london to moscow were contaminated
