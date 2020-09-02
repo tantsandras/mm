@@ -156,7 +156,7 @@ const StyledBackground = styled(BackgroundImage)`
 `
 const ArrowUp = styled.div`
   height: 100px;
-  margin-top: -94px;
+  margin-top: -98px;
   margin-bottom: 80px;
   &:before {
     content: "";

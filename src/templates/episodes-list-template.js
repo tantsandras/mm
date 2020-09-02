@@ -11,7 +11,7 @@ const EpisodesPage = ({ data, pageContext }) => {
     const { currentPage, numPages } = pageContext
     const isFirst = currentPage === 1
     const isLast = currentPage === numPages
-    const prevPage = currentPage - 1 === 1 ? 'episodes/' : (currentPage - 1).toString()
+    const prevPage = currentPage - 1 === 1 ? 'episodes/' : 'episodes/' + (currentPage - 1).toString()
     const nextPage = 'episodes/' + (currentPage + 1).toString()
 
     return (
