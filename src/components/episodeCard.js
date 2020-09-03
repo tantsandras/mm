@@ -221,7 +221,7 @@ const EpisodeCard = ({ slug, number, date, month, serial, title, description }) 
             content-box     
             #1e1c3c`}
           aria-label="Read more about this episode">
-          <Label>Read more</Label>
+          <Label>More about this episode</Label>
           <RightArrowCircle size="41" color="#E5E5E5" style={{
             position: `absolute`, right: `-0.5px`,
             bottom: `0px`

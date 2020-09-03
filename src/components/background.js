@@ -11,15 +11,12 @@ import AudioPlayer from "./useAudioPlayer"
 const turnVisible = keyframes`
 0% {
   filter: opacity(0%);
-  transform: scale(1.04);
 }
 40% {
   filter: opacity(10%);
-  transform: scale(1.02);
 }
 100% {
   filter: opacity(20%);
-  transform: scale(1);
 }
 `
 

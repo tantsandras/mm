@@ -25,6 +25,13 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "fonts",
+        path: `${__dirname}/static/fonts/`,
+      },
+    },
     `gatsby-plugin-styled-components`,
     {
       resolve: `gatsby-transformer-remark`,

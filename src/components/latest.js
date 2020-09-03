@@ -12,7 +12,7 @@ const ImageWrapper = styled.div`
   cursor: pointer;
 `
 
-const Latest = ({children}) => (
+const Latest = ({ children }) => (
   <section style={{ marginTop: `200px` }}>
     <Wrapper>
       <Article name="New" slogan="Midweek Murders is now on YouTube!">
@@ -29,7 +29,9 @@ const Latest = ({children}) => (
       </Article>
       <Article name="Latest episode" slogan="Listen here, or wherever you listen to podcasts">
       </Article>
-      {children}
+      <div style={{ marginTop: `-100px` }}>
+        {children}
+      </div>
 
     </Wrapper>
 
