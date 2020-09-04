@@ -11,8 +11,8 @@ audioTranscript: |-
   explicit content,
   listener discretion is advised. Somebody
   once
-  told me the world has gone around me
-  i aint the sharpest tool in the shed...
+  told me the world is gonna roll me
+  I aint the sharpest tool in the shed...
   Joe!
   [Laughter]
   I helped you out. Wow.

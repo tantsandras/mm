@@ -1636,80 +1636,80 @@ Well the cold war...
 So this particular agent that they used
 was called
 a234 and there's very little
-scientific data available about it
-how to make it obviously and any studies
-into their toxicity
-but there's certain comparisons to
+scientific data available about it,
+how to make it obviously, and any studies
+into their toxicity.
+But there's certain comparisons to
 other nerve agents that have been
 studied
-more closely so there's another one
+more closely. So there's another one
 called VX
 and I think it stands for venomous agent 10. I'm assuming the x is roman numerals for ten.
-Clever boy. yeah
-can't be can't be sure on that though um
-not a doctor
-anyway so the weapon a234
+Clever boy. Yeah,
+can't be, can't be sure on that though.
+Not a doctor.
+Anyway, so the weapon A234
 has been deemed approximately five to
 eight
-times more toxic than vx
-and when you look at the toxicity data
+times more toxic than VX.
+And when you look at the toxicity data
 it's actually quite frightening to
-consider that
-so the ld50 which is
-the lethal dose required to kill 50
-of test participants is 7
-micrograms per kilogram
-if you translate that into what they
+consider that.
+So the LD50, which is
+the lethal dose required to kill 50 %
+of test participants, is 7
+micrograms per kilogram.
+If you translate that into what they
 usually
-extrapolate into which is a 70 kilogram
+extrapolate into, which is a 70 kilogram
 adult male with no underlying health
-conditions
-the lethal dose of vx is
-0.49 milligrams
-oh shit that's so much
-so much less absolutely tiny amount
-yeah I imagine that
-a234 is five to eight times
-that lethal it's coming down to like
+conditions,
+the lethal dose of VX is
+0.49 milligrams.
+Oh shit, that's so much
+so much less... Absolutely tiny amount.
+Yeah, now imagine that
+A234 is five to eight times
+that lethal. It's coming down to like
 two 0.2 milligrams
-via respiration to cause death which is
+via respiration to cause death, which is
 why the medical staff
-and the police force and everybody
+and the police force, and everybody
 involved in the case was so precautious
-about containing this case
-it's why don showed such severe symptoms
-and passed away whereas Sergei and and Yulia
-didn't
+about containing this case.
+It's why Dawn showed such severe symptoms
+and passed away, whereas Sergei and and Yulia
+didn't,
 was because a dose of 0.2 milligrams via
 respiration
-is a lethal dose that's like one or two
+is a lethal dose. That's like one or two
 spritzes
-inhaled of a perfume and that's enough
-that is crazy especially thinking like
+inhaled of a perfume, and that's enough.
+That is crazy, especially thinking like
 how much
-milligrams of painkillers you take
-or like yeah you think your standard
-dose of paracetamol is 500 milligrams
+milligrams of painkillers you take,
+or like... Yeah, you think your standard
+dose of paracetamol is 500 milligrams,
 and it takes 0.2 milligrams
-in order to kill an average male
-yeah I can't I i wanted to say that's
-like
+in order to kill an average male.
+Yeah I can't, I wanted to say that's
+like,
 blah blah blah percent but let's not do
-maths um
-i can't
-\[Laughter] but also um so it's a nerve agent which
+maths.
+I can't.
+\[Laughter] But also, so it's a nerve agent which
 the nervous system controls your actions
-and your sensory information
-so every kind of movement every smell
-every site
-is all controlled by the nervous system
-and nerve agents all act the same way
+and your sensory information.
+So every kind of movement, every smell,
+every site,
+is all controlled by the nervous system.
+And nerve agents all act the same way
 in that they inhibit the nervous
-response in the body
+response in the body,
 and they do that by acting on what's
 called
-acetyl cholinesterase
-and the way that this works is in your
+acetyl cholinesterase.
+And the way that this works is in your
 synapses
 in the brain and in your body between
 muscles you create a compound called
@@ -1928,14 +1928,14 @@ doesn't make any sense I don't even know
 then why did you ask if it was close to
 amesbury
 i've got family there I read it
-somewhere on the internet
-that's a please listen to a really bad
-podcast about it
-okay do you have your dinner ready now
-it was already about 20 minutes ago i'm
-so sorry i'm gonna let
-you eat now how are we gonna close this
-wonderful virginia podcast
-this very very professional podcast well
-we could just say bye
+somewhere on the internet,
+that's a place. I listened to a really bad
+podcast about it.
+Okay, do you have your dinner ready now?
+It was already about 20 minutes ago. I'm
+so sorry, I'm gonna let
+you eat now. How are we gonna close this
+wonderful virginial podcast?
+This very, very professional podcast? Well
+we could just say bye. Bye!
 \[Music]

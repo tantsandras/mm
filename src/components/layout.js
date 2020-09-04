@@ -15,6 +15,7 @@ import "./layout.css"
 import Footer from "./footer"
 import "typeface-oswald"
 import "typeface-montserrat"
+import "../../static/fonts/fonts.css"
 import { createGlobalStyle } from "styled-components"
 
 const GlobalStyle = createGlobalStyle`
