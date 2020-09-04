@@ -49,46 +49,9 @@ const Tag = styled.li`
 margin-right: 30px;
 `
 
-const Summary = styled.summary`
-display: flex;
-flex-flow: row wrap;
-align-items: center;
-justify-content: space-evenly;
-color: #E5E5E5;
-font-family: 'Oswald', sans-serif;
-text-transform: uppercase;
-font-weight: 400;
-letter-spacing: 0.05em;
-margin-top: 40px;
-margin-bottom: 40px;
-background-color: #d22d4c;
-width: 200px;
-padding: 6px;
-border: none;
-border-radius: 6px;
-outline: none;
--webkit-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
--moz-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
-transition: all 0.4s ease-in-out;
-cursor: pointer;
-  &:hover {
-    box-shadow: -2px -2px 5px rgba(0, 0, 0, 0.75), 2px 2px 5px #1e1c3c;
-    background-color: #1e1c3c;
-  }
-  
-  &:active {
-    box-shadow: inset 1px 1px 2px rgba(0, 0, 0, 0.75), inset -1px -1px 2px #1e1c3c;
-  }
-`
-
-
-const Collapsible = styled.details`
-margin-bottom: 100px;
-`
 
 const EpisodeComp = ({ episode, html }) => {
-  const { title, number, date, month, audioTranscript, images, hashtags } = episode
+  const { title, number, date, month, images, hashtags } = episode
   return (
     <>
 
@@ -106,12 +69,6 @@ const EpisodeComp = ({ episode, html }) => {
           <ImageWrapper>
             <AudioPlayer url={`https://embed.sounder.fm/play/${number}`} />
           </ImageWrapper>
-          <Collapsible>
-            <Summary>Audio Transcript</Summary>
-            <div>
-              <Text>{audioTranscript}</Text>
-            </div>
-          </Collapsible>
           <Topics>Topics</Topics>
           <TopicList>
 
