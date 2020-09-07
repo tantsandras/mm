@@ -5,6 +5,7 @@ import StyledBackground from "../components/background"
 import Newsletter from "../components/newsletter"
 import Latest from "../components/latest"
 import EpisodeCard from "../components/episodeCard"
+import { graphql } from 'gatsby'
 
 const Wrapper = styled.div`
   min-height: 100vh;

@@ -22,13 +22,13 @@ const turnVisible = keyframes`
 
 const turnVisible2 = keyframes`
 0% {
-  filter: opacity(0%);
+  opacity: 0;
 }
 40% {
-  filter: opacity(40%);
+  opacity: 0.4;
 }
 100% {
-  filter: opacity(100%);
+  opacity: 1;
 }
 `
 
@@ -49,7 +49,7 @@ const Title = styled.h1`
   -webkit-text-stroke-width: 0.5px;
   -webkit-text-stroke-color: white;
   text-shadow: 2px 2px #d22d4c, 4px 4px #1e1c3c;
-  animation: ${turnVisible2} 0.6s ease-in;
+  animation: ${turnVisible2} 1s ease-in;
   @media only screen and (max-width: 480px) {
     font-size: 3.2rem;
   }

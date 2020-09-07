@@ -52,9 +52,7 @@ Midweek Murders contains graphic and explicit content listener discretion is adv
 
 Do you still ride your motorcycle? No, I had to move it to my mom's house because people kept trying to steal it. What? I didn't hear about this. Yes, you did. What happened? The police knocked on our door at three o'clock in the morning "does a Joseph live here?", and Jo answered it and she was like, Yes, let me go get him. Turns out the police being called because someone had been found with a bunch of bolt cutters and screwdrivers. this that and the other. Trying to break the padlock on my bike. Oh my god, I didn't know about this. Yes, you did.
 
-So if your mom garage or she has a backyard. You can't access unless you go through high house. Oh, smart. So I had to ride the bike through a house.
-
-That was fun.
+So if your mom garage or she has a backyard. You can't access unless you go through high house. Oh, smart. So I had to ride the bike through a house. That was fun.
 
 Oh, really? Uh huh. No, you just pushed it, obviously. No, I was on it.
 
@@ -64,19 +62,17 @@ They did get arrested and they got charged. But they didn't get like incarcerate
 
 That's the story. But wait, did you actually drive your motorcycle inside of your mom's house? Yeah, but very slowly, and nobody thought this was weird. No, because it's the only way to have got it into our backyard and couldn't do just push it. No, it was the gaps. were too narrow for me to be by the side of the bike and get the bike through. So I had to be on the bike.
 
-I don't know why that's the sticking point. Like, why is it so weird? What the difference between pushing it and riding it at like, half a mile an hour? I don't know. It just wasn't sailing through there in like four levels with my helmet on like "Watch out cats and dogs" through
+I don't know why that's the sticking point. Like, why is it so weird? What the difference between pushing it and riding it at like, half a mile an hour? I don't know. It just wasn't sailing through there in like four levels with my helmet on like "Watch out cats and dogs" skidding around the corner and messing up their rug while I was laying down. Like less than one mile an hour that bike was barely moving.
 
-skidding around the corner and messing up their rug while I was laying down. Like less than one mile an hour that bike was barely moving.
+Oh god, that's hilarious. I've never heard of this before. Why do you tell me now it's so funny.
 
-Oh god, that's hilarious. I've never heard of this before. Why do you tell me now it's so
+No one other than you would have found the most interesting part of the story.
 
-no one other than you would have found the most interesting part of the story.
-
-But I'm glad to move that somewhere safer now. Yeah, now it means I don't get to go out and play whenever the sun's out. Yeah, which is sad because then why do you even have a bike? Cuz I bought it before it was attempted to be stolen. Yeah, I know. I know. But like
+But I'm glad that you moved it somewhere safer now. Yeah, now it means I don't get to go out and play whenever the sun's out. Yeah, which is sad because then why do you even have a bike? Cuz I bought it before it was attempted to be stolen. Yeah, I know. I know.
 
 I think you need to disembark this sass train at Judge town and maybe get a return ticket back to normality Ville.
 
-You know, that's never where my train stops.
+You know that's never where my train stops.
 
 No, you go straight past into Looney Ville. Oh, yeah. Oh, yeah. Okay, I've had so much fun with these notes. And it's not gonna be fun for everyone. But well hold that thought because he's been laughing so much at my bike story. I need another beer.
 
@@ -86,17 +82,11 @@ Niklas was like it's not british. Oh. Oh god, I'm so bad at it. Yeah, how long h
 
 Long enough to get settled status. Better not come up on my interview. How long have you lived here? Oh, but I don't know. Is there a minimum requirement? Can you tell between Australia and British accents? I'm like, Oh, no. If you get asked if you can tell the difference between an Australian and a British accent, you will automatically pass the test. If you tell them there's no such thing as a British accent. English. They will just be like Yep, she's, she's one of us.
 
-You're listening to Midweek Murders, which means that it's time to talk about crime. I'm your host Sandra. I'm your co host Joe by nailed it. The case we're going to talk about today is the first case solved by
+You're listening to Midweek Murders, which means that it's time to talk about crime. I'm your host Sandra. I'm your co host Joe by nailed it. The case we're going to talk about today is the first case solved by DNA evidence and that's the case of the murderer Colin Pitchfork or Colin Bitchfork. Nobody calls him that.
 
-DNA evidence and that's the case of the murderer column Pitchfork or column Pitchfork nobody calls him that
+I got my references... that cuz you tried to write an Australian P, it was upside down and then you remember and you're in England so you wrote in English P and then when they were combined in May to be sure that's the case
 
-I got my references that cuz he tried to write an Australian pee
-
-it was upside down and then you remember and you're in England so you wrote in English P and then when they were combined in May to be sure that's the case
-
-I got my information from Wikipedia a guardian article called killer break through the day DNA evidence first nail the murderer by iron Cobain beat
-
-Ian to BBC News article one, which was written by Claire Marshall.
+I got my information from Wikipedia a guardian article called killer break through the day DNA evidence first nail the murderer by Ian Cobain, two BBC News articles, one which was written by Claire Marshall.
 
 Yeah, so one I don't know it. Didn't say
 
@@ -120,9 +110,7 @@ Have your six pages of notes just one page per letter of the word why
 
 I did include four "y"s.
 
-On the 21st of November 1983, three years earlier and only a couple of hundred yards away, and then a little bit of a side note, I don't know how much a couple of hundred yards away are because I did write a couple of hundred metres but that's not true. It was a couple of hundred yards. So I kind of figured that was a lot more bandwidth. Now it's pretty much the same one yard is naught point nine metres. Okay, so on the 21st of November 1983 15 year old Linda man who had been walking home after babysitting was
-
-raped, strangled and murdered in the same way as Don had been. When Linda didn't return home her parents neighbours spent the night searching for her. The next morning her body was found on a deserted foot foot for no locally as the black pad with the forensic science available at the time, I thought you would appreciate that but maybe not.
+On the 21st of November 1983, three years earlier and only a couple of hundred yards away, and then a little bit of a side note, I don't know how much a couple of hundred yards away are because I did write a couple of hundred metres but that's not true. It was a couple of hundred yards. So I kind of figured that was a lot more bandwidth. Now it's pretty much the same one yard is naught point nine metres. Okay, so on the 21st of November 1983 15 year old Linda man who had been walking home after babysitting was raped, strangled and murdered in the same way as Don had been. When Linda didn't return home her parents neighbours spent the night searching for her. The next morning her body was found on a deserted foot foot for no locally as the black pad with the forensic science available at the time, I thought you would appreciate that but maybe not.
 
 Because the sentence involves forensic science. Oh, he'll like.
 
@@ -136,9 +124,7 @@ Alivia smudges remained unsolved for the three years before the killer struck ag
 
 Cap remember what podcast it was, but I think it had to do with the fact that he might have found the body before the police from the body. I'm not sure because this was no corroborated and many other sources. During the police questioning, the police claimed that Richard admitted to the crime, but then I also read that he repeatedly denied having done it. So they pushed him to admit it, and he did. But then he also said repeatedly that he didn't do it, but he was very adamant that he had nothing to do with the murder of Linda man. And because the police was convinced that the murderers were connected. They thought that Richard was lying when he denied having anything to do with Linda's murder. Meanwhile, and I say that because of the dramatic effect because of what
 
-Really Meanwhile, it was a couple years earlier at the University of Leicester Professor Sir Alec Jeffrey's made a remarkable discovery during a failed experiment to study the way in which inherited illness pass through families. So this discovery happened in the morning of Monday, the 10th of September, which is one day after 911 I would
-
-probably look funny, I didn't write that in my notes.
+Really Meanwhile, it was a couple years earlier at the University of Leicester Professor Sir Alec Jeffrey's made a remarkable discovery during a failed experiment to study the way in which inherited illness pass through families. So this discovery happened in the morning of Monday, the 10th of September, which is one day after 9 11, probably isn't funny, I didn't write that in my notes.
 
 1984 when he pulled an extra film out of the developing tank in the laboratory, he could see patterns in the genetic material which completely discriminated between the three people who had been involved in the analysis. A technician a month.
 
@@ -168,17 +154,13 @@ But I wouldn't give it voluntarily unless it was in that kind of context, I gues
 
 We won't use this DNA sample in order to prosecute you for that. We just want to be able to rule you out of these two murders. And that is a lot of tension to people with a previous criminal reference. Understandable like the only thing why I won't upload my DNA to like ancestry or stuff like that is because I already know about my family history and I have no interest in it. Like my mom and dad. They send me emails a couple of times a month about like, Oh, we just discovered were related to Angus con. So is the rest of the world now. Yeah, that to my dad. It's like a sixth cousin to my granddad. I'm like, Yeah, okay. And they're like, oh, you're a direct descendant of videos y'all. were somehow
 
-Which would be funny, but now like, one of the first day chiefs in Sweden, I was like, right, sure, probably also some percentage of the Swedish population I'm guessing, you know. So Colin Pitchfork, married with two children lived in little Thorpe, a village in Leicester separated from the village of Nora bruh by the Leicester to Birmingham railway line. Before his marriage, Pitchfork had been convicted of indecent exposure and had been referred for therapy and then I kept this in my notes, which obviously didn't help. So pitch for work as an apprentice in a Hampshire bakery. According to a super
-
-reviser he was a good worker and timekeeper. But he was moody. And he couldn't leave women employees alone. He was always chatting them up. Someone else signer
-
-and keeper Moody, flirtatious. Mm hmm. Am I Colin Pitchfork? Is this the sex pest? No meant me.
+Which would be funny, but now like, one of the first day chiefs in Sweden, I was like, right, sure, probably also some percentage of the Swedish population I'm guessing, you know. So Colin Pitchfork, married with two children lived in little Thorpe, a village in Leicester separated from the village of Nora bruh by the Leicester to Birmingham railway line. Before his marriage, Pitchfork had been convicted of indecent exposure and had been referred for therapy and then I kept this in my notes, which obviously didn't help. So pitch for work as an apprentice in a Hampshire bakery. According to a supervisor he was a good worker and timekeeper. But he was moody. And he couldn't leave women employees alone. He was always chatting them up. That sounds like someone else: good timekeeper, moody, flirtatious. Mm hmm. Am I Colin Pitchfork? Is this the sex pest? No meant me.
 
 And then I wrote in all caps, AKA workplace harassment. So pitchfork was 27 years old when on the first of August 1987. One of pitchforks colleagues at the bakery, Ian tally, revealed two fellow workers in the Leicester pub, and they named the pub it was the Clarendon learn then that I get any of those right
 
 The second one Clarendon, not relevant, but okay.
 
-That he had taken the blood test while masquerading as Pitchfork, according to Kelly, call in the dick fork.
+That he had taken the blood test while masquerading as Pitchfork, according to Kelly, Colin the dick fork.
 
 That was actually my notes had said that he could not give blood under his own name because he had already given blood for a friend who had a previous conviction for bergerie burglary. gala Ray bug me goes.
 
