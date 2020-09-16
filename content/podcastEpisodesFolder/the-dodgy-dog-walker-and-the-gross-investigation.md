@@ -46,9 +46,7 @@ Sandra got her information from:
 * Crimes That Shook Britain The Murder of Rachel Nickell
 * The Guardian, [article](https://www.theguardian.com/uk/2008/dec/18/robert-napper-clues) by Sandra Laville 
 
-
-
-#### Audio transcript 
+#### Audio transcript
 
 Midweek Murders contains graphic and explicit content listener discretion is advised. The silence is me judging you
 
@@ -60,9 +58,7 @@ Are you expecting a delivery?
 
 No.
 
-No. Well, Sucks to be you. Well,
-
-at least I won't call you screaming at you.
+No. Well, Sucks to be you. Well, at least I won't call you screaming at you.
 
 As opposed to who? You!
 
@@ -76,9 +72,7 @@ After a while I just clicked decline every time we called and you were like
 
 \[Cackle] and I was like stop calling me.
 
-I can see it. On the fourth, was it
-
-the 14th of August? Was it that long ago? Maybe? I don't know.
+I can see it. On the fourth, was it the 14th of August? Was it that long ago? Maybe? I don't know.
 
 Yeah. Four calls at half past 10
 
@@ -94,7 +88,7 @@ You're listening to Midweek Murders, which means that it's time to talk about cr
 
 I don't know what you're doing.
 
-changing it up a bit. Keeping it interesting. You don't like it.
+Changing it up a bit. Keeping it interesting. You don't like it.
 
 I don't like it.
 
@@ -102,13 +96,9 @@ You're listening to Midweek Murders, with me is the one, the only person who wil
 
 and Sandra.
 
-That's
+That's me!
 
-me!
-
-Today we're gonna discuss the murder of Rachel Nickell and others who'll come up... Wait, that was probably a shit introduction. You're listening to Midweek Murders. Oh, don't do it
-
-all the way from the top!
+Today we're gonna discuss the murder of Rachel Nickell and others who'll come up... Wait, that was probably a shit introduction. You're listening to Midweek Murders. Oh, don't do it all the way from the top!
 
 Why don't you do it today? This?
 
@@ -116,9 +106,7 @@ What?
 
 Fuck my six pages of notes, take it away Joe!
 
-spoiler
-
-alert. It's about murder.
+Spoiler alert. It's about murder.
 
 Today we're going to talk about the case of Robert Napper. A serial killer and rapist. I got my information from murderer uk.com, Wikipedia, crimes that took Britain the murder of Rachel Nickell, which I think is a series. I watched it on YouTube. And a guardian article by Sandra Laville.
 
@@ -126,9 +114,7 @@ It's almost you.
 
 I know. Almost, but not quite.
 
-You'll never be beans. Oh
-
-yeah. My dad sent the video that my mom wanted to help with for a work to another Sandra Grahl. I think it's a German lady, because I've seen her on Google.
+You'll never be beans. Oh yeah. My dad sent the video that my mom wanted to help with for a work to another Sandra Grahl. I think it's a German lady, because I've seen her on Google.
 
 Googled yourself? That's a bit sad.
 
@@ -338,11 +324,9 @@ Story of my life, there's something I should remember, but don't know what.
 
 Also, you're probably not going to appriciate this because you don't like the film's but in that scene, the thing that he's forgotten are his robes.
 
-Ah
+Ah.
 
-Is he naked? No you pervert,
-
-he's 11.
+Is he naked? No you pervert, he's 11.
 
 Would have been funny though if he was like, I can't remember what I've forgotten... Oh no, one is completely butt naked. Like the police in this case, they were like "Oh no, I can't remember where the rapist is". Everyone is like, "he's right there". Where?
 
