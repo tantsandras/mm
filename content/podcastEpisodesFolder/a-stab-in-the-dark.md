@@ -52,11 +52,7 @@ Joe got his information from:
 * Wikipedia
 * Pure evil: How Tracie Andrews murdered my son, deceived the nation and sentenced me to a life of pain and misery, by Marureen Harvey
 
-
-
-#### Audio transcript 
-
-
+#### Audio transcript
 
 <!--StartFragment-->
 
@@ -89,8 +85,6 @@ It is funny, but I thought I would give you a heads up so that you don't throw a
 Well, I feel like that didn't work, did it?
 
 \[Music]
-
-
 
 Why don't you do it this time?
 
@@ -404,702 +398,232 @@ No they had the boot. So all they needed to do was put the knife against it, and
 
 Okay. So the only thing that I had left about the trial, that I wrote down, was that during cross-examination her story started to fall apart. That was it. So do you have more... 
 
-So everything that we've talked about so far is picking apart her story, in that the blood that they found from Lee was behind his vehicle, not in front of it that she says the
+So everything that we've talked about so far is picking apart her story, in that the blood that they found from Lee was behind his vehicle, not in front of it, that she said. The blood spatter on the jumper was indicative of her being very close when it was happening, rather than her saying that she was hiding down the side of the vehicle while he was attacked.
 
-blood spatter on the jumper was
+Well she said that she was knocked out.
 
-indicative of
+Yeah okay. So again doesn't match. They also found a clump of Tracie's hair on Lee's jacket and near his hand, which indicates that he was struggling with her and they had a physical fight, and he was trying to restrain her. Which I don't think she made any comment about that, I think she said no comment at all. The police did an investigation where they did a road traffic stop on the road that this happened on. Yeah, and they stopped 600 drivers I think. 120 people said that they had driven the same route at roughly the same time of the weekend in question, and not a single person said that they saw two people in a road race, or like any kind of road rage incident, or anything like that so that debunks her story a little bit. They had a forensic road traffic officer who said that at the spot where Tracie claimed Lee overtakes this mystery vehicle was actually impossible, because the width of the two cars in question Lee's car and the mystery Sierra, are actually five inches wider than the lane itself.
 
-her being very close when it was
+To add for the international listeners, english countryside roads are very, very narrow.
 
-happening
+Confirmed.
 
-rather than her saying that she was
+What else have I got, let's see. Oh yeah, just in interest, this wasn't anything that was debunked in the cross-referencing, but to show the brutality of the attack. She stabbed him multiple times while his back was turned. Two of those stab wounds were far enough in to cause damage to his skull, and he was stabbed in the neck, like he had no stab wounds on the back of his head so she'd gone up through his neck into his skull. And one of the stab marks in his chest left damage on his breastbone. 
 
-hiding
+Oh god. That is like... 
 
-down the side of the vehicle while he
+She was really going for it. And swiss army knives are not big.
 
-was attacked
+No, they're very small. I've had... 
 
-well she said that she was knocked out
+Speaking of swiss army knives. Parts of a knife, tweezers, and a spring from the scissors were all found near Lee's body.
 
-yeah okay so again doesn't match
+Oh god. 
 
-they also found a clump of
+So she'd attacked so viciously, that she'd broken other tools in that swiss army knife.
 
-tracy's hair on lee's
+And that's not easy, trust me I've had several swiss army knives.  
 
-jacket and near his hand
+It's not. They are very much designed to be very robust. 
 
-which indicates that he was struggling
+Yeah.
 
-with her
+That's kind of the whole point of them. And because of this damage to the knife, and the whole casing, the police investigator demonstrated in court that.. They obviously had to replicate it because they never found the original weapon. But he had both imitation and genuine swiss army knives that he tried to replicate the damage to, and said on closing of this weapon whoever was handling it would have cut their little finger in closing the blade. Like, it was almost impossible to hold the swiss army knife and clip the blade back away without accidentally cutting your little finger. And it just so happens, a certain Tracie Andrews had a very similar wound on her little finger.
 
-and they had a physical fight and he was
+Oh yeah. And blood from her own self...
 
-trying to restrain her
+In her booties.
 
-which i don't think she made any comment
+I had some clo... or did you have more? Sorry.
 
-about that i think she said no comment
+And then also, no more evidence, but I found a quote that I really quite enjoyed from her defense attorney. And I think it was at this point that he was starting to realize she was going to lose the case, and I think he kind of lost heart. So the quote is that: 
 
-at all
+> "No knife had been found at the scene, or on her person, proved she had not been the killer."
 
-the police did an investigation
+Lol.
 
-where they did a road traffic stop on
+What kind of shitty defense lawyer, like "have you got the weapon? No? Innocent.", "I think he's right, it couldn't have been her". 
 
-the road
+He's trying for a reasonable doubt there, I guess. 
 
-that this happened on yeah and they
+Yeah, but any juror who's not a complete moron would just hear that statement and be like: "What? Why?".
 
-stopped
+Wait. Do you have jurors in england? 
 
-600 drivers i think
+Yeah. this trial went to jury. 
 
-120 people said that they had driven
+Oh. I thought... Oh yeah, sorry, I knew that. 
 
-the same route at roughly the same time
+It's a national requirement to do jury service.
 
-of the weekend in question and not a
+Oh sorry, I thought that was an american thing. And then I realized that I actually had read about that, in this case. So I was like: "Oh well, oops". Sorry. 
 
-single person
+Yeah she was... I think it was unanimous. But don't quote me on that.
 
-said that they saw two people
+Yeah she was. After two days I think, is what it said, she was sentenced to.. 
 
-in a road race or like any kind of road
+No, the trial lasted a month. 
 
-rage incident
+Yeah, but the jury... 
 
-or anything like that so that debunks
+Oh, they were deliberating for two days.
 
-her story a little bit they had
+Yeah, so it might not have been unanimous, but it might have been, I'm not sure. Probably. She was sentenced to life imprisonment. Two years after the crime Tracie confessed to it. She stated that she had gotten out of the car following an argument, and had told Lee that she was walking home. According to her, Lee had gotten out of the car because he wanted her to get back in. She claimed that he refused to give her the keys to the flat. She then stated that she had threatened to call the police if he wouldn't give her the keys to the flat, when Lee supposedly dragged her down to the ground and threatened her with the swiss army knife. She claims that she kneed him, and got hold of the knife, and then she says that she doesn't remember anything. But also, as you said, the attack was very vicious. So I'm like uh. She's like "I don't remember it", that's a bit, you know. 14 years later, in July of 2011, she was released from prison and now lives under a new identity. She got married and stuff, she has a whole life now, and I'm like is that really fair?
 
-a forensic road traffic officer
+She gonna do it again. 
 
-who said that at the spot where tracy
+Kinda sounds like it, but maybe not. Let's hope not.
 
-claimed
+She gonna do it again.
 
-lee overtakes this mystery vehicle
+Do you have anything else to say about the case?
 
-was actually impossible because
+Sorry, tea is ready. No, I think that's everything I wrote down. 
 
-the width of the two cars in question
+Yeah. I felt like it was obviously her, but I also felt like it's a bit... I think that she was very much written about in the newspapers and stuff, and it's a big old, you know, drama situation and gossip situation so it's hard to tell what actually what happened. And what she said, and what she... 
 
-lee's car and the mystery sierra
+Well she's the only person who will know 100% what happened on that night.
 
-are actually five inches wider than
+Yeah I'm... 
 
-the lane itself to add for the
+Because there were no witnesses. So if she did a good enough job of covering her tracks then nobody would have known.
 
-international listeners english
+Yeah, I kind of feel like... I think that she lied when she confessed about...
 
-countryside roads are very very narrow
+Oh no, she definitely lied in her confession, because she blamed him.
 
-confirmed
+Yeah.
 
-what else have i got let's see
+And part of the character testimony was from his parents and his friends and like everybody who gets interviewed for a character witness statement. So during her defamation attempt she said that he got in arguments in pubs because he was getting in trouble as being a drug dealer. And everybody who spoke about him said how much he hated recreational drug use. So either he was a particularly good liar, or uh... 
 
-oh yeah um just in interest this wasn't
+He wasn't a drug dealer.
 
-anything that was
+He wasn't. She also claimed that he was high at the time, at one stage, of the incident and no trace of any drugs were found in his system at all. Yeah, her confession said that he attacked her with the knife
 
-debunked in the cross-referencing but to
+Yeah, I don't believe that either. 
 
-show the brutality
+No, everybody said that he has never carried a knife outside of the kitchen.
 
-of the attack she stabbed him
+Well they said that...
 
-multiple times while his back was turned
+Like he's never walked around with a knife, he's never kept one on him for protection, he doesn't keep one in his car, he used to have one when he was a boy scout apparently.
 
-two
+They said that the swiss army knife was his, that he used to carry it in his car.
 
-of those stab wounds were far enough
+Oh well, then poo poo that. 
 
-in to cause damage to his skull
+But I think also, that I would never attack someone with a knife. And as a child and a teenager I used to have a swiss army knife in my, maybe in my room or whatever, doesn't mean that I would ever attack someone with a knife. Like, I don't think that he would threaten her with the knife, because of... 
 
-and he was stabbed in the neck like he
+No, it's a utility tool. Like, there are definitely better weapons to stab someone to death. 
 
-had no
+Yeah, and I would also use it for like making wood things. You know, it's, it's... 
 
-stab wounds on the back of his head so
+Oh yeah, wood things.
 
-she'd gone
+Yeah, you know, when you... Yeah, oh well, fuck it.
 
-up through his neck into his skull
+You do the stuff with the wood.
 
-and one of the stab marks in his chest
+I had a swiss army knife around my person for a lot of my childhood and that was just a thing that was normal.
 
-left damage on his breastbone oh god
+My dad carries a swiss army knife with him every day of his life.
 
-that is like she was really going for it
+Yeah. 
 
-and swiss army knives are not big
+Has he ever stabbed someone to death?
 
-no they're very small i've had speaking
+Only twice. I mean no. \[laughs]
 
-of swiss army knives parts
+I mean like, I get why you would have one, because in some situation or in some families it's normal. I don't think... 
 
-of a knife tweezers
+I've got one.
 
-and a spring from the scissors were all
+Yeah. 
 
-found near lee's body
+Have I ever stabbed anyone? 
 
-oh god so she'd attacked so viciously
+No.
 
-that she'd broken
+Yes. But not with a swiss army knife. \[laughs]
 
-other tools in that swiss army knife
+I don't think that he threatened her with the knife, I don't think that. But I think...
 
-and that's not easy trust me i've had
+He was such a manly man, he could have just done it with his balls. \[laughs]
 
-several it's
+I think that she took the knife from the car, that's what I think. 
 
-not me knife they are very much designed
+More than likely.
 
-to be very robust yeah
+Should we say bye to the listeners?
 
-that's kind of the whole point of them
+Get tae fuck. 
 
-and because of this damage to the knife
+Goodbye listeners, thank you so much for listening to midweek murders. See you next week! Hopefully. 
 
-and the whole casing the police
+We ain't gonna see no one, this ain't no video.
 
-investigator demonstrated in court
+That's true. Thank god for that, I removed my makeup before recording.
 
-that they obviously had to replicate it
+I can see your balls.
 
-because they never found the original
+Although my hair color is coming out quite nicely now.
 
-weapon
+Oh fantastic. 
 
-but he had both imitation and genuine
+Did you feel like it was very yellow when we met?
 
-swiss army knives that he tried to
+No, it was very... Oh what's the right color? It was quite platinumy.
 
-replicate the damage to
+Yeah, thank you, that's what I'm going for.
 
-and said on closing of this weapon
+Well then you nailed it. 
 
-whoever was handling it would have cut
+Thank you. Before that it was orange, I was like noooooo.
 
-their little finger in closing the blade
+And purple apparently. 
 
-like it was almost impossible to hold
+Yeah. Whatever I do to my hair it always comes out a little bit ginger.
 
-the swiss army knife
+It's because you have no soul. 
 
-and clip the blade back away without
+True that, true that. I suck them out from other people like dementors.
 
-accidentally cutting your little finger
+Yeah well, did you uh, did you notice the dementors never try to give Ron a kiss? Nothing to suck out.
 
-and it just so happens yeah a certain
+For all of our ginger listeners, which is probably... 
 
-tracy andrews
+Go to hell. \[laughs]
 
-had a very similar wound on her little
+Which is probably none, I would say you're all very beautiful and I wish I was ginger like you. And yet I am only ginger enough to have freckles and no eyebrows. 
 
-finger
+And I've got ginger in my beard so I'm one of you.
 
-oh yeah and
+That doesn't count. 
 
-blood from her own self in her booties
+Of course it does. 
 
-i had some clo or did you have more
+Joe Redbeard, is that your last name? 
 
-sorry ah and then also no more evidence
+No, it's blue balls. I mean Bluebeard.
 
-but i found a quote that i really quite
+Bluetooth.
 
-enjoyed
+No, he was a scandi.
 
-from her defense attorney and i think
+Yeah.
 
-it was at this point that he was
+I'm not tough enough to be a scandi. 
 
-starting to realize
+No, you're not. We carry swiss army knives everywhere we go.
 
-she was going to lose the case and
+Yeah, and then stab people to death and make up stories about how you didn't do it.
 
-i think he kind of lost heart so the
+My mom got trapped at the airport in england because she was carrying a swiss army knife in her bag. She had forgotten about it. They were like "why you do this", she was like "ha ha ha", they were like "it's not funny", she was like "I'm laughing because I'm nervous".
 
-quote is
+"I'm laughing because i'm scared".
 
-that no knife had been found at the
+Okay, bye bye, see you never. 
 
-scene
-
-or on her person proved she had not been
-
-the killer
-
-lol what kind of shitty defense lawyers
-
-like have you got the weapon
-
-no innocent i think he's right it
-
-couldn't have been
-
-he's trying for a reasonable doubt there
-
-i guess yeah but any juror
-
-who's not a complete moron would just
-
-hear that statement and be like what why
-
-wait do you have jurors in england yeah
-
-this
-
-this trial went to jury oh
-
-i thought oh yeah sorry i knew that's a
-
-national requirement to do jury service
-
-oh sorry i thought that was an american
-
-thing and then i realized that i
-
-actually
-
-had read about that in this case so i
-
-was like oh well
-
-oops sorry yeah she was
-
-i think it was unanimous but don't quote
-
-me on that
-
-yeah she was after two days i think
-
-is what it said she was sentenced
-
-to that trial lasted a month yeah but
-
-the jury oh they were deliberating for
-
-two days
-
-yeah so it might not have been unanimous
-
-but it might have been
-
-i'm not sure probably she was sentenced
-
-to
-
-life imprisonment two years
-
-after the crime tracy confessed
-
-to it she stated that she had gotten
-
-out of the car following an argument
-
-and had told lee that she was walking
-
-home
-
-according to her lea had gotten out of
-
-the car
-
-because he wanted her to get back in
-
-she claimed that he refused to give her
-
-the keys to the flat
-
-she then stated that she had threatened
-
-to call the police
-
-if he wouldn't give her the keys to the
-
-flat
-
-when lee supposedly dragged her down to
-
-the ground
-
-and threatened her with the swiss army
-
-knife
-
-she claims that he knew him and got hold
-
-of the knife
-
-and then she says that she doesn't
-
-remember anything but also
-
-as you said the attack was very vicious
-
-so i'm like uh she's like i don't
-
-remember it
-
-that's a bit you know 14 years later in
-
-july of 2011 she was released from
-
-prison
-
-and now lives under a new identity
-
-she got married and stuff she has a
-
-whole life now and i'm like
-
-oh is that really fair
-
-she gonna do it again kinda sounds like
-
-it but maybe not that's optional don't
-
-do it again
-
-do you have anything else to say about
-
-the keys
-
-sorry t's ready
-
-no i think that's everything i wrote
-
-down yeah
-
-i felt like it was obviously her
-
-but i also felt like it's a bit
-
-i think that she was very much
-
-written about in the newspapers and
-
-stuff
-
-and it's a big old you know drama
-
-situation
-
-and gossip situation so it's hard to
-
-tell
-
-what's actually what happened and
-
-what she said and what she
-
-raped well she's the only person
-
-who will know 100 what happened on that
-
-night
-
-yeah i'm i'm because there were no
-
-witnesses
-
-so if she did a good enough job of
-
-covering her tracks then nobody would
-
-have known
-
-yeah i kind of feel like i think that
-
-she lied when she confessed about
-
-oh no she definitely lied in her
-
-confession because she blamed him
-
-yeah and part of the character testimony
-
-was from his parents and his friends and
-
-like everybody who gets interviewed for
-
-a character witness statement
-
-so during her defamation attempt
-
-she said that he got in arguments in
-
-pubs because
-
-he was getting in trouble as being a
-
-drug dealer
-
-and everybody who spoke about him
-
-said how much he hated recreational drug
-
-use
-
-yeah so either he was a particularly
-
-good liar
-
-or uh he wasn't
-
-she also claimed that he was high at the
-
-time at one stage
-
-of the incident and no trace of any
-
-drugs were found in his system at all
-
-yeah yet her confession
-
-said that he attacked her with the knife
-
-yeah
-
-i don't believe him no everybody said
-
-that he has
-
-never carried a knife outside of the
-
-kitchen
-
-well they said like he's never been
-
-walked he's never walked around with a
-
-knife he's never kept one on him for
-
-protection
-
-he doesn't keep one in his car he used
-
-to have one when he was a boy scowl
-
-they said apparently swiss army knife
-
-was
-
-his that he used to carry it in his car
-
-oh well then poo poo that but i
-
-think also that i would never attack
-
-someone with a knife
-
-and ask a child and a teenager
-
-i used to have a swiss army knife in my
-
-maybe in my room or whatever
-
-doesn't mean that i would ever attack
-
-someone with a knife like
-
-i don't think that he would threaten her
-
-with the knife because of no it's a
-
-utility tool
-
-yeah like there are definitely better
-
-weapons
-
-to stab someone to death yeah and i
-
-would also
-
-use it for like making wood things
-
-like you know it's it's oh yeah wood
-
-things
-
-yeah you know when you yeah oh well fuck
-
-you do the stuff with the wood
-
-i had a swiss army knife around
-
-my person for a lot of my childhood
-
-and that was just a thing that was
-
-normal
-
-my dad carries a swiss army knife with
-
-him every day of his life
-
-yeah she ever stopped someone to death
-
-only twice
-
-i mean like i get why you would have one
-
-because in some situation or in some
-
-families
-
-it's normal i don't think i've got one
-
-yeah have i ever stabbed anyone no
-
-yes but not with a swiss army knife
-
-i don't think that he threatened her
-
-with
-
-the knife i don't think that but i think
-
-he was such a manly man he could have
-
-just done it with his balls
-
-i think that she took the knife from the
-
-car
-
-that's what i think it was unlikely
-
-should we say by the listeners
-
-get a fork
-
-goodbye listeners thank you so much for
-
-listening
-
-to midweek murders see you next week
-
-hopefully we ain't gonna see no one this
-
-ain't on video
-
-that's true thank god for that i removed
-
-my makeup before recording
-
-i can see your balls
-
-although my hair color is coming out
-
-quite nicely now
-
-oh fantastic did you feel like it was
-
-very yellow when we met
-
-no it was very uh
-
-oh what's the right color it was quite
-
-platinum me
-
-yeah thank you that's what i'm going for
-
-well then you nailed it thank you before
-
-that it was orange i was like no
-
-and purple apparently yeah whatever i do
-
-to my hair it always comes out
-
-a little bit ginger
-
-it's because you have no soul true that
-
-true that
-
-i sucked them out from other people like
-
-the mentors
-
-yeah well did you uh do you notice the
-
-dementors never try to give ron a kiss
-
-nothing to suck out
-
-for all all of our gender listeners
-
-which is probably go to hell
-
-which is probably none i would say
-
-you're all very beautiful and i wish i
-
-was
-
-ginger like you and yet i am only ginger
-
-enough to have freckles and no
-
-eyebrows and i've got ginger in my beard
-
-so
-
-i'm one of you
-
-that doesn't count of course it does joe
-
-red beard is that your last name no
-
-it's blue balls yes
-
-okay so he was a scandi yeah
-
-i'm not tough enough to be a scandy no
-
-you're not
-
-we carry swiss army knives everywhere we
-
-go
-
-yeah and then stab people to death and
-
-make up stories about how you didn't do
-
-it
-
-my mom got trapped at the
-
-airport in england because she was
-
-carrying a swiss army knife in her bag
-
-she had forgotten about it yeah like why
-
-you did
-
-this she was like ha ha ha they were
-
-like it's not
-
-funny she was like i'm laughing because
-
-i'm nervous
-
-i'm laughing because i'm scared
-
-okay bye bye see you never ciao ciao
+Ciao ciao.
 
 <!--EndFragment-->
