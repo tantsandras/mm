@@ -48,11 +48,7 @@ Sandra also watched The Murder of Becky Watts - Police Tapes, and got the rest o
 * An [article](https://www.theguardian.com/uk-news/2015/mar/02/becky-watts-disappearance-timeline-16-year-old-bristol) from The Guardian written by Steven Morris
 * [Case 99: Becky Watts](https://casefilepodcast.com/case-99-becky-watts/). From Casefile: True Crime Podcast, researched and written by Victoria Dieffenbacher
 
-
-
 #### Audio transcript
-
-
 
 <!--StartFragment-->
 
@@ -236,483 +232,99 @@ Can I just interject?
 
 Yeah. 
 
-I don't know if it's the alcohol, but you sound a bit like Gollum when you say friendsies. Because it's just friends. Not friendsies.
-
-it's like shreds are our friends
+I don't know if it's the alcohol, but you sound a bit like Gollum when you say friendsies. Because it's just friends. Not friendses. It's like: "she went to her friendsies house". \[imitates Gollum]
 
 I don't mean to correct your english, because I know it's usually on point, but I'm really struggling not to laugh every time you say friends. Because all I can picture is you eating a raw fish out of a river.
 
-no don't do it scary
+My sweet, my... \[imitates Gollum]
 
-\[Laughter]
+No don't do it, it's scary. \[Laughter]
 
-\[Laughter]
+My precious friendsieses. Get on with your friendsieses. \[Laughter]
 
-at first becky's family assumed that she
+At first, Becky's family assumed that she must have gone to another friend's house...
 
-must have gone to another friend's
+Sorry, I should have muted my microphone. I knew you were gonna do that. You're doing great. \[Laughter]
 
-house
+As she didn't have school the next day. And there I almost put like, it was a school holiday, but then I didn't know if that was the correct term.
 
-sorry i should have muted my microphone
+Could have just been a weekend. 
 
-i knew
+No, it was like a school holiday. 
 
-you were gonna do that
+Oh, then yeah school holiday is fine.
 
-you're doing great
+Her laptop and phone wasn't in the house, and Nathan and Shauna said that they had heard Becky leave the house that morning, but hadn't spoken to, or seen her. They left messages and called her, but they trusted becky to go out, as they knew all of her friends well. They assumed that she would get in touch with them soon. The day after, on the 20th of February, Anji called Becky's father Darren at work and asked him to come home, as Becky's friends and boyfriend had all showed up at their house, as she hadn't been responding to messages. Darren gets home and speaks to her friends and to the neighbors, after which he decides to report Becky missing to the police. He also looks at her facebook to see if she had posted anything that could help them figure out where she was, but Becky hadn't posted anything. Darren also asks Nathan...
 
-\[Laughter]
+friendsies... Asks Nathan to help write up a post...
 
-i she didn't have school the next day
+Sorry, I'd muted my microphone and then I just had to put it back on to laugh at the friendsieses.
 
-and there i
+You don't have to mute it anymore because I can't hear your background noises, because you've got a new headset.
 
-almost put like it was a school holiday
+I feel like it would just cut out the unnecessary editing of my burps. You might have to do that bit again. 
 
-but then i didn't know if that was the
+Darren also asks Nathan to help write up a post on facebook, that showed a photo of her and a pleading message to help them find Becky. Because they were a bit scared that the police didn't take them seriously because a lot of teenagers go missing. On the 23rd of February, Darren and Becky's grandmother Pat makes a televised press appeal. They beg anyone that has information about Becky to come forward, and they also speak directly to Becky, assuring her that she isn't in any trouble and that they just want to know that she's okay. On the 25th, the police removed the house's residences and do a search of the family home. Becky's family and friends organized a search of the area. On the 28th the police arrest two people in connection of Becky's disappearance, and five days later the police announced to the press that they had found body parts belonging to Becky. The same two people are arrested again on suspicion of murder. The people arrested are Nathan and Shauna, Becky's stepbrother and his girlfriend. Turns out that when police searched the home, not the first time but later on I guess? I couldn't get a proper date on that, did you have a date on when they found the blood?
 
-correct term
+No. 
 
-could have just been a weekend no it was
+Okay. Turns out when the police searched the home, probably not the first time, they had found...
 
-like
+Sorry, it must have been the first time, because it was the blood on the door jam?
 
-a school holiday oh then yeah school
+Yeah. 
 
-holiday is fine
+And that would have been when the forensics officers went in. 
 
-her laptop and phone wasn't in the house
+Yeah, I think they went in several times. But it could have been the first time. They had found blood on the doorframe of Becky's room, and a fingerprint in the blood. And the fingerprint turned out to be a match for Nathan's fingerprints. The police had tried interviewing Nathan and Shauna previously, but they had left to go visit Shauna's mother, even though the mother and daughter were estranged. At a visit to the couple's house the police had noticed a state of disorder and chaos in the house, as Nathan was a hoarder. But the bathtub had been spotless. 
 
-and nathan and shauna said that they had
+It's worth pointing out here, that when I first read this, and it was just like a summary of the details of what went on and you think "okay, he's a hoarder". I consider myself a hoarder, I can still see my carpet and can access all of the rooms that I need access to. When we speak of Nathan and Shauna's house, it's in such a state of disarray that there were rooms that the forensic officers did not know existed, because of the level of hoarding that was going on. You had to move things out of the way to be able to get to certain places. Every surface was covered, the floor was completely non-visible, everything was stacked up against the walls to the ceiling. And then they got into the bathroom, and even the bathroom itself was completely full to the ceiling of stuff, apart from the bath which was absolutely spotless. Like OCD level clean. 
 
-heard becky leave the house that morning
+Yeah. Another thing to note here, is that Nathan had been part of some kind of military civilian thing, I think. 
 
-but hadn't spoken or seen her
+I can't back you up on that. I don't know.
 
-they left messages and called her but
+But it's called something. Like, but he had been a part of it, and he had learned how to clean things properly through that. Not that he ever... 
 
-they trusted becky to go
+Territorial army?
 
-out as they knew all of her friends well
+Maybe. I don't remember, like the...
 
-they assumed that she would get in touch
+Fair, you've had two bottles of wine. 
 
-with them soon
+That's not even true. I saw the videotapes, like the thing that we both saw I think, of the house...
 
-the day after on the 20th of february
+Yeah, it was a fucking mess. 
 
-angie called becky's father darren at
+And I would never be able to live like that, never ever. It was anxiety inducing.
 
-work
+Neither would I. Like, I keep pretty bottles of whiskey and every single book I've ever read, but even to me that house was a mess.
 
-and asked him to come home as becky's
+It was horrible. 
 
-friends
+Any kind of anything that has entered that house has not left. Junk mail, boxes, food containers, newspapers - anything you can imagine that has entered that household, will have never left. Apart from the bath, which was sparkly clean. I'd put myself in that bath if there hadn't been a murdered body in it. 
 
-and boyfriend had all showed up at their
+But also, you wouldn't step a foot in that house, because we both have OCD problems... 
 
-house
+Oh no, yeah, but I mean if someone were reselling that bath I'd be like: "well that's sparkly clean, I'll have it". \[Laughter] Whereas if someone was putting that house up for sale, I'd be like "I don't know what kind of cockroaches are in all of these cardboard boxes". 
 
-as she hadn't been responding to
+Oh it was so horrible. 
 
-messages
+It was. It was really bad. These are the kind of people that you see on the reality tv shows where they've got clinical OCD and can't dispose of anything, so they get an expert in to help them.
 
-darren gets home and speaks to her
+And for me, I get anxiety just if there's too much stuff accumulating in any place.
 
-friend
+I get anxiety throwing things away. So, I got the lego diagon alley and I've still got the box of the lego sitting in front of my clothing rack. Because part of me doesn't want to throw it away, part of me is thinking like: "well what happens when you move? You'll need to put it all in bags, and where are you going to put the bags? Well the best place to put the bags is in the box. So keep the box". But I know the box is useless, because I can put the bags in another box. But it's **the** box. So I completely... 
 
-and to the neighbors after which he
+Throw it away.
 
-decides to
+No, I will try.
 
-report becky missing to the police
+"No, I, I, I will try".
 
-he also looks at her facebook to see if
+I honestly think I have some kind of problem, and we'll just leave that at that and we'll generalize it as some kind of problem. But I can completely associate with hoarders.
 
-she had posted anything that could help
-
-them figure out where she was
-
-but becky hadn't posted anything
-
-darren also asks nathan friend jesus
-
-asks nathan to help write up a post
-
-right sorry i'd muted my microphone
-
-and then i just had to put it back on to
-
-laugh at the front seat
-
-you don't have to mute it anymore
-
-because i can't hear your background
-
-noises because you've got a new
-
-but i feel like
-
-it would just cut out the unnecessary
-
-editing of my burps
-
-you might have to do that again darren
-
-also asks
-
-nathan to help write up a post on
-
-facebook
-
-that showed a photo of her and the
-
-pleading message
-
-to help them find becky because they
-
-were
-
-a bit scared that the police didn't take
-
-them seriously because a lot of
-
-teenagers go missing on the 23rd
-
-of february darren and becky's
-
-grandmother
-
-pat makes a televised press appeal they
-
-beg
-
-anyone that has information about becky
-
-to come forward
-
-and they also speak directly to becky
-
-assuring her that she isn't in any
-
-trouble
-
-and they just want to know that she's
-
-okay
-
-on the 25th the police removed the
-
-house's
-
-residence and do a search of the family
-
-home
-
-becky's family and friends organized the
-
-search of the area
-
-on the 28th the police arrest two people
-
-in connection of becky's disappearance
-
-and five days later the police announced
-
-to the press that
-
-they had found body parts belonging to
-
-becky
-
-the same two people are arrested again
-
-on suspicion of
-
-murder the people arrested
-
-are nathan and shauna becky's
-
-stepbrother and
-
-his girlfriend turns out that when
-
-police searched the home
-
-not the first time but later on i guess
-
-i couldn't get
-
-a proper like date on that did you have
-
-a date or when they found the blood
-
-no okay
-
-turns out when the police searched the
-
-home
-
-probably not the first time they had
-
-found
-
-sorry it must have been the first time
-
-because it was the blood on the door jam
-
-yeah and that would have been when the
-
-forensics officers
-
-went in yeah i think they went in
-
-several times
-
-but it could have been the first time
-
-they had found blood
-
-on the doorframe of becky's room and a
-
-fingerprint
-
-in the blood and the fingerprint turned
-
-out
-
-to be a match for nathan's fingerprints
-
-the police had tried interviewing nathan
-
-and shawna previously
-
-but they had left to go visit shauna's
-
-mother even though the
-
-mother and daughter were stranged
-
-at a visit to the couple's house the
-
-police had noticed the state of disorder
-
-and chaos in the house
-
-as nathan was a hoarder but the bathtub
-
-had been spotless it's worth pointing
-
-out here
-
-that when i first read this and it was
-
-just
-
-like a summary of the details of what
-
-went
-
-on and you think okay he's a hoarder
-
-i consider myself a hoarder i can still
-
-see my carpet
-
-and can access all of the rooms that i
-
-need access to
-
-when we speak of nathan and shawna's
-
-house
-
-it's in such a state of disarray
-
-that there were rooms that the forensic
-
-officers did not know existed
-
-because of the level of hoarding that
-
-was going on
-
-you had to move things out of the way
-
-to be able to get to certain places
-
-every surface was covered the floor
-
-was completely non-visible everything
-
-was stacked up against the walls so the
-
-ceiling
-
-and then they got into the bathroom
-
-and even the bathroom itself was
-
-completely
-
-full to the ceiling of stuff
-
-apart from the bath which was
-
-absolutely spotless like
-
-ocd level clean yeah another thing to
-
-know
-
-here is that nathan had been part of
-
-some kind of military civilians thing
-
-i think i can't back you up on that i
-
-don't know
-
-but it's called something like but he
-
-had been a part of it and he had
-
-learned how to clean things properly
-
-through
-
-that not that he ever territorial army
-
-maybe
-
-i don't remember like the fair you've
-
-had
-
-two bottles of wine that's not even true
-
-i saw the videotapes like the thing that
-
-we
-
-both saw i think of the house
-
-yeah it was a \[ __ ] mess and i would
-
-never be able to live like that
-
-never ever it was neither would i like
-
-i keep pretty bottles of whiskey
-
-and every single book i've ever read but
-
-even to me that house was a mess
-
-it was horrible any kind of
-
-anything that has entered that house
-
-has not left junk mail boxes
-
-food containers newspapers
-
-anything you can imagine that has
-
-entered that household
-
-will have never left apart from
-
-the bath which was sparkly
-
-i'd put myself in that bath if there
-
-hadn't been a
-
-murdered body in it and step a also
-
-in that house because we both have oh
-
-no yeah but i mean if someone were
-
-reselling that bath i'd be like well
-
-that's sparkly clean i'll have it
-
-\[Laughter]
-
-whereas if someone was putting that
-
-house up for sale i'd be like i don't
-
-know what kind of cockroaches
-
-uh in all of these cardboard boxes oh it
-
-was so
-
-horrible it was it was really bad these
-
-are the kind of people that you see on
-
-the reality tv
-
-shows where they've got clinical ocd
-
-and can't dispose of anything so they
-
-get an expert in to help them
-
-and for me i get anxiety just if there's
-
-too much stuff accumulating in any place
-
-i get anxiety throwing things away
-
-so i got the lego diagon alley
-
-and i've still got the box of the lego
-
-sitting in front of my clothing rack
-
-because part of me doesn't want to throw
-
-it away part of me is thinking
-
-like well what happens when you move
-
-you'll need to put it all in bags and
-
-where are you going to put the bags well
-
-the best place to put the bags is in the
-
-box
-
-so keep the box but i know the box is
-
-useless because i can put the bags in
-
-another box
-
-but it's the box so
-
-i completely no i will try
-
-no i i i i honestly think i have
-
-some kind of problem and we'll just
-
-leave that at that and we'll generalize
-
-some kind of problem but i can
-
-completely
-
-associate with hoarders
-
-yeah i know but the state of their house
+Yeah, i know but the state of their house
 
 i think is the next level
 
