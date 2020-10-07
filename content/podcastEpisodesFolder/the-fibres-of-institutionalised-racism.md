@@ -17,6 +17,23 @@ images:
       Road"
   - image: /imgUploads/_73423077_lawrence_afp.jpg
     alt: Stephen Lawrence
+hashtags:
+  - tag: Racism in the UK police
+  - tag: Stephen Lawrence
+  - tag: fibre analysis
+  - tag: forensic science
+  - tag: scanning electron microscope
+  - tag: Fibre topography
+  - tag: presumptive testing
+  - tag: Stabbings
+  - tag: Racist murders
+  - tag: polymerase chain reaction
+  - tag: true crime UK
+  - tag: famous murder cases in the UK
+  - tag: Blood stain evidence
+  - tag: double jeopardy law
+  - tag: Advances in forensic science
+  - tag: Fibre evidence
 ---
 <!--StartFragment-->
 
