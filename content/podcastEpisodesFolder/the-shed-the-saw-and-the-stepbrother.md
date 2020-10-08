@@ -324,1185 +324,223 @@ No, I will try.
 
 I honestly think I have some kind of problem, and we'll just leave that at that and we'll generalize it as some kind of problem. But I can completely associate with hoarders.
 
-Yeah, i know but the state of their house
+Yeah, I know. 
 
-i think is the next level
+But the state of their house, I think, is the next level.
 
-yeah to be fair i've seen similar houses
+Yeah. 
 
-and it's people that
+To be fair, I've seen similar houses and it's people that clinically suffer with severe OCD. Like the kind of turning the light switches off and on like 14 times to make sure that you've turned it off kind of thing, and locking their door multiple times to make sure that it's locked. I get that it can be a neurosis, and I think to some extent we both suffer from that to different degrees and in different...
 
-clinically suffer with severe ocd
+To be fair I do both of those things that you just said, more or less.
 
-like the kind of turning the
+Yeah, you have the problem of worrying about ovens and locked doors and hobs and things like that. I think is fair to say?
 
-light switches off and on like 14 times
+Yes. 
 
-to make sure that you've turned it off
+Whereas I have the hoarder side of things, where I will keep non-sentimental things that mean nothing to me. They will stay until I get into a mood where I'm like: "right, let's just throw everything away". This house, that Nathan and Shauna was living in, was like a combination of the worst aspects of both of us. 
 
-kind of thing and locking their door
+But to be fair, I'm not sure that any of them have the problems that we have. I'm not sure it's a psychological thing.
 
-multiple times to make sure that it's
+No, no. We're unique. \[Laughter] I think it must be psychological to the extent of the mess that they had. I don't think that just comes down to like laziness of not taking the bins out, or like a distraction from something else. I think there's got to be an underlining condition of some kind of obsessive-compulsive disorder that makes one of them... And we don't know which one, because it was never investigated, but one of them must have some kind of disorder that makes it difficult for them to dispose of things, to a level that an OCD hoarder would put emphasis on something. Like the shows that I've watched, where they've helped a hoarder dispose of things, they would have like newspapers from the 1970s, and they wouldn't want to throw that away in case there was an article in there that related to something that might be happening nowadays. And I think that's the only reason that you can keep a newspaper for that long, is that you've got that obsessive compulsive irrationality, to think that it might hold something relevant to you in the present day. And I think that's the only way that you can get to the level of hoarding that we've seen in that house, is to have that kind of serious neurological disorder. 
 
-locked
+I'm not sure about that. They had so much trash around, so much food around that just went bad and stuff like that. I'm not sure that that's a neurological disorder, but it might be.
 
-i get that it can be a neurosis and
+I mean, I get what...
 
-i think to some extent we both suffer
+It doesn't matter. \[Laughter]
 
-from that
+It doesn't matter, but this is the kind of thing that I find interesting, so fuck you. \[Laughter] Sorry, I amused myself. You're like: "oh! True crime!". I'm like: "oh! OCD! Oh!". I agree with you, in that from the forensics body cams that we saw, it did look mainly like absolute rubbish. It was bags of things... They went into the kitchen and it was like empty tins of whatever. But when you're suffering from that degree of OCD, everything has a significance. And what that significance is...
 
-to different degrees and in different
+Even dirty cups?
 
-those things that you just said more or
+Yes! And even the empty tins of baked beans, everything to the broken mind of someone that has that level of OCD has a level of significance. I don't want to keep harping on about it, but when you watch these programs where people go in and try to help clear the clutter of someone that is on this level, that person really struggles to let go of anything. I'm almost 100% convinced that either Nathan or Shauna, and I think it more likely to be Nathan having watched the videos, would have had that level of obsessive compulsive hoarding where he would assign a value to even rubbish. Nothing that could possibly mean anything to anyone, but maybe in his mind this container that had a chicken jalfrezi that we bought on the 15th of August was when Shauna said that she loved me, and therefore I'm holding on to this because it's a reminder of that time that she showed me her affection. It has to be that degree of OCD.
 
-less
+I don't think it does. I understand what you're saying, but I think that if you're on one level of, I would say probably depression, you just stop caring about shit. So you stop cleaning, you stop all of those kind of shit. I've read a lot about... Or I haven't read a lot about it, but I have read some about it, of Shauna and Nathan's relationship, and they were mostly just in the bed at all times because they didn't...
 
-yeah but you have the problem of
+Yeah they were. 
 
-worrying about ovens and locked doors
+No. They didn't have a free surface in the home, because he would take things back to their house to fix them and then resell them. He wanted not to be poor, kind of. But I'm not sure. I think that you are projecting your own feelings on this. Okay... 
 
-and hobs and things like that i think
+Shut your mouth. 
 
-it's fair to say
+I would say...
 
-yes whereas i have the hoarder side of
+I like material things okay? Buy me things. 
 
-things
+But I would also say that one thing that they did keep that was detrimental for them, was that they kept the receipts for gloves, face masks, and a circular saw.
 
-where i will keep non-sentimental things
+Yes! 
 
-that mean
+That the police found on their search of the home.
 
-nothing to me they will stay until i get
+I just want to put out another point, and I know you've disregarded me as projecting my own feelings. "I studied psychology blah blah blah". If you were living as a rationally sane human being, which we're assuming one of the two of them was. With me so far? Would you not put up some kind of refusal or resistance to the other, under their degree of hoarding, if it weren't to the clinical significance that I think it was? If you, as Shauna, were living with him and knew that it wasn't to the degree that it was mentally problematic for him to discard things. Would you not try and encourage him to get rid of some of the shit that was in their house? 
 
-into a mood where i'm like right let's
+The thing is, and this is going to be a point later on...
 
-just
+Oh, here we go. 
 
-throw everything away but
+But Shauna...
 
-was like a combination of the worst
+Oh no, wait, you didn't mean post recording. \[Laughter]
 
-aspects of both of us but to be fair
+This is you projecting your feelings, that's what I'm saying.
 
-i'm not sure that any of them have the
+I just can't get over you telling me to throw my things away.
 
-problems that we have i'm not sure it's
+Shauna wasn't even allowed to leave the house without Nathan, because he was extremely jealous and possessive of her. When they first got together, Nathan was maybe 19 and Shauna was like 13. And Shauna had a very disruptive childhood. So if she thinks that nobody's ever gonna love her, and Nathan takes her on as like: "okay, we'll be together" and they are together, and then that abuse is just gonna be worse and worse. How much say does she have in their home life? I would say probably none. 
 
-just like
+Did he abuse her?
 
-no no we're unique
+I would say yes. 
 
-i think it must be psychological to the
+I completely understand where you're coming from, but I think everybody has underplayed the statement of hoarding. And I mean to be honest, reflecting on this, it's probably irrelevant like...
 
-extent of
+Mhmm. \[Laughter]
 
-the mess that they had i don't think
+Shut up. The degree of hoarding and OCD isn't relevant to the case at all, I just find it fascinating. We could probably skip past it. Let's just move on to the next point.
 
-that just
+Yes. 
 
-comes down to like laziness of not
+It's important to know the level of hoarding that was in their house in comparison to the bathroom.
 
-taking the bins out
+Yes. 
 
-or like a distraction from something
+Or the bath specifically, that was completely spotless. But for me, that was one of the most interesting points in the case, and I know it shouldn't have been because we were looking at the murder. But it was like, this guy's got issues. Because I don't think it's Shauna, the way that she presented herself in the interviews, and the control she had over herself telling lies like she was the trickster. Shauna was like completely stone-faced throughout the whole thing. She was like: "no, this never happened. No, he never told me anything. No, we live a completely normal life" and then Nathan was like: "nah, I did it.
 
-else
+I don't agree, but we'll get to it. 
 
-i think there's got to be an underlining
+Oh fucking hell. You never agree with me! Why can't you just decide that I'm right for once?
 
-condition of some kind of
+We'll get to it, we can have this discussion later. Okay?
 
-obsessive-compulsive
+You're just gonna bring it up as an argument after we've stopped recording. \[Laughter]
 
-disorder that makes one of them and we
+Okay, so...
 
-don't know which one because it was
+Just give me five minutes, I've amused myself. \[Laughter]
 
-never
+I've amused myself.
 
-investigated but one of them must have
+Fyi, I don't believe that for a second, it's the whiskey talking. \[Laughter]
 
-some kind of disorder that makes it
+Okay, okay, okay, okay. Do the case, I'm ready.
 
-difficult
+Okay. So the trial begins on the 6th of October. The prosecution lays out the order of events like this: the couple planned the attack, as they had messaged each other beforehand talking about kidnapping a schoolgirl, as Nathan had a sexual interest in underage girls. These text messages had been deleted, but was later restored by the police. Shauna had been underage when the pair started dating. They also had stun guns, handcuffs, tape and masks in their car prior to the events on the 19th. Nathan described his relationship to Becky as strained, as he didn't appreciate her behavior towards his mother. And then I wrote, in parentheses, LIES. Because Becky was perfectly fine with her stepmother, they had a very close relationship. Becky's friend told police that Nathan had told Becky that he was going to murder her, and how he was going to murder her, years before this happened. He claimed in a written confession that he had planned to kidnap her as a plot to scare her straight, as he perceived her behavior as being spoiled. Nathan claimed that his mask had slipped off during the attempted kidnapping, and as his identity had been revealed, he panicked and accidentally killed her. And then I wrote, in parentheses, LIES. The prosecution claimed that the kidnapping plot was sexually motivated because of the previous text messages between Shauna and Nathan. Where they more or less had said several times like: "bring me home school girls" and Shauna had been like: "oh, I saw a really pretty school girl that I thought that I would bump on the head and take home for you blah blah blah".
 
-for them to dispose of things
+I've got the direct quote if you want to include that rather than "bump on the head blah blah blah". \[Laughter]
 
-to a level that an ocd hoarder would
+Alright.
 
-put emphasis on something like the shows
+It was: "very pretty petite girl. Almost knocked her out to bring her home. Lol".
 
-that i've watched
+Yeah, which is also quite showing as we're gonna get to... Well we're probably not going to get to it, so let's do it now. 
 
-where they've helped a hoarder dispose
+So his police interview before he confessed to her murder, was that he was trying to scare her because he was insulted about the way that he spoke to their mother. Everybody in the family quite clearly knew that he didn't like her. So he said that he wanted to try and scare her, and his tactic was to... While he was masked he was gonna stick her in a suitcase, he was gonna gag her, put her in the back of the car and take her to a wooden area where he was going to scare her and threaten her. And tell her that she needed to show more respect to her parents. So he knocked on her door, went into her room, said: "can I have a quick word"... Actually, while I'm recalling all of this, his whole technique was to disguise that it was him. Right? 
 
-of things
+Yeah, as he said in his confession, yes.
 
-they would have like newspapers from the
+So he's in a balaclava, or some kind of face covering, so she can't identify visually that it's him?
 
-1970s
+But he knocked on her door saying: "can I have a quick word", so it's obviously him.
 
-and they wouldn't want to throw that
+His whole perspective is that she should not... Becky Watts should not know that it is he, Nathan Matthews, that is conducting this abduction. So he puts on a mask, or a balaclava, or whatever, to cover his face so that she can't identify him. And he knocks on her door and then says: "can I have a word with you?". 
 
-away in case there was an article in
+Yeah. 
 
-there that related to something that
+Now, ponder me this. If your brother knocked on your door and said: "could I have a word with you", you would recognize their voice? 
 
-might be happening nowadays
+Yes. Which is why I said LIES. 
 
-and i think that's the only reason that
+And then you say: "yes, of course, my dear beloved brother. You may enter my private abode and speak upon me thusly", and then some strange, masked, obscured gentleman walks into your bedroom. The fuck you gonna think? 
 
-you can keep a newspaper for that long
+We all know that this is... 
 
-is that you've got that obsessive
+"Oh hell no, this is my brother under the mask".
 
-compulsive
+We all know it's her brother under the mask.
 
-irrationality to think that it might
+Man, what the hell going on there. Your plan is fucking bullshit bruh.
 
-hold something relevant to you in the
+It was never a plan. 
 
-present day
+What is this bollocks? 
 
-and i think that's the only way that you
+That's never the plan, it's just a lie that he told during... 
 
-can get to the level of hoarding that
+No, his whole original plan that he disclosed to the police, once he realized he'd been caught, is that he wanted...
 
-we've seen
+Was a lie!
 
-in that house is to have that kind of
+No, I don't think it was.
 
-serious neurological disorder i'm not
+That was never the plan, because she never treated her family bad, they would also say the same. They did also say the same. 
 
-sure about that they had so much
+What's the point behind the whole abduction?
 
-trash around so much food around
+It's a sexually motivated murder. That was what they were convicted of.
 
-that just went bad and stuff like that
+I mean, they were convicted of murder.
 
-i'm not sure
+Yeah but the prosecution said... \[Dog barking] Doggo. The prosecution also said, that this was never a plot to kidnap her and say like: "oh, you treated my mother wrong". Because she never treated her stepmother wrongly, and also because both Nathan and Shauna had a past behavior of trying to get underage school girls to have sex with them. Nathan got caught by his stepfather, Becky's father, with a car full of 12 year olds. He drove home a car full of 12 year old school girls before he met Shauna, who was 13 when they first started dating and he was an adult. He drove them... 
 
-that that's a neurological disorder but
+Yeah.
 
-it might be
+And Darren fought him and was like, not fought him physically, but he screamed at him being like: "you're a fucking moron, bring these girls home". So he forced Nathan to drive these 12 year old girls home. He didn't like Becky probably, I would say, because he was jealous of the relationship that Becky had with his own mother.
 
-i mean i can't wait
+Yeah. And he made that very clear with the family, that he didn't like her. Like both the parents were well aware that he did not like Becky. 
 
-it doesn't matter but this is the kind
+They also asked his mother, his own mother, "do you believe that Nathan accidentally killed Becky?", and she said no. So he wasn't trying to kidnap her to try to scare her straight, that was never a thing.
 
-of thing that i find
+Okay, fair enough.
 
-interesting so \[ __ ] you
+He just said that to the police... 
 
-sorry i amused myself
+Yeah, to try and make a lesser charge. 
 
-you're like oh true crime i'm like oh
+Yeah. 
 
-ocd
+Yeah, okay. 
 
-oh i agree with you in the from
+As I said, after the murder...
 
-the forensics body cams that we saw
+"Yes, as I said, I was right the whole time". \[Laughter]
 
-it did look mainly like
+After the murder, they had put the body in the boot of their car and then spent hours in the family home afterwards, before going back to their own house. In the bathroom of their house, their own house, they dismembered the body with a circular saw. Nathan claimed that he had done this by himself, and that Shauna had no idea what he was doing, as he had told her the drain pipe was clogged. And then I said again, in parentheses, LIES. Because nobody could have a circular saw in their own house and not hear it, that's impossible. 
 
-absolute rubbish it was bags of things
+And also, the fucks the connection with the drainpipe?
 
-they went into the kitchen and it was
+Yeah, no, that makes no sense. Nathan was caught on CCTV the day after the murder buying the circular saw, as well as goggles, gloves and face masks. And the couple were also caught on CCTV buying cleaning products to get rid of the evidence in the bathroom the days afterwards after this.
 
-like
+Hint readers, that's why we emphasize the cleanliness of the bath.
 
-empty tins of whatever
+Yes. 
 
-but when you're suffering from that
+You're welcome. And by readers, I mean listeners. 
 
-degree of ocd
+After this, the couple put the body parts in bags and boxes, and paid a very large sum of money to a friend of Nathan's to store the bags and boxes in his shed a couple of hundred meters away from Nathan and Shauna's home. Anji claims that Shauna was the brains of the crime, although Shauna wasn't even allowed to step outside the home without Nathan because he was jealous and possessive.
 
-everything has a significance
+To be fair, having seen the police tapes, I can quite easily see Shauna being the brains behind the whole thing. She seemed so calm and so assured of herself, whereas Nathan, although he seemed relaxed, did have a kind of nervous energy behind him. Whereas Shauna seems so confident in herself, that I would not doubt at all that it was originally her idea to do the whole thing.
 
-and what that significance is
+I don't agree at all, like...
 
-yes and even the empty tins of baked
+Oh well, why don't you go shit on your face like Bodil.
 
-beans
+I saw the police tapes as well, and Shauna giggles and is nervous the whole time. 
 
-everything to the broken mind
+I would disagree with that. She looks nervous to start with, but then when you start to see the rest of the first interview, and the second interview, and the third, and however long it goes for, she seems absolutely in control of everything. And even to the point where it's established that the murder was done by Nathan, and possibly her as an accomplice, she's like: "I knew nothing about that. This is the first time I've heard anything about...". Like she seems so in control, that I would say she were the brains behind it. And before you comment, like I know you will, you may have more experience in psychology but I've got more experience in forensic science and therefore, I win. And that's my point. \[Laughter]
 
-of someone that has that
+I don't doubt for one second that Shauna was in on the plan, but Shauna was being controlled in their relationship by Nathan. And that is documented. She wasn't allowed to go outside of the home without Nathan, because he thought that she would do whatever with other guys. He was like: "oh she's trying to sleep with other guys blah blah blah". Nathan was a predator. When they first got together, because he was an adult and she was 13 years old...
 
-level of ocd has a level of significance
+No, I get that. I'm not... but also... I'm not... To what extent did she allow that persona to be believed externally so that she could control Nathan?
 
-i don't want to keep harping on about it
+I don't think she controlled Nathan at all. I think that she didn't know what love was as a 13 year old... 
 
-but when you watch these programs where
+I mean, if she controlled Nathan then maybe she could have gotten him to throw away some of this shit.
 
-people go in and try to help
+That's what I'm saying. Like if she had any kind of say, maybe she would have been like: "don't bring home all the fridges that you were gonna fix up and sell on". 
 
-clear the clutter of someone that
-
-is on this level that person
-
-really struggles to let go of anything
-
-i'm almost 100 convinced that either
-
-nathan or shauna
-
-and i think it more likely to be nathan
-
-having watched the videos
-
-would have had that level of obsessive
-
-compulsive hoarding
-
-where he would assign a value
-
-to even rubbish nothing that could
-
-possibly mean anything to anyone
-
-but maybe in his mind this
-
-container that had a chicken jowl crazy
-
-that we bought
-
-on the 15th of august
-
-was when shauna said that she loved me
-
-and therefore i'm holding on to this
-
-because it's a reminder of that time
-
-that she showed me
-
-her affection it has to be that degree
-
-of ocd
-
-i don't think it does i understand what
-
-you're saying
-
-but i think that if you're on one level
-
-of
-
-i would say probably depression you just
-
-stop
-
-caring about \[ __ ] so you stop cleaning
-
-you stop all of those kind of \[ __ ] i've
-
-read a lot about
-
-or i haven't read a lot about it but i
-
-have read
-
-some about it of shauna and
-
-nathan's relationship and they were
-
-mostly
-
-just in the bed at all times because
-
-they didn't
-
-yeah they were no
-
-they didn't have a free surface in the
-
-home
-
-because he would take things back to
-
-their house to fix them
-
-and then resell them he wanted not to be
-
-poor
-
-kind of but i'm not sure i think that
-
-you are protecting your own feelings
-
-on this okay shut your mouth i would say
-
-i like material things okay
-
-buy me things but i would also
-
-say that one thing that they did
-
-keep that was detrimental for them
-
-was that they kept the receipts
-
-for gloves face masks and
-
-yes that the police
-
-found on their search of the home
-
-i just want to put out another point and
-
-i know
-
-you've disregarded me as
-
-projecting my own feelings um
-
-i studied psychology
-
-if you were living
-
-as a rationally sane human being
-
-which we're assuming one of the two of
-
-them was
-
-with me so far would you not
-
-put up some kind of
-
-refusal or resistance
-
-to the other under their degree of
-
-hoarding
-
-if it weren't to the clinical
-
-significance that i think it was if you
-
-as shauna were living with him and
-
-knew that it wasn't to the degree that
-
-it was
-
-mentally problematic for him to discard
-
-things
-
-would you not try and encourage him to
-
-get rid of some of the \[ __ ]
-
-that was in their house the thing is and
-
-this is going to be a point later on
-
-oh here we go but sure
-
-oh no wait you didn't mean post
-
-recording
-
-\[Laughter]
-
-this is you projecting feelings that's
-
-what i'm saying
-
-i just can't get over you telling me to
-
-throw my things away
-
-shauna wasn't even allowed to leave the
-
-house
-
-without nathan because he was extremely
-
-jealous and possessive of her when they
-
-first got together
-
-nathan was maybe 19
-
-and shawna was like 13 and shauna had a
-
-very disruptive
-
-childhood so if she thinks
-
-that nobody's ever gonna love her and
-
-nathan
-
-takes her on as like okay we'll be
-
-together and they
-
-are together and then that abuse
-
-is just gonna be worse and worse
-
-\[Music]
-
-how much say does she have in their home
-
-life
-
-i would say probably none does he abuse
-
-her
-
-i would say yes i completely understand
-
-where you're coming from
-
-but i think everybody has underplayed
-
-the statement of hoarding and i mean to
-
-be honest
-
-reflecting on this is probably
-
-irrelevant like
-
-shut up
-
-the degree of hoarding and ocd
-
-isn't relevant to the case at all i just
-
-find it fascinating
-
-we could probably skip past it let's
-
-just the next point
-
-yes it's important to know
-
-the level of hoarding that was in their
-
-house
-
-in comparison to the bathroom
-
-yes or the bath specifically that was
-
-completely spotless
-
-but for me that was one of the most
-
-interesting
-
-points in the case and i know it
-
-shouldn't have been because we were
-
-looking at the murder
-
-but it was like this guy's got issues
-
-because i don't think it's shauna the
-
-way that she presented herself in the
-
-interviews
-
-and the control she had over herself
-
-telling lies like
-
-she was the trickster shauna was like
-
-completely stone-faced throughout the
-
-whole thing
-
-she was like no this never happened no
-
-he never told me anything
-
-no we live a completely normal life and
-
-then nathan was like nah did it
-
-i don't agree but we'll get to it oh
-
-\[ __ ] you now you never agree with me
-
-why can't you just decide that i'm right
-
-for once
-
-well get to it we can have this later
-
-okay
-
-you're just gonna bring it up as an
-
-argument after we've stopped recording
-
-\[Laughter]
-
-okay so
-
-i just give me five minutes
-
-i've amused myself
-
-\[Laughter]
-
-i'm amused myself
-
-fyi don't believe that for a second it's
-
-the whiskey talking
-
-\[Laughter]
-
-okay okay okay okay do the case i'm
-
-ready
-
-okay so the trial begins on the 6th
-
-of october the prosecution lays out the
-
-order of events
-
-like this the couple planned the attack
-
-as they had
-
-messaged each other beforehand talking
-
-about
-
-kidnapping a schoolgirl as nathan had a
-
-sexual interest in
-
-underage girls these text messages had
-
-been
-
-deleted but later restored
-
-by the police shauna had been underage
-
-when the pair started dating
-
-they also had stun guns handcuffs tape
-
-and masks
-
-in their car prior to the events on the
-
-19th
-
-nathan described his relationship to
-
-becky astrid
-
-as he didn't appreciate her behavior
-
-towards his mother
-
-and then i wrote in parentheses lies
-
-because becky was perfectly fine with
-
-her stepmother they had a very close
-
-relationship
-
-becky's friend told police that nathan
-
-had told becky that he was going to
-
-murder her and how he was going to
-
-murder her
-
-years before this happened he claimed in
-
-a written confession that he had planned
-
-to kidnap her as a plot to scare her
-
-straight as he perceived her behavior
-
-as being spoiled nathan claimed that his
-
-mask had
-
-slipped off during the attempted
-
-kidnapping
-
-and as his identity had been revealed
-
-he panicked and accidentally killed her
-
-and then i wrote in parentheses lies
-
-the prosecution claimed that the
-
-kidnapping plot was sexually motivated
-
-because of the previous
-
-text messages between shauna and nathan
-
-where they more or less had said several
-
-times
-
-like bring me home school girls
-
-and sean had been like oh i saw a really
-
-pretty school girl
-
-that i thought that i would bump on the
-
-head
-
-and like take home for you blah blah
-
-blah
-
-i've got the direct quote
-
-if you want to include that rather than
-
-bump on the head blah blah blah
-
-it was very pretty petite girl
-
-almost knocked her out to bring her home
-
-lol yeah which is also
-
-quite showing as we're gonna get to
-
-well we're probably not going to get to
-
-it so let's do it now
-
-so his police interview before he
-
-confessed to her murder
-
-was that he was trying to scare her
-
-because he was insulted
-
-about the way that he spoke to their
-
-mother
-
-everybody in the family quite clearly
-
-knew
-
-that he didn't like her
-
-so he said that he wanted to try and
-
-scare her and his
-
-tactic was to
-
-while he was masked he was gonna
-
-stick her in a suitcase he was gonna gag
-
-her put her in the back of the car and
-
-take her to a wooden
-
-area where he was going to scare her and
-
-threaten her
-
-and tell her that she needed to show
-
-more respect to her parents
-
-so he knocked on a door went into a room
-
-said can i have a quick word actually
-
-while i'm recalling all of this his
-
-whole technique
-
-was to disguise that it was him
-
-right yes he said in his confession yes
-
-so he's in a balaclava or
-
-some kind of face covering so she can't
-
-identify
-
-visually that it's him but she's right
-
-on her yeah
-
-his whole perspective is that she should
-
-not becky watts should not know
-
-that it is he nathan matthews
-
-that is conducting this abduction
-
-so he puts on a mask or a balaclava
-
-or whatever to cover his face so that
-
-she can't identify him
-
-and he knocks on her door and then
-
-says can i have a word
-
-with you yeah now
-
-ponder me this
-
-if your brother knocked on your door
-
-and said could i have a word with you
-
-you would recognize their voice yes
-
-which is why i said
-
-lies and then you say yes
-
-of course my dear beloved brother
-
-you may enter my private abode
-
-and speak upon me thusly and then
-
-some strange masked
-
-obscured gentleman
-
-walks into your bedroom the \[ __ ] you
-
-gonna
-
-think we all know that this is oh
-
-hell no this is my brother under the
-
-mask
-
-we all know it's his brother under the
-
-man what the hell
-
-going on there your plan \[ __ ]
-
-\[ __ ]
-
-bruh it was never a plan what is this
-
-bollocks that's never the plan it's just
-
-a lie
-
-that he told during no his whole
-
-original plan that he disclosed to the
-
-police once he
-
-realized he'd been caught is that he
-
-wanted
-
-no i don't think it was that was never
-
-the plan
-
-because she never treated her family
-
-bad they would also say the same they
-
-did also say the same what's the point
-
-behind the whole abduction
-
-it's a sexually motivated murder that
-
-was what they were convicted of
-
-i mean they were convicted of murder
-
-yeah but
-
-said
-
-doggo the prosecution also said
-
-that this was never a plot to
-
-kidnap her and say like oh you treated
-
-my mother
-
-wrong because she never treated her
-
-stepmother wrongly and also
-
-because both nathan and shauna had a
-
-past behavior of
-
-trying to get underage school girls to
-
-have sex with them
-
-nathan got caught by his
-
-stepfather becky's father
-
-with a car full of 12 year olds
-
-he drove home a car full of 12 year old
-
-school girls
-
-before he met shawna who was 13
-
-when they first started dating and he
-
-was an adult
-
-he drove them yeah and darren
-
-fought him and was like not fought him
-
-physically
-
-but he screamed at me being like your
-
-\[ __ ]
-
-\[ __ ] bring these girls home
-
-so he forced nathan to drive these 12
-
-year old girls home
-
-he didn't like becky probably i would
-
-say
-
-because he was jealous of the
-
-relationship
-
-that becky had with his own mother
-
-yeah and he made that very clear with
-
-the family that he didn't like
-
-like both the parents were well aware
-
-that
-
-he did not like becky they also
-
-asked his mother his own mother
-
-do you believe that nathan accidentally
-
-killed
-
-becky and she said no so he wasn't
-
-trying to kidnap her
-
-to try to scare her straight that was
-
-never a thing
-
-okay fair enough uh to the police yeah
-
-to try and make a lesser charge yeah
-
-yeah okay as i said after the murder
-
-yes i said i was right the whole time
-
-\[Laughter]
-
-after the murder they had put the body
-
-in the boot of their car
-
-and then spent hours in the family home
-
-afterwards before going back to their
-
-own house
-
-in the bathroom of their house their own
-
-house
-
-they dismembered the body with a
-
-circular saw
-
-nathan claimed that he had done this by
-
-himself and that shona had no idea what
-
-he was doing
-
-as he had told her the drain pipe was
-
-clogged
-
-and then i said again in parentheses
-
-lies because nobody could have a
-
-circular saw in their own house and not
-
-hear it that's impossible and also
-
-the \[ __ ] the connection with the
-
-drainpipe
-
-yeah no that makes no sense nathan was
-
-caught on cctv
-
-the day after the murder buying the
-
-circular saw
-
-as well as goggles gloves and face masks
-
-and the couple were also caught on cctv
-
-buying cleaning products
-
-to get rid of the evidence in the
-
-bathroom
-
-the days afterwards after this hint
-
-readers that's why we emphasize the
-
-cleanliness of the bath
-
-yes you're welcome and by readers
-
-i mean listeners after this the couple
-
-put the body parts in bags and boxes
-
-and paid a very large sum of money to a
-
-friend of nathan's
-
-to store the bags and boxes in his shed
-
-a couple of hundred meters away from
-
-nathan and shawna's home
-
-angie claims that shauna was the brains
-
-of the crime
-
-although shauna wasn't even allowed to
-
-step outside the home
-
-without nathan because he was jealous
-
-and possessive
-
-to be fair having seen the police tapes
-
-i can quite easily see
-
-shauna being the brains behind the whole
-
-thing
-
-she seemed so calm and so
-
-assured of herself whereas
-
-nathan although he seemed relaxed
-
-did have a kind of nervous energy behind
-
-him
-
-whereas shauna seems so confident
-
-in herself that i would
-
-not doubt at all there was originally
-
-her idea to do the whole thing
-
-i don't agree at all like oh well
-
-why don't you go \[ __ ] on your face like
-
-boo deal
-
-i saw the police tapes as well and
-
-shauna
-
-giggles and is nervous
-
-the whole time i would disagree with
-
-that she
-
-looks nervous to start with but then
-
-when you start to see
-
-the rest of the first interview and the
-
-second interview
-
-and the third and however long it goes
-
-for she seems
-
-absolutely in control of everything
-
-and even to the point where it's
-
-established
-
-that the murder was done
-
-by nathan and possibly her as an
-
-accomplice
-
-she's like i knew nothing about that
-
-this is the first time i've heard
-
-anything about
-
-like she seems so in control
-
-that i would say she were the brains
-
-behind it
-
-and before you comment
-
-like i know you will
-
-you may have more experience
-
-in psychology but i've got more
-
-experience in forensic science
-
-and therefore i win
-
-and that's my point
-
-i don't doubt for one second that shauna
-
-was in on the plan
-
-but shauna was being controlled
-
-in their relationship by nathan
-
-and that is documented
-
-she wasn't allowed to go outside of the
-
-home
-
-without nathan because he
-
-thought that she would do whatever
-
-with other guys he was like oh she's
-
-trying to sleep with other guests blah
-
-blah blah
-
-nathan was a predator
-
-when they first got together because he
-
-was an adult
-
-and she was 13 years old
-
-no i get that i'm not but also i'm not
-
-to what extent
-
-did she allow that persona to be
-
-believed externally so that she could
-
-control nathan
-
-i don't think she controlled nathan at
-
-all i think
-
-that she didn't know what love was
-
-as a third i mean if she controlled
-
-nathan then maybe she could have gotten
-
-to throw away some of this \[ __ ]
-
-that's what i'm saying like if she had
-
-any kind of say
-
-maybe she would have been like don't
-
-bring home
-
-all the fridges that you were gonna fix
-
-up and
-
-sell on the fridges
+The fridges. 
 
 we've got it now fridges well he did
 
