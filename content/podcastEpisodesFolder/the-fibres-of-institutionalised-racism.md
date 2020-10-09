@@ -52,9 +52,7 @@ Sandra got her information from:
 * [BBC News](https://www.bbc.co.uk/news/uk-26465916), which is also where the images can be found
 * [Article](https://www.theguardian.com/uk-news/2020/aug/11/stephen-lawrence-timeline-events-since-teenagers-murder) in The Guardian, by Jamie Grierson
 
-
-
-#### Audio transcript 
+#### Audio transcript
 
 <!--StartFragment-->
 
@@ -67,8 +65,6 @@ How have you been today?
 That good huh? \[Laughter] Sorry, that was funny. 
 
 \[Music] 
-
-
 
 So yeah, that's that's my life. Should we shall we wrap this up then?
 
@@ -248,784 +244,186 @@ It's not new evidence. You can use the same evidence, so long as the technique t
 
 Oh, cool.
 
-you couldn't just say okay we found a
+You couldn't just say: "okay, we found a blood stain, we couldn't match it to DNA, let's just try again". But to say: "okay, we found a blood stain. Now that we've introduced mitochondrial PCR, we can now determine whose DNA this is". Then that evidence could be reused, but you needed the authorization of the person who is at the top of the crown prosecution service. That's the title that I can't remember. So any evidence that you want a retrial for needs that approval of that top lawyer, and in this specific case, which is the interesting part, that appeal for retrial to the court was produced by Keir Starmer who is the current leader of the labour party. Ooooh.
 
-blood stain we couldn't match it to dna
+Ooooh.
 
-let's just try again but to say okay we
+Yeah, I found that interesting okay, so fuck off.
 
-found a blood stain
+Okay. As we said, the trial started because new forensic evidence had come to light. Which consisted of, and now I have just copied the wikipedia page, so maybe you want to say something about the new evidence?
 
-now that we've introduced mitochondrial
+The new evidence is basically a shit ton of fiber analysis, unless you found something else? 
 
-pcr we can now determine
+No, it said... 
 
-whose dna this is then that evidence
+I mean there was a blood spot.
 
-could be reused
+Yeah. 
 
-but you needed the authorization of
+Yeah a shit ton of fiber analysis. Now from personal experience, fiber analysis is one of the most boring parts of forensic fingerprinting. 
 
-the person who is at the top of
+Okay.
 
-the crown prosecution service that's the
+But the difference is, back when the case was first tried in the early 90s, the only techniques that they had to examine fibers would have been your normal optical microscope. You think of a microscope, you think of someone sitting down putting a slide on, looking down onto the machine and and seeing an image. Right? And then as time developed they discovered the use of a scanning electron microscope, and that's what really has revolutionized fiber analysis, and was how this case and all of the fiber tapes that they managed to retrieve got analyzed.
 
-title that i can't remember
+What is that?
 
-so any evidence that you want a retrial
+A scanning electron microscope?
 
-for
+Yeah. 
 
-needs that approval of that top lawyer
+So where a normal optical microscope would use visible light, so you have a light source at the bottom, you put the slide of whatever, in this case fibers, on top of that light source and then basically the microscope is like a magnifying glass.
 
-and in this specific case which is the
+Yeah. 
 
-interesting part that appeal for retrial
+So you look down the eyepieces and you see a magnified image of whatever's on your slide. A scanning electron microscope is way, way, way, way, way more sensitive. So the way that it works is, it will send a beam of electrons onto your sample, in this case fiber, and the different surface texture of whatever you're looking at will bounce back those electrons at a specific rate. So anything that you look at that looks smooth, microscopically isn't smooth. It's got loads of indentations and divots and all of this that and the other. So when you fire something as small as an electron at it you can really tell the differences in the heights of the surface, which is called topography, and then a computer will convert the rate that the electrons are bounced back into an image and you can get an image of down to one nanometer. Which, if I do my maths, you've got a centimeter and then divide it by 10 is a millimeter, divided by 10 is a micrometer and divide it by 10 again is a nanometer. So it's really, really, really, really precise. And the scanning electron microscope can tell the composition of what it's made of as well, because different materials have a different...
 
-to the court was produced by kia stammer
+Topography.
 
-who is the current leader of the labour
+Yeah. A different topography to start with, but also a different refractive index of electrons. So a thread that is made of red dye will reflect differently than a thread that is made... Exactly the same piece of thread but dyed blue.
 
-party
+Oh that's interesting. 
 
-yeah i found that interesting okay so
+Yeah. 
 
-\[ __ ] off
+Yeah. I also have a question about the stain that they found on Dobson's jacket. They found a microscopic stain of Lawrence's blood and I'm guessing, which might be wrong, that in the 1990s they might not have been able to try that stain? And see that stain maybe? 
 
-okay as we said the trial
+Yeah. So they tested for blood on the material that they found the stain, but they used a presumptive test, which is basically just a bunch of chemicals that will change color in the presence of blood. That's perfectly legitimate. It's the first step that you do with a suspected blood stain, or in this case it was a stabbing, so you'd expect to find blood. So you do the presumptive test first, if it comes up negative there's no reason to test further. In this particular instance it tested negative. So the test that they used was called the KM presumptive test, that stands for Kastle-Meyer. I don't know how much detail you want on that? 
 
-started because new forensic evidence
+No. You can skip the details on that test.
 
-had come to light
+I mean, that's what I did my dissertation on, so...
 
-which consisted of and now i have just
+Oh! If you want to say something...
 
-copied the wikipedia page
+I know quite a lot about presumptive testing but we won't bother getting into it. So yeah, they used Kastle-Meyer, it didn't show any color change, which to a forensic officer would indicate there's no presence of blood. That's how small this sample of blood was. So small that presumptive testing didn't give any result at all. As science develops and as techniques become more refined, they reanalyzed the data. I don't know, but I can only imagine that they found that blood spot through the electron microscope, because it was missed originally. Either they didn't look at that specific point, because they probably would have been able to see it under an optical microscope, but they probably weren't looking for it. So...
 
-so maybe you want to say something about
+Do you know... 
 
-the new evidence
+Go on.
 
-the new evidence is basically a \[ __ ] ton
+No, I was just gonna ask. That microscopic stain was enough for them in 2011 to prove that it was Lawrence's blood, yes?
 
-of fiber analysis
+Yes. 
 
-unless you found something else no it
+That's how little you need for DNA, that's crazy. 
 
-said i mean there was a blood spot
+So Kastle-Meyer has a sensitivity of being able to find one part of blood in 10 million parts of whatever fuck else is on that sample. So the Kastle-Meyer is really, really sensitive. 
 
-yeah yeah a \[ __ ] ton of fiber analysis
+Yeah. 
 
-now from personal experience fiber
+So you've got 10 million particles of whatever, and it only needs one of those 10 million to be blood to be able to detect blood. Just to put into perspective how small this blood spot was. 
 
-analysis
+Yeah. 
 
-is one of the most boring parts
+They found it, I presume through the electron microscope, and then they would have PCR'd it. We've mentioned it in one of the previous podcasts, but PCR - polymerase chain reaction, is basically an amplification technique for DNA. So you put...
 
-of forensic fingerprinting okay
+They copy...
 
-but the difference is back when
+Yeah. You put your tiny little sample in it, and the PCR technique will copy what you've got and make a shit ton of copies of it, so that you've actually got something that you can work with. And then that sample was able to be matched to Stephen Lawrence's DNA with a certainty of one in one billion. There's almost no arguing that the blood spot that they found was blood that came from Stephen. 
 
-the case was first tried in the early
+Yeah. The defense later argued as well, unsuccessfully though, that the fibers and stuff were cross-contamination of the evidence. But I'm guessing that that's not probable.
 
-90s
+I don't know the police records, so I can't say for sure whether it wouldn't have been possible at all. Because knowing the police in the 90s it's perfectly believable that they would have bodged the chain of custody of evidence as we've seen in one of the other cases we covered, in that they threw all of the evidence in one cardboard box. What they found on reinvestigation, they looked at a couple of different techniques, so the way that you get fiber analysis is basically: you lay out the clothing that is the evidence, and you use a piece of sticky tape and you dab that sticky tape on your clothing a couple of times and put it on a clear piece of plastic. And you do that enough to cover the whole garment. Now what the defense was saying, is that it was perfectly possible for some of these fibers to have been cross-contaminated by poor police handling. 
 
-the only techniques that they had
+Yeah. 
 
-to examine fibers would have been
+Now given that this was thrown out by court, I can only imagine that the chain of custody for each evidence item was legitimate and sound.
 
-your normal optical microscope you think
+Okay. 
 
-of a microscope you think of someone
+So it's basically, this jumper gets put in this plastic bag, that plastic bag gets put in the evidence locker, and then anybody who wants to access that plastic bag needs to sign it in and out, and one person is in charge of that signing in and out log. My thoughts would be that the evidence was all kept in individual plastic bags and that it couldn't have been interfered with.
 
-sitting down putting a slide on looking
+Yeah. In January 2012, because of this trial, Dobson and Norris are found guilty of murder. Both men receive life sentences. The other three men, they never really got put to justice, but in 2018 Jamie Acourt is sentenced to nine years in prison because of a drug related offense. So at least he's put away. But because it's nine years, it was a very serious drug-related offense, it wasn't like he was holding marijuana on him or stuff. 
 
-down onto the machine
+It was probably just possession with intent to supply.
 
-and and seeing an image right
+Yeah it was, but it was crazy shit loads of drugs. So it wasn't like a couple of ounces, it was...
 
-and then as time developed
+Oh, ounces. How imperial of you.
 
-they discovered the use of a scanning
+I'm adapting. But... 
 
-electron microscope
+I like how, when it's in small quantities, it's ounces or fractions. If you're talking about weed, it's like: "yeah I'll have an eighth" and then once it starts getting into bigger quantities it moves into metric "he had 10 kilos of weed on him". Alright, make your mind up. Is it a fraction.... Is it imperial ounces or is it a metric kilo?
 
-and that's what really has
+I can tell you what it is. It's confusing.
 
-revolutionized
+I can tell you what it is. It's Mary Joanna.
 
-fiber analysis and was how this case
+Mary Juana, it's an old people's way of saying it. It was funny. 
 
-and all of the fiber tapes that they
+I smoke one Mary Juana all the time. 
 
-managed to retrieve
+One Mary Juana.
 
-got analyzed because a scanning electron
+One Mary Juana cigarette.
 
-microscope
+Oh, do you put it in your pipe?
 
-yeah so where a normal
+No, because then it's not a cigarette.
 
-optical microscope would use visible
+True. That's all of the things that I had about it. But also, there was a lot of like aftermath, because of the racism and stuff. I know.... I think that for british people it's probably pretty well known, or quite well known. He has like a day, and stuff like that. So I'm guessing that most people know about the aftermath, but we can just summarize it and say that the police were very racist.
 
-light so you have
+Yeah. The fallout from this was basically a revolutionization of the met police. 
 
-a light source at the bottom
+Yeah.
 
-you put the slide of whatever
+They looked into the whole investigative process of the met police and pinpointed where they were being institutionally racist and said: "you can't do this anymore". 
 
-in this case fibers on top of that light
+And that's not to say that they're not racist anymore, because they are. Some people are. There is still problems of that ilk in the police, but there's been a large... 
 
-source
+Progress has been made. We're not there yet. But it has got better.
 
-and then basically the microscope is
+Yeah. You're saying progress has been made, but also, they voted in Boris Johnson, so I'm not that sure.
 
-like a magnifying glass
+Yeah. I mean, the met police didn't vote in Boris Johnson, did they?
 
-yeah so you look down the eyepieces and
+No, that's true. Yeah. What are you gonna do now...
 
-you see a magnified
+And also, Boris isn't racist, colonialism is the way forward.
 
-image of whatever's on your side
+That was sarcasm, for you listeners. Do you know what I've done today?
 
-a scanning electron microscope is way
+Jack shit. 
 
-way way way
+Yeah, that's true. But I've also played a lot of bioshock. I'm getting better at it.
 
-way more sensitive so the way that it
+I wanted to play more Primal, I didn't have any time so... I didn't. Is the moral of that story. 
 
-works
+I'm sorry it was stressful for you today, I get it. 
 
-is it will send a beam of electrons
+But you know, that's what your day is going to be like tomorrow, because you've got all the editing to do.
 
-onto your sample in this case fiber
+I haven't finished the audio transcript for last week's episode, so now... 
 
-and the different surface texture
+Ah it's fine. 
 
-of whatever you're looking at will
+Our first four episodes are finished. And... 
 
-bounce back
+What episode are we on? 
 
-those electrons at a specific rate so
+Fourteen.
 
-anything that you look at that looks
+Oh fuck off!
 
-smooth
+It's true. 
 
-microscopically isn't smooth it's got
+No way have we done that many.
 
-loads of
+It's true, I've edited them all it's painfully true.
 
-indentations and divots and
+Jesus christ.
 
-all of this that and the other so when
+Yeah, I know, it's crazy isn't it. Oh! Do you know what as well? We're on amazon music now. So if you're not a paranoid person like me, and do have an alexa, you can say alexa...
 
-you fire something as small as
+Alexa, play despacito.
 
-an electron at it you can really tell
+You can say: "alexa, play Midweek Murders". It's crazy.
 
-the differences
+How exciting. 
 
-in the heights of the surface which is
+Okay. Should we say goodbye? Goodbye listeners, thank you so much for listening to Midweek Murders. We'll see you next week.
 
-called
-
-topography and then a computer
-
-will convert the rate that the electrons
-
-are bounced back
-
-into an image and you can get an image
-
-of down to one nanometer
-
-which if i do my maths you've got a
-
-centimeter
-
-and then divide it by 10 is a millimeter
-
-divided by 10 is a micrometer
-
-and divide it by 10 again is a nanometer
-
-so it's really really really really
-
-precise
-
-and the scanning electron microscope can
-
-tell the composition
-
-of what it's made of as well because
-
-different materials have a different
-
-yeah a different topography to start
-
-with but also a different refractive
-
-index of electrons so
-
-a thread that is made of red dye
-
-will reflect differently than a thread
-
-that is made exactly the same piece of
-
-thread but dyed blue
-
-oh that's interesting yeah yeah i also
-
-have a question about the
-
-stain that they found on dobson's jacket
-
-they found a microscopic stain of
-
-lawrence's blood
-
-and i'm guessing which might be wrong
-
-that in the 1990s
-
-they might not have been able to try
-
-that stain
-
-and be that stain maybe yeah so
-
-they tested for blood on the material
-
-they found the stain but they used
-
-a presumptive test which is basically
-
-just
-
-a bunch of chemicals that will change
-
-color in the presence of blood
-
-that's perfect legitimate it's the first
-
-step that you do with a suspected
-
-blood stain or in this case it was a
-
-stabbing so you'd expect to find
-
-blood so you do the presumptive test
-
-first if it comes up negative
-
-there's no reason to test further in
-
-this particular instance
-
-it tested negative so the test that they
-
-used
-
-was called the km presumptive test that
-
-stands for castle maya
-
-i don't know how much detail you want on
-
-that no you can skip the details on that
-
-test
-
-i mean that's what i did my dissertation
-
-on so
-
-oh i want to say
-
-i know quite a lot about presumptive
-
-testing but
-
-we won't bother getting into it so yeah
-
-they used castle maya
-
-it didn't show any color change which
-
-to a forensic officer would indicate
-
-there's no presence of blood
-
-that's how small this sample of blood
-
-was
-
-so small that presumptive test
-
-didn't give any result at all
-
-as science develops and as techniques
-
-become more refined
-
-they reanalyzed the data
-
-i don't know but i can only imagine that
-
-they found
-
-that blood spot through the electron
-
-microscope
-
-because it was missed originally either
-
-they didn't
-
-look at that specific point because they
-
-probably would have been able to see it
-
-under an optical microscope but they
-
-probably weren't
-
-looking for it um so go on
-
-no i was just gonna ask that microscopic
-
-sting
-
-was enough for them in 2011
-
-to prove that it was lawrence's blood
-
-yes
-
-yes that's how little you need for dna
-
-that's crazy so castle maya
-
-has a sensitivity of being able to find
-
-one part of blood in 10
-
-million parts of whatever \[ __ ]
-
-else is on that sample so the castle
-
-maya is
-
-really really sensitive yeah so you've
-
-got
-
-10 million particles of whatever
-
-and it only needs one of those 10
-
-million to be blood
-
-to be able to detect blood just to put
-
-into perspective how small
-
-this blood spot was yeah they found it
-
-i presume through the electron
-
-microscope and then
-
-they would have pcr'd it we've mentioned
-
-it in one of the previous podcasts but
-
-pcr polymerase chain reaction is
-
-basically an
-
-amplification technique for
-
-dna so you put yeah you put your tiny
-
-little sample in it and the pcr
-
-technique will copy what you've got and
-
-make
-
-a \[ __ ] ton of copies of it so that
-
-you've actually got
-
-something that you can work with and
-
-then
-
-that sample was able to be matched
-
-to stephen lawrence's dna
-
-with a certainty of one in one
-
-billion there's almost no arguing
-
-that the blood spot that they found was
-
-blood
-
-that came from stephen yeah the defense
-
-later argued as well unsuccessfully
-
-though
-
-that the fibers and stuff were
-
-cross-contamination of the evidence
-
-but i'm guessing that that's not
-
-probable
-
-i don't know the police records so i
-
-can't say for sure
-
-whether it wouldn't have been possible
-
-at all because knowing the police
-
-in the 90s it's perfectly believable
-
-that they would have bodged
-
-the chain of custody of evidence
-
-as we've seen in one of the other cases
-
-we covered in that they threw all of the
-
-evidence in one cardboard box what
-
-they found on reinvestigation
-
-they looked at a couple of different
-
-techniques so
-
-the way that you get fiber analysis is
-
-basically
-
-you lay out the clothing that is the
-
-evidence and you use
-
-a piece of sticky tape and
-
-you dab that sticky tape on your
-
-clothing a couple of times
-
-and put it on a clear piece of plastic
-
-and you
-
-do that enough to cover the whole
-
-garment
-
-now what the defense was saying is that
-
-it was perfectly possible for some of
-
-these fibers to have been
-
-cross-contaminated
-
-by poor police handling yeah now given
-
-that this was thrown out by core
-
-i can only imagine that the chain of
-
-custody for each
-
-evidence item was legitimate and sound
-
-okay so it's basically
-
-this jumper gets put in this plastic bag
-
-yeah that plastic bag gets put in the
-
-evidence locker
-
-and then anybody who wants to access
-
-that plastic bag
-
-needs to sign it in and out and one
-
-person is in charge
-
-of that signing in an outlook my
-
-thoughts would be
-
-the the evidence was all kept in
-
-individual
-
-plastic bags and that it couldn't have
-
-been interfered with
-
-yeah in january 2012
-
-because of this trial dobson and norris
-
-are found guilty of murder
-
-both men receive life sentences
-
-the other three men they never really
-
-got put to justice but
-
-in 2018 jamie a court
-
-is sentenced to nine years in prison
-
-because of a drug related offense
-
-so at least he's put away but because
-
-it's nine years
-
-it was a very serious drug-related
-
-offense it wasn't like
-
-he was holding marijuana on him or
-
-stuff it was probably just possession
-
-with intent to supply
-
-yeah it was but it was crazy \[ __ ] loads
-
-of drugs
-
-so it was like a couple of ounces it was
-
-oh ounces how imperial of you
-
-i'm i'm adapting but i like how
-
-um when it's in small quantities it's
-
-ounces or fractions
-
-if you're talking about weed it's like
-
-yeah i'll have an eighth
-
-and then once it starts getting into
-
-bigger quantities
-
-it moves into metric yeah he had 10
-
-kilos of weed on him it definitely all
-
-right
-
-make your mind up is it a fraction
-
-is it imperial ounces or is it a metric
-
-kilo
-
-i can tell you what it is it's confusing
-
-i can tell you what it is it's marry
-
-joanna
-
-married joanna it's an old people's way
-
-of saying it
-
-it was funny i smoke one marriage you
-
-anna
-
-all the time one marriage you want
-
-one marijuana cigarette
-
-oh do you put it in your pot
-
-no because then it's not a cigarette
-
-it's true that's all of the things that
-
-i had
-
-about it but also there was a lot of
-
-like
-
-aftermath because of the racism
-
-and stuff i know i think that
-
-for british people it's probably pretty
-
-well known or quite well known he has
-
-like a day
-
-and stuff like that so i'm guessing that
-
-most people
-
-know about the aftermath but we can just
-
-summarize it and say
-
-that the police were very racist
-
-yeah the fallout from this was basically
-
-a revolutionization
-
-yeah of the met police yeah
-
-they they looked into the whole
-
-investigative
-
-process of the met police and
-
-pinpointed where they were being
-
-institutionally racist
-
-and said you can't do this anymore and
-
-that's not to say
-
-that they're not racist anymore because
-
-they
-
-are some people are there is still
-
-problems of that ilk
-
-in the police but there's been
-
-a large progress has been made
-
-we're not there yet but it has got
-
-better
-
-yeah you're seeing progress has been
-
-made but also they voted in boris
-
-johnson so i'm not that sure
-
-yeah i mean the met police didn't vote
-
-in boris johnson no did they
-
-no that's true yeah what are you doing
-
-and also
-
-boris isn't racist colonialism is the
-
-way forward
-
-that was sarcasm for your listeners do
-
-you know what i've done today
-
-jack \[ __ ] yeah that's true but i've also
-
-played a lot of bioshock i'm getting
-
-better at it
-
-i wanted to play more primal i didn't
-
-have any time
-
-so i didn't it wasn't
-
-that's the moral of that story i'm sorry
-
-it was stressful for you today
-
-i get it but you know that's what your
-
-day is going to be like tomorrow
-
-because you've got all the editing to do
-
-i
-
-haven't finished the audio transcript
-
-for last week's episode
-
-so now ah it's fine our first
-
-four episodes are finished and what
-
-episode
-
-are we on 14. oh \[ __ ] off
-
-that's true no way have we done that
-
-many
-
-it's true i've edited them all
-
-it's jesus christ
-
-yeah i know it's crazy isn't it oh
-
-do you know what as well we're on amazon
-
-music now so if you're not a
-
-paranoid person like me and do
-
-have an alexa you can say alex
-
-alexa play despacito
-
-you can say alexa play midweek murders
-
-it's crazy
-
-right exciting okay
-
-should we say goodbye goodbye listeners
-
-thank you so much for listening to
-
-midweek murders we'll see you next week
-
-bye
+Bye.
 
 <!--EndFragment-->
