@@ -53,29 +53,40 @@ Sandra got her information from:
 * Wikipedia, as well as the same BuzzFeed video
 * The [podcast](https://www.bbc.co.uk/programmes/p060ms2h) "Death in Ice Valley" by BBC and NRK
 
+#### Audio transcript
 
+Midweek Murders contains graphic and explicit content, listener discretion is advised. 
 
-#### Audio transcript 
+Hello! 
 
+Bonjour. 
 
+You sounded like Brad Pitt in inglorious bastards. 
 
+Haven't seen it. 
 
-
-Midweek Murders contains graphic and explicit content, listener discretion is advised. Hello! Bonjour. You sounded like brad pitt in inglorious bastards. Haven't seen it.
 You just sounded super american
 saying bonjour.
-I uh thought that the password for this
-meeting was come 20. Come 20, slogan for the year isn't it. \[Music]
 
 
-When i tried to log out they were like
-how satisfied are you with your
+I thought that the password for this
+meeting was come 20. \[Laughter]
+
+Come 20, slogan for the year isn't it. \[Music]
+
+When I tried to log out they were like how satisfied are you with your
 experiences?
 Zero doesn't exist so I'm going to take a
 one.
+
+
 I left a similar review on the lego
 website.
-Why? It was this big secretive
+
+
+Why? 
+
+It was this big secretive
 release,
 so they're releasing a new set
 at the end of this month, so their email
@@ -103,101 +114,190 @@ videos nowhere to be found, you wouldn't
 let me into the VIP
 section, you wouldn't let me into my
 account,
-very dissatisfied. How old are you? Over 18. Of course. That was the oldest age group. They were like zero to five,
+very dissatisfied. How old are you? Over 18. \[Laughter]
+
+Of course. 
+
+That was the oldest age group. They were like zero to five,
 six to ten, ten to fifteen,
 sixteen to eighteen, over eighteen.
-Oh that's funny. I've seen
-a a leak of what the set is. What is it?
+
+
+Oh that's funny. 
+
+I've seen
+a a leak of what the set is. 
+
+What is it?
+
+
 A full scale diagon alley,
 and it looks amazing.
-Oh my god, that's amazing! Yeah,
+
+
+Oh my god, that's amazing! 
+
+Yeah,
 so even though the website on my
 face,
 I'm still gonna buy it.
+
+
 You know why I suggested that we would
 watch
-logan next time we're hanging out?
+Logan next time we're hanging out?
+
+
 Because you know that I
 enjoy a muscular man and
-hugh jackman buffs up very nicely.
+Hugh Jackman buffs up very nicely.
+
+
 He does, he does, but also because the
 little girl in that movie is the girl
 that played
-the lead role in his dark materials.
+the lead role in His Dark Materials.
+
+
 Oh the one that you hated, the one that
 you
-absolutely abhorred. I didn't,
-I just said.... the one that you were
+absolutely abhorred. 
+
+I didn't,
+I just said.... 
+
+The one that you were
 physically sick
 watching because her acting was so bad.
+
+
 You always take whatever I say to the
-absolute extreme. Do you want to
+absolute extreme. 
+
+Do you want to
 know the word for that?
+
+
 Yeah I probably know it already, tell me anyway.
-Hyperbolise. You always hyperbolise
-everything I say. Oh hyperbolize, I like that.
-Because when I said that \[censored] was an attractive woman you were like you hyped
-her up
+
+
+Hyperbolise. 
+
+You always hyperbolise
+everything I say. 
+
+Oh hyperbolize, I like that.
+
+
+Because when I said that \[censored] was an attractive woman you were like you hyped her up
 so much, you were like she's a goddess. I
 was like
-never said that, said she was an attractive woman. Because it's funny to wind you up. If you
+never said that, said she was an attractive woman. 
+
+Because it's funny to wind you up. If you
 haven't worked out that that's how our
 friendship
 dynamic works by now,
 I feel like you haven't been paying
 attention to any of our conversations.
+
+
 Do you feel like you can't do
 all of your funnies because I don't get
 annoyed?
+
+
 Sometimes there is not the
 back and forth banter that I would
 appreciate
 if you were getting annoyed.
 But that doesn't stop me from trying.
+
+
 You're lucky I don't get annoyed.
+
+
 No I am, because
 otherwise we would not have lasted as
 long as we have.
 Most people by now have been like you're
-a cunt, why do i even talk to you. Probably.
-Wow okay. You funny cunt, don't get me wrong.
+a cunt, why do i even talk to you. 
+
+Probably.
+
+
+Wow okay. 
+
+You're a funny cunt, don't get me wrong.
+
+
 You little...
+
+
 Oh but you do like the inflammatory
 comments.
+
+
 I'll inflame your comments.
-Hashtag come 20.
-Okay are you ready for the case?
+
+
+Hashtag come 20. Okay are you ready for the case?
+
+
 Are we ready to talk about crime. What?
 Do you feel stressed? Yeah, hey my dudes...
 Do you have like other things that you need
-to do? I've got fuck
-all going on mate. Then why are you
-stressing me?
-Because it's funny.
-Is it though? Yes.
-Oh god. 
+to do? 
 
-You're listening to
-midweek murders, I'm your host... No,
-which means, wait. Ah she it fucked it.
-Why don't you do it this week. Hello
+I've got fuck
+all going on mate. 
+
+Then why are you
+stressing me?
+
+
+Because it's funny.
+
+
+Is it though? 
+
+Yes.
+
+
+Oh god. You're listening to midweek murders, I'm your host... No,
+which means, wait. 
+
+Ah she it fucked it.
+
+
+Why don't you do it this week. 
+
+Hello
 it's a wednesday, and that means it's time
 to talk about crime,
 with midweek murders.
 I'm your host Joe. 
+
+
 And I'm your host Sandra, but let's do it
 properly this time.
+
+
 And this week we're coming from
 Upplands Vasby.
 We're coming from the swedish chef. 
-Herding gird,
+Herdig gird,
 chocolate moose. You're listening to
 midweek murders,
 which means that it's time to talk about
 crime.
-I'm your host sandra. And I'm your
+I'm your host sandra. 
+
+And I'm your
 co-host
-Joe. Ba bam. This week
+Joe. 
+
+Ba bam. This week
 we're going to talk about the case of
 the ice valley
 woman, or as it is in norwegian
@@ -205,7 +305,11 @@ the Isdal woman, that means
 ice valley if you didn't know.
 I'm here to wow you with my scandinavian
 prowess.
-You're welcome. My scandinave prowess.
+You're welcome. 
+
+My scandinave prowess.
+
+
 And I got my sources, my
 information,
 from wikipedia, death in ice valley
@@ -220,13 +324,13 @@ and a video that was from
 buzzfeed unsolved, researched by
 Christopher Hodspeth,
 Ryan Bergara and Shane Maday.
+
+
 I also got mine from wikipedia, a bbc
 article,
 and also the buzzfeed video.
 
-
-Okay so our case starts on the
-29th of november 1970,
+Okay so our case starts on the 29th of november 1970,
 when a man and his two daughters were
 out on a hike in an area called
 ice valley, or Isdalen as i said.
@@ -238,12 +342,24 @@ body of a woman laying on her back
 with her arms up in a boxing position, a
 common pose in which people have
 died in fires are found in. Is this true?
+
+
 This is actually the first i've heard of
 it, so
-no comment. No comment. What do I look like,
+no comment. 
+
+No comment.
+
+What do I look like,
 some kind of pathologist?
-Yes question mark? Joke's on you they're
+
+
+Yes, question mark? 
+
+Joke's on you they're
 medically trained.
+
+
 Shocked by what they had stumbled upon,
 they
 immediately notified the police.
@@ -274,29 +390,45 @@ that she hadn't swallowed all of the
 pills,
 does that mean that she did have some of
 the pills in her
-mouth? Or did... It probably means that
+mouth? Or did... 
+
+It probably means that
 there were more pills found
 outside of her person, either in a bottle
-or surrounding area. Okay. I think
+or surrounding area. 
+
+Okay. I think
 he might have meant, because he was
 norwegian, he was one of the policemen
 on the scene. I think he might have meant
 that it wasn't
-digested. Most of them weren't digested,
+digested. 
+
+Most of them weren't digested,
 that's how they found them, in her
 stomach.
-Yeah, okay, makes sense. So they found
+
+
+Yeah, okay, makes sense. 
+
+So they found
 50 to 70 in her stomach,
 but she could have taken a hundred.
+
+
 Okay so if we're speculating,
 then most of the pills that she took
 had not hit her system at the time of
 death.
+
+
 Well we don't know how many she took, but
 I would assume that she hadn't.
 Because anybody who's taking more than
 50 to 70
 is crazy.
+
+
 Did you research the like the brand
 fenemal? I researched it, and it said that
 it was
@@ -304,11 +436,13 @@ most commonly used nowadays I guess,
 as a epilepsy medicine.
 But back then it could have been
 probably sleeping pills or anxiety...
+
+
 So they're phenobarbitol which is a
 barbiturate
-so i would have assumed they were used
-as a sleeping pill and i think that's
-what fenimo was
+so I would have assumed they were used
+as a sleeping pill and I think that's
+what fenimal was
 prescribed as it's definitely not
 prescribed in the uk
 as i don't think it's prescribed at all
@@ -345,9 +479,7 @@ drugs that have a high risk of side
 effects it's likely that she didn't get
 them from there in the first place.
 
-
-okay three days after the body had been
-discovered
+okay three days after the body had been discovered
 two suitcases were found by police at
 the bergen
 railway station and bergen i
@@ -409,9 +541,7 @@ I'm not sure it does. I don't think it
 causes a lisp but it's quite an
 identifiable feature.
 
-
-so a bell boy at the hotel where she was
-last spotted
+so a bell boy at the hotel where she was last spotted
 asked her where she was from because
 he found her accent a bit
 unusual and she had told him that she
@@ -506,9 +636,7 @@ what i mean
 challenge accepted
 so i don't think it was garlic but maybe.
 
-
-after that the police began tracing her
-movements before
+after that the police began tracing her movements before
 her death with the help of her notepad
 entries
 that seemed to list dates and places
@@ -608,8 +736,7 @@ like why you could have committed
 suicide anywhere.
 You know? 
 
-In the podcast
-death in ice valley they kind of allude
+In the podcast death in ice valley they kind of allude
 to the fact that she
 could have been born before world war
 ii and therefore been able to
@@ -742,9 +869,7 @@ it rains
 all the time and it gets really cold.
 Kallt krig!
 
-
-so at the time they were testing
-the penguin missiles
+so at the time they were testing the penguin missiles
 in norway which was a new kind of
 weapon and she was spotted
 several times this is an air quote
@@ -826,8 +951,7 @@ doesn't sound like something that any
 kind of security service
 would do. Yeah, no, it doesn't. 
 
-But also
-on the live episode of that podcast
+But also on the live episode of that podcast
 they interviewed like the police
 one of the higher ups in the
 norwegian police force and they were
@@ -904,8 +1028,7 @@ that's the difference and then you said
 socialism
 just sorry bruh 
 
-okay so
-kettle key probably pronounced another
+okay so kettle key probably pronounced another
 way
 which i should do
 that expression
@@ -1065,8 +1188,7 @@ couple of notes about
 popular theories but i guess that
 maybe... 
 
-Do you have something about the
-autopsy?
+Do you have something about the autopsy?
 no
 nope fair enough okay
 you covered it at the beginning they
@@ -1122,8 +1244,7 @@ nazi war criminals i don't know it feels
 like a
 book.
 
- you know any other good theories?
-Yeah. i've got a theory yeah tell me
+ you know any other good theories? Yeah. i've got a theory yeah tell me
 all right so i think
 she was of jewish heritage supported by
 facts
