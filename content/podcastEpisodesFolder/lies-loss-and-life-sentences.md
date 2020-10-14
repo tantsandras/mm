@@ -43,8 +43,6 @@ Sandra gor her information from the same documentary, as well as:
 * A [medium.com article](https://medium.com/honestly-yours/what-netflixs-american-murder-didn-t-tell-you-about-chris-and-shanann-watts-2a90a9a88745), by Shannon Ashley
 * An [article in The Sun](https://www.thesun.co.uk/news/12863714/chris-watts-letter-shannan-watts-murder-colorado/), by Fionnuala O'Leary
 
-
-
 #### Audio transcript
 
 <!--StartFragment-->
@@ -155,8 +153,6 @@ You should start the recording, or the episode, with just that. And then play th
 
 \[Music]
 
-
-
 It's wednesday my dudes, which means that it's time to talk about crime. You're listening to Midweek Murders, with me Sandra...
 
 And me, Mario.
@@ -175,1431 +171,273 @@ Judging by the surname it could be irish, and therefore we will just call them F
 
 All right. And an article on medium.com by Shannon Ashley. 
 
-I have
+I have the same sources as you. 
 
-the same sources as you what the whip
+What?! 
 
-the wick
+The whi, the wick, the wi wiki.
 
-the wit wiki the wit the witch
+The wit, the wi, the wikiwikiwiki.
 
-wikipedia and the netflix documentary
+Wikipedia, and the netflix documentary.
 
-oh you watched it
+Oh you watched it!
 
-it starts on august the 13th
+Und das ist alles.
 
-in 2018
+Und das ist alles. It starts on august the 13th in 2018 when Shanann had been away on a business trip and her flight had been delayed, so she returned home at about two in the morning. And she got a ride home from the airport by her friend Nickole Atkinson. Chris was home with the girls. On the next day... 
 
-when shannon had been away
+You should probably mention who chris is, because we haven't mentioned him so far. 
 
-on a business trip and her flight had
+Oh yeah. Sorry. So we can say this first, Chris Lee and Shanann Watts were married, and they had two daughters Bella and Celeste. And Shanann was also 15 weeks pregnant. 
 
-been delayed so she returned home
+With little baby Niko.
 
-at about two in the morning
+Yeah. They had been together for a while. Maybe we should also say that the couple had declared bankruptcy in 2015. Chris worked at an oil company and Shanann was an independent representative for a multi-level marketing company which is more commonly known as a...
 
-and she got a ride home from the airport
+Pyramid scheme!
 
-by her friend
+As a pyramid scheme or an mlm.
 
-nicole atkinson chris was home with the
+Sorry, I jumped in there. "Pyramid scheme" I know this one! 
 
-girls
+And I feel like people are... 
 
-on the next day you should probably
+Five points to Dumbledore. Sorry, you're doing great. I didn't do that one on purpose. \[interrupts again] That one I kind of did. 
 
-mention
+I should also probably say that this is hard... 
 
-who chris is because we haven't
+Enough without me interrupting you. Yeah I know, I get it.
 
-mentioned him so far oh yeah
+I was gonna say that the MLM part is a bit hard for me, because I like subscribe to this anti-mlm subreddit and stuff. And I know how extremely predative... Predative? Predative?
 
-sorry so we can say this first
+Tative. 
 
-chris lee and shanann watts
+Yeah they're very...
 
-were married and they had two daughters
+They're predators. 
 
-bella
+Horrible companies that yeah...
 
-and celeste and shenan was also
+Yeah it's a very aggressive sales technique.
 
-15 weeks pregnant with little baby nico
+Yeah, and they also prey on like house wives a lot. 
 
-yeah they had been together for a while
+And old people. 
 
-maybe we should also say that
+People that don't have any source of income and people that... It's a bit tricky because it does paint Shanann in a pretty dark light. But I would also like to say that a lot of people get roped into these companies, so I don't blame her, but I think that a lot of other people do. Yeah, I don't know where I wanted to go with that. I felt like very uncomfortable in my whole body when I tried to speak about it and I didn't know what to say. And I was like... But oh well. 
 
-the couple had declared bankruptcy
+MLM bad. Shanann not necessarily bad.
 
-in 2015. chris worked at an oil
+Oh yeah, that's a pretty pretty good description I would say. The company leaders, the actual people that make money out of these companies, they are the evil ones. I would point out.
 
-company and shenan was an independent
+Pharaohs. 
 
-representative for a multi-level
+Yeah. The pharaohs, yes, because it's a pyramid scheme. I got the joke.
 
-marketing company
+You're welcome. 
 
-which is more pyramid as a pyramid
+So Nickole Atkinson, after their trip, I think it was a company trip for the MLM thing?
 
-scheme or an mlm
+Yeah. So they worked together and it was described as a business trip.
 
-sorry i jumped in there
+Yeah. She became concerned because Shanann had missed a scheduled OB-GYN appointment and she did not answer any texts or phone calls, which was very unusual for her because she was very much... 
 
-pyramid scheme i know this one and i
+Obsessed. 
 
-feel like
+On her phone, yes, yes. Which a lot of people were in that day and age. Two years ago, you know, I remember it like it was yesterday. So she went to the house and she tried to phone Shanann, she tried to ring the doorbell, she wouldn't answer. So she got concerned and called the police. Which I think is a good move, surprisingly good, because it wasn't even like she was missing for a week. She didn't answer her phone for like a couple of hours, remember she had gotten home that morning at 2 am, and her friend is like: "oh no, something is very wrong". So an officer arrived to the house to do a welfare check at about 2 p.m. So at that point it's 24 hours, but still very quickly.
 
-people are five points to dumbledore
+12 hours. 
 
-sorry you're doing great no i didn't do
+12 hours. Sorry, my maths. So an officer gets there and they managed to call her husband Chris. Chris gets home, he says that he went to work at like 5.30 in the morning and Shanann was still in the house when he went to work. So they search for her in the house, they search for any kind of clues. No note, nothing, but her wedding ring...
 
-that one on purpose
+Beds empty, no note, car gone...
 
-that one i kind of did i should also
+All right Mrs Weasley. 
 
-probably say that
+Apart from the car was still there. 
 
-this is hard enough without me
+Yeah, which I think was one of the warning flags for her friend, that the car was still there but she wasn't answering the door or anything. Which, I mean, quite astute friend. If I had a friend who didn't answer my text messages... I mean I have a friend who hasn't answered me for like six months, I'm still not checking up on him.
 
-interrupting you yeah i know i get it
+I think it's not so much the individual phone calls and text messages that weren't replied to, but she knew she was pregnant and she missed her OB-GYN appointment. Which is more of a red flag than not picking up your phone.
 
-i was gonna say that the mlm part
+Yeah. Although to be fair, at the frequency that we're messaging, if you hadn't answered me for 12 hours I would be concerned. 
 
-is a bit hard for me
+I mean I don't get 12 minutes before someone starts video calling me.
 
-because i like subscribe to this
+For you listeners, that's not true. 
 
-anti-mlm subreddit and stuff
+It's 13.
 
-and i know how extremely
+We do send a lot of reddit links there inbetween.
 
-predative predative predative
+Give him the benefit of the doubt.
 
-predictive yeah they're very
+So the police gets there, they talk to Chris, he has no idea where his wife is. They find her ring, and then Chris says that they had an argument but he was like: "it wasn't that serious". So they were like: "okay". Goes to the neighbour's house, because the neighbour says that he has a security camera that points out to the street where you can see Shanann and Chris's house. When they were watching the security camera footage Chris isn't really looking at it, did you notice that? So he's glancing at it, looking at his phone...
 
-they're prejudices horrible
+And also seems incredibly agitated. 
 
-companies that yeah
+Yeah. For me watching it, because it was in the documentary, I was like: "all right, he seems a bit sketchy". But for the neighbour who knows him and who's talked to him and stuff like that, he was like: "this is not his normal behavior". Which I also felt like, that neighbour is very astute, but he was like: "oh he's very talkative and he's very like agitated, this is not how he usually behaves". The police officer kind of brushes that aside and says: "well, anyone would be nervous if the wife was missing" kind of.
 
-yeah it's a very aggressive sales
+I think the police officer paid attention to it, and it was probably put in his statement. But it wasn't like: "uh oh, well he's acting super suspicious, let's arrest him now". He was given the benefit of the doubt because his wife and two children were missing. So yeah, I don't think you can place any blame on the police officer for not following that lead. I think he did seem interested when he was speaking to the neighbor about the differences in behavior, but did sort of not bring it to the main point of attention because of the circumstances. 
 
-technique
+Which I definitely get. But then the neighbor says something bone chilling, and it was when he pointed out that when Chris leaves for work, he's loading stuff in his car, he can see Chris backing the car into the garage or something. I don't remember exactly what it was, but he says to the police: "he never takes out his tools out from the car, so it's always in the car". 
 
-yeah and they also prey on like house
+Yeah, so that video clip of the car backing into the drive, Chris explained that he does that all the time because it's a shorter trip for him to unload all of his tools and equipment from his van, or truck, into the garage and vice versa. To which, once Chris had left, the neighbor was like: "he never does this, ever. That's not a thing that he does".
 
-wives
+Which is also very astute, but also gives me a bit of the creeps. Like how much did this neighbor watch his neighbors with a security camera?
 
-a lot and old people people that
+No, to be fair, when you live in that kind of environment when you are in a detached house but you've got close proximity of neighbors, you do know their behaviors because you hear a truck in the middle of the night and you're like: "oh what's this". You look out the window: "oh it's just the next door neighbor coming home from work, or leaving for work". If for every working day of you being neighbors, your neighbor has never backed his truck up into his driveway and then one night he does and you've got that on camera, it's suspicious. And I don't think you have to be a peeping tom kind of neighbor to be able to note something suspicious.
 
-don't have any source of income
+No, that's true. And I also want to say that I'm not like blaming him or anything. I think that he was very helpful because it did lend towards the case against Chris, the fact that he was on camera backing his car into the garage. I think it's good that he was like: "this is not normal". Only two days afterwards, after the disappearance of his wife and children, Chris was arrested by the police.
 
-and people that it's a bit tricky
+Well it wasn't going to be by the chicken sellers, was it?
 
-because it does
+And one thing that led to his arrest was that he was subjected to a polygraph test, and this is shown very briefly in the documentary, but it was actually a five-hour polygraph test and he scored abysmally low. So he was asked about his wife and his children, where they were, did he know what happened to them, yada yada yada. And he sometimes in that polygraph test referred to his children in a past tense, which is one of those dead giveaways. And I know, well maybe you do this, I would guess you don't, but sometimes I listen to like 9-1-1 calls when I know that one of the people are guilty in the calls. And then I watch like a whole breakdown of: "what does this behavior, and what do these choices of words say about the person who's calling", and one of the red flags in those 911 calls is if they talk about a person in a past tense. It means that they know that they're dead. Even though he was like, to the police and to the media and everyone, he would say that: "I think they're out there somewhere. If you're out there, please come back". But in the police interview, in the polygraph test, he sometimes would slip up and talk about his children in the past tense. Which might not be a interesting detail for you, but it was for me. 
 
-paint shanann in a pretty dark light
+I think the whole polygraph episode, I was just rolling my eyes throughout the whole thing. I cannot believe that in this day and age there are institutions like the police force, like the FBI, like the CSI that still use polygraph as an acceptable form of evidence of guilt in a court of law.
 
-but i would also like to say that a lot
+But they don't. 
 
-of people
+Yes they do.
 
-get roped into these companies
+They don't admit it as evidence. I think it was to put pressure on him. 
 
-so i don't blame her but i think that a
+In which case, it's a honey trap and again shouldn't be admissible. There's no reason to be using a polygraph, you can get the same set of results from a polygraph as you can from just interviewing. 
 
-lot of other people do
+Yeah, that's true. I think... 
 
-yeah i don't know what i wanted to go
+And because there's no forensic evidence in this case, I looked into the polygraph a little bit further. As we're on it, you're gonna get that now. So the polygraph test is commonly known as a lie detector test, as I'm sure you're aware. There's no such thing as a lie detector test. There's no physiological evidence of when a person is lying versus when a person is telling the truth. So all of these wires and tapes that they get you to put on your fingers and across your heart, and you have to sit on a sensor in the chair to tell whether you're clenching your butt cheeks or not. Genuine, not even making that up. 
 
-with that
+What? I thought... I didn't know that, the butt one, or the sitting one. 
 
-i felt like very uncomfortable in my
+In the documentary on Netflix, she tells him to sit down on the chair and they have a little discussion about it, and she's like: "yeah it's a bit weird, don't worry about it, it's not on right now". 
 
-whole body when i tried to speak about
+Oh! I didn't notice.
 
-it and i didn't know what to say and i
+That's a sensor for involuntary gluteal maxima stimulation.
 
-was like
+That's funny. 
 
-but oh well mlm bad yeah
+But, what the polygraph is actually measuring is your blood pressure, your pulse, your breathing rate and your skin conductivity, which is a direct correlation to sweat. So if you're sweating you're supposedly meant to be lying or uncomfortable about something, which is why I could take a polygraph test and would fail it, because I'm always sweating.
 
-so not necessarily bad
+Yeah. 
 
-oh yeah that's a pretty pretty good
+So basically, the polygraph is measuring, and I'm using this in the scientific term, prepare yourself. 
 
-description i would say
+I'm prepared. 
 
-the company leaders the actual people
+A polygraph measures arousal. 
 
-that
+Oh! My gluteus maximus just clenched. 
 
-make money out of these companies they
+Guilty. What they don't tell you when you're having a polygraph, or if you're looking at a polygraph reading, or any of this. Is that a polygraph can be affected by anxiety, PTSD, nervousness, fear, confusion, hypoglycemia, psychosis, depression, highs from substances, withdrawals from substances and other strong emotions.
 
-are the evil ones
+Yeah. Yeah I know...
 
-i would pharaohs play now yeah the
+So there are so many biological reasons why a polygraph result is absolute bullshit. 
 
-pharaohs yes because it's a pyramid
+Yeah.
 
-sheep i got the joke
+There is absolutely no reason in a logical, orderly, scientific world that we live in in 2020, or in this case 2018, that a polygraph should be used. And that's my rant about polygraphs over.
 
-you're welcome so nicole atkinson
+I do understand what you're saying, and it is inadmissible as evidence, which I think is good, because it wasn't.... I don't remember when it...
 
-after their trip i think it was
+But they did arrest him on the basis of his failed polygraph.
 
-a company trip for the mlm thing
+Not only. I think that some of the other things why they arrested him was: one, there was no signs of foul play, nothing was missing from the house, her purse, her phone was still there, her car...
 
-yeah so they worked together and it was
+Which he actually raised in his interview, didn't he? He was like: "I'm worried that she might have been abducted by someone she knows because there was no sign of struggle" and the police officers were like: "yes. Yes, you're right. That's a good point Chris, we didn't think of that. There was no sign of struggle, it must have been someone she knew". 
 
-described as a business trip
+Yeah. I think they knew the whole time that it was him. And also, I think they subjected him to the polygraph because they wanted him to... 
 
-yeah she became concerned because
+They wanted to break him.
 
-shenan had missed a scheduled objen
+Yeah. There is actually a series about the invention of the polygraph test and it's very raunchy. The series. 
 
-appointment and she did not answer
+Not the polygraph, that's just a set of machines. 
 
-any texts or phone calls which was very
+I think he was also arrested because he claimed to the police during his interview, and the polygraph test, and stuff like that. He repeatedly said: "I have never cheated on my wife. I didn't cheat on my wife" but his girlfriend at the time, because he was cheating, surprise, surprise, had contacted the police. Because she said, and this is also possibly not true, but she said that they worked together and Chris had told her that he was leaving his wife. But then she saw the news about his wife's disappearance and that she was pregnant, and stuff like that, and she said that: "actually, I don't know this guy that well. I'm gonna call the police and tell them that we're in the relationship and I don't know, but it seems suspicious". But the police later determined as well that she had been googling Shanann a lot before calling the police and before Shanann disappeared. So she probably knew that she was pregnant and she probably knew that Shanann wasn't planning on divorcing her husband at any point. Because apparently she had been googling her insistently, like a lot, before the disappearance and stuff like that. 
 
-unusual for her because she was very
+I think you mean incessantly. 
 
-much obsessed on her phone yes yes which
+Yes, incessantly. But what I would also like to say is that even if she knew, doesn't matter in the grand scheme of things, but I'm glad that she called the police. 
 
-a lot of people were in that day and age
+Yeah. She was a vital cog in the whole "arrest Chris" machine.
 
-two years ago you know i remember
+And that's actually really commendable. Because it's also true, like how well do you know someone that you've met a couple of months ago? You don't really. And his wife is disappearing, pregnant and stuff, it's almost always the partner. Well it's almost always the partner statistically speaking, not almost always, but like a very high percent.
 
-so she went to the house and she tried
+I'd like to see your coefficient verification and standard deviation for this abominable claim
 
-to
+I don't actually know the numbers but you could probably google it. But the thing is... I would also like to say, that even if she had googled and knew that they weren't divorcing and knew that she was pregnant before she disappeared, it doesn't really matter. Because she did call the police and was like: "I'm actually in a relationship with this guy, so he might be suspect", which he was. Definitely. So during the interviewing and the polygraph and stuff, and this annoyed me so much, but I know that it's like a police tactic that during the interview they were like: "oh well, Chris, we know that women can be crazy sometimes. Did she do something to make you angry?". I know that it's a tactic to get him to confess, but it did annoy me that they were so nice to him and that they were like: "maybe it was Shanann's fault, maybe she did something to the babies, and then you were like angry about that". Did you see that in the documentary?
 
-phone shanann she tried to ring the
+I remember the "women can be crazy" part, but I don't think they ever led with questions like: "maybe she did something to the children".
 
-doorbell
+I think they did at some point, but I know... I think.... 
 
-she wouldn't answer so she got concerned
+Because that's not a policing technique, that's a leading question, and if a defense lawyer got hold of that interview tape you wouldn't be able to prosecute him on it. 
 
-and called the police which i think
+Yeah. Now I'm second guessing myself, but I really think that they did kind of lead him into that. And then he says that he wants to talk to his dad. His dad comes in, and he tells his dad that Shanann murdered the daughters and then he got angry and murdered Shanann. And obviously this is a lie, but they were like: "oh, are you feeling okay?" and like rubbed his back and stuff. I was like: "why would you treat a murderer"... I know that it's a tactic... 
 
-is a good move surprisingly
+It was his dad that was rubbing his back.
 
-good because it wasn't even like she was
+Yeah, but the police... 
 
-missing
+The police officer squeezed his shoulder on the way out, but at that stage they were under the impression that this was like a revenge act because his wife had just killed his two kids. 
 
-for a week she didn't answer her phone
+I don't think they ever thought that. The polygraph lady, she rubs his back a lot. 
 
-for like a couple of hours remember she
+Well the polygraph lady isn't a police officer, she's a psychologist.
 
-had gotten home
+Yeah okay, that's true. It did rub me the wrong way that they were so nice to him because obviously they know that he's lying about never having cheated on his wife, that he had met someone new, they knew all of that. And so... Yeah, I don't know. We don't have to argue about it, but I just felt like it was so much empathy for a guy that doesn't deserve it. Because I'm pretty sure that they knew that Shanann never killed the daughters.
 
-that morning at 2 am and her friend is
+Prove it. I'm joking, you can carry on.
 
-like
+So they wanted to know where his family was buried, and after a lot of like interviewing and stuff like that, I think he was there for a long time, he tells them where they are buried. So at his place of work, they dig up Shanann, and the sheet that he wrapped her body in was on top of where she was buried. And then he also tells them that he put his daughters in an oil tank, so they....
 
-oh no something is very wrong so an
+Can I just interject here?
 
-officer arrived to the
+Yeah. 
 
-house to do a welfare check at about
+So they knew that he worked at this site, they spoke to his boss as a character witness. So like, they did all of their investigation. They admitted, the police this is, in the interview that they recovered that sheet from the site. Where the are their forensics officers? 
 
-2 p.m so at that point it's
+What do you mean?
 
-24 hours but still very quickly
+Why was that sheet not tested for Shanann's hair, or body fluid, or anything?
 
-12 hours 12 hours sorry my math
+I think that they found the sheet after he told them where they were buried. 
 
-so an officer gets there and they
+Oh. I assumed they visited the site before he told them, like checking out all of the leads and stuff, but okay. 
 
-managed to call her husband chris
+I would guess, because he was arrested just two days after she went missing. 
 
-chris gets home he says that
+Yeah, it was all very quick. 
 
-he went to work at like 5 30 in the
+Yeah. I think that they just went there to dig up the body more or less, I would guess. But I'm not... I can't say for sure. So then they said, I think this is right, but I might be wrong, you can correct me on this but... 
 
-morning
+I'll do my best. 
 
-and shanann was still in the house when
+That they'll take the death penalty off the table if he admits to everything. 
 
-he went to work
+There was a plea deal involved. If he pleaded guilty he wouldn't get the death sentence, but that was proposed by Shannan's mum. That wasn't a court decision, she... It was either her, or a joint decision with both the parents, but they said they didn't want any more death. If he pleads guilty, just give him life rather than the death penalty. 
 
-so they search for her in the house they
+I think, fair enough. 
 
-search for any kind of clues
+It's quite admirable, really. 
 
-no note nothing but accepting
+Yeah. I would also like to say that some of the reasons for why he was arrested so quickly, was that he had called the daughters school to unroll them from school before he was even arrested. So they definitely knew that he knew that they were dead.
 
-no no car gone
+Or gone. 
 
-all right mrs weasley apart from the car
+Yeah. And then he confesses that he and Shanann has an argument, he kills Shanann by strangling her, and then takes the children with the dead body of their mother in the car and says that: "mommy's not feeling well, but she'll be fine", takes them to the site and kills them. Then what later emerges in his private correspondence is that he tried to smother his children before even going to bed, so... 
 
-was still
+I didn't know that.
 
-there yeah which i think was one of the
+He didn't have an argument with Shanann. He tries to smother his children with a pillow, goes to bed, has an argument with Shanann, he thinks that he just murdered his daughters, doesn't say that to Shanann but strangles her to death. And then his daughters wake up and comes in when he's wrapping up their mother in a sheet, and one of them is badly bruised and he takes them in the car and kills them on site, where he buried the bodies or where he buried Shanann, and put the daughters in the oil tank. He also confesses in his private correspondence that he had planned the murders for a while. He had also tried to force Shanann to miscarriage by giving her opiates. I think it was oxy... 
 
-warning flags for her friend
+Oxycontin?
 
-that the car was still there but she
-
-wasn't answering the door or anything
-
-which i mean quite astute friend if i
-
-had a friend who didn't
-
-answer my text messages i mean i have a
-
-friend who hasn't
-
-answered me for like six months so much
-
-the individual phone calls and text
-
-messages that weren't replied to
-
-but she knew she was pregnant and she
-
-missed her
-
-obgyn appointment which is
-
-more of a red flag than not picking up
-
-your phone
-
-yeah although to be fair at the
-
-frequency that
-
-we're messaging if you hadn't answered
-
-me
-
-for 12 hours i would be
-
-concerned i mean i don't get 12 minutes
-
-before someone starts video calling me
-
-for you listeners that's not true it's
-
-13.
-
-we do send a lot of reddit links there
-
-give him the benefit of the dow
-
-so the police gets there they talk to
-
-chris he has no idea where his wife is
-
-they find
-
-her ring and then chris says that they
-
-had an
-
-argument but he was like it wasn't like
-
-that serious so they were like okay
-
-goes to the neighbor's house because the
-
-neighbors
-
-says that he has a security camera that
-
-points out
-
-to the streets where you can see shanann
-
-and chris's house when they were
-
-watching
-
-the security camera footage
-
-chris isn't really looking at it did you
-
-notice that
-
-so he's glancing at it looking and also
-
-seems
-
-incredibly agitated yeah for me
-
-watching it because it was in the
-
-documentary i was like all right
-
-he seems a bit sketchy but for the
-
-neighbor who knows him and knows talk to
-
-him and stuff like that
-
-he was like this is not his normal
-
-behavior which i also felt like
-
-that neighbor is very astute but he was
-
-like oh
-
-he's very talkative and he's very like
-
-agitated
-
-this is not how he usually behaves the
-
-police officer
-
-kind of brushes that aside and says well
-
-anyone would be nervous if the wife was
-
-missing kind of
-
-i think the police officer paid
-
-attention to it and it was probably
-
-put in his statement but it wasn't like
-
-uh
-
-oh well he's acting super suspicious
-
-let's arrest him now
-
-he was given the benefit of the doubt
-
-because his wife and two children
-
-were missing so yeah i don't think you
-
-can place any blame
-
-on the police officer for not following
-
-that lead i think
-
-he did seem interested when he was
-
-speaking to the neighbor
-
-about the differences in behavior but
-
-did sort of
-
-not bring it to the main point of
-
-attention
-
-because of the circumstances which i
-
-definitely get
-
-but then the neighbor says something
-
-bone chilling
-
-and it was when he pointed out that when
-
-chris
-
-lives for work he's loading stuff in his
-
-car
-
-he can see chris backing the car into
-
-the garage or something i don't remember
-
-exactly what it was
-
-but he says to the police he never
-
-takes out his tools and from the
-
-car
-
-so it's always in the car yeah so that
-
-video clip
-
-of the car backing into the drive chris
-
-explained that he does that all the time
-
-because
-
-it's a shorter trip for him to unload
-
-all of his tools and equipment
-
-from his van or truck into the garage
-
-and vice versa
-
-to which once chris had left the
-
-neighbor
-
-was like he never does this ever that's
-
-nothing that he does
-
-which is also very astute but also gives
-
-me a bit
-
-of the crips like how much did this
-
-neighbor
-
-watch his neighbors with a security
-
-camera
-
-no to be fair when you live in that kind
-
-of
-
-environment when you are in a detached
-
-house
-
-but you've got close proximity of
-
-neighbors
-
-you do know their behaviors because
-
-you hear a truck in the middle of the
-
-night and you're like oh what's this you
-
-look out the window oh it's just next
-
-door neighbor coming home from work or
-
-leaving for work if for every working
-
-day
-
-of you being neighbors your neighbor has
-
-never backed his truck up into his
-
-driveway
-
-and then one night he does and you've
-
-got that on camera
-
-it's suspicious and yeah i don't think
-
-you have to be a peeping tom kind of
-
-neighbor
-
-to be able to note something suspicious
-
-no that's true and i also want to say
-
-that i'm not like
-
-blaming him or anything i think that he
-
-was very
-
-helpful because it did lend towards
-
-the case against chris the fact that
-
-he was on camera backing his car into
-
-the garage
-
-i think it's good that he was like this
-
-is not
-
-normal only two days afterwards
-
-after the disappearance of his wife and
-
-children
-
-chris was arrested by the police
-
-well it wasn't going to be by the
-
-chicken cellars was it
-
-and one thing that led to his arrest
-
-was that he was subjected to a polygraph
-
-test
-
-and this is shown very briefly
-
-in the documentary but it was actually
-
-a five-hour polygraph test and he
-
-scored abysmally low
-
-so he was asked about like his wife and
-
-his children where they were
-
-did he know what happened to them yada
-
-and he sometimes
-
-in that polygraph test referred to his
-
-children in a past tense which is one of
-
-those
-
-dead giveaways and i know well maybe you
-
-do this
-
-i would guess you don't but sometimes i
-
-listen to
-
-like 9-1-1 calls when i know
-
-that one of the people are
-
-guilty in the calls and then i watch
-
-like a whole breakdown of what does this
-
-behavior and what do these choice of
-
-words
-
-say about the person who's calling
-
-and one of the red flags in those 911
-
-calls
-
-is if they talk about a person in a past
-
-tense it means that they know that
-
-they're dead
-
-even though he was like to the police
-
-and to the media and everyone
-
-he would say that i think they're out
-
-there somewhere if you're out there
-
-please come back by in the police
-
-interview in the polygraph test he
-
-sometimes would slip
-
-up and talk about his children in the
-
-past tense
-
-which might not be a interesting detail
-
-for you
-
-but it was for me i think the whole
-
-polygraph episode it was just rolling my
-
-eyes
-
-throughout the whole thing i cannot
-
-believe
-
-that in this day and age there are
-
-institutions like the police force
-
-like the fbi like the csi
-
-that still use polygraph
-
-as an acceptable form of evidence of
-
-guilt in a court of law yes they do
-
-admit it as evidence i think
-
-it was to put pressure on him in which
-
-case
-
-it's a honey trap and again shouldn't be
-
-admissible
-
-there's no reason to be using
-
-a polygraph you can get the same set of
-
-results from a polygraph
-
-as you can from just interviewing yeah
-
-that's true
-
-i think and because there's no forensic
-
-evidence in this case i looked into the
-
-polygraph
-
-a little bit further so we're on it
-
-you're gonna get that now
-
-so the polygraph test is commonly known
-
-as a lie detector test as i'm sure
-
-you're aware
-
-there's no such thing as a lie
-
-detector test there's no physiological
-
-evidence of when a person is lying
-
-versus when a person is telling the
-
-truth so
-
-all of these wires and tapes that they
-
-get you to put on your fingers and
-
-across your heart
-
-and you have to sit on a sensor in the
-
-chair to
-
-tell whether you're clenching your butt
-
-cheeks or not genuine
-
-not even making that up what i thought i
-
-didn't know that
-
-the butt one was a sitting one in the
-
-documentary on netflix she tells him to
-
-sit down on the chair and they have a
-
-little discussion about it and she's
-
-like yeah it's a bit weird
-
-don't worry about it it's not on right
-
-now oh
-
-that's a sensor for involuntary
-
-gluteal maxima stimulation
-
-that's funny but what the polygraph is
-
-actually measuring
-
-is your blood pressure your pulse
-
-your breathing rate and your skin
-
-conductivity which is a
-
-direct correlation to sweat so if you're
-
-sweating
-
-you're supposedly meant to be lying or
-
-uncomfortable about something which is
-
-why i could take a polygraph test
-
-and would fail it because i'm always
-
-sweating
-
-yeah so basically the polygraph is
-
-measuring
-
-and i'm using this in the scientific
-
-term
-
-prepare yourself i'm preparing a
-
-polygraph
-
-measures arousal oh my gluteus maximus
-
-just
-
-clenched guilty
-
-what they don't tell you when you're
-
-having a polygraph or if you're looking
-
-at a polygraph reading or any of this
-
-is that a polygraph can be affected by
-
-anxiety ptsd
-
-nervousness fear confusion hypoglycemia
-
-psychosis depression
-
-highs from substances withdrawals from
-
-substances and other strong emotions
-
-yeah yeah so there are so many
-
-biological reasons why a polygraph
-
-result is absolute yeah
-
-there is absolutely no reason in a
-
-logical orderly scientific world that we
-
-live in in 2020
-
-or in this case 2018 that a polygraph
-
-should be used and that's my rounds
-
-about polygraphs over
-
-i do understand what you're saying and
-
-it is
-
-inadmissible as evidence which i think
-
-is good
-
-because it wasn't i don't remember
-
-they did arrest him on the basis of his
-
-failed polygraph
-
-not only i think that some of the other
-
-things why they arrested him was
-
-one there was no signs of foul play
-
-nothing was missing from the house her
-
-purse her phone was still there
-
-her car which he actually raised in his
-
-interviews didn't he
-
-he was like i'm worried that she might
-
-have been abducted by someone she knows
-
-because there was no sign of struggle
-
-and the police officers were like
-
-yes yes you're right that's a good
-
-point chris we didn't think of that
-
-there was no sign of struggle
-
-it must have been someone she knew yeah
-
-i think they knew the whole time that it
-
-was him
-
-and also i think they subjected him to
-
-the polygraph
-
-because they wanted him to they wanted
-
-to break him
-
-yeah there is actually a series about
-
-the invention of the polygraph test and
-
-it's
-
-very raunchy the series not the
-
-polygraph
-
-that's just a set of machines i think he
-
-was
-
-also arrested because he claimed to the
-
-police during his
-
-interview and the polygraph test and
-
-stuff like that
-
-he repeatedly said i have never
-
-cheated on my wife i didn't cheat on my
-
-wife
-
-but his girlfriend at the time because
-
-he was cheating
-
-surprise surprise had contacted the
-
-police
-
-because she said and this is also
-
-possibly not true but she said
-
-that they worked together and chris had
-
-told her that he was leaving his
-
-wife but then she saw the news
-
-about his wife's disappearance and
-
-that she was pregnant and stuff like
-
-that and she said
-
-that actually i don't know this guy that
-
-well
-
-i'm gonna call the police and tell them
-
-that we're in the relationship
-
-and i don't know but it seems suspicious
-
-but the police later determined as well
-
-that she had been googling shanann
-
-a lot before calling the police and
-
-before
-
-shenan disappeared so she probably
-
-knew that she was pregnant and she
-
-probably knew
-
-that shanam wasn't planning on divorcing
-
-her husband at any point because
-
-apparently she had been googling
-
-her insistently like a law
-
-before the disappearance and stuff like
-
-that i think you mean
-
-incessantly yes incessantly
-
-but what i would also like to say is
-
-that
-
-even if she knew doesn't matter in the
-
-grand scheme of things but i'm glad
-
-that she called the police yeah she was
-
-a vital
-
-cog in the whole arrest chris machine
-
-and that's actually really commendable
-
-because it's also true
-
-like how well do you know someone that
-
-you've met a couple of months ago
-
-like you don't really and his wife
-
-is disappearing pregnant and stuff
-
-it's almost always apart
-
-well it's almost always the partner
-
-statistically speaking
-
-not almost always but like a very high
-
-percent
-
-i'd like to see your coefficient
-
-verification
-
-and standard deviation for this
-
-abominable claim
-
-i don't actually know the numbers but
-
-you could probably go through it
-
-but the thing is i would also like to
-
-say that even if she had googled and
-
-knew
-
-that they weren't divorcing and knew
-
-that she was pregnant before
-
-she disappeared it doesn't really matter
-
-because she did
-
-call the police and was like i'm
-
-actually in a relationship with this guy
-
-so he might be suspect which he was
-
-definitely so during the
-
-interviewing and the polygraph and stuff
-
-and this annoyed me so
-
-much but i know that it's like a police
-
-tactic
-
-that during the interview they were like
-
-oh well chris
-
-we know that women can be crazy
-
-sometimes
-
-did she do something to make you
-
-angry i know that it's a tactic
-
-to get him to confess but it did
-
-annoy me that they were like so nice to
-
-him
-
-and that they were like maybe it was
-
-shanann's fault maybe
-
-she did something to the babies
-
-and then you were like angry about
-
-that did you see that in the documentary
-
-i remember the women can be crazy
-
-part but i don't think they ever
-
-led with questions like maybe she did
-
-something to the children
-
-i think they did at some point but i
-
-know
-
-i think because that's not a policing
-
-technique
-
-that's a leading question and if a
-
-defense lawyer got hold of that
-
-interview tape
-
-you wouldn't be able to prosecute him on
-
-it yeah now
-
-i'm second guessing myself but i really
-
-think that they did
-
-kind of lead him into that and then he
-
-says that he wants to talk to his dad
-
-his dad
-
-comes in and he tells his dad that
-
-shanann
-
-murdered the daughters and then he got
-
-angry and murdered shanann
-
-and obviously this is a lie but
-
-they were like oh are you feeling okay
-
-and like
-
-rubbed his back and stuff i was like why
-
-would you
-
-treat a murderer i know that it's
-
-attacking it was his dad that was
-
-rubbing his back
-
-yeah but the police the police officer
-
-squeezed his shoulder on the way out
-
-but at that stage they were under the
-
-impression
-
-that this was like a revenge act because
-
-his wife had just killed his two kids i
-
-don't think they ever
-
-thought that the polygraph lady
-
-she rubs his back a lot well the
-
-polygraph
-
-lady isn't a police officer she's a
-
-psychologist
-
-yeah okay that's true it did rub me the
-
-wrong way that they were so nice to him
-
-because obviously they know that he's
-
-lying about
-
-never having cheated on his wife that
-
-he had met someone new they knew all of
-
-that
-
-and so yeah i don't know we don't have
-
-to argue about it but
-
-i just felt like it was so much empathy
-
-for a guy that
-
-doesn't deserve it because i'm pretty
-
-sure that they knew
-
-that shenan never killed the daughters
-
-prove it i'm joking you can carry on
-
-so they wanted to know where his family
-
-was buried
-
-and after a lot of like interviewing and
-
-stuff like that i think he was there for
-
-a long time
-
-he tells them where they are buried
-
-so at his place of work they dig up
-
-shenan
-
-and the sheet that he wrapped her body
-
-in
-
-was on top of where she was buried and
-
-then he also
-
-tells them that he put his daughters
-
-in an oil tank so they just interject
-
-here
-
-yeah so they knew that he worked at this
-
-site
-
-they spoke to his boss as a character
-
-witness
-
-so like they did all of their
-
-investigation they admitted
-
-the police this is in the interview that
-
-they recovered that sheet from the site
-
-where the are their forensics
-
-officers what do you mean
-
-why was that sheet not tested for
-
-shenan's
-
-hair or body fluid or anything
-
-i think that they found the after
-
-he told them where they were buried oh i
-
-assumed they visited the site
-
-before he told them like checking out
-
-all of the leads and stuff but okay i
-
-would guess
-
-because he was arrested just two days
-
-after
-
-she went yeah it was all very quick yeah
-
-i think that they just
-
-went there to dig up the body more or
-
-less i would guess
-
-but i'm not i can't say for sure
-
-so then they said
-
-i think this is right but i might be
-
-wrong you can correct me on this
-
-but i'll do my best that they'll take
-
-the death penalty off the table
-
-if he admits to everything there was a
-
-plea deal
-
-involved if he pleaded guilty he
-
-wouldn't get the death sentence
-
-but that was proposed by
-
-shannan's mum okay that wasn't the court
-
-decision she
-
-it was either her or a joint decision
-
-with both the parents but they said they
-
-didn't
-
-want any more death if he pleads guilty
-
-just give him life rather than the death
-
-penalty
-
-i think fair enough it's quite admirable
-
-really yeah
-
-i would also like to say that some of
-
-the
-
-reasons for why he was arrested so
-
-quickly
-
-was that he had called the daughter
-
-school to unroll them from
-
-school before he was even arrested
-
-so they definitely knew that he knew
-
-that they were dead
-
-or gone yeah and then he confesses
-
-that he and shanann has an
-
-argument he kills shanann
-
-by strangling her and then
-
-takes the children with the dead body
-
-of their mother in the car and says that
-
-mommy's not
-
-feeling well but she'll be fine takes
-
-them to the site
-
-and kills them there what later emerges
-
-in his private correspondence is that
-
-he tried to smother his children
-
-before even going to bed so i didn't
-
-know that
-
-he didn't have an argument with shanann
-
-he tries to smother his children with a
-
-pillow
-
-goes to bed has an argument with shanann
-
-he thinks that he just murdered his
-
-daughters
-
-doesn't say that to shanann but
-
-strangles her to death
-
-and then his daughters wake up
-
-and comes in when he's wrapping up their
-
-mother
-
-in a sheet and one of them is badly
-
-bruised
-
-and he takes them in the car and kills
-
-them
-
-on site where he buried the bodies or
-
-where he buried shanann
-
-and put the daughters in the oil tank
-
-he also confesses in his private
-
-correspondence
-
-that he had planned the murders for a
-
-while
-
-he had also tried to force shanann to
-
-miscarriage
-
-by giving her opiates i think it was
-
-oxy oxycontin
-
-yeah that one but it's unsuccessful
-
-so this was i think weeks before the
-
-actual murder happened
-
-but he definitely planned it he had been
-
-thinking about it for a while definitely
+Yeah, that one. But it's unsuccessful. So this was, I think, weeks before the actual murder happened. But he definitely planned it. He had been thinking about it for a while, definitely.
 
 what a cycle path yeah yeah
 
