@@ -33,7 +33,7 @@ exports.createPages = async ({ graphql, actions }) => {
     })
 
 
-    const postsPerPage = 4;
+    const postsPerPage = 6;
     const numPages = Math.ceil(data.podcastEpisode.edges.length / postsPerPage);
 
     Array.from({ length: numPages }).forEach((_, i) => {
