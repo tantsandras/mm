@@ -4,6 +4,9 @@ import AudioPlayer from "./useAudioPlayer"
 import AniLink from "gatsby-plugin-transition-link/AniLink"
 import { LeftArrowCircle } from "@styled-icons/boxicons-regular"
 import Article from "./article"
+import { Share } from "@styled-icons/entypo"
+import { TwitterWithCircle } from "@styled-icons/entypo-social"
+import { FacebookCircle } from "@styled-icons/boxicons-logos"
 
 
 const Text = styled.p`
@@ -48,6 +51,25 @@ margin-bottom: 100px;
 const Tag = styled.li`
 margin-right: 30px;
 `
+const Icons = styled.span`
+display: flex;
+flex-direction: row;
+align-content: flex-start;
+justify-content: flex-end;
+width: 100%;
+z-index: 6;
+`
+
+const Icon = styled.a`
+  padding-left: 30px;
+  text-decoration: none;
+  cursor: pointer;
+  color: #5f728c;
+  &:hover {
+    color: #d22d4c;
+    cursor: pointer;
+  }
+`
 
 
 const EpisodeComp = ({ episode, html }) => {
@@ -56,7 +78,27 @@ const EpisodeComp = ({ episode, html }) => {
     <>
 
       <Container>
+     
         <Article name={title} slogan={`${date} ${month}`}>
+        <Icons>
+        <Icon
+          className="twitter-share-button"
+          href={`https://twitter.com/intent/tweet?url=https%3A%2F%2Fembed.sounder.fm%2Fplay%2F${number}`}
+          aria-label="Share on twitter"
+        >
+          <TwitterWithCircle size="26" aria-hidden="true" />
+        </Icon>
+        <Icon
+          className="fb-share-button"
+          href={`https://www.facebook.com/sharer/sharer.php?u=https://embed.sounder.fm/play/${number}`}
+          aria-label="Share on facebook"
+        >
+          <FacebookCircle size="26" aria-hidden="true" />
+        </Icon>
+        <Icon href={`https://embed.sounder.fm/play/${number}`} aria-label="Link to embed this episode">
+          <Share size="26" aria-hidden="true" />
+        </Icon>
+      </Icons>
 
           {images.map(
             img => (

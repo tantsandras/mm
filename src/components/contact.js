@@ -34,7 +34,7 @@ const Contact = () => (
             aria-hidden="true"
           />
         </SocialLink>
-        Social media ain't our thing, but feel free to try.
+        Follow us on Twitter to hear snippets of new episodes and more.
       </Text>
     </Article>
     <Article name="Instagram" slogan="@midweekmurders">
@@ -51,8 +51,7 @@ const Contact = () => (
             aria-hidden="true"
           />
         </SocialLink>
-        There might be photos of Ollie (the dog) or Bodil (the cat) on here, but
-        no promises.
+        There are photos of Ollie (the dog) and Bodil (the cat) on here, come say hi!
       </Text>
     </Article>
     <Article name="YouTube" slogan="Midweek Murders">
