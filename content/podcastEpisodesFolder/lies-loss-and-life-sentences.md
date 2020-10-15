@@ -27,6 +27,10 @@ hashtags:
   - tag: "cheating "
   - tag: Polygraph tests explained
   - tag: MLM
+  - tag: "American Murder: The Family Next Door"
+  - tag: true crime documentary discussion
+  - tag: Victim statements
+  - tag: Colorado state laws
 ---
 <!--StartFragment-->
 
@@ -43,7 +47,7 @@ Sandra gor her information from the same documentary, as well as:
 
 * Wikipedia
 * A [medium.com article](https://medium.com/honestly-yours/what-netflixs-american-murder-didn-t-tell-you-about-chris-and-shanann-watts-2a90a9a88745), by Shannon Ashley
-* An [article in The Sun](https://www.thesun.co.uk/news/12863714/chris-watts-letter-shannan-watts-murder-colorado/), by Fionnuala O'Leary
+* An [article in The Sun](https://www.thesun.co.uk/news/12863714/chris-watts-letter-shannan-watts-murder-colorado/), by Fionnuala O'Leary. This is also where the photos of the Watts family can be found.
 
 #### Audio transcript
 
@@ -441,462 +445,134 @@ Oxycontin?
 
 Yeah, that one. But it's unsuccessful. So this was, I think, weeks before the actual murder happened. But he definitely planned it. He had been thinking about it for a while, definitely.
 
-what a cycle path yeah yeah
+What a psychopath.
 
-typical psychopath he was convicted of
+Yeah, yeah. Typical psychopath. He was convicted of five counts of first degree murder, unlawful termination of pregnancy, and three counts of tampering with a deceased human body.
 
-five
+Now some of you particularly avid listeners will realize that there were only three murders, but he was charged and sentenced with five. Hmm. How is that so? Well, I'll tell you. I'll tell you right now. He was given an additional life sentence for each of his children, as they were under the age of 12 and he was in the position of being a parental guardian. And for some reason in the state of Colorado, I don't know if it's federal law but it's definitely a state law, if those are the circumstances, killing a child gets you two life sentences. 
 
-counts of first degree murder unlawful
+I didn't know that.
 
-termination of pregnancy
+Oh well, you're very welcome. Oh yeah, what did you say he was charged for?
 
-and three counts of tampering with a
+Five first degree murder, unlawful termination of a pregnancy...
 
-deceased human body
+Yes. So that was the other one that I wanted to bring up. In some states in America, if you murder a fetus, by either killing the lady carrying or an unlawful abortion, you can be charged with first degree murder. In Colorado and certain other states, they do not recognize the killing of a fetus as a first-degree murder charge. So he was charged with the unlawful death of a fetus rather than a murder charge on top of that. Which he would have got in certain other states, he would have been charged with six cases of first degree murder in some states, but in this one it was only five and unlawful termination. 
 
-now some of you particularly
+Wait. I understand why you can be charged for killing someone else's baby if that is not their choice, but if you have an abortion for example...
 
-avid listeners will realize that there
+If it's an unlawful. If you don't go to an abortion clinic. So if you go back alley and meet someone who isn't a registered licensed doctor, that person can be charged either with first degree murder or unlawful termination of a pregnancy.
 
-were only
+Oh, okay. 
 
-three murders but he was charged
+Depending on which state you're in.
 
-and sentenced with five hmm
+Yeah. 
 
-how is that so well i'll tell you i'll
+Which is why it's always a debate in the U.S as to whether a fetus constitutes human life and whether abortion should be legal etc, etc.
 
-tell you right now
+Yeah. Obviously abortion should definitely be legal, abortion is a right. 
 
-he was given an additional life sentence
+Yes. We are pro-aboytion. \[Laughter] We're pro-aboytion, we're from the Bronx. If a woman wants to get an aboytion, she should get an aboytion. That's her choice.
 
-for each of his children as they
+That's funny. 
 
-were under the age of 12 and he was in
+We're pro-choice is what we're trying to say.
 
-the position
+Yeah, and it shouldn't even be pro-life because... 
 
-of being a parental guardian
+Yeah. All of you republican bot listeners out there that are pro-life, fuck you. 
 
-and for some reason in the state of
+Oh god. I think there was something else that I wanted to say. Yes, another thing that annoyed me a lot with the documentary... We should have said spoilers for the documentary at the start, but we're too deep in now. 
 
-colorado i don't know if it's federal
+Spoilers! Just cut it and put it where you need it.
 
-law but it's definitely a state law
+I found it extremely annoying that during the victim statements that they have, when Shanann's family can get up and... 
 
-if those are the circumstances killing a
+I think I know what you're going to say. 
 
-child
+Yeah, and they tell Chris that: "this is not okay, this is horrible. We love them you took away our child, our grandchildren blah blah blah". Which I think is important probably, because the victims get a chance to express what this has cost them. And I feel like that probably has a therapeutic...
 
-gets you two life sentences i didn't
+Yeah it could be quite cathartic, yeah.
 
-know that
+Which is good. And also because he's a dick and he should know that killing his whole family wasn't just... 
 
-oh well you're very welcome oh
+That's not how you get out of a marriage.
 
-yeah what did you say he was charged for
+No. Get a divorce you fucking coward. But when his parents get up and his mom is like: "we forgive you", I'm like that's not something you are allowed to do. 
 
-five first degree murder unlawful
+No. I also like how they cut to Shanann's dad after she said that and the look of disbelief on his face! 
 
-termination of a pregnancy
+Yeah. 
 
-yes so that was the other one that i
+He's like: "are you serious? This guy has just murdered your grandchildren and your daughter-in-law and you're like oh he's such a troubled soul, we forgive you, oh you poor baby", that he's like: "are you fucking kidding me".
 
-wanted to bring up
+God it made my blood boil. I'm like you're not allowed to do that because it's not your child and, well it is their grandchildren, but fucking hell. Like I get it if her family were like: "oh, we forgive you because we have to do that for our own sake" but his parents are like, you know. 
 
-in some states in america
+Well they never liked her in the first place.
 
-if you murder a fetus
+To summarize, I would just like to say to Chris Watts if he ever hears this, which... 
 
-by either killing the lady carrying
+You're a cunt.
 
-or an unlawful abortion
+He would never. But I hope you rot in jail for the rest of your life because... 
 
-you can be charged with first degree
+Although good bloody job with your weight loss. You did look much better than when you were a chubby psychotic bastard.
 
-murder in
+Good lord. 
 
-colorado and certain other states
+But I feel like that was probably the beginning of the end, in which case that is not a reason to get fit. 
 
-they do not recognize the killing of a
+Yeah.
 
-fetus
+To murder your wife and children. 
 
-as a first-degree murder charge so he
+No, definitely not. Of all the motivations you can have... 
 
-was charged with the unlawful
+It's a strong one, but not really sustainable.
 
-death of a fetus rather than
+Fucking hell, what a monster. What are you gonna do now? 
 
-a murder charge on top of that oh which
+I think Ollie does need another wee, he's been pestering me for like the last half an hour.
 
-he would have got
+Oh nooo. Oh! Do you want to know something nice? Bodil's been here for the whole recording.
 
-in certain other states he would have
+Awww little psychopath kitty. 
 
-been charged with
+Yeah, she just came in and sat with me for the whole recording. I'm like: "aww".
 
-six cases of first degree murder in some
+Oh, I like the sound of your voice, is what Bodil is saying. 
 
-states
+Yeah. I had a video call with my friend Jakob, and he was like: "yeah, I heard myself in English and I was like, fucking hell I sound so professional", and I'm like, that's so unfair because my register goes up when I'm speaking English. Like I have a much deeper and more pleasant voice in Swedish. 
 
-but in this one it was only five and
+When you're sounding Swedish.
 
-unlawful termination wait i understand
+And then when I speak in English my register just goes up and I sound like a child. 
 
-why you can be charged for killing
+"I sound like a little squeaky bear". "I speak English and everybody hears me, especially the dolphins. And then I speak Swedish and only the whales can hear me".
 
-someone else's baby
+I think it's also more like noticeable when I edit the episodes because you have a very deep voice and then I'm over here like: "hello".
 
-if that is not their choice but if you
+What about if I speak like this, would that be more helpful for you in your editing tones? It's a little bit more Shirley Bassey and a little bit less Tom Jones. Those are two very famous Welsh singers. \[Laughter]
 
-have an abortion for example
+I know, I know. Just because I didn't know about Cornish, I'm not... \[Laughter]
 
-if it's an unlawful if you don't go
+You know nothing about Great Britain. 
 
-to an abortion clinic so if you go back
+No, that's true. It's true.
 
-alley
+We'll fight them on the beaches, we will fight them in the air. I don't know the rest of Churchill's speech.
 
-and meet someone who isn't a registered
+Good try. It's almost there. 
 
-licensed doctor that person can be
+We will fight them on the beaches. We will fight them in the air. We will fight them on the land. We will destroy the nazis surge.
 
-charged
+Okay, should we say goodbye to the listeners? Goodbye, thank you so much for listening to Midweek Murders. We'll see you next week!
 
-either with first degree murder or
+Bye!
 
-unlawful termination of a pregnancy oh
-
-okay depending on which state you're in
-
-yeah which is why
-
-it's always a debate in the u.s as to
-
-whether
-
-a fetus constitutes human life
-
-and whether abortion should be legal etc
-
-etc
-
-yeah obviously abortion should
-
-definitely be legal
-
-abortion is a right yes we are
-
-pro-abortion
-
-we're pro-abortion we're from the bronx
-
-if a woman wants to get an abortion she
-
-should get an abortion
-
-that's her choice
-
-oh that's funny we're pro-choice is what
-
-we're trying to say
-
-yeah and it shouldn't even be pro-life
-
-because yeah all of you republican
-
-bot listeners out there that are
-
-pro-life
-
-you oh god
-
-i think there was something else that i
-
-wanted to say
-
-yes another thing that annoyed me a lot
-
-with the documentary
-
-we should have said spoilers for the
-
-documentary at the start
-
-but we're too deep in now spoilers
-
-just cut it and put it where you need it
-
-i found it
-
-extremely annoying that during the
-
-victim statements that they have
-
-when shenan's family can get up
-
-and i think i know what you're going to
-
-say yeah
-
-and they tell chris that this is not
-
-okay this is horrible
-
-we love them you took away our child
-
-our grandchildren blah blah blah which i
-
-think
-
-is important probably because the
-
-victims
-
-get a chance to express
-
-what this has cost them
-
-and i feel like that probably has a
-
-therapeutic
-
-yeah it could be quite cathartic yeah
-
-which is good and also because he's a
-
-dick and he should know that killing his
-
-old family
-
-wasn't just that's not how you get out
-
-of a marriage
-
-no get him divorced
-
-coward
-
-but when his parents get up
-
-and his mom is like we forgive you
-
-i'm like that's not something you
-
-are allowed to do no i also like how
-
-they cut
-
-to shenan's dad after she said that and
-
-the
-
-look of disbelief on his face yeah he's
-
-like are you serious
-
-this guy has just murdered your
-
-grandchildren
-
-and your daughter-in-law and you're like
-
-oh it's such a troubled soul
-
-we forgive you oh you poor baby
-
-that he's like you're kidding me
-
-god
-
-it made my blood boil i'm like
-
-you're not allowed to do that
-
-because it's not your child and
-
-well it is their grandchildren but
-
-hell like i get it if her family
-
-were like oh we forgive you because we
-
-have to do that
-
-for our own sake but his parents
-
-are like you know well they never
-
-liked her in the first place
-
-to summarize i would just like to say
-
-to chris watts if he ever hears this
-
-which here comes
-
-he would never but i hope you rot in
-
-jail for the rest of your life
-
-because although good bloody job
-
-with your weight loss you did look
-
-much better than when you were a
-
-chubby psychotic bastard
-
-good lord but i feel like that was
-
-probably the beginning of the end
-
-in which case that is not a reason to
-
-get fit yeah
-
-to murder your wife and children no
-
-definitely not of all the motivations
-
-you can have it's a strong one
-
-but not really sustainable it out
-
-what a monster
-
-what are you gonna do now i think ollie
-
-does need another wii he's been
-
-pestering me for like the last half an
-
-hour
-
-oh oh do you want to know something nice
-
-been here for the whole recording
-
-a little psychopath kitty yeah she just
-
-came in
-
-and sat with me for the whole recording
-
-i'm like oh
-
-oh i like the sound of your voice is
-
-what poodle is saying yeah
-
-i had a video call with my friend jacob
-
-and he was like yeah i heard myself in
-
-english and i was like in hell i
-
-sound so professional
-
-and i'm like that's so unfair because my
-
-register goes up when i'm speaking
-
-english like i have a much deeper and
-
-more pleasant
-
-voice in swedish when you're sounding
-
-swedish
-
-and then when i speak in english my
-
-register just goes up and i
-
-sound like a child i sound like a little
-
-squeaky bear
-
-speak speak english and everybody hears
-
-me especially the dolphins
-
-and then i speak swedish and only the
-
-whales can
-
-hear me
-
-i think it's also more like noticeable
-
-when i edit the episodes because you
-
-have a very deep voice and then i'm like
-
-over here like hello
-
-what about if i speak like this
-
-would that be more helpful for you in
-
-your editing tones
-
-it's a little bit more shirley bassy and
-
-a little bit
-
-less tom jones
-
-those are two very famous welsh singers
+Shia La-bye-ouf.
 
 \[Music]
-
-because because i didn't know about
-
-cornish i'm not
-
-\[Laughter]
-
-you know nothing about great britain i
-
-know that's true
-
-we'll fight them on the beaches we will
-
-fight them
-
-in the air i i don't know the rest of
-
-churchill's speech
-
-good try it's almost there we will fight
-
-them on the beaches
-
-we will fight them in the air
-
-we will fight them on the land
-
-we will destroy the nazis sarge
-
-okay should we say goodbye to the
-
-listeners
-
-goodbye thank you so much for listening
-
-to
-
-midweek murders we'll see you next week
-
-bye
-
-\[Music]
-
-hey
-
-you
 
 <!--EndFragment-->
