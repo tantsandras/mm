@@ -20,7 +20,7 @@ const Episodes = ({ children }) => {
       <Article name="Midweek Murders" slogan="A true crime comedy podcast">
         <Text>
           If you like what you hear, please rate, reveiw and subscribe
-          (preferably on Itunes).
+          (preferably on Apple Podcasts).
         </Text>
       </Article>
 
