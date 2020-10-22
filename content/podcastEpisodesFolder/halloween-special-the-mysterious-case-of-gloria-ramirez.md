@@ -47,8 +47,6 @@ Sandra got her information from:
 * [Article](https://journal.medizzy.com/the-bizarre-death-of-the-toxic-lady/) on Medizzy Journal, by Dr Aiman Shahab
 * Washington Post [article](https://www.washingtonpost.com/archive/politics/1994/04/30/case-of-toxic-woman-closed-with-mystery-still-unsolved/470acaeb-74d2-42d7-82df-5b56fa2b5fc5/), by Christine Spolar
 
-
-
 <!--StartFragment-->
 
 Midweek Murders contains graphic and explicit content, listener discretion is advised.
@@ -62,8 +60,6 @@ No, I'm peeing.
 It's happening. \[Laughter]
 
 \[Music]
-
-
 
 Hit me with your rhythm dick. That means I'm ready.
 
@@ -87,1019 +83,205 @@ Today we're gonna do a Halloween special, which means that we're gonna dwelve in
 
 Because October bitches!
 
-This week we're going to talk about the case of Gloria Ramirez. I got my information from wiki wikipedia, journal.medizzy.com
+This week we're going to talk about the case of Gloria Ramirez. I got my information from wiki wikipedia, journal.medizzy.com...
 
-by journal yeah what the
+Do you mean journal? 
 
-journal journal
+Yeah, what did I say?
 
-journal.medici.com
+Jooournal. 
 
-by dr amon shabab
+Jooournal. \[Laughter]
 
-straight dope.com
+Journal.medizzy.com by Dr Aiman Shahab, straightdope.com \[Laughter]. Sorry. By Cecil Adams and an article in the washington post by Christine Spolar.
 
-sorry by cecil
+I got mine from an article in discover magazine, a website called skeptoid and an LA times article that I forgot to write down. So I'll have to fish that out afterwards, but the full sources will be available on our website.
 
-adams and an article in the washington
+So Gloria Ramirez, a 30 (31 year old - correction) year old woman in California, was taken into the emergency department of riverside general hospital by paramedics, as she was suffering from both irregular heart rhythm and irregular breathing. She also had late staged cervical cancer but had not started chemo treatment yet. At the hospital the medical staff injected her with, oh god, diazepam, midazolam, and lorazepam... Almost got it in one. In an effort to sedate her. Which I felt like was a bit of an overkill. Do they usually inject you with three different sedatives?
 
-post
+I don't know, I'm not a doctor. \[Laughter]
 
-by christine spoeller
+Fair enough. 
 
-i got mine from an article in discover
+I think she had a cocktail because of...I don't think she was particularly responsive to any of the treatments that they tried, so they had to sort of combine it. But benzodiazepines, which all of those three drugs are, are quite common for tachycardia and irregular breathing patterns.
 
-magazine
+Okay. 
 
-a website called skeptoid
+Because they make you sleepy. 
 
-and an la times article
+Sleeeeepy. Gloria didn't seem to be responding to treatment however which led them to defibrillating her. Which is the heart thing, right? 
 
-that i forgot to write down so i'll have
+Charging! Clear! Yeah.
 
-to fish that out afterwards but the
+Yeah. At which point the nurses noticed an oily sheen covering her body as well as a fruity garlic smell, which I can't think of anything worse a fruity garlic smell.
 
-full sources will be available on our
+It's like crumbling some garlic over your custard tart. 
 
-website
+As well as a fruity garlic smell, which they guessed emanated from Gloria's mouth. A nurse, Susan Kane, withdrew blood from Gloria and noticed an ammonia smell coming from the tube. She assumed the smell might come from chemo treatment. That's what I read somewhere, which might not be true.
 
-so gloria ramirez a 30 year old woman in
+I think because chemotherapy is a technique that targets everything in the body rather than radiotherapy, which is targeted specifically at the tumor, you get cellular death throughout the whole body. So I think it's probably quite common for specific chemotherapies to cause breakdown of cells in the human body, which would lead to ammonium products being in the blood, which is where they attributed the smell to come from. 
 
-california
+Okay. And this is noteworthy because she hadn't started her chemotherapy yet even though she had, as it said, late staged cervical cancer. But they might have just caught it late. So she passed a syringe of the blood to Julie Gorchynski, a medical resident, who then saw what appeared to be manila colored particles in the blood. Kane promptly passed out and had to be removed from the room. Gorchynski then began to feel nauseous and left the trauma room to sit down outside, after which she also proceeded to pass out. A respiratory therapist in the trauma room became the third person to pass out, after which a small group of medical staff were left trying to save Gloria's life while the rest of the hospital were evacuated because they thought that something poisonous was happening. 
 
-was taking into the emergency department
+The rest of the emergency room, not the entire hospital.
 
-of riverside general hospital by
+Oh yeah, that makes sense, sorry. 45 minutes after Gloria had arrived at the ER, she was pronounced dead due to kidney failure, which they correlated to her cancer. So out of the 37 medical staff members who had been in contact with Gloria, 23 of them had fallen ill. 
 
-paramedics
+Wasn't it 37 that were working in the ER? 
 
-as she was suffering from both irregular
+It must have been, right? Otherwise... 
 
-heart rhythm and irregular breathing
+Yeah, I think that's a lot of people to tend to one patient.
 
-she also had lit staged cervicals
+Yeah, that's true. Although it might have been just people who were in contact with her. So like people taking her from the paramedics to the operating room, people in the operating room.... 
 
-cancer but had not started chemo
+She didn't go to an operating room.
 
-treatment yet
+Well, the trauma room, sorry. 
 
-at the hospital the medical staff
+The paramedics take them there.
 
-injected her with
+Oh yeah, that doesn't make sense. So I'm not sure. So now I have several different theories as to what may have happened around Gloria Ramirez. Do you have anything you want to say now or should we dwelve into the theories?
 
-oh god diazepam
+Or forever hold your piece. You could talk about the first investigation that decided it was mass hysteria. 
 
-meda
+Oh yeah. 
 
-almost got it in an effort to sedate her
+Or is that one of your theories?
 
-which i felt like was a bit of an
+It's one of my theories, so I can... 
 
-overkill do they usually
+Okay, then yeah, plow straight on.
 
-inject you with three different
+Okay so California's health department put two scientists, Drs Ana Maria Osorio and Kirsten Waller, in charge of trying to figure out what happened. These scientists theorized that the staff at the ER had suddenly become victims of mass hysteria, as their symptoms didn't match and because their blood tests afterwards had been normal. 
 
-sedatives
+The main point that they found, what they reasoned for it to be an outbreak of mass hysteria, is that the paramedics who initially treated Gloria had no symptoms at all. Didn't come down with anything, they were completely unaffected. They also said that the majority of the people that came down with symptoms were women, and historically women are more subjected to falling under mass hysteria, which I chortled at a little bit.
 
-i don't know i'm not a doctor
+Was that what it said?
 
-fair enough i think she had a cocktail
+Yeah. I think it was a journal article in a psychology journal in 2002, so it was peer-reviewed and properly evaluated, that said that women are more likely to be susceptible to bouts of mass hysteria.
 
-because of
+Okay. I also read that more women than men, that had been around the area of Gloria Ramirez, did come down with symptoms. But I don't really get it, because I don't think hardened nurses would just come down with like: "oh I fainted in a trauma room". They're in trauma rooms for the majority of their working lives. 
 
-i don't think she was particularly
+Well that's what the lady who spent the time in the ICU said, and she actually sued the hospital for the diagnosis of mass hysteria saying exactly that. They're hardened medical professionals.
 
-responsive to
+Yeah. 
 
-any of the treatments that they tried so
+They're not gonna swoon and faint at the sight of blood or a funky smell. Like how many drunks go to the ER and vomit on a medical professional. 
 
-they had to
+Yeah. People who are in labor they shit themselves all the time. Like, I worked as a elderly home carer, I guess is the word, or something like that, and the smells that I came across still lingers in my mind. 
 
-sort of combine it but benzodiazepines
+Emergency rooms can get anything. They could have patients with gangrene, they could have burns victims, they could.... Like there's no way that these medical professionals would have fallen to mass hysteria because of a bit of an oily sheen and an ammonium spell.
 
-which all of those three drugs are
+It doesn't make sense to me. But what also doesn't make sense, or what doesn't lend to this theory, is that Gorchynski had spent two weeks afterwards in intensive care with liver inflammation as well as bone tissue death problems. 
 
-are quite common for tachycardia and
+I don't think necrosis and hepatitis are conditions that are typically psychosomatic, no.
 
-irregular breathing patterns
+And also, it can't just happen both at once, as like, an accident? Well statistically I'm guessing it can, but I'm leaning towards that it might not be a sound theory because of that. Because I feel like, that's too much of a coincidence to happen right after treating Gloria. 
 
-okay because they make you sleepy sleepy
+Now I will safely say that I think the mass hysteria diagnosis is absolute nonsense.
 
-gloria didn't seem to be responding to
+Yeah, I felt like that was improbable, yeah. They also found in that investigation, people who had shown the most severe symptoms had all worked within two feet of Gloria or handled her intravenous lines and... 
 
-treatment however
+Venus. You could just call it IV.
 
-which led them to defibrillating
+Okay. Which also kind of lends to the fact that it wasn't mass hysteria. But that's what they found. So theory number two is: the hospital had a history of hazardous gas leaks. Well, gas leaks they say, but it might have been a sewage problem. Because in April 1993, California occupational safety and health administration notified the hospital that the first floor emergency room was flooded with sewer gas from a drain. A citation was issued even before that, in 1991, when two employees sought medical treatment after a possible leak of hazardous gas from a sterilizer. Which, I'm not entirely sure what it is?
 
-her which is the hard thing
+A machine that's used to sterilize surgical equipment.
 
-right charging clear yeah
+So that was in that context, but I'm not sure it has anything to do with that, okay.  So in 1992...\[Laughter]. In 1992, the hospital was notified that an inspection had found algae growing in a water resorvo... reservoir. And the doctor treating Gloria had noticed some weird fluid in a sink and then when the staff started fainting, he flushed that fluid down the drain, because he was afraid that it might have something to do with it. I'm not sure how much that theory has anything to do with it. But another patient at the hospital before that, had said that he was evacuated from his room like a couple of times, because they said that there was something wrong with like the sewage. Did you read anything about this?
 
-yeah at which point the nurses noticed
+Nope. 
 
-an oily sheen covering her body
+No, okay. So it might not even be a thing, I don't know. 
 
-as well as a fruity garlic smell which
+I don't think either sewage gases or algae cause the same range of symptoms. I know sewage gas can cause nausea and dizziness and things like that, the same as breathing in any gas because it displaces the oxygen, but if it were to be sewage gas it would have affected everyone.
 
-i can't think of anything worse a fruity
+Yeah. 
 
-garlic smell
+All of the medical staff, all of the other patients. If it were the algae then it would have affected anyone who would have used that sink, and if it's a sink in an emergency department it's probably going to be used by all of the medical staff. So again, why is it only affecting some of them and not others? 
 
-it's like crumbling some garlic over
+Yeah, that's true. The third theory is that Gloria Ramirez takes painkillers, which are shortened as DMSO. Do you know what that is? 
 
-here
+Dimethyl sulfoxide.
 
-custard tart as well as the fruity
+Ooooh. Which was readily available at the time, I think, but then they took it away from the market because they were worried that it might cause eyesight problems? 
 
-garlic
+Yeah. It was originally issued as a medication, as a topical analgesic. So a painkiller that you apply to your skin rather than ingest...
 
-smell which they guessed emanated from
+So it's a cream?
 
-gloria's mouth
+More like a gel. 
 
-a nurse susan kane withdrew
+Oh yeah. 
 
-blood from gloria and noticed an ammonia
+After a clinical trial showed that it was affecting people's eyesight the FDA, the food and drugs administration in America, took it off of the medical market, but it can still be bought from hardware stores. And this is slightly concerning, why people would buy their medication from a hardware shop. It's an excellent degreaser. So people working in mechanics that get covered in grease doing oil changes and things like that, rub a bit of dimethyl sulfoxide on you gets rid of it, lovely job. So it can still be bought from hardware shops for that purpose, but it's not advised to be used medically anymore. 
 
-smell
+But was that the case at the time?
 
-coming from the tube she assumed the
+Yes. So it was basically a home remedy that she was using it for. 
 
-smell
+Okay, but like, the likelihood of her knowing about it as a home remedy, would you say that it was probable? 
 
-might come from chemo treatment
+I see no reason to believe that it wouldn't be, given that it was established as a medical treatment previously, and we're not talking like 50 years previously, but maybe a couple. And people can get very creative when it comes to home remedies for terminal... 
 
-that's what i read somewhere which might
+Pain.
 
-not be true
+Or, yeah, chronic cases of pain. 
 
-i think because chemotherapy is
+Yeah, okay. So before she died, due to a urinary blockage, the DMSO builds up in her bloodstream and then oxygen administered by the paramedics converts the DMSO in her blood to DMSO2. I'm not sure what that is, but... 
 
-a technique that targets everything
+DMSO isn't its chemical name, it's basically an abbreviation. So dm: dimethyl, and sulfoxide: so. When the pure O2 gets administered to help with her breathing, it would have undergone a chemical reaction to add an extra O2 molecule, or an extra oxygen molecule rather than an extra O2. So just one oxygen. So it becomes dimethyl sulfone. 
 
-in the body rather than radiotherapy
+Okay.
 
-which is
+So it goes from sulfoxide to sulfone.
 
-targeted specifically at the tumor you
+All right. So when that blood is drawn out in the syringe, and then is cooled to a room temperature, crystals form. Which is what the nurse saw, is what they're hypothesizing. And then it's converted into dimethyl sulfate, no?
 
-get cellular death
+Mm-hmm. But not outside of the body, inside. And they think that the defibrillation would have caused that.
 
-throughout the whole body so i think
+Oh, okay. They thought that the electricity caused that?
 
-it's probably quite common
+I guess. There's a lot of counter theories about how it could have converted from sulfone to sulfate. The people that did the original investigation thought that it would have happened naturally, some other scientists read their paper and said that that was impossible.
 
-for specific chemotherapies to cause
+Okay. 
 
-breakdown
+But again, with this kind of science and new cases, without testing it in vitro, in the body, you don't know what kind of chemical reactions can happen or will happen under what circumstances. So it's possible that it was from the defib, it could have happened naturally without the defib, but the theory is that it changed from sulfone to sulfate at some point.
 
-of cells in the human body which would
+So what I read then, was that dimethyl sulfate can cause convulsions, delirium, paralysis and damage heart, liver and kidneys. 
 
-lead to
+Yeah. It's a nerve gas.
 
-ammonium products being in the blood
+Yeah. Has it been used like as a nerve gas?
 
-which is where they
+Apparently, the US have never used it, but as to how much trust you put in that, I will let you be the judge. But they do know that 10 minutes of exposure to 0.5 grams of dimethyl sulfate in a centimeter cubed, can kill. 
 
-attributed the smell to come from okay
+Oh god, that's so little. 
 
-and this
+Yeah so it's pretty vicious. And like you said, affects liver, kidney, heart. It can cause cell death in exposed tissues. So you don't even need to breathe in or ingest it, or anything like that, it can start killing your cells just from being in contact on the outside of your skin. You can start... Your skin can start dying. So like all nerve gases, it's pretty nasty stuff.
 
-is noteworthy because she hadn't
+Yeah. Which does kind of lead to the theory of that being what happened, because the people around her got symptoms. 
 
-started her chemotherapy yet even though
+People around got symptoms, the people that dealt with her IV and were closest to her suffered the most, which makes sense. The symptoms all fit in convulsions, paralysis and one of the nurses said that she couldn't move her arms. The hepatotoxicity could have caused the hepatitis in the nurse in the ICU. 
 
-she had
+Yeah, which is liver problems. 
 
-as it said late staged cervical cancer
+Hepatitis, yeah. Everybody knows what hepatitis is. \[Laughter]
 
-but they might have just caught it lit
+Sorry. 
 
-so
+And also the necrosis in her knees, the cell death in her knees, that she particularly suffered from could have also been caused by that. The only thing that doesn't match, which the guys that did the investigation did comment on, was the nausea. So apparently, it doesn't cause any symptoms of nausea. 
 
-she passed a syringe of the blood
+Yeah?
 
-to julie gorsinsky a medical resident
+But if you're being ravaged from the inside out by a nerve gas, then maybe that will make you feel a bit ill.
 
-who then saw what appeared to be manila
+Yeah. I feel like I can feel nauseous about all kinds of things.
 
-colored particles
+The smell of ammonia can cause nausea in some people. So yeah, I don't think that's a thing that can be ruled out just because it's not a symptom of nerve gas poisoning. 
 
-in the blood kane promptly passed out
-
-and had to be removed from the room
-
-gorsinsky then began to feel
-
-nauseous and left the trauma room to sit
-
-down
-
-outside after which he also proceeded to
-
-pass out
-
-a respiratory therapist in the trauma
-
-room
-
-became the third person to pass out
-
-after which a small group of medical
-
-staff were left
-
-trying to save gloria's life while the
-
-rest of the hospital
-
-were evacuated because they thought that
-
-something
-
-poisonous was happening the rest of the
-
-emergency room not the entire hospital
-
-oh yeah that makes sense sorry 45
-
-minutes
-
-after gloria had arrived at the er she
-
-was pronounced dead
-
-due to kidney failure which they
-
-correlated to her
-
-cancer so out of the 37
-
-medical staff members who had been in
-
-contact with gloria
-
-23 of them had fallen ill wasn't it
-
-37 that were working in the er it must
-
-have been right
-
-otherwise yeah i think that's a lot of
-
-people to tend to one patient
-
-yeah that's true although it might have
-
-been just
-
-people who were in contact with her so
-
-like people
-
-taking her from the paramedics to the
-
-operating room people
-
-in the operating room she didn't go to
-
-an operating room
-
-well the trauma room sorry the
-
-paramedics take them there
-
-oh yeah that doesn't make sense
-
-so i'm not sure so now
-
-i have several different theories
-
-as to what may have happened
-
-around gloria ramirez do you have
-
-anything you want to say
-
-now or should we dwelve into the
-
-theories
-
-or forever hold your piece you could
-
-talk about
-
-the first investigation that decided it
-
-was mass hysteria oh yeah or is that one
-
-of your theories
-
-it's one of my theories so i can okay
-
-then yeah plow straight on
-
-okay so california's health
-
-department put two scientists dr
-
-anna maria osorio and kristen
-
-waller in charge of trying to figure out
-
-what happened
-
-these scientists theorized that the
-
-staff at the er
-
-had suddenly become victims of
-
-mass hysteria as their symptoms
-
-didn't match and because their blood
-
-tests
-
-afterwards had been normal the main
-
-point
-
-that they found what they reasoned for
-
-it to be
-
-an outbreak of mass hysteria is that
-
-the paramedics who initially treated
-
-gloria
-
-had no symptoms at all didn't come down
-
-with
-
-anything they were completely unaffected
-
-they also said
-
-that the majority of the people that
-
-came down with
-
-symptoms were women and historically
-
-women are more subjected
-
-to falling under mass hysteria which i
-
-chortled at
-
-a little bit
-
-yeah i think it was a journal article
-
-in a psychology journal in 2002
-
-so it was peer-reviewed and properly
-
-evaluated
-
-that said that women are more likely to
-
-be susceptible to bouts of mass hysteria
-
-okay i also read that
-
-more women than men that had been
-
-around the area of gloria ramirez
-
-did come down with symptoms but i don't
-
-really
-
-get it because i don't think hardened
-
-nurses would just come down with like oh
-
-i
-
-fainted in a trauma room they're in
-
-trauma rooms
-
-for the majority of their
-
-working lives well that's what the lady
-
-who spent
-
-the time in the icu said and she
-
-actually sued the hospital
-
-for the diagnosis of mass hysteria
-
-saying
-
-exactly that their a hardened medical
-
-professionals
-
-yeah they're not gonna swoon and feign
-
-at the sight of blood or a funky smell
-
-like how many drunks go to the er and
-
-vomit
-
-on a medical professional yeah people
-
-are saying
-
-labor they shit themselves all the time
-
-like
-
-i worked as a elderly
-
-home carer i guess is the word
-
-or something like that and the smells
-
-that i came across
-
-still lingers in my mind emergency rooms
-
-can get anything they could have
-
-patients with gangrene they could have
-
-burns victims
-
-they could like there's no way that
-
-these medical professionals would have
-
-fallen
-
-to mass hysteria because of a bit of
-
-an oily sheen and an ammonium spell
-
-it doesn't make sense to me but what
-
-also doesn't make sense
-
-or what doesn't lend to this theory is
-
-that
-
-gorsinsky had spent two weeks afterwards
-
-in
-
-intensive care with liver inflammation
-
-as well as bone tissue death
-
-problems i don't think necrosis
-
-and hepatitis are conditions
-
-that are typically psychosomatic no
-
-and also it can't just
-
-happen both at once as
-
-like an accident well statistically i'm
-
-guessing
-
-it can but i i'm leaning towards that
-
-it might not be a sound theory because
-
-of that
-
-because i feel like that's too much of a
-
-coincidence to happen
-
-right after treating now
-
-i will safely say that i think the mass
-
-hysteria diagnosis is absolute nonsense
-
-yeah i felt like that was improbable
-
-yeah
-
-they also found in that investigation
-
-people who had shown the most severe
-
-symptoms
-
-had all worked within two feet of gloria
-
-or handled
-
-her intravenous lines
-
-and venus you could just call it iv
-
-okay which also
-
-kind of lends to the fact that it wasn't
-
-mass hysteria but that's what they found
-
-so theory number two is
-
-the hospital had a history of hazardous
-
-gas leaks well gas leaks they say
-
-but it might have been a sewage problem
-
-because in april
-
-1993 california occupational
-
-safety and health administration
-
-notified
-
-the hospital that the first floor
-
-emergency room was
-
-flooded with sewer gas from a drain
-
-a citation was issued even before that
-
-in 1991
-
-when two employees sought medical
-
-treatment
-
-after a possible leak of hazardous gas
-
-from a sterilizer which i'm not entirely
-
-sure what it is
-
-a machine that's used to sterilize
-
-surgical equipment
-
-so that was in that context
-
-but i'm not sure it has anything to do
-
-with that okay
-
-so in 1992
-
-in 1992 the hospital was notified that
-
-an inspection
-
-had found algae growing in a water
-
-resort reservoir and the doctor treating
-
-gloria had noticed some weird fluid in a
-
-sink
-
-and then when the staff started fainting
-
-he flushed that fluid down the drain
-
-because he was
-
-afraid that it might have something to
-
-do with it
-
-i'm not sure how much that
-
-theory has anything to do with it but
-
-another patient at the hospital before
-
-that
-
-had said that he was evacuated from his
-
-room
-
-like a couple of times because they said
-
-that there was something wrong with
-
-like the sewage did you read anything
-
-about this
-
-nope no okay it's a microwave maybe
-
-a thing i don't know i don't
-
-think either sewage gases
-
-or algae cause the same range
-
-of symptoms i know sewage gas can cause
-
-nausea and dizziness and things like
-
-that the same as
-
-breathing in any gas because it
-
-displaces the oxygen but
-
-if it were to be sewage gas it would
-
-have affected everyone
-
-yeah all of the medical staff all of the
-
-other patients
-
-if it were the algae then it would have
-
-affected anyone who would have used that
-
-sink
-
-and if it's a sink in an emergency
-
-department it's probably going to be
-
-used by all of the medical staff
-
-so again why is it only affecting some
-
-of them and
-
-not others yeah that's true the third
-
-theory is that gloria ramirez
-
-takes painkillers which are
-
-shortened as dmso
-
-you know what that is dimethyl sulfoxide
-
-oh which was readily available
-
-at the time i think but then they took
-
-it away from the market because they
-
-were worried that it might
-
-cause eyesight problems yes it was
-
-originally issued as a medication
-
-as a topical analgesic so a painkiller
-
-that you apply
-
-to your skin rather than ingest
-
-more like a gel oh yeah after a clinical
-
-trial
-
-showed that it was affecting people's
-
-eyesight the
-
-fda the food and drugs administration in
-
-america
-
-took it off of the medical market but
-
-it can still be bought from hardware
-
-stores
-
-and this is slightly concerning why
-
-people would buy their
-
-medication from a hardware shop it's an
-
-excellent
-
-degreaser so people working
-
-in mechanics that get covered in grease
-
-doing oil changes and things like that
-
-rub a bit of dimethyl sulfoxide on you
-
-gets rid of it
-
-lovely job so it can still be bought
-
-from hardware shops for that purpose but
-
-it's not advised to be used
-
-medically anymore but was that the case
-
-at the time
-
-yes so it was basically a home
-
-remedy that she was using it for okay
-
-but
-
-like the likelihood of her knowing about
-
-it as a home remedy
-
-would you say that it was probable i see
-
-no reason to believe that it wouldn't be
-
-given that it was established as a
-
-medical treatment
-
-previously and we're not talking like 50
-
-years
-
-previously but maybe a couple and people
-
-can get
-
-very creative when it comes to home
-
-remedies
-
-for terminal or yeah
-
-chronic cases of pain yeah okay
-
-so before she died due to a
-
-urinary blockage the dmso
-
-builds up in her bloodstream and then
-
-oxygen administered by the paramedics
-
-converts the dmso in her blood
-
-to dmso2
-
-i'm not sure what that is but dnso
-
-isn't its chemical name it's basically
-
-an abbreviation
-
-so dm dimethyl and
-
-sulfoxide so when the
-
-pure o2 gets administered to help with
-
-her breathing
-
-it would have undergone a chemical
-
-reaction
-
-to add an extra o2 molecule or an extra
-
-oxygen molecule rather than an extra o2
-
-so just one oxygen so it becomes
-
-dimethyl sulfone okay
-
-so it goes from sulfoxide to sulfone
-
-all right so when that blood is drawn
-
-out in the syringe
-
-and then is cooled to a room temperature
-
-crystals form which is what the nurse
-
-saw is what they're hypothesizing
-
-and then it's converted into
-
-dimethyl sulfate no
-
-but not outside of the body inside and
-
-they think
-
-that the defibrillation would have
-
-caused that
-
-oh okay they thought that the
-
-electricity caused that
-
-i guess there's a lot of counter
-
-theories
-
-about how it could have converted from
-
-sulfone to sulfate the people that did
-
-the original
-
-investigation thought that it would have
-
-happened naturally
-
-some other scientists read their paper
-
-and said that that was impossible
-
-okay but again with this kind of science
-
-and new cases without testing it in
-
-vitro
-
-in the body you don't know what kind of
-
-chemical reactions
-
-can happen or will happen under what
-
-circumstances so
-
-it's possible that it was from the defib
-
-it could have happened
-
-naturally without the defib but the
-
-theory is that it changed from sulfone
-
-to sulfate at some point
-
-so what i read then was that dimethyl
-
-sulfate
-
-can cause convulsions delirium
-
-paralysis and damage heart
-
-liver and kidneys yeah it's a nerve gas
-
-yeah has it been used like as a nerve
-
-gas
-
-currently the us have never used it
-
-but as to how much trust you put in that
-
-i will let you be the judge
-
-but they do know that 10 minutes
-
-of exposure to 0.5 grams
-
-of dimethyl sulfate in a centimeter
-
-cubed
-
-can kill oh god that's so
-
-little yeah so it's pretty vicious
-
-and like you said affects liver kidney
-
-heart it can cause cell death in exposed
-
-tissues so you don't even need
-
-to breathe in or ingest it or anything
-
-like that it can
-
-start killing your cells just from being
-
-in contact on the outside of your skin
-
-you can start
-
-your skin can start dying so like all
-
-nerve gases it's pretty nasty stuff
-
-yeah which does kind of lead to the
-
-theory of that
-
-being what happened because the people
-
-around her
-
-got symptoms people around got symptoms
-
-the people that dealt with her iv
-
-and were closest to her suffered the
-
-most
-
-which makes sense the symptoms all fit
-
-in convulsions paralysis and one of the
-
-nurses said that she couldn't move her
-
-arms the hepatotoxicity could have
-
-caused the hepatitis
-
-in the nurse in the icu yeah which is
-
-liver
-
-problems hepatitis yeah everybody knows
-
-what hepatitis is
-
-sorry and
-
-also the necrosis in her knees the cell
-
-death in her knees
-
-yeah that she particularly suffered from
-
-could have also been caused by that
-
-the only thing that doesn't match which
-
-the guys that did
-
-the investigation did comment on
-
-was the nausea so apparently it doesn't
-
-cause any symptoms
-
-of nausea yeah
-
-if you're being ravaged from the inside
-
-out by a nerve gas
-
-then maybe that will make you feel a bit
-
-ill
-
-yeah i feel like i can feel
-
-nauseous about all kinds of things
-
-the smell of ammonia can cause nausea in
-
-some people
-
-so yeah i don't think that's a thing
-
-that can be
-
-ruled out just because it's not a
-
-symptom of
-
-nerve gas poisoning yeah and also
+Yeah. And also
 
 one other thing that i've read that
 
