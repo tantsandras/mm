@@ -281,431 +281,61 @@ Yeah. I feel like I can feel nauseous about all kinds of things.
 
 The smell of ammonia can cause nausea in some people. So yeah, I don't think that's a thing that can be ruled out just because it's not a symptom of nerve gas poisoning. 
 
-Yeah. And also
+Yeah. And also, one other thing that I've read that might not lend to this theory is that they couldn't find any traces of dimethyl sulfate anywhere afterwards. 
 
-one other thing that i've read that
+And I think that would have come down to the fact that it would have been in small quantities, even though they found high quantities of the first dimethyl, the DMSO, before it underwent all of the chemical changes. They found a lot of that.
 
-might not
+Did they? 
 
-lend to this theory is that they
+Yeah, I can get onto that in a bit. So it's possible that one: they weren't specifically looking for it. So I know that the hazmat team went in looking for certain things, they didn't do a broad sweep, they were looking for specific things. So they could have missed it and then later could have broken down into sulfates and the chemical reaction could have reversed, or it could have degraded, could have been cleaned away. So again, I wouldn't say that just because they didn't find any dimethyl sulfate directly in the ER would mean that it wasn't what happened.
 
-couldn't find
+Okay. I understand what happens here, but how did they find DMSO?
 
-any traces of dimethyl sulfate
+So they did an analytical technique called headspace GCMS, GCMS being gas chromatography mass spectrometry, and headspace is basically... So they took samples from the autopsy from all of her organs and I think they used her blood as well. They probably used a more technical method but when I was at university and did headspace GC, basically you put your compound (in this case the autopsy tissue. We used a paint tin, that's how high-tech we were. Anglia Ruskin University, Cambridge) and you tie a bit of charcoal to string. Put that at the top of the paint tin and close the lid on top. So if you imagine the inside of your paint tin, you've got the bottom of the tin, you've got your sample on the top and then a bunch of air, and then a dangling bit of charcoal. Then you heat up the painting to hundreds of degrees, what that does is basically volatilize all of the small chemicals that are in your sample. So all of your volatile compounds are made into a gas, those gases are absorbed by the charcoal. You then take your bit of charcoal and put it in a solvent, we used methanol but any solvent will do, and you basically dissolve out your compounds of interest from the charcoal into that liquid. That liquid then gets injected onto the GCMS, and the way a GCMS works is that your sample gets injected, the sample gets vaporized again by the GC into a gas. The gas gets carried along what's called a mobile phase until it gets to a column and the column will separate out all of your compounds depending on how reactive they are, what their charge is, basically: chemistry shit. But a larger molecule will stay on the column for longer, smaller molecules come off the column faster, etc etc. So you get a nice what's called a chromatogram, so it's lots of peaks on a graph that are unique for certain compounds. Then it gets passed to the mass spec side where it gets bombarded with a bunch of electrons. The electrons will charge your molecule at different rates depending on how reactive it is, and that will then give another mass spectra. And the interesting part about mass spec is that it is completely unique for each compound, so you can't mistake a mass spectrum fragment for something else. It will be 100% identified, or it will be unidentified because you haven't got it in your library. Basically...\[Gets interrupted]
 
-anywhere afterwards and i think
+Go on. 
 
-that would have come down to the fact
+It's definitely conclusive that she herself had put DMSO on where she had pains? No?
 
-that it would have been in small
+Yeah. So the results of the GCMS found lidocaine - a very strong painkiller, paracetamol, codeine - also another very strong painkiller, trimethobenzamide - which is an antiemetic so it's used to help you feel less nauseous. That was probably given by the doctors in the ER. And they found dimethyl sulfone. The interesting part is that GCMS can also tell you how much of that substance is there, not just what it is. And what they found was there was three times as much dimethyl sulfone in the samples as there was codeine.
 
-quantities
+Okay. 
 
-even though they found high quantities
+She was never administered codeine in the ER, so she was obviously taking the lidocaine, paracetamol, codeine for pain. But she was also taking the dimethyl sulfone for pain, and it was found three times as much as the painkillers that she was taking. So it was definitely there 100%, they identified it and it was definitely there in a massive quantity.
 
-of the first dimethyl the dnso
+That does make sense. 
 
-before it underwent all of the chemical
+Science, bitch! 
 
-changes they found a lot of that
+I didn't know this. From what I read about, like the articles and stuff... I think that if they had been like: "okay, your chronic pain can be alleviated by this" I would probably slather it all over. 
 
-did they yeah i can get onto them in a
+I have no reason to disbelieve that Gloria heard somewhere, from a friend or advertising or remembered from when it was a product, that DMSO is a topical analgesic. She's in a lot of pain from a late stage cancer. 
 
-bit
+Yeah. 
 
-so it's possible that one they weren't
+She would try it, I have no doubt about that. 
 
-specifically looking for it so i know
+It does make sense. For you listeners out there, I do have a gel that I got from you that I have been slathering on my back. I wouldn't think twice about not using it. 
 
-that
+Yeah, it's exactly the same thing isn't it? A topical gel that you've heard from somebody can be helpful, so you're using it, you're trying it. So even though her family claimed that she wasn't using it, one, would they really know? Is it like...
 
-the hazmat team went in looking for
+Yeah. My family wouldn't know.
 
-certain things they didn't do a broad
+Yeah. It's just a gel that she's using for pain relief, like is that something that you would share with everyone? Not necessarily.
 
-sweep they were looking for specific
+Probably not, no. 
 
-things so they could have missed it and
+And then also the GCMS results proved it. 
 
-then later
+That's an interesting point actually, because I didn't know that they proved that she had used it. I thought it was hypothetical. 
 
-could have broken down into sulfates
+Either that, or the samples that were recovered from the autopsy have been contaminated with dimethyl sulfone. It's possible, because DMSO can be used as a solvent in chemistry. But I'm fairly sure that the lab that performed this are professional enough to have realized if dimethyl sulfone was showing up on their GCMS results and it was part of their sample prep. They would know that. 
 
-and the chemical reaction could have
+Yeah, we can hope. 
 
-reversed or it could have degraded
+Well they were involved in doing testing during the cold war. The whole company was developed to help test nuclear warheads, so they're a robust scientific group. I would think they know what they're doing, and so I would say, contamination issues are probably not a significant factor. 
 
-could have been cleaned away so again i
-
-wouldn't say that just because they
-
-didn't find
-
-any dimethyl sulfate directly in the er
-
-would mean that it wasn't what happened
-
-okay i understand what happens here
-
-but how did they found like dmso
-
-so they did an analytical technique
-
-called headspace gcms
-
-gcns being gas chromatography mass
-
-spectrometry
-
-and headspace is basically so they took
-
-samples from the autopsy from all of her
-
-organs
-
-and i think they used her blood as well
-
-they probably used a more
-
-technical method but when i was
-
-at university and did headspace gc
-
-basically you put
-
-your compound in this case the autopsy
-
-tissue
-
-we used a paint tin that's how high-tech
-
-we were
-
-anglia ruskin university cambridge
-
-um and you tie a bit of charcoal
-
-to string put that at the top of the
-
-paint in and close
-
-the lid on top so if you imagine the
-
-inside of your painting you've got the
-
-bottom of the tin
-
-you've got your sample on the top and
-
-then a bunch of air
-
-and then a dangling bit of charcoal then
-
-you heat up the painting
-
-to hundreds of degrees what that does
-
-is basically volatilize all of the
-
-small chemicals that are in your sample
-
-so all of your volatile compounds
-
-are made into a gas those gases
-
-are absorbed by the charcoal you then
-
-take your bit of charcoal and put it in
-
-a solvent
-
-we used methanol but any solvent will do
-
-and you basically dissolve out your
-
-compounds of interest from the charcoal
-
-into that liquid
-
-that liquid then gets injected onto
-
-the gcns and the way a gcms works
-
-is that your sample gets injected
-
-the sample gets vaporized again by the
-
-gc
-
-into a gas the gas gets carried along
-
-what's called a mobile phase
-
-until it gets to a column and the column
-
-will separate
-
-out all of your compounds depending on
-
-how reactive they are what their charge
-
-is
-
-basically chemistry shit but a larger
-
-molecule
-
-will stay on the column for longer
-
-smaller molecules
-
-come off the column faster etc etc so
-
-you get a nice
-
-what's called a chromatogram so it's
-
-lots of peaks
-
-on a graph that are unique
-
-for certain compounds then it gets
-
-passed to
-
-the mass spec side where it gets
-
-bombarded with a bunch of electrons
-
-the electrons will charge
-
-your molecule at different rates
-
-depending on how reactive it is
-
-and that will then give another mass
-
-spectra
-
-and the interesting part about mass spec
-
-is that it is
-
-completely unique for each compound
-
-so you can't mistake a mass spectrum
-
-fragment for something else it will be
-
-100
-
-identified or it will be unidentified
-
-because you haven't got it in your
-
-library
-
-basically go on it's definitely
-
-conclusive that she herself had put
-
-the mso on where she had
-
-pins you know yeah so the results of
-
-the gcms found lidocaine
-
-a very strong painkiller paracetamol
-
-codeine also another very strong
-
-painkiller
-
-trimethobenzamide which is
-
-an antiemetic so it's used to help you
-
-feel less nauseous that was probably
-
-given by
-
-the doctors in the er and they found
-
-dimethyl cell phone the interesting part
-
-is that gcns can also tell you
-
-how much of that substance
-
-is there not just what it is
-
-and what they found was there was three
-
-times as much dimethylsulfone
-
-in the samples as there was codeine
-
-okay she was never administered codeine
-
-in the er so she was obviously taking
-
-the lidocaine paracetamol codeine for
-
-pain
-
-but she was also taking the diameter
-
-cell phone for pain
-
-and it was found three times as much
-
-as the painkillers that she was taking
-
-so it was definitely there
-
-100 they identified it and it was
-
-definitely there in a massive quantity
-
-that
-
-does make sense science bitch i didn't
-
-know this
-
-from what i read about like the articles
-
-and stuff
-
-i think that if they had been like okay
-
-your chronic pain can be alleviated by
-
-this
-
-i would probably slather it all over i
-
-have
-
-no reason to disbelieve that gloria
-
-heard somewhere
-
-from a friend or advertising or
-
-remembered from when it was a product
-
-that dnso
-
-is a topical analgesic she's in a lot of
-
-pain
-
-from a late stage cancer yeah she would
-
-try it i have no doubt
-
-about that it does make sense for you
-
-listeners out there
-
-i do have a his gel
-
-that i got from you that i have been
-
-slathering
-
-on my back i wouldn't think twice
-
-about like not using it yeah it's
-
-exactly the same thing isn't it
-
-a topical gel that you've heard from
-
-somebody can be helpful so you're using
-
-it you're trying it
-
-so even though her family claimed that
-
-she
-
-wasn't using it one would they really
-
-know
-
-is it yeah like my family yeah it's just
-
-a gel that she's using for pain relief
-
-like
-
-is that something that you would share
-
-with everyone not necessarily
-
-probably not no and then also the gcns
-
-results
-
-proved it that's an interesting point
-
-actually because i didn't know
-
-that they proved that she had used it i
-
-thought it was
-
-hypothetical either that or
-
-the samples that were recovered from the
-
-autopsy
-
-have been contaminated with diameter
-
-cell phone
-
-it's possible because dmso
-
-can be used as a solvent in chemistry
-
-but i'm fairly sure that the lab that
-
-performed this
-
-are professional enough to have realized
-
-if dimethyl cell phone was showing up on
-
-their gcms results and it was part of
-
-their
-
-sample prep they would know that yeah
-
-we can hope well they were involved in
-
-doing
-
-testing during the cold war the whole
-
-company was developed
-
-to help test nuclear warheads yeah
-
-so they're a robust scientific group
-
-i would think they know what they're
-
-doing and so i would say
-
-contamination issues are probably
-
-not a significant factor yeah
-
-and the fourth theory is that
+Yeah. And the fourth theory is that
 
 the los angeles weekly new times
 
