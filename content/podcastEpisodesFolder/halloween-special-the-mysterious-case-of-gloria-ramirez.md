@@ -25,6 +25,7 @@ hashtags:
   - tag: nerve gas
   - tag: Chemical accident
   - tag: Death conspiracy theories
+  - tag: gas chromatography mass spectrometry
 ---
 <!--StartFragment-->
 
@@ -335,592 +336,176 @@ Yeah, we can hope.
 
 Well they were involved in doing testing during the cold war. The whole company was developed to help test nuclear warheads, so they're a robust scientific group. I would think they know what they're doing, and so I would say, contamination issues are probably not a significant factor. 
 
-Yeah. And the fourth theory is that
+Yeah. And the fourth theory is that the Los Angeles weekly New Times, which might be the one that you've been looking at maybe?
 
-the los angeles weekly new times
+I don't know. 
 
-which might be the one that you've been
+Had a possible alternative explanation. And they theorized that the hospital where the incident occurred, the riverside general hospital, might have been the site of a secret lab. And this is... 
 
-looking at maybe
+Oh yeah! I've read about this. I just rolled my eyes at this. 
 
-i don't know had a possible
+Did you?
 
-alternative explanation and they
+Yeah.
 
-theorized that the hospital where the
+Okay. And they theorized that it was a lab used to illegally manufacture methamphetamine. So they're saying that, at the time, meth chemicals might have been smuggled out of the hospital in IV bags. So what they're suggesting is that one of the IV bags containing methamphetamine was hooked up to the dying Gloria Ramirez which triggered the round of nausea, headache and other symptoms. Because the smells and symptoms are classic to meth fume exposure. This, I'm not sure about. 
 
-incident
+Yeah, this is the one I rolled my eyes at. For one, the whole theory of this is leaning on nurses being used to smuggle the IV bags out of the hospital. Now, maybe in a run-down hospital in the suburbs of the middle of nowhere, but this is quite a big hospital in California. I find it hard to believe that medical professionals could be bribed, particularly in California because they're so health conscious.
 
-occurred the riverside general hospital
+I don't know, a lot of like... I don't believe... 
 
-might have been the site of a secret
+I mean, I get that health professionals are underpaid and overworked but... Come on, I was a health professional. 
 
-lab and this is oh yeah i've read about
+I know.
 
-this
+I have more faith in my transatlantic colleagues than this theory lends to.
 
-i just rolled my eyes at this did you
+Yeah. I understand, but also the part where they would have smuggled out like IV bags and stuff like that isn't that weird for me. Like...
 
-yeah
+Okay, we'll try a different tact then. If one of these mandy bags was hooked up to Gloria intravenously, she would have died instantly from an overdose.
 
-okay and they theorized that it was
+Okay. 
 
-a lab used to illegally manufacture
+Then her GCMS results would have a ridiculously high methamphetamine peak, which was not commented on. She was admitted into the hospital with an irregularly fast heartbeat and breathing problems. 
 
-meth amphetamine so they're saying
+Yeah. 
 
-that at the time meth chemicals
+If they hooked her up to IV, that would have just skyrocketed. Methamphetamine is a stimulant, so it's just gonna make her heartbeat even faster. She's gonna struggle for breath even more. They would have realized that she was deteriorating, whereas she didn't deteriorate, she just didn't recover.
 
-might have been smuggled out of the
+Wasn't that what they said? Like she wasn't responsive to treatment? 
 
-hospital
+She wasn't responsive to treatment. But have you ever taken a caffeine tablet?
 
-in iv bags so what they're suggesting
+No. 
 
-is that one of the iv bags containing
+Okay. So a lot of people when they're studying for exams will take a caffeine tablet to like give them a boost and whatever. You take too many of them you start getting shaky, you start sweating, you can't concentrate, everything is like on hyperdrive. If you're already suffering from tachycardia and you get administered an IV stimulant, your heart's going to explode. So if she was administered IV methamphetamine, her cause of death would not have been kidney failure. 
 
-methamphetamine
+Okay. 
 
-was hooked up to the dying gloria
+Her chest would have literally exploded. 
 
-ramirez
+Okay. 
 
-which triggered the round of nausea
+And by literally I mean figuratively. \[Laughter]
 
-headache
+Good to know. Mostly for me, as someone who doesn't know shit about shit, like science and stuff... Well I know some, but not a lot. \[Laughter]
 
-and other symptoms because the smells
+I can do science, me.
 
-and symptoms
+Yeah, a little bit. A little bit, but not a lot. The thing that speaks against this theory for me, the most, is that the fumes would probably not cause bone tissue death. 
 
-are classic to mess fume exposure
+I don't think they would cause any kind of... I don't even understand where this fume theory could come from. The IV drip doesn't get turned on until the IV is placed. So the cannula gets put in her hand or her elbow, or whatever vein, then they turn on the drip. And up to that point the bag is sealed, there's no way for fumes to even dissipate. And if they did, why has something like this not been seen before?
 
-this i'm not sure about yeah this is the
+Yeah.
 
-one i rolled my eyes out
+Because surely they've just got bags of liquid meth sitting around in their secret bunker. Just doesn't make any kind of sense, either medically or scientifically. 
 
-for one the whole
+I don't think it was a... 
 
-theory of this is leaning on
+And I'm speaking as an expert on both. \[Laughter]
 
-nurses being used to smuggle
+I don't think they meant like in a secret bunker, I think they meant the doctors and the nurses were getting a bit of money from the side, you know? Like... 
 
-the iv bags out of the hospital
+Yeah, but it had to have been made in the hospital, otherwise what's the point in the hospital being involved. So if it was made in the hospital, it would have had to have been made in a lab, if it was made in the lab there are stringent tests that are taken by labs to be given accreditation to be able to perform certain tests. So one, they would have picked it up under those, two, there's no way for these fumes to have come out from an IV bag anyway. So that's just ridiculous. Three, if they were gonna have leaking bags, or whatever, that would have happened in the lab and therefore people in the lab would have also suffered from these conditions. Which has never been reported, ever. 
 
-now maybe in a run-down
+Okay. I get what you mean, but also, in America all kinds of weird shit is going on. 
 
-hospital in the suburbs of the middle of
+I know they like to cook their own meth, I'm not disputing that at all. I've watched Breaking Bad. I actually haven't. 
 
-nowhere
+Me neither. It doesn't make sense... 
 
-but this is quite a big hospital in
+At all.
 
-california i find it hard to believe
+I don't know. I feel like maybe I'm especially biased because I've read so much... 
 
-that medical professionals could be
+Because Trump sucks.
 
-bribed
+I've read so much shit about like America and their health system, but I'm like: "let's just..."
 
-particularly in california because
+Well, their health system is fucked, because it's all about money. But that doesn't stop it from being heavily audited and regulated. So while I'm completely in agreement with you in that the American healthcare system is one of the worst in the world. And interestingly, related but unrelated, the United States have the worst record for deaths during pregnancy in the developed world.
 
-they're so health conscious
+Oh shit! 
 
-i don't know a lot of like i don't i
+But that's because of money. They will turn people away at the door who are dying, who don't have insurance.
 
-mean i get that
+Yeah. I think I've read about this, and I think I read about it as like statistically more people of color die from childbirth in America.
 
-health professionals are underpaid and
+I wouldn't be surprised by that at all. So all of you American bots that are listening, vote Biden and bring back obamacare.
 
-overworked but
+The thing is, we have mostly American listeners at this point. 
 
-come on i was a health professional i
+Vote Biden.
 
-know
+No I mean like: "oops". 
 
-i have more faith in my transatlantic
+I mean like, unashamedly, your health care system sucks.
 
-colleagues than this theory lends to
+No it does, it does. And the thing is... 
 
-yeah i understand but also
+And your orangutang of a president is making it worse. Vote Biden. Affordable care act is the only way you people, who are not rich, will be able to get healthcare.
 
-the part where they would have smuggled
+Yeah, and not rich means not a millionaire. 
 
-out
+If you give birth in the United States, not only does it cost tens or even hundreds of thousands of dollars depending on if anything goes wrong, they charge you for skin to skin contact with your child. 
 
-like iv bags and stuff like that
+That's crazy.
 
-isn't that weird for you like
+If you want to hold your baby after you have just popped it out of your birth canal, that you have been carrying for nine months, they charge you for it. For a thing that you have made. That's just fucking ridiculous. 
 
-okay we'll try a different tact then
+Yeah. In Sweden it's zero dollars. 
 
-if one of these mandy bags
+Yeah. Give birth in the UK, how much do you pay? Nothing. 
 
-was hooked up to gloria intravenously
+Yeah because you fucking carried it, why would it cost you?
 
-she would have died instantly from an
+Need an operation, okay. Serious quadruple heart bypass, all right, no problem. Free of charge. 
 
-overdose
+Yeah because we pay taxes, and it's fine.
 
-okay then her gcns results
+Need a kidney transplant, fine. Free of charge. Gonna be on medication for the rest of your life? No problem, free of charge. 
 
-would have a ridiculously high
+Yeah. Yeah, it's crazy, it's crazy. I can't even imagine it. And the fact that people won't call the ambulance... 
 
-methamphetamine peak
+An ambulance. Yeah. I never realized when I was younger why so many films and tv programs have pregnant women in the back of a taxi going to a hospital and it's because the taxi ride is cheaper than an ambulance.
 
-which was not commented on she was
+Yeah, it's crazy. 
 
-admitted
+Do you know how much it is for a ride to the hospital in an ambulance in the UK? Free of charge. 
 
-into the hospital with an irregularly
+Yeah. Which is what it should be, because that's why we fucking paid taxes. True story bruh. 
 
-fast heartbeat
+Ridiculous. Rant over, vote Biden.
 
-and breathing problems yeah if they
+What are you gonna do now?
 
-hooked her up to iv
+Nothing. 
 
-that would have just skyrocketed
+Nothing. 
 
-methamphetamine is a stimulant
+I think I'm gonna try and read.
 
-so it's just gonna make her heartbeat
+I think I'm gonna probably take my meds.
 
-even faster
+And your creams and your creams, don't forget your creams. 
 
-she's gonna struggle for breath even
+I've already done them. Ba bam.
 
-more they would have realized
+Smart, smart. 
 
-that she was deteriorating whereas
+I think I'm probably gonna watch some more of the Russian zombie series that might not be a zombie series.
 
-she didn't deteriorate she just didn't
+Or Russian. 
 
-recover
+I'm like four episodes or five episodes in, I'm still not sure if there's gonna be zombies, but I'm holding out for them. 
 
-wasn't that what they said like she
+Holding out for a hero.
 
-wasn't
+Smooch Ollie in his face for me.
 
-responsive to treatment she wasn't
+Never!
 
-responsive to treatment
+Okay. Thank you so much for listening to Midweek Murders, we'll see you next week with another Halloween special.
 
-but have you ever taken a caffeine
-
-tablet
-
-no okay so a lot of people when they're
-
-studying for exams will take
-
-a caffeine tablet to like give them a
-
-boost
-
-and whatever you take too many of them
-
-you start getting shaky you start
-
-sweating
-
-you can't concentrate everything is like
-
-on hyperdrive
-
-if you're already suffering from
-
-tachycardia
-
-and you get administered an iv
-
-stimulant your heart's going to explode
-
-so if she was administered
-
-iv methamphetamine her cause of death
-
-would not have been
-
-kidney failure okay her chest would have
-
-literally exploded okay by literally i
-
-mean figuratively
-
-good to know mostly for me
-
-as someone who doesn't know shit about
-
-shit like science and stuff well i know
-
-some
-
-but not a lot i can do science me
-
-yeah a little bit a little bit but not a
-
-lot
-
-the thing that speaks against this
-
-theory for me
-
-the most is that the fumes
-
-would probably not cause
-
-bone tissue death i don't think they
-
-would cause
-
-any kind of i don't even understand
-
-where this
-
-fume theory could come from the iv
-
-drip doesn't get turned on until
-
-the iv is placed so the cannula gets put
-
-in her hand or her elbow
-
-or whatever vein then they turn
-
-on the drip and up to that point the bag
-
-is sealed
-
-there's no way for fumes
-
-to even dissipate and if they did
-
-why has something like this not been
-
-seen before
-
-yeah because surely they've just got
-
-bags of
-
-liquid meth sitting around in their
-
-secret
-
-bunker just doesn't make any kind of
-
-sense either medically
-
-or scientifically i don't know and i'm
-
-speaking as an
-
-expert on both
-
-i don't think they meant like in a
-
-secret
-
-bunker i think they meant the doctors
-
-and the nurses
-
-were getting a bit of money from the
-
-side you know
-
-like yeah but it had to have been made
-
-in the hospital
-
-otherwise what's the point in the
-
-hospital being involved
-
-so if it was made in the hospital it
-
-would have had to have been made in a
-
-lab
-
-if it was made in the lab but there are
-
-stringent tests that are
-
-taken by labs to be given accreditation
-
-to be able to perform certain tests so
-
-one they would have picked it up under
-
-those
-
-two there's no way for these fumes to
-
-have come out from an iv bag anyway
-
-so that's just ridiculous three if they
-
-were gonna have
-
-leaking bags or whatever that would have
-
-happened in the lab
-
-and therefore people in the lab would
-
-have also suffered from these conditions
-
-which has never been reported
-
-ever okay i get what you mean but also
-
-in america
-
-all kinds of weird shit i know they like
-
-to cook their own meth
-
-i'm not disputing that at all i've
-
-watched breaking bad
-
-i actually haven't me neither
-
-it doesn't make sense at all
-
-i don't know i feel like maybe i'm
-
-especially
-
-biased because i've read so much because
-
-trump sucks
-
-i've read so much shit about like
-
-america and their health
-
-system but i'm like let's just well the
-
-health system
-
-is fucked because it's all about money
-
-but that doesn't stop it from being
-
-heavily audited and regulated so while
-
-i'm
-
-completely in agreement with you in the
-
-the american healthcare system is one of
-
-the worst in the world
-
-and interestingly related but unrelated
-
-the united states have the
-
-worst record for deaths
-
-during pregnancy in the developed world
-
-oh shit but that's because of
-
-money they will turn people away
-
-at the door who are dying who don't have
-
-insurance
-
-yeah i think i've read about this and i
-
-think i read about it
-
-as like uh statistically more people of
-
-color
-
-die from childbirth in america
-
-i wouldn't be surprised by that at all
-
-so all of you american bots that are
-
-listening
-
-vote biden and bring back obamacare
-
-the thing is we have mostly american
-
-listeners
-
-at this point vo biden
-
-no i mean like oops i mean like
-
-unashamedly your health care system
-
-sucks
-
-no it does it does and the thing is and
-
-your
-
-orangutang of a president is making it
-
-worse
-
-vote biden affordable care act is the
-
-only way
-
-you people who are not rich will be able
-
-to get health care
-
-yeah and not vote means
-
-if you give birth in the united states
-
-not only does it cost tens or even
-
-hundreds of thousands of dollars
-
-depending on if anything goes wrong
-
-they charge you for skin to skin
-
-contact with your child that's crazy
-
-if you want to hold your baby
-
-after you have just popped it out of
-
-your birth canal
-
-that you have been carrying for nine
-
-months
-
-they charge you for it for a thing that
-
-you have made
-
-that's just fucking ridiculous yeah in
-
-sweden
-
-it's zero dollars yeah give birth in the
-
-uk
-
-how much do you pay nothing yeah because
-
-you fucking carried it why would it need
-
-need an operation okay serious
-
-quadruple heart bypass all right no
-
-problem
-
-free of charge yeah because we pay taxes
-
-and it's need a kidney transplant fine
-
-free of charge
-
-gonna be on medication for the rest of
-
-your life no problem
-
-free of charge yeah yeah it's crazy it's
-
-crazy
-
-i i can't even imagine it and the fact
-
-that people
-
-won't call the ambulance an ambulance
-
-crazy yeah i never realized when i was
-
-younger
-
-why so many films and tv
-
-programs have pregnant women
-
-in the back of a taxi yeah going to a
-
-hospital
-
-and it's because the taxi ride is
-
-cheaper than an ambulance
-
-yeah and it's crazy do you know how much
-
-it is
-
-for a ride to the hospital in an
-
-ambulance in the uk
-
-free of charge yeah which is what it
-
-should be
-
-because that's why we fucking paid taxes
-
-tristar bro ridiculous
-
-rant over voter
-
-what are you gonna do now
-
-nothing nothing i think i'm gonna try
-
-and read
-
-i think i'm gonna probably take my minds
-
-and your cranes and your creams don't
-
-forget your
-
-creams i've already done them but i am
-
-smart smart i think i'm probably gonna
-
-watch some more of the russian zombie
-
-series that might not be a zombie series
-
-oh russian i'm i'm like
-
-four episodes or five episodes in i'm
-
-still not sure if there's gonna be
-
-zombies
-
-but i'm holding out for them holding out
-
-for a hero
-
-in his face for me
-
-okay thank you so much for listening to
-
-midweek murders we'll see you next week
-
-with another
-
-halloween special
+Bye!
 
 <!--EndFragment-->
