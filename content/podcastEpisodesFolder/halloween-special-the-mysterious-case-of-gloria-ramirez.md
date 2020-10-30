@@ -48,6 +48,10 @@ Sandra got her information from:
 * [Article](https://journal.medizzy.com/the-bizarre-death-of-the-toxic-lady/) on Medizzy Journal, by Dr Aiman Shahab
 * Washington Post [article](https://www.washingtonpost.com/archive/politics/1994/04/30/case-of-toxic-woman-closed-with-mystery-still-unsolved/470acaeb-74d2-42d7-82df-5b56fa2b5fc5/), by Christine Spolar
 
+
+
+#### Audio transcript
+
 <!--StartFragment-->
 
 Midweek Murders contains graphic and explicit content, listener discretion is advised.
