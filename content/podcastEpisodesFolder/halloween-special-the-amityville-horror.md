@@ -59,9 +59,7 @@ Sandra got her information from:
 * [truTV.com](https://web.archive.org/web/20081217093007/http://www.trutv.com/library/crime/notorious_murders/family/amityville/1.html), by Douglas B. Lynott
 * [amityvillemurders.com](https://web.archive.org/web/20110707134248/http://www.amityvillemurders.com/)
 
-
-
-#### Audio transcript 
+#### Audio transcript
 
 <!--StartFragment-->
 
@@ -171,903 +169,173 @@ And then it says: "what's the problem sir?", Joe says: "it's a shooting". Operat
 
 I think they know of each other from the bar, it sounds like he frequented that place a lot. 
 
+Yeah. So he guesses there are four shot people in the house, but when the police arrives they find six murder victims. Ronald DeFeo Sr. (44) and Louise DeFeo (42); and four of the DeFeo children: Dawn (18), Allison (13), Marc (12), and John Matthew 9 years old. They had been shot with a .35 calibre Marlin rifle. The parents were shot twice, and the children were killed with a single shot. So a bit of background to why this might have happened is that Ronald DeFeo Sr had come into some money working at his father-in-law’s Buick dealership and the family had moved into the large house by the Amityville river. But Ronald Sr was abusive towards his family, and the abuse had taken it’s toll on Ronald Jr, or Butch as I'm hereby gonna call him because it's a bit confusing with both Ronalds, who as a teenager would no longer be easy victim as he had grown into a bigger man and would fight back. To try to control the sons temper, the DeFeo parents tried to buy Butch’s obedience which often didn’t work, and then I said: "surprise, surprise!". At the age of 17 he was no longer allowed to attend school as his drug problem had become apparent. He would often use heroin and LSD and had at a party pointed a loaded rifle at a friend of his. This friend just left the party and then the next day he was like: "why did you leave the party so soon?", he was like: "you pointed a loaded gun at me. Duh".
+
+And he's like: "it's America" and he said: "oh yeah".
+
+"Fair enough, no hard feelings mate".
+
+I like this anti-american stuff because the Russian bots will fucking lap it up man. \[Laughter]
+
+We have mostly American listeners now, but we're probably not gonna... 
+
+Not anymore, no.
+
+Vote Biden.
+
+So Butch got a job at his grandfathers Buick dealership but rarely turned up to do any work, and would still get paid every week. At one point his parents had an argument during which Butch came into the room, pointed a rifle at his father and said “Leave that woman alone. I'm going to kill you, you fat fuck! This is it". He proceeded to pull the trigger, at which the gun miraculously malfunctioned, and Butch just calmly walked out of the room. Nobody called the police. 
+
+It was also at this point that Ronald found God.
+
+Oh yeah. 
+
+What?
+
+Ronald senior. Yeah, seriously. This is in a couple of sources. He attributes this point as him becoming religious and finding God, because obviously he was staring death down the barrel of a gun, literally. Like totally literally. And was saved, so it must have been God's will, obviously. 
+
+So two weeks before the murders, Butch was supposed to deposit a large check from the car dealership at the bank, but chose to stage a robbing. In which he pretended to get robbed by a friend who he then split the money with. 
+
+Smart.
+
+His father knew that Butch had stolen the money, and called the police. The police questioned Butch, who was a right prick about the whole thing, I said. There was a lot of information... 
+
+Was that a quote in The New York Times? 
+
+No, I just summarised it because there's a lot of like: "oh, he fought this, he did that, he was..." 
+
+Sounds like an 1800's gentleman, "he was a right prick I said".
+
+Bly Manor.
+
+"Tally ho, what, what. Now let's move on". 
+
+Oh god. Speaking of Bly Manor, the lady that's supposed to be the gardener but old... 
+
+Yeah, the narrator. She sounds like Dick Van Dyke, "well alright, I know it's not my story to tell, right. But..." 
+
+Even I could tell...
+
+"But I'm gonna do it anyway". 
+
+Oh god. Right prick about the whole thing. So on the Friday before the murders he was supposed to go to the police station to look at mug-shots in order to help solving the in air quotes, robbery, but he didn’t show up. This lead to another argument between him and his father, at which Butch again threatened to kill him. Which was witnessed by the people at the car dealership, I'm guessing. 
+
+I'm starting to think Butch might have some issues. 
+
+Yeah? Oh ja, maybe. So the day before the murders, Butch dosed the family dinner with barbiturates. In the early morning on the 14th of November, around three o'clock, Butch went into his parents room and shot his father two times. His mother woke up, at which point he proceeded to shoot her as well, two times. After that he went into the room of his two younger brothers and shot them both in the head. The rest of the family had still not woken up, and this might or might not be true. He then went to his sisters bedroom, at which point Allison had woken up, he shot her and then shot his other sister Dawn.
+
+Just as a light spoiler for things to come, a lot of what you just said is completely inaccurate.
+
+Is it though? 
+
+Yeah, I have the book in front of me which has the crime scene photos and the little brother was definitely not shot in the head. 
+
+No it was Dawn that was shot in the head.
+
+Oh sorry, yeah. 
+
+Also, I'm glad that you said about that he drug their things, because I'm sure Joe as the like man who knows the science might tell you that that is completely false and that they weren't drugged.
+
+I'm not sure what they weren't though. 
+
+I can tell you what happened, but I just want to hear what you guys are saying first. 
+
+On Wikipedia it says that they were, and then I also found an article from 1974 which said that they were. I couldn't find...
+
+Whereas I found an article that said... That directly quoted the autopsy report, basically the tox report came back clean. There was nothing that shouldn't have been in their systems at time of death. 
+
+Okay. The thing is, I really looked, I couldn't find the autopsy reports. So I'm not sure, but I'm not sure that he didn't either. 
+
+It's possible that he used a sedative type drug that would have had a short half-life which, for the non-scientific listeners, is basically the time it takes in the body for the drug dosage to reduce by half. So if he had given them something that has a short half-life, then it could have cleared their system by the time the autopsy was conducted. But as soon as they died, all of the metabolic pathways that would have been responsible for breaking down the drugs would have stopped. So even if he was using something with a short half-life, you still would have expected to find something in there at time of death, if you're expecting that drug to work to keep them asleep while he rampages around the house. 
+
+But for example, would it be possible that he as he said in his confession, the first one, that he drugged them at dinner time the day before and at three o'clock in the morning most of that would have worn off?
+
+Yeah. But then, without any drug circulating in their system to keep them asleep, the report of the rifle would have woken the other family members. And to put it in perspective, the gun shot can be heard within a mile radius.
+
+It woke the dog up that was outside. Because I think this is how he got convicted, because he let the dog out and then brought the dog back in and they were like: "well it's premeditated if you did that". 
+
+And also that's the only thing the neighbours reported hearing, was the barking of the dog. So after the first gunshot the dog would be going, which could have masked the rest of the gunshots. But this is one of the unsolved mysteries of the whole case, is how the whole family stayed where they were in their beds, in situ, while whoever murdered them... 
+
+Except for Allison...
+
+No, except for Dawn.
+
+Dawn was the one who wasn't in her bed.
+
+No, Dawn was the only one that wasn't murdered in her bed.
+
+Okay and Allison... I read like several different reports on this and Allison was said to have woken up. So they knew that Allison was shot in the head like staring at the barrel. 
+
+I don't think Allison was shot in the head.
+
+She was shot in the head. 
+
+Okay, then it still would have been in bed.
+
+Yeah, maybe yeah. She could have been shot in the bed, but they said that the two people who they could conclude definitely were awake during this, was the mother and Allison.
+
+Did either of you come across the second gun in the reports? 
+
+Yeah. I guess we'll get to it, but maybe we should do it now. Some people said that there might have been a second gun, because of the fact that most of the people were asleep.
+
+Well, I don't know if it showed up in the autopsy that the mother, particularly, would have had a bullet in her from a pistol and not from a rifle.
+
+They said that all of the eight gunshots were from the same rifle, except for one which they couldn't conclude definitely, because it was too damaged. 
+
+Interestingly when this went to court, to prosecute Butch, the prosecution said definitively that all eight bullets were from the same weapon. The ballistics expert was 100% sure, beyond any reasonable doubt, that all of these bullets came from the same gun. The prosecution debated that, they weren't convinced. So they didn't rule out the possibility of a second weapon being used...No sorry, the defence. The prosecution were 100% sure it was all from the same rifle. 
+
+Yeah. I looked far and wide for the autopsy report, couldn't find it.
+
+You are not going to be able to find it, because Amityville police will not let anyone get their hands on it. 
+
+Okay, okay. 
+
+Because they may or may not be super fucking corrupt.
+
+Ooooh. Well, there were differing reports about the crime scene photos, I didn't look at them myself. I don't want to, I don't think. 
+
+I'm looking at them now and they're not nice to look at. But the crime scene photos that are in this book back up the story that's in this book quite heavily.
+
+Okay, because what I could discern from all the differing reports was that the only ones that they could prove were awake was the mother and Allison. Dawn I've heard differing reports about, but she might have been asleep, but she wasn't placed... 
+
+Did you watch any of the documentaries or just read the stuff?
+
+I did not watch the documentaries because I heard... The guy, his name was Katzenbach, no?
+
+That rings a bell. The lawyer? 
+
+No. I don't know what he is, but he's made three documentaries about the case and people are saying that he is not to be trusted. At all. 
+
+If it's Jeffrey Katzenberg, I'm fairly certain, I might be wrong about this. That he was the lawyer of Ronald DeFeo and then he, with the Lutz's, sat down and wrote the book The Amityville Horror.
+
+No that was Waber, wasn't it? Or Webber?
+
+Oh yeah.
+
+Maybe, yeah. 
+
+You're right in that there was definitely...The defence lawyer, over multiple bottles of wine, came up with the whole haunting story.
+
+Because in a few of the documentaries, they're all pretty set on that Ronnie did everything. And then there is another documentary that I saw where Ronnie said that an angel with black hands handed him the gun. The quote-unquote angel was not an angel, it was a his older sister Dawn wearing gloves because she didn't want her fingerprints on the gun.
+
+I think we're skipping a bit ahead now.
+
 Yeah.
 
-so he guesses that there are four sharp
+Wait, I have another question about the forensics. 
 
-people in the house but when the police
+Hold on, let me put on my monocle.
 
-arrives they find
+If they were drugged, and the drug wasn't like enough to be in their system at the point where the autopsy was made, would the children be more susceptible to that than the parents? 
 
-six murder victims ronald defeo
+Yes. So a lot of sedatives will work determined on the size of the person. So if he gave the same dose to his entire family, you'd find that the children would be asleep faster, deeper, and for longer than the parents would. 
 
-senior 44 louise defeo
+Yeah. So hypothetically, because it's reported in the confession, in the newspaper at the time and on Wikipedia, they might have been drugged?
 
-42 and four of the defeo children
+I'm not convinced. 
 
-don 18 allison 13
+I know the answer, I know that they weren't drugged. I'm just flicking through the book now to see if there's pictures of Ronnie DeFeo after he gave his quote-unquote confession, because he was horrifically beaten by the police. Because they made up loads of stuff, there was more than one killer and there was four people involved and only one of them went to prison for it. 
 
-mack 12 and john matthew 9 years old
-
-they had been shot with a 35 caliber
-
-marlin rifle the parents were shot twice
-
-and the children were all killed with a
-
-single
-
-shot so a bit of background
-
-to why this might have happened is that
-
-ronald defeo senior had commented some
-
-money working at his father-in-law's
-
-buick dealership and the family have
-
-moved into the large house
-
-by the amityville river but ronald
-
-senior was abusive towards his family
-
-and the abuse had taken its toll on
-
-ronald jr
-
-or butch as i'm here by gonna call him
-
-because it's a bit
-
-confusing with both ronalds who as a
-
-teenager would no longer be an easy
-
-victim as he had grown into a bigger man
-
-and would fight
-
-back to try to control the sun's temper
-
-that the failed parents
-
-tried to buy butch's obedience
-
-which often didn't work and then i said
-
-surprise surprise
-
-at the age of 17 he was no longer
-
-allowed to attend school
-
-as his drug problem had become apparent
-
-he would often use heroin
-
-and lsd and had at a party
-
-pointed a loaded rifle at a friend of
-
-his
-
-this friend just left the party and then
-
-the next day he was like why did you
-
-leave the party so soon he was like
-
-you pointed a loaded gun at me duh
-
-and he's like it's america and he said
-
-oh yeah
-
-fair enough no hard feelings mate
-
-i like this anti-american stuff because
-
-the russian bots will \[ __ ]
-
-lap it up man
-
-\[Laughter]
-
-we have mostly american listeners now
-
-but we're probably not gonna not anymore
-
-no
-
-foe biden
-
-so butch got a job at his grandfather's
-
-buick dealership
-
-but rarely turned up to do any work and
-
-would still get paid
-
-every week at one point his parent had
-
-an
-
-argument during which butch came into
-
-the room
-
-pointed a rifle at his father and said
-
-leave that woman alone
-
-i'm gonna kill you you fat \[ __ ] this is
-
-it
-
-he then proceeded to pull the trigger
-
-at which point the gun miraculously
-
-malfunctioned
-
-and butch just calmly walked out of the
-
-room
-
-nobody called the police it was also at
-
-this point that
-
-ronald found god
-
-oh yeah ronald senior yeah seriously
-
-this is a couple of sources
-
-he attributes this point as him
-
-becoming religious and finding god
-
-because obviously he was staring
-
-death down the barrel of a gun literally
-
-like totally literally and was saved
-
-so it must have been god's will
-
-obviously so
-
-two weeks before the murders butch was
-
-supposed to deposit
-
-a large check from the car dealership
-
-at the bank but chose to stage a robbing
-
-in which he pretended to get robbed by a
-
-friend who he then split the money with
-
-his problem his father knew
-
-that butch had stolen the money and
-
-called the police
-
-the police questioned butch who was a
-
-right prick about the whole thing i said
-
-there was a lot of information was that
-
-a quote
-
-in the new york times no i just
-
-summarized it because
-
-there's a lot of like oh he fought this
-
-he did that
-
-he was sounds like an eighteen hundreds
-
-gentleman
-
-he was a right prick i said
-
-fly manner
-
-ellie ho what what now let's move on oh
-
-god speaking of play manner the lady
-
-that's supposed to be the gardener
-
-but old yeah that's like dick van dyke
-
-yeah why it's not my story to tell
-
-right but even i could but i'm gonna do
-
-it anyway oh
-
-god right frank about the whole thing
-
-so on the friday before the murders he
-
-was supposed to go to the police station
-
-to look at mug
-
-shots in order to help solving the in
-
-air quotes
-
-robbery but he didn't show up
-
-this led to another argument between him
-
-and his father
-
-at which butch again threatened
-
-to kill him which was witnessed by the
-
-people at the car dealership i'm
-
-guessing i'm starting to think
-
-butch might have some issues yeah
-
-oh yeah maybe so the day before
-
-the murders butch dosed the family
-
-dinner with barbiturates
-
-in the early morning of the 14th of
-
-november
-
-around three o'clock butch went into his
-
-parents room
-
-and shot his father two times his mother
-
-woke up
-
-at which point he proceeded to shoot her
-
-as well
-
-two times after that he went into the
-
-room of his two younger brothers
-
-and shot them both in the head the rest
-
-of the family had still not woken up
-
-and this might or might not be true he
-
-then went
-
-into his sister's bedroom at which point
-
-allison had woken up he shot
-
-her and then shot his other sister dawn
-
-just as a light spoiler for things to
-
-come a lot of what you just said is
-
-completely inaccurate
-
-is it though yeah i have the book in
-
-front of me which has the crime scene
-
-photos and the
-
-little brother was definitely not shot
-
-in the head no it was dawn that was shot
-
-in the head
-
-oh sorry yeah i'm glad that you said
-
-about that he drug their things because
-
-i'm sure
-
-joe is the like man who knows the
-
-science
-
-might tell you that that is completely
-
-false and that they weren't drugged
-
-i'm not sure what they weren't though i
-
-can tell you what happened but
-
-i i just want to hear what you guys are
-
-saying first on wikipedia it says
-
-that they were and then i also found an
-
-article from 1974
-
-which said that they were i couldn't
-
-whereas
-
-i found an article that said that
-
-directly quoted
-
-the autopsy report yeah basically the
-
-talks report came back clean
-
-there was nothing that shouldn't have
-
-been in their systems
-
-at time of death okay the thing is i
-
-really looked i couldn't find the
-
-autopsy reports
-
-so i'm not sure but i'm not sure that he
-
-didn't either it's possible
-
-that he used a sedative
-
-type drug that would have had a short
-
-half-life
-
-which for the non-scientific listeners
-
-is basically the time it takes in the
-
-body for the
-
-drug dosage to reduce by half so if
-
-he had given them something that has a
-
-short half-life then it could have
-
-cleared their system by the time the
-
-autopsy was conducted
-
-but as soon as they died all of the
-
-metabolic pathways that would have been
-
-responsible for breaking down the drugs
-
-would have stopped
-
-so even if he was using something with a
-
-short half-life you still would have
-
-expected to find something in there at
-
-time of death
-
-if you're expecting that drug to work to
-
-keep them asleep
-
-while he rampages around the house but
-
-for example would it be possible that he
-
-as he said in his confession the first
-
-one
-
-that he drugged them at dinner time the
-
-day before
-
-and at three o'clock in the morning most
-
-of that would have worn off
-
-yeah but then without any drug
-
-circulating in their system to keep them
-
-asleep
-
-the report of the rifle would have woken
-
-the other family members
-
-and to put it in perspective the gun
-
-shot can be heard within a mile radius
-
-it woke the dog up that was outside
-
-because i think this is how he got
-
-convicted because he let the dog out and
-
-then brought the dog back
-
-in and they were like well it's
-
-premeditated if you did that and also
-
-that's the only thing the neighbors
-
-reported hearing
-
-was the barking of the dog so after the
-
-first gunshot
-
-the dog would be going which could have
-
-masked
-
-the rest of the gunshots but this is one
-
-of the
-
-unsolved mysteries of the whole case is
-
-how the whole family stayed where they
-
-were
-
-in their beds in situ while
-
-whoever murdered them no except for dawn
-
-dawn was no it wasn't in her bed
-
-dawn was the only one that wasn't
-
-murdered in her bed
-
-okay and allison i read like several
-
-different reports on this
-
-and allison was said to have woken up
-
-so they knew that allison was shot in
-
-the head
-
-like staring at the barrel i don't think
-
-alison was shot in the head
-
-uh she was shot in the head okay then it
-
-still would have been in bed
-
-yeah maybe yeah she could have been shot
-
-in the bed
-
-but they said that the two people
-
-who they could conclude definitely
-
-were awake during this
-
-was the mother and allison
-
-did either of you come across the second
-
-gun in the reports yeah
-
-i guess we'll get to it but maybe we
-
-should do it now
-
-some people said that there might have
-
-been a second gun
-
-because of the fact that most of the
-
-people were asleep
-
-well i don't know if it showed up in the
-
-autopsy that the mother particularly
-
-would have had a bullet in her from a
-
-pistol and not from a rifle
-
-they said that all of the eight
-
-gunshots were from the same rifle except
-
-for
-
-one which they couldn't conclude
-
-definitely
-
-because it was too damaged interestingly
-
-when
-
-when this went to court to prosecute
-
-butch
-
-the prosecution said definitively
-
-that all eight bullets were from the
-
-same weapon
-
-the ballistics expert was 100 sure
-
-beyond any reasonable doubt that all of
-
-these bullets came
-
-from the same gun the prosecution
-
-debated that they weren't convinced so
-
-they didn't rule out the possibility of
-
-a second weapon being used
-
-no sorry the defense the prosecution
-
-were 100 sure it was all from the same
-
-rifle yeah i looked
-
-far and wide for the autopsy report
-
-couldn't find it
-
-you are not going to be able to find it
-
-because amityville police
-
-will not let anyone get their hands on
-
-it okay okay because
-
-they may or may not be super \[ __ ]
-
-corrupt
-
-oh well there were differing reports
-
-about the crime scene photos i didn't
-
-look at them myself
-
-i don't want to i don't think i'm
-
-looking at them now
-
-and they're not nice to look at but the
-
-crime scene photos that are in this book
-
-back up the story that's in this book
-
-quite heavily
-
-okay because what i could discern from
-
-all the differing reports was that the
-
-only ones that they
-
-could prove were awake was the mother
-
-and allison dawn
-
-i've heard differing reports about but
-
-she might have been asleep
-
-but she wasn't placed did you watch any
-
-of the documentaries or just read the
-
-stuff
-
-i did not watch the documentaries
-
-because i heard the guy
-
-his name was katzenbach no
-
-that rings about the lawyer no i don't
-
-know what
-
-he is but he's made three documentaries
-
-about the case and people are saying
-
-that he is
-
-not to be trusted at all if it's jeffrey
-
-katzenberg
-
-i'm fairly certain i might be wrong
-
-about this
-
-that he was the lawyer of ronald defeo
-
-and then
-
-he with the lotsies sat down and wrote
-
-the book the amityville
-
-no that that was waver wasn't it or
-
-whether
-
-oh maybe yeah you're writing that there
-
-was definitely
-
-the defense lawyer over multiple bottles
-
-of wine
-
-yeah came up with the whole haunting
-
-story
-
-because in a few of the documentaries
-
-they're all pretty
-
-set on that ronnie did everything and
-
-then there is another documentary that i
-
-saw
-
-where ronnie said that an angel with
-
-black hands
-
-he handed him the gun the quote-unquote
-
-angel
-
-was not an angel it was a his older
-
-sister dawn wearing gloves because she
-
-didn't want her fingerprints on the gun
-
-i think we're skipping a bit ahead now
-
-yeah
-
-wait i have another question about the
-
-forensics hold on let me put on my
-
-monocle
-
-if they were drugged and the drug wasn't
-
-like
-
-enough to be in their system at the
-
-point where the autopsy was made would
-
-the children be more susceptible to that
-
-than the parents yes so a lot of
-
-sensitives will work
-
-determined on the size of the person
-
-so if he gave the same dose to his
-
-entire family
-
-you'd find that the children would be
-
-asleep
-
-faster deeper and for longer than
-
-the parents would yeah so
-
-hypothetically because it's reported
-
-in the confession in the newspaper at
-
-the time
-
-and on wikipedia they might have been
-
-drugged
-
-i'm not convinced i know the answer i
-
-know that they weren't drugged
-
-i'm just flicking through the book now
-
-to see if there's pictures of ronnie
-
-defeo
-
-after he gave his quote-unquote
-
-confession
-
-because he was horrifically beaten by
-
-the police
-
-why because they made up loads of stuff
-
-there was
-
-more than one killer and there was four
-
-people involved
-
-and only one of them went to prison for
-
-it the thing that they could prove
-
-is that before going to the bar or
-
-before going to work
-
-sorry butch showered trimmed his beard
-
-got dressed and collected his
-
-blood-soaked clothing
-
-along with the rifle and put the
-
-evidence in a pillowcase
-
-he then drove to brooklyn where his
-
-place of work was
-
-the car dealership and disposed of the
-
-pillowcase in a storm drain
-
-after which he showed up to work and
-
-clocked in at
-
-6 00 am at work he made a big
-
-show about calling the house several
-
-times
-
-and commented several times about nobody
-
-answering
-
-he then left work at noon and went to
-
-his girlfriend's house
-
-and continued the charade there by
-
-calling his house
-
-and commenting again on nobody answering
-
-then he and his girlfriend went to
-
-butch's friend's
-
-bobby's house where butch repeated the
-
-same scene of calling his house and then
-
-commenting on nobody answering he
-
-proceeded to hang out with his friends
-
-they took heroin and then went to the
-
-bar
-
-where he said that he was going home as
-
-his repeated calls had been
-
-met with no answer he returned to the
-
-bar
-
-a couple of minutes after so i'm
-
-guessing like 10 minutes
-
-or more maybe shouting for help and now
-
-we're at the start of the story again
-
-when the police showed up at the house
-
-butch was sobbing and told them that
-
-louise
-
-fellini a mob hitman had done the
-
-murders
-
-because he said that louis felini had
-
-been living with them for a while and he
-
-knew that they had like
-
-money and stuff hidden in the basement
-
-stuff like that
-
-after which he casually asked the police
-
-how to go about collecting life
-
-insurance the police believed butch's
-
-story at first
-
-but then after finding the rifle boxes
-
-and getting information about the staged
-
-robbery
-
-they began to suspect butch of being the
-
-murderer
+The thing that they could prove is that before going to the bar, or, before going to work. Sorry. Butch showered, trimmed his beard, got dressed and collected his blood-soaked clothing along with the rifle and put the evidence in a pillowcase. He then drove to Brooklyn where his place of work was, the car dealership, and disposed of the pillowcase in a storm drain. After which he showed up to work and clocked in at 6 am. At work he made a big show about calling the house several times and commented several times about nobody answering. He then left work at noon and went to his girlfriend's house and continued the charade there, by calling his house and commenting again on nobody answering. Then he and his girlfriend went to Butch's friend's Bobby's house, where butch repeated the same scene of calling his house and then commenting on nobody answering. He proceeded to hang out with his friends, they took heroin and then went to the bar, where he said that he was going home as his repeated calls had been met with no answer. He returned to the bar a couple of minutes after, so I'm guessing like 10 minutes or more maybe, shouting for help. And now we're at the start of the story again. When the police showed up at the house Butch was sobbing, and told them that Louis Falini, a mob hitman, had done the murders. Because he said that Louis Falini had been living with them for a while, and he knew that they had like money and stuff hidden in the basement, stuff like that. After which he casually asked the police how to go about collecting life insurance. The police believed Butch's story at first, but then after finding the rifle boxes and getting information about the staged robbery they began to suspect Butch of being the murderer.
 
 butch had also stated that he had heard
 
