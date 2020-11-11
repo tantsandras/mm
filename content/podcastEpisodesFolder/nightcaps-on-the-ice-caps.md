@@ -144,391 +144,91 @@ Well they're celebrating the election, aren't they?
 
 Hashtag vote Biden.
 
-Hashtag thank you Americans for voting Biden.
+Hashtag thank you Americans for voting Biden. Fuck you Russian bots.
 
-you russian bots
+So on the 11th of may 2000, Rodney Marks started to feel ill whilst walking between the observatory and the base and visited the station's doctor, Robert Thompson, three times with an increasing amount of distress and disorientation. Rodney's complaints were of shortness of breath and body pains. The doctor sought help via satellite but Rodney died of cardiac arrest after waking up on the 12th vomiting blood, still undiagnosed. I don't know if this is true or not, but in some articles it says that Robert Thompson can't be asked for a comment because they can't find him. And in some articles it says that he has disappeared.
 
-so on the 11th of may 2000
+Yeah, I read that he disappeared in 2006.
 
-rodney mark started to feel ill whilst
+Yeah. So has he disappeared literally, or has he disappeared from like, the public eye?
 
-walking between the observatory and the
+He might have died, he might have changed his name.
 
-base
+Yeah.
 
-and visited the station's doctor robert
+It could be any number of things. Might have been assassinated by the Russian bots.
 
-thompson three times with an increasing
+That's in our future. Cheers! That's a big question mark, but it sounds like they can't confirm that he's dead or anything. So Rodney's body was stored in a freezer at the station for six months as the weather conditions prevented him to be moved, after which it was transported to New Zealand for an autopsy.
 
-amount of distress
+They stored him in a freezer for a bit on base and then his close colleagues and girlfriend decided that they should give him what they could of a proper burial. So some of the engineers made a casket out of some spare wood and buried him formally outside the base, until he could be moved to New Zealand. Yeah, so they dug him back up when flights were allowed again.
 
-and disorientation rodney's complaints
+Okay. I'm guessing that the conditions of the body is not necessarily deteriorated because of that? Because he was buried in such freezing conditions? He might have been very well preserved even if he was dug into the ground.
 
-were of
+Yeah. So like we're finding now in the permafrost of the northern ice cap, the cold almost perfectly preserves tissue. 
 
-shortness of breath and body pains
+Yeah. I've seen thousands of years old bodies that have been like, almost perfectly mummified. So at the autopsy they discovered that Rodney had not died of natural causes as the explanation had been at the time, but he had died of methanol poisoning. The forensic pathologist Martin Sage said that Rodney had ingested 150 milliliter methanol, one to two days prior to his death. And that's... I would say, a lot. Yeah? 
 
-the doctor sought help via satellite but
+A glass of wine's worth. Quite a large glass. 
 
-rodney died of cardiac arrest
+You and me kind of glass.
 
-after waking up on the 12th vomiting
+You and me kind of first glass. I'll start with a large glass but just bring the bottle. \[Laughter]
 
-blood
+So the autopsy showed that Rodney had needle marks on his right arm but that he did not have any drugs in his system. And when I say drugs, because this was confusing as well, I mean like drugs...
 
-still undiagnosed i don't know if this
+Recreational. 
 
-is true or not
+Recreational drugs, yes. Because Thompson, the doctor at the base, noticed this when he was injecting him with an antipsychotic as Rodney showed signs of severe anxiety. And he thought that these symptoms that he was exhibiting at the time was alcohol withdrawal. 
 
-but in some articles it says that
+He also previously injected him with a sedative. 
 
-robert thompson can't be asked for a
+Okay. 
 
-comment
+Which is where the two marks that the pathologist found, they're completely attributable to the doctor administering at first the sedative and then the second time around an antipsychotic.
 
-because they can't find him and in some
+Yeah. But also, Thompson, the doctor who treated him at the time said that the needle marks were still there when he did that.
 
-articles it says
+Oooooh. So then he must have had more than two on his autopsy?
 
-that he has disappeared from too yeah i
+Yeah. But he said that he thought it was weird, as drugs were prohibited at the base, and that the needle marks were on his right arm but Rodney was right-handed. If he was using recreational drugs that was applied intravenously, it would have been on his left arm? Probably?
 
-read that he disappeared in 2006
+But, you know. And this was also a bit weird, because I read that drugs were prohibited but they also interviewed someone who was working at the base who said that they were growing Mary..Mary gianna. \[Laughter]
 
-yeah so has he disappeared
+I can't say it now. Mariana? Mariana.
 
-literally or has he disappeared from
+Marijuana. 
 
-like the public eye
+Marijuana.
 
-he might have died he might have changed
+One marijuana cigarette. \[Laughter]
 
-his name yeah
+At the base. And also one person who said that he knew about at least one person who used heavier drugs and were selling it to other people at the base. So I'm not sure if this was... 
 
-it could be any number of things might
+Well marijuana wouldn't be injected, would it? 
 
-have been assassinated by the russian
+No, no. But that they also knew someone who was using heavier drugs...
 
-bots
+Yeah, but that could just be cocaine and that's just \[snorts].
 
-that's in our future cheers that's a big
+No, they mean injectable drugs and were selling it to other people on the base.
 
-question mark
+Did they mean injectable drugs or did they just say heavier drugs?
 
-but it sounds like they can't confirm
+I'm not sure. I think they meant injectable drugs, but I'm not sure. So you're saying that there was only two needle marks at the autopsy? 
 
-that he's dead or anything
+I'm sure I read that somewhere, but I didn't actually see the autopsy report, so don't quote me on it. 
 
-so rodney's body was stored in a freezer
+Okay. So it could have been there before as the doctor at the base stated, or it could have been his needle marks.
 
-at the station for six months as the
+Yes.
 
-weather conditions prevented him to be
+So we don't know. Detective Senior Sergeant Grant Wormald of the New Zealand police stated that: 
 
-moved
+> "In my view it is most likely Marks ingested the methanol unknowingly."
 
-after which it was transported to new
+And that's because suicide seemed unlikely, as Rodney had no financial issues, was almost finished with his academic work and was engaged to be married. And most importantly, and the most importantly is my wording so this might not be true, but I thought that the thing that speaks mostly against him being suicidal was that he sought medical help as soon as he realized that he had fallen ill, and he sought it several times. And he seemed perplexed about like being so ill. 
 
-zealand for an autopsy
-
-they stored him in a freezer for a bit
-
-on
-
-base and then his close colleagues and
-
-girlfriend decided that they should give
-
-him what they could
-
-of a proper burial so some of the
-
-engineers
-
-made a casket out of some spare wood and
-
-buried him
-
-formally outside the base oh until he
-
-could be moved to new zealand
-
-yeah so they dug him back up when
-
-flights were allowed again
-
-okay i'm guessing that the conditions of
-
-the body
-
-is not necessarily deteriorated because
-
-of that because he was buried in such
-
-freezing conditions he might have been
-
-very well preserved
-
-even if he was stuck into the ground
-
-yeah
-
-so like we're finding now in the
-
-permafrost
-
-of the northern ice cap the cold almost
-
-perfectly preserves
-
-tissue yeah i've seen thousands
-
-of fierce old bodies that have been
-
-like almost perfectly mummified so
-
-at the autopsy they discovered that
-
-rodney
-
-had not died of natural causes as
-
-the explanation had been at the time but
-
-he had died of
-
-methanol poisoning the forensic
-
-pathologist
-
-martin sage said that rodney had
-
-ingested
-
-150 milliliter methanol
-
-one to two days prior to his death
-
-and that's i would say a lot yeah a
-
-glass of wine's worth
-
-quite a large glass you and me kind of
-
-glass
-
-you and me kind of first class i'll
-
-start with a large glass but just bring
-
-the bottle
-
-so the autopsy showed that rodney had
-
-needle marks on his right arm but that
-
-he did not have
-
-any drugs in his system and when i say
-
-drugs
-
-because this was confusing as well i
-
-mean like drugs
-
-recreational recreational drugs yes
-
-because thompson the doctor at the base
-
-noticed this when he was injecting him
-
-with an antipsychotic
-
-as rodney showed signs of severe anxiety
-
-and he
-
-thought that these symptoms that he was
-
-exhibiting at the time was alcohol
-
-withdrawal he also previously
-
-injected him with a sedative okay which
-
-is where the two
-
-marks that the pathologist found they're
-
-completely attributable to the doctor
-
-administering
-
-at first the sedative and then the
-
-second time around an antipsychotic
-
-yeah but also thompson the doctor
-
-who treated him at the time said
-
-that the needle marks were still there
-
-when oh
-
-so then he must have had more than two
-
-on his autopsy
-
-yeah but he said that he thought it was
-
-weird as drugs were prohibited
-
-at the base and that the needle marks
-
-were on his right arm
-
-but rodney was right-handed if he was
-
-using recreational
-
-drugs that was applied intravenously
-
-it would have been on his left arm
-
-probably
-
-but you know and this was also a bit
-
-weird because i read that
-
-drugs were prohibited but they also
-
-interviewed someone who was working at
-
-the base who
-
-said that they were growing mari
-
-marrying gianna
-
-marion
-
-i can't say it now mariana mariana
-
-marijuana marijuana
-
-one marijuana cigarette
-
-at the base and also one person who said
-
-that he knew about
-
-at least one person who used heavier
-
-drugs and were
-
-selling it to other people at the base
-
-so i'm not sure
-
-if this was well marijuana wouldn't be
-
-injected would it no no but that they
-
-also knew
-
-someone who was using heavier drugs
-
-yeah but that could just be cocaine and
-
-that's just uh
-
-no they mean injectable drugs and we're
-
-selling it to other people on the base
-
-did they mean injectable drugs or did
-
-they just say heavier drugs
-
-i'm not sure i think they meant
-
-injectable drugs but i'm not
-
-sure so you're saying that there was
-
-only
-
-two needle marks at the autopsy i'm sure
-
-i read that
-
-somewhere but i didn't actually see the
-
-autopsy report
-
-so don't quote me on it okay so it could
-
-have been there
-
-before as the doctor at the base stated
-
-or it could have been his needle marks
-
-yes
-
-so we don't know detective senior
-
-sergeant
-
-grant wormald of the new zealand police
-
-stated that in my view it's most
-
-likely marx ingested the methanol
-
-unknowingly and that's because
-
-seemed unlikely as rodney had no
-
-financial issues was almost finished
-
-with his
-
-academic work and was engaged to me
-
-married
-
-and most importantly and the most
-
-importantly is my
-
-wording so this might not be true but i
-
-thought that
-
-the thing that speaks mostly against him
-
-being suicidal was that he sought
-
-medical help as soon as he realized that
-
-he had fallen ill
-
-and he sought it several times and he
-
-seemed
-
-perplexed about like being so
-
-ill yeah i think if he knew what the
-
-cause was
-
-having taken it or done it himself then
-
-he would have told the doctor
+Yeah. I think if he knew what the cause was, having taken it or done it himself, then he would have told the doctor.
 
 yeah and also the doctor said that he
 
