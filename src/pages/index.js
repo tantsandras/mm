@@ -18,7 +18,7 @@ const Wrapper = styled.div`
 const IndexPage = ({ data }) => {
   return (
   <>
-    <SEO title="Home" />
+    <SEO title="Midweek Murders - A True Crime / Comedy Podcast" />
     <Wrapper>
       <StyledBackground id="home" />
       <Latest> 
