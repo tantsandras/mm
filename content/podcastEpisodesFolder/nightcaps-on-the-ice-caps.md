@@ -58,9 +58,7 @@ Sandra got her information from:
 * [Science Mag](https://science.sciencemag.org/content/323/5910/32.full), by Jeffrey Mervis
 * The aerial view photo of the South Pole station can be found [here](https://en.wikipedia.org/wiki/Amundsen%E2%80%93Scott_South_Pole_Station#/media/File:Pole-from-air.jpg)
 
-
-
-#### Audio transcription 
+#### Audio transcription
 
 <!--StartFragment-->
 
@@ -101,8 +99,6 @@ Aaaaaand hide.
 Aaaaand run away.
 
 \[Music]
-
-
 
 It's Wednesday, which means that it's time to talk about crime. You're listening to Midweek Murders and I'm your host Sandra!
 
@@ -230,619 +226,97 @@ And that's because suicide seemed unlikely, as Rodney had no financial issues, w
 
 Yeah. I think if he knew what the cause was, having taken it or done it himself, then he would have told the doctor.
 
-yeah and also the doctor said that he
+Yeah, and also, the doctor said that he had injected him with a sedative and antipsychotic because he seemed extremely distressed. 
 
-had injected him with a sedative and
+And if it was a suicide attempt you'd suffer in silence.
 
-antipsychotic because he seemed
+Yeah. 
 
-extremely
+Because you wouldn't want anybody to treat you. 
 
-distressed and if it was a suicide
+And he also seemed genuinely perplexed about like, what was happening. It didn't see like he had any kind of clue... 
 
-attempt you'd suffer in silence
+It's interesting that you thought most significantly against suicide was his seek for help and my first thought was: "well he's on the brink of publishing significant scientific data, why would he want to commit suicide?". \[Laughter]
 
-yeah because you wouldn't want anybody
+It's also funny that none of us take his personal life in... 
 
-to treat you and he also
+Yeah, fuck that. He's writing a paper!
 
-seemed genuinely perplexed about
+Well it did genuinely, I felt like, seem like he had no intention of killing himself.
 
-like what was happening it didn't seem
+I don't think so either. 
 
-like he had
+Yeah. So the New Zealand police has also stated that they didn't get satisfactory cooperation from the base or the people who worked there. And other than Rodney, 49 people worked at the Antarctica station. Rodney was described as brilliant, witty and a steady sort of bloke who drank to excess on occasion. Which I felt like, relatable.
 
-any kind of clue it's interesting that
+All right, don't criticize. 
 
-you thought
+By a colleague. He also provided the base with free French lessons and did talks on astronomy on a regular basis. He was very outgoing and friendly, and he was described by his colleagues as an excellent scientist. Only 13 of the 49 people working at the base responded to inquiries made by the New Zealand police, so the didn't get a lot of help. And also, a thing that has come up as a theory is that he drank the methanol because he was an alcoholic. But the things that speak against that is that there was a lot of alcohol readily available at the base, like a bar that was always open, and thus it seems unlikely that Rodney had intentionally partaken in methanol or that he had tried to distill his own liquor because there was so much other alcohol available. He had 18 bottles of alcohol in his room, like on his desk. And also, Rodney's family thinks that it's very unlikely because he was a scientist and thus would know about the risks of methanol. 
 
-most significantly against suicide
+I'm just gonna say that on the point that he wouldn't have brewed his own because there was so much on base, there was so much on base because they had a distillery where they were making moonshine. So the stuff that was on base wasn't necessarily pre-made brought in stuff, it was the moonshine that was coming from their homemade distillery. That was so revered that it was passed down from group to group when they finished their service term. They handed it over and were like: "this is the moonshine distillery, it will be your best friend. Don't fuck it up because we'll be coming back". 
 
-was his seek for help and my first
+Okay. But also, it couldn't be from the moonshine either, because other people would have gotten ill. 
 
-thought was
+And it was tested and came back negative for methanol. 
 
-well he's on the brink of publishing
+Yeah. So the only methanol that was on base was found in cleaning supplies. It wasn't just like cleaning supplies as cleaning the bathrooms and stuff, he was also using it to clean the telescope.
 
-significant scientific data
+Yeah. Methanol is very common in labs as a cleaning solution. 
 
-why would he want to commit suicide
+And also, the methanol solutions were clearly marked and locked inside a cabinet. 
 
-it's also funny that none of us take his
+Unless they were the ones on his desk.
 
-personal life
+Yeah it seems like it wasn't, but I might be wrong. 
 
-in yeah that he's writing a paper
+One of the reports from the base was that he had, like you said, an incredibly messy workspace. And bottles of both methanol and ethanol in their pure forms was strewn about his desk, as well as multiple bottles of generically available alcohol. So not all of the methanol was locked away all of the time, which would kind of make sense in that environment I'd say. Because if you're regularly taking it out of the locked cupboard to clean your telescopes and that's all you do, you're probably at some stage going to get lazy and just leave the bottle on your desk.
 
-well it did genuinely i felt like
+Yeah, it could have been there, yeah. So another report that I read was that Thompson had access to an Ektachem blood analyzer, which would have detected the methanol within minutes in Rodney's system if he had put Rodney's blood in that blood analyzer.
 
-seemed like he had no intention of
+That is not strictly true. 
 
-killing himself
+Why not?
 
-i don't think so either yeah so the
+Well, let me put on my lab coat and talk you through alcohol poisoning. Also interestingly, you know when you first mentioned this over messaging I said I'd never had any experience with it?
 
-new zealand police has also stated that
+Mhmm.
 
-they didn't get
+Thank you for confirming. It turns out that the Ektachem was renamed to VITROS, which was actually one of the first analyzers that I worked with when I worked in the lab. 
 
-satisfactory cooperation from the base
+Oh, okay.
 
-or the people who worked there and other
+So I actually know quite a bit more about this than I thought I did.
 
-than
+Oh, wow. Exciting
 
-rodney 49 people worked at the
+So what the Ektachem would have detected is not the methanol in his blood but it would have been what's called in biochemistry an anion gap. Now the anion gap is basically a calculation, which is the amount of chloride and bicarbonate in your blood subtracted from the amount of sodium in your blood. So it has to do a test for the amount of sodium, the amount of chloride and the amount of bicarbonate, which are all readily available in your blood. No questions there. Methanol poisoning leads to metabolic acidosis, which contributes to low bicarbonate levels in your blood. So the lower the bicarb levels the bigger the anion gap is going to be between sodium chloride and bicarb, and that is what the Ektachem would have tested and detected. And it would have given a clue to the doctor that something was wrong. When you've got a big anion gap, or a high anion gap as it's called in biochemistry, there's only a couple of possibilities that it could be and methanol or ethylene glycol poisoning are one of the options.
 
-antarctica station rodney was described
+Okay. So it would have been a pretty big clue? 
 
-as brilliant witty
+Combined with his clinical symptoms and the environmental situation. Knowing that there was a lot of alcohol on base, that all of the people on base would have been tested for conditions like diabetes because diabetes can, when it gets a bit more severe, lead to different anion gap result through diabetes alkalosis. So you can rule that out, that's one of the other options that it could be, so it can't be that because they've all had a health check and a physical and they probably wouldn't have been allowed on site with diabetes. And his clinical symptoms match that of methanol poisoning obviously, because that's what it was, so I think the doctor would have had a pretty good idea had he done that test. 
 
-and a steady sort of bloke who drank to
+Okay. 
 
-excess
+But as we know, there were reasons why he didn't.
 
-on occasion which i felt like relatable
+Yeah. So I don't think I said this, but Rodney had eyesight problems when he first fell ill. So he was having to wear sunglasses inside, and also, when he woke up on the day that he died he also said that he couldn't see. 
 
-all right don't criticize my
+Which is another big clinical symptom of methanol poisoning.
 
-colleague he also provided the base with
+Yeah, that's what I was going to say as well.
 
-free
+Oh, well. Sorry, but I'm the "not a doctor" here, so I'll do that. Thank you. \[Laughter]
 
-french lessons and did talks on
+So what I mean is that it would probably narrow it down a lot, like the eyesight problems. 
 
-astronomy
+Yeah. With the eyesight problems, the shaking, the disorientation. Like, when you know that he was suffering from methanol poisoning it's super obvious. And a lot of the symptoms can coincide with withdrawal, like the doctor thought, apart from the vision issues. You can get shaking, you can be disorientated, you can have sweats. So I can see why he would have thought it would be withdrawal. But that simple test that would have taken five ten minutes to do, if he were a doctor worth his registration he would have been able to say: "this is methanol poisoning". Which is really unfortunate because the cure would have been on sight, ethanol. 
 
-on a regular basis he was very outgoing
+Yeah. 
 
-and friendly
+Drinking alcohol. 
 
-and he was described by his colleagues
+Yeah. I read that as well, which for me sounds a bit counter-intuitive. So I kind of get why they wouldn't necessarily think of that.
 
-as an
-
-excellent scientist only 13 of the 49
-
-people
-
-working at the base responded to
-
-inquiries
-
-made by the new zealand police so they
-
-didn't get a lot of
-
-help and also a thing that has come up
-
-as a theory
-
-is that he drank the methanol
-
-because he was an alcoholic but the
-
-things
-
-that speak against that is that there
-
-was a lot of alcohol
-
-readily available at the base like a bar
-
-that was always open
-
-and thus it seems unlikely that rodney
-
-had
-
-intentionally partaking in methanol or
-
-that he had tried to distill his own
-
-liquor because there was so much
-
-other alcohol available he had
-
-18 bottles of alcohol in his
-
-room like on his desk and also
-
-rodney's family thinks that it's very
-
-unlikely because
-
-he was a scientist and thus would
-
-know about the risks of methanol i'm
-
-just
-
-gonna say that on the point that he
-
-wouldn't have brewed his own
-
-because there was so much on base there
-
-was so much on base
-
-because they had a distillery where they
-
-were making moonshine
-
-so the stuff that was on base wasn't
-
-necessarily
-
-pre-made brought in stuff it was the
-
-moonshine that was
-
-coming from their homemade distillery
-
-that was so revered that it was passed
-
-down
-
-from group to group when they finished
-
-their
-
-service term they handed it over and
-
-were like
-
-this is the moonshine distillery it will
-
-be your best friend
-
-don't it up because we'll be coming
-
-back okay
-
-but also it couldn't be from
-
-the moonshine either because other
-
-people would have gotten
-
-ill and it was tested and
-
-came back negative for methanol yeah so
-
-the only methanol that was on base
-
-was found in cleaning supplies it wasn't
-
-just
-
-like cleaning supplies as cleaning the
-
-bathrooms and stuff
-
-he was also using it to clean the
-
-telescope
-
-yeah methanol is very common in
-
-labs as a cleaning solution and
-
-also the methanol solutions
-
-were clearly marked and locked
-
-inside a cabinet unless they were the
-
-ones on his desk
-
-yeah it seems like it wasn't
-
-but i might be wrong one of the reports
-
-from the base
-
-was that he had like you said an
-
-incredibly
-
-messy workspace and bottles of both
-
-methanol and ethanol in their pure forms
-
-was strewn about his desk as well as
-
-multiple bottles of generically
-
-available
-
-alcohol so not all of the methanol was
-
-locked away
-
-all of the time which would kind of make
-
-sense
-
-in that environment i'd say because if
-
-you're regularly taking it out of the
-
-locked cupboard to clean your telescopes
-
-and that's all you do
-
-you're probably at some stage going to
-
-get lazy and just leave the bottle on
-
-your desk
-
-yeah it could have been there yeah so
-
-another report that i
-
-read was that thompson had access to an
-
-ectocam
-
-blood analyzer which would have detected
-
-the methanol within
-
-minutes in rodney's system if he had
-
-put rodney's blood in that blood
-
-analyzer
-
-that is not strictly true why not
-
-well let me put on my lab coat
-
-and talk you through alcohol poisoning
-
-also interestingly you know when you
-
-first mentioned this over
-
-messaging i said i'd never had any
-
-experience with it
-
-thank you for confirming it turns out
-
-that the acticam
-
-was renamed to vitros
-
-which was actually one of the first
-
-analyzers that i worked with
-
-when i worked in the lab oh okay
-
-so i actually know quite a bit more
-
-about this than i thought i did
-
-oh wow exciting
-
-so what the hector chem
-
-would have detected is not the methanol
-
-in his blood but it would have been
-
-what's
-
-called in biochemistry an anion gap
-
-now the anion gap is basically
-
-a calculation which is the amount of
-
-chloride and bicarbonate
-
-in your blood subtracted from the amount
-
-of
-
-sodium in your blood so it has to do
-
-a test for the amount of sodium the
-
-amount of chloride and the amount of
-
-bicarbonate which are all
-
-readily available in your blood no
-
-questions there
-
-methanol poisoning leads to
-
-metabolic acidosis which contributes
-
-to low bicarbonate levels
-
-in your blood so the lower the bicarb
-
-levels
-
-the bigger the anion gap is going to be
-
-between sodium chloride and bicarb
-
-and that is what the ectochem would have
-
-tested
-
-and detected and it would have given a
-
-clue
-
-to the doctor that something was wrong
-
-when you've got a big anion gap or
-
-a high anion gap as it's called in
-
-biochemistry
-
-there's only a couple of possibilities
-
-that it could be
-
-and methanol or ethylene glycol
-
-poisoning are one of the options
-
-okay so it would have been a pretty big
-
-clue combined with his clinical symptoms
-
-and the environmental situation
-
-knowing that there was a lot of alcohol
-
-on base
-
-that all of the people on base would
-
-have been tested for conditions like
-
-diabetes
-
-because diabetes can when it gets a bit
-
-more severe
-
-lead to different anion gap result
-
-through diabetes alkalosis so
-
-you can rule that out that's one of the
-
-other options that it could be
-
-so it can't be that because they've all
-
-had a health check and a physical
-
-and they probably wouldn't have been
-
-allowed on site with diabetes
-
-and his clinical symptoms match that of
-
-methanol poisoning
-
-obviously because that's what it was so
-
-i think the doctor would have had a
-
-pretty good idea
-
-had he done that test okay but as we
-
-know there were reasons why he didn't
-
-yeah so i don't think i said this but
-
-rodney had
-
-eyesight problems when he first fell ill
-
-so he was having to wear sunglasses
-
-inside and also when he woke up
-
-on the day that he died he also said
-
-that he couldn't see which is another
-
-big
-
-clinical symptom of methanol poisoning
-
-yeah
-
-that's what i was going to say as well
-
-oh well sorry
-
-but i'm the not a doctor here so i'll do
-
-that
-
-thank you so what i mean is that it
-
-would probably narrow it down
-
-a lot like the eyesight problems yeah
-
-with the eyesight problems
-
-the shaking the disorientation
-
-like when you know that he was suffering
-
-from methanol
-
-poisoning it's super obvious and a lot
-
-of the
-
-symptoms can coincide with withdrawal
-
-like the doctor thought apart from the
-
-vision issues you can get shaking you
-
-can be disorientated you can have sweats
-
-so i can see why he would have thought
-
-it would withdrawal but
-
-that simple test that would have taken
-
-five ten minutes to do
-
-if he were a doctor worth his
-
-registration
-
-would have been able to say this is
-
-methanol poisoning
-
-which is really unfortunate because the
-
-cure would have been on psi
-
-ethanol yeah drinking alcohol yeah i
-
-read that as well
-
-which for me sounds a bit
-
-counter-intuitive
-
-so i kind of forget why they wouldn't
-
-necessarily think of that
-
-the reason the ethanol works
-
-as a treatment for methanol poisoning
-
-you have to look into
-
-the biological process of how the body
-
-breaks down methanol
-
-so methanol gets broken down by a
-
-process
-
-or come on science brain you
-
-know this methanol is
-
-catalyzed by alcohol dehydrogenase
-
-into formaldehyde which is a common
-
-preservative they use it in
-
-postmortems then formaldehyde is broken
-
-down
-
-into formic acid by formaldehyde
-
-dehydrogenase
-
-and the formic acid is what causes the
-
-damage in the body so it's not the
-
-methanol
-
-but it's the product of methanol once it
-
-starts getting degraded
-
-the reason ethanol is the cure
-
-for methanol poisoning is because
-
-ethanol
-
-outcompetes methanol for the alcohol
-
-dehydrogenase when you've drank methanol
-
-just methanol all of your alcohol
-
-dehydrogenase
-
-is going to that methanol to break it
-
-down into the toxic formic
-
-acid if you've drunk methanol or
-
-ingested it however
-
-and you're treated with ethanol the
-
-ethanol basically
-
-pushes aside all of the methanol and
-
-says
-
-alcohol dehydrogenase take me i'm super
-
-sexy so the alcohol dehydrogenase
-
-prioritizes the ethanol
-
-rather than the methanol which gives the
-
-liver and the kidneys
-
-time to filter out the methanol and pass
-
-it through in the urine
-
-without breaking it down into the toxic
-
-formic acid
+The reason the ethanol works as a treatment for methanol poisoning, you have to look into the biological process of how the body breaks down methanol. So methanol gets broken down by a process or... Come on science brain, you know this! Methanol is catalyzed by alcohol dehydrogenase into formaldehyde, which is a common preservative, they use it in postmortems. Then formaldehyde is broken down into formic acid by formaldehyde dehydrogenase and the formic acid is what causes the damage in the body. So it's not the methanol but it's the product of methanol once it starts getting degraded. The reason ethanol is the cure for methanol poisoning is because ethanol outcompetes methanol for the alcohol dehydrogenase. When you've drank methanol, just methanol, all of your alcohol dehydrogenase is going to that methanol to break it down into the toxic formic acid. If you've drunk methanol, or ingested it however, and you're treated with ethanol the ethanol basically pushes aside all of the methanol and says:  "alcohol dehydrogenase, take me! I'm super sexy". So the alcohol dehydrogenase prioritizes the ethanol rather than the methanol, which gives the liver and the kidneys time to filter out the methanol and pass it through in the urine without breaking it down into the toxic formic acid.
 
 okay so what the doctor said
 
