@@ -33,15 +33,11 @@ The two cases we're talking about this week are the murder of Sian O'Callaghan a
 
 <!--EndFragment-->
 
-
-
 Joe got his information from: 
 
 * Judiciary, [Sentencing remarks of Sir John Griffiths Williams](https://www.judiciary.uk/wp-content/uploads/2016/09/r-v-halliwell-sentencing-remarks.pdf)
 * Judiciary, [RULING ON PRELIMINARY ISSUES: ABUSE OF PROCESS](https://www.judiciary.uk/wp-content/uploads/JCO/Documents/Judgments/halliwell-ruling.pdf)
-* An [article](https://www.bbc.co.uk/news/uk-england-wiltshire-37339672) in BBC News
-
-
+* An [article](https://www.bbc.co.uk/news/uk-england-wiltshire-37339672) in BBC News. This is also where the photos can be found.
 
 Sandra got her information from: 
 
@@ -52,11 +48,7 @@ Sandra got her information from:
 * BBC News [article](https://www.bbc.co.uk/news/uk-england-wiltshire-12853461) 
 * [PACE Code C - Detention](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/903473/pace-code-c-2019.pdf)
 
-
-
 #### Audio transcript
-
-
 
 <!--StartFragment-->
 
@@ -71,8 +63,6 @@ What!?
 I don't think you have that in Sweden, I think this is a fever dream. \[Laughter]
 
 \[Music]
-
-
 
 Okay, should we start? 
 
