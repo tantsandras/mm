@@ -132,944 +132,190 @@ The judge in one of his trials, I presume it was the first one, summarized the o
 
 I remember him depositing evidence and the surveillance people picking up on that.
 
-Yeah. He also got in his car and drove away through another village
+Yeah. He also got in his car and drove away through another village and the surveillance team were obviously following him, and when they passed the same road that they'd seen him drive down, they saw a small bonfire on the side of the road. So he'd obviously taken whatever else he couldn't throw away, probably Sian's clothes, and burnt them.
 
-and the surveillance team were obviously
+In the TV series I watched I think it was her handbag. But it might not have been. 
 
-following him and when they passed the
+I don't know. They obviously couldn't recover what it was because it was burnt.
 
-same road that they'd seen him drive
+Yeah. 
 
-down
+And then, like you said, he was seen on the CCTV which was how they identified his car.
 
-they saw a small bonfire on the side of
+Yeah. 
 
-the road
+So they got an image analyst who identified the same car, the same model and the same color, and also noticed that it had lighter areas on the doors which were the removable magnetic stickers of the taxi company that he worked for. So when they cross referenced that with all the taxi companies, there was pretty much only one person it could have been who ticked all of those boxes. 
 
-so he'd obviously taken whatever else he
+I remember in the TV series, they did say that he had clocked off before doing this. 
 
-couldn't throw away
+So that's when he turned off his handset. 
 
-probably sean's clothes and burnt them
+Yeah. So his last official drive was before this happened, but then when they questioned him about it he said that he had gotten home before this even happened. Which obviously wasn't true.
 
-in the tv series i watched i think it
+It was a big fat dirty lie. 
 
-was her handbag
+Yeah. So on the 19th of october 2012 Halliwell pleaded guilty to the murder of Sian, but the confessions were ruled inadmissible because Steve Fulcher was said to have breached the guidelines of the Police And Criminal Evidence act from 1984 by failing to caution Halliwell and denying him access to a solicitor. Fulcher hoped that this would be allowed as the police are entitled to carry out an urgent interview, without a solicitor present, if there's a chance to save somebody's life. Even though Fulcher suspected Sian might have been dead, he argued that the best practice in every case is to treat it as if there's a chance to save somebody's life as they had no evidence to the contrary. If she had been held hostage at some place, he felt like the PACE would allow him to question him because there was a chance to save her life.
 
-but it might not have been i don't know
+One of the court reportings that I read actually went into a lot of detail and had Fulcher's reasoning behind what he did. So to just go into that in a little bit more detail, when he was arrested in the car park he was read his rights and cautioned. And everything was prim and proper at that stage. As the supervising officer, Fulcher told his colleagues at the car park: "conduct the emergency interview". An emergency interview is basically one where the suspect doesn't need to be taken back to a police station and have their solicitor, or lawyer, present, which is the only difference between that and a normal interview. If you get arrested by the police you don't have to answer any of their questions until they take you to the police station and you've had a chance to have legal representation, unless it falls into this emergency category. So basically, they stuck him in the back of a car, an unmarked police car, and conducted the emergency interview. And they were instructed to only ask questions about Sian's whereabouts or her condition. So they were just asking: "can you tell us where Sian is? Can you tell us if Sian is still alive?". During that interview he gave no answers, he either said no comment or that he didn't know where she was, he didn't know if she was alive etc etc. They relayed all of that information back to the supervising officer. 
 
-they obviously couldn't
+Steve Fulcher.
 
-recover what it was because it was burnt
+Yeah. At that point, legally, the emergency interview was ended. They couldn't continue with it, he should have been taken to the police station read his rights again and been given legal representation. The reason that it becomes inadmissible in court is because Fulcher had his officers take him, like you said, to another location where Fulcher then interviewed him again again without giving him a caution or reading him his rights and again refusing to let him have legal representation.
 
-yeah and then like you said he was seen
+Yeah, no, I get that and I understood that from what I read as well. From what I understood, he never stopped investigating the case as if Sian was still alive.
 
-on the cctv
+Yeah and he gave testimony, Fulcher, to say that the reason he conducted the second emergency interview was to stay within the flow. He wanted Christopher to feel a bit of pressure, that they knew they were onto him. He wanted him to give him the answers as soon as possible. And his view, like you said, was that if Sian was still alive that was more important to him than ticking all of the legal boxes of the interrogation process. He wanted to make sure if there was a chance that he could save Sian, that he did it. 
 
-which was how they identified his car
+Yeah. 
 
-yeah so they got an
+As soon as that second interview took place, as soon as they didn't take him to the police station after that first emergency interview, Fulcher was in breach of protocol. And that's why it became inadmissible.
 
-image analyst who identified the same
+Yeah. So what I would like to amend here, for the case, is the PACE laws code C - detention. And it's 11.1. What do you call that? 
 
-car
+11.1?
 
-the same model and the same color and
+Okay. So it's eleven point... \[Laughter] Eleven point one.
 
-also noticed that it had
+I don't understand the question. \[Laughter]
 
-lighter areas on the doors
+From gov dot uk. 
 
-which were the removable magnetic
+> Following a decision to arrest the suspect they must not be interviewed about the relevant offense except at the police station or another authorized place of detention. Unless the consequent delay would be likely to: A) lead to interference with, or harm to, evidence connected with an offense. Or B) interference with, or physical harm to, other people. Or C) serious loss of, or damage to, property.
 
-stickers
+It doesn't excuse the second interview though. 
 
-of the taxi company that he worked for
+No. So in march of 2016 Halliwell was charged with the murder of Becky Godden-Edwards. Becky was a sex worker working in Swindon. So a friend of Becky's, another sex worker, that had contact with her at the time of her death testified at court that Halliwell had been obsessed with Becky. In the TV series she's up on the stand talking about how he made her promise that she wouldn't tell Becky that they had sex. And he was representing himself at the time?
 
-so when they cross referenced that with
+Yeah. In the second trial he didn't have lawyers present. He even cross-examined witnesses and legally challenged the prosecutor, which I thought was quite funny.
 
-all the taxi companies there was pretty
+Becky's friend was like: "yeah, we had sex. And he said that don't tell Becky about this". Because he was obsessed with Becky, which in the news articles it said "besotted". I don't think that's an accurate description. 
 
-much only one person it could have been
+And in the court hearing it was described as "a repeat customer", or something along those lines.
 
-who
+Yeah. Well that's probably more accurate. He was a repeat customer who thought that he could control Becky. So he was obsessed, he was not in love with Becky. And the other sex worker said that he had sex with her and then, yeah as I said, told her to not tell Becky about them having sex. And he was like: "well to be honest, you're not my type". And I was like: "what the fuck is wrong with you dude?!". Obviously he's a murderer and a huge dick, but also like, nobody believes that. Nobody believes that he's like: "oh, you're not my type. I would never solicit your services". He is obviously fucked. So the other evidence was that the police had also found a shovel at Halliwell's property, which had the same kind of soil on it as the field had where Becky's body had been buried. Becky's mother Karen said in a victim impact statement: 
 
-ticked all of those boxes i remember in
+> "I never had a body to kiss goodbye before she was buried. But of course, she had already been buried in a lonely field in the middle of nowhere for years. Just left to rot." 
 
-the tv
+And I would like to say, for anyone who's into like true crime dramas, I saw the series and... What's the actor who plays Umbridge?
 
-series they did say that he had
+Imelda Staunton.
 
-clocked off the thor doing this so
+Yeah. When they rang on her door to deliver the news that Becky was dead, I cried. And I don't do that to TV series. 
 
-that's when he turned off his
+I mean, Imelda Staunton is a fantastic actor. You only have to look at her portrayal of Umbridge as a more hated character than Voldetort, to show how well she portrayed an evil witch. 
 
-handset yeah so his last official
+Yeah, that's what I mean. Like, she's so good that even I cried. 
 
-drive was before this happened but then
+You cry all the time.
 
-when they questioned him about it
+I don't to TV things, I don't!
 
-he said that he had gotten home before
+"I don't!". \[Laughter]
 
-this
+I cry on my own time, please and thank you. But I don't cry to TV series and stuff, and I cried when they rang the doorbell to tell her that her daughter was dead in the TV series. So it's a kind of a good TV series. I wouldn't recommend it to you, but to the listeners out there "A Confession", quite good. 
 
-even happened which obviously wasn't
+To people who might actually be interested in true crime... \[Laughter]
 
-true
+Yeah. 
 
-it was a big fat dirty lie yeah so on
+Willie McBurney loves true crime, loves investigating a murder. 
 
-the 19th of october
+So after Halliwell told a prison psychiatrist about a fishing spot that meant a great deal to him, the police searched the area and found 60 items of women's clothing discarded in the water. Two of the items were linked to Halliwell's known victims, a cardigan worn by Becky at the time of her murder and a high-heeled boot Sian was wearing when she was abducted. Did you read anything about the clothing items? 
 
-2012 hollywell pleaded guilty to the
+Nope.
 
-murder of
+So that was extremely interesting to me. 
 
-sean but the confessions were ruled
+Gosh darn it, and I missed out.
 
-inadmissible because steve vulture was
+Because I was like: "oh my god, 60 items of clothing". And two of them, just one single cardigan that was linked to Becky because they had evidence of her wearing it and one high-heeled boot that Sian was wearing at the time of her abduction. To me, it means like...
 
-said to have breached the guidelines
+There's a lot more victims. 
 
-of the police and criminal evidence
+Yeah. And Steve Fulcher, at the time, thought that he would be leading an investigation into a serial killer because he didn't believe that somebody would kill someone between 2003 and 2005, and then nothing, and then kill someone else in 2011. 
 
-act from 1984
+Bit of a gap.
 
-by failing to caution Halliwell and
+Yeah, it is. So I find that incredibly disturbing. There's a lot.. 
 
-denying him
+Does not bode well.
 
-access to a solicitor vulture hoped that
+No. There's a lot of other cases linked to those geographical locations, and other geographical locations that Christopher Halliwell have been living at. And this is probably why I feel like it's fine that he did these urgent interviews, because if he didn't turn in his notice at the police station more progress would have been made in this case.
 
-this
+Yeah. I mean morally, I don't think you can question him. He was trying to ensure the safety of Sian and trying to save her. I don't think anybody can doubt that what he did was in his opinion, and most people's opinion, trying to do what he could to save her. The problem is, in most developed countries, everybody has the right to a fair trial. Like I said, morally I don't disagree with what he did. I wouldn't care that a murder suspect who turns out to have murdered two and possibly 58 more women, or men, or people of any fluid gender. I don't care that he was interviewed without a lawyer, I don't care that he was interviewed outside of a police station without being read his right to silence, I couldn't care less. This guy doesn't deserve any of his human rights because he's taken a life, or multiple, but legally is where it all fell down. I think the two judge reports that I read, they could see exactly that. That he looked to do everything he could to protect and serve but legally he didn't dot the i's and cross the t's, and therefore anything he brought forward from those interviews had to be made inadmissible. Or the judge would lose their job, the trial would get thrown out completely. So they'd lose any chance of prosecution on him. 
 
-would be allowed as the police are
+Halliwell was convicted of the murders of Sian and Becky and is therefore not eligible for parole and is serving two life sentences. So that's good, at least. 
 
-entitled to carry out
+I just want to reiterate. So a life sentence in the UK typically means 25 years and eligible for parole for good behavior. So he got the 25 years for Sian's murder. 
 
-an urgent interview without a solicitor
+Yeah. 
 
-present if there's a chance to save
+And when he was convicted for Becky's, the judge changed it so that it was a whole life term with no eligibility for parole. So he now will be behind bars for the rest of his life. 
 
-somebody's life
+So Steve Fulcher believes that there are many more victims of Halliwell, as I said before, because he felt like the gap between the murders is unusual for murderers who commit murder for like, that kind of satisfaction. Which makes sense. He wanted to investigate the murders of Halliwell in more detail, but then he quit the law force because of the fact that he was prosecuted because of this case. And lost his whole pension because of it.
 
-even though vulture suspected
+I just want to point out that it wasn't a prosecution in the legal sense.
 
-sean might have been dead he argued that
+No, it was an internal police... 
 
-the best practice in every case
+Yeah, it... Yeah, an internal investigation that they found he'd made a boo-boo.
 
-is to treat it as if there's a chance to
+The problem that I have with this whole case is the other victims. Because allegedly, he's probably killed a lot of more people.
 
-save
+The clothes would indicate so. 
 
-somebody's life as they had no evidence
+Yeah. I feel like that as well. Because they could identify two of the pieces of clothing to his known victims, I would say that the other pieces of clothing was probably, maybe not all, but probably some other victims. And I feel like it's unfair that they don't investigate all of the other crimes that he could have done. Some answers would be great, you know. It would be good if they were still investigating it, but they probably aren't. Maybe they are. 
 
-to the contrary if she had been held
+Expensive innit.
 
-hostage at some place he felt like
+It is, yeah. What are you gonna do now? 
 
-the pace would allow him to question him
+Sleep. It's 11 o'clock.
 
-because there was a chance to save her
+Oh god. Are you gonna google berry farts?
 
-life
+No, I am not.
 
-one of the court reportings that i read
+I'm probably gonna google it and send you the details of the berry farts. Maybe I will tomorrow to not disturb you in your sleep. But, you know.
 
-actually went into
+Something to look forward to. \[Laughter]
 
-a lot of detail and had Fulcher's
+You won't look forward to it, but I'm probably still gonna send it. \[Laughter]
 
-reasoning behind what he did so to just
+All right, all right. 
 
-go into that
+You tripping.
 
-in a little bit more detail when he was
+What are you gonna do tomorrow?
 
-arrested
+Same thing I do every Sunday. Plan to take over the world.
 
-in the car park he was read his rights
+All right, Pinky. Wait! Who's the brain? The brain and Pinky?
 
-and
+Pinky and the brain, yeah.
 
-cautioned and everything was prim and
+Pinky and the brain.
 
-proper at that stage
+It's the brain that plots to take over the world. 
 
-as the supervising officer fulcher
+I'm guessing you're the brain then. 
 
-told his colleagues at the car park
+You'd have to be Pinky. \[Laughter]
 
-conduct the emergency interview an
+All right, Pinky's gonna send you all the details about the berry farts. If I have time. 
 
-emergency interview
+"If you have time". \[Laughter] 
 
-is basically one where the suspect
+All right, get out of here. 
 
-doesn't need to be taken back to a
+All right. Thank you so much for listening to Midweek Murders. We'll see you next week.
 
-police station
+Bye bye.
 
-and have their solicitor or lawyer
-
-present
-
-which is the only difference between
-
-that and a normal
-
-interview if you get arrested by the
-
-police you
-
-don't have to answer any of their
-
-questions until they take you to the
-
-police station and you've had a chance
-
-to have legal representation
-
-unless it falls into this emergency
-
-category so basically they stuck him in
-
-the back of a car an unmarked police car
-
-and conducted the emergency interview
-
-and they were instructed to only ask
-
-questions about sean's whereabouts
-
-or her condition so they were just
-
-asking can you tell us where sean is can
-
-you tell us if sean is still alive
-
-during that interview he gave no answers
-
-he either said no comment or that he
-
-didn't know where she was he didn't know
-
-if she was alive
-
-etc etc they relayed all of that
-
-information back
-
-to the supervising officer yeah at that
-
-point
-
-legally the emergency interview was
-
-ended they couldn't continue with it he
-
-should
-
-have been taken to the police station
-
-read his rights again
-
-and been given legal representation the
-
-reason that it becomes
-
-inadmissible in court is because fulcher
-
-had his officers take him like he said
-
-to another location where fulture then
-
-interviewed him again again without
-
-giving him a caution
-
-or reading in his rights and again
-
-refusing
-
-to let him have legal representation
-
-yeah
-
-no i get that and i understood that from
-
-what i read as well from what i
-
-understood
-
-he never stopped investigating
-
-the case as if sean was still alive
-
-yeah and he gave testimony vulture to
-
-say
-
-that the reason he conducted the second
-
-emergency interview
-
-was to stay within the flow
-
-he wanted christopher to feel a bit of
-
-pressure
-
-that they knew they were onto him he
-
-wanted him to give him the answers
-
-as soon as possible and his view like
-
-you said was that
-
-if sean was still alive that was more
-
-important
-
-to him than ticking all of the
-
-legal boxes of the interrogation process
-
-he wanted to make sure if there was a
-
-chance that he could save Sian
-
-that he did it yeah as soon as that
-
-second
-
-interview took place as soon as they
-
-didn't take him to the police station
-
-after that first emergency interview
-
-vulture was in breach of protocol and
-
-that's why it became inadmissible
-
-yeah so what i would like to
-
-amend here for the case is
-
-the pace loss code c the tension
-
-and it's 11.1 what do you call that 11.1
-
-okay so it's eleven point eleven point
-
-don't understand the question
-
-from gov dot uk following a decision to
-
-arrest the suspect
-
-they must not be interviewed about the
-
-relevant
-
-offense except at the police station
-
-or another authorized place of detention
-
-unless the consequent delay would be
-
-likely to a lead
-
-to interference with or harm to
-
-evidence connected with an offense or
-
-interference with or physical harm
-
-to other people or serious loss
-
-of or damage to property
-
-it doesn't excuse the second interview
-
-though no
-
-so in march of 2016
-
-Halliwell was charged with the murder of
-
-becky gordon edwards
-
-becky was a sex worker working in
-
-swinton
-
-so a friend of becky's another sex
-
-worker that had contact with her at the
-
-time
-
-of her death testified at
-
-court that halliwell had been obsessed
-
-with becky
-
-in the tv series she's up on the stand
-
-talking about how he made her
-
-promise that she wouldn't tell becky
-
-that they had sex and he was
-
-representing himself at the time
-
-yeah in the second trial he didn't have
-
-lawyers present
-
-he even cross-examined witnesses and
-
-legally challenged the prosecutor which
-
-i thought was quite funny
-
-becky's friend was like yeah we had sex
-
-and he said
-
-that don't tell becky about this because
-
-he was obsessed
-
-with becky which in the news articles
-
-it said besotted i don't think that's
-
-an accurate description and
-
-in the court hearing it was described as
-
-a repeat customer or something along
-
-those lines
-
-yeah well that's probably more accurate
-
-he was a repeat
-
-customer who thought that he could
-
-control becky
-
-so he was obsessed he was not in love
-
-with becky and the other
-
-sex worker said that he had sex with her
-
-and then yeah
-
-as i said told her to not tell becky
-
-about
-
-them having sex and he was like well
-
-to be honest you're not my type and i
-
-was like
-
-what the is wrong with you dude
-
-obviously he's a murderer and a
-
-huge dick but also like nobody believes
-
-that
-
-nobody believes that he's like oh
-
-you're not my type i would never solicit
-
-your services he is obviously
-
-so the other evidence
-
-was that the police had also found a
-
-shovel
-
-at halliwell's property which had the
-
-same kind of
-
-soil on it as the field had
-
-where becky's body had been buried
-
-becky's mother karen said in a victim
-
-impact statement i never had a body to
-
-kiss goodbye
-
-before she was buried but of course she
-
-had already been buried in a lonely
-
-field
-
-in the middle of nowhere for years just
-
-left to raw and i would like to say
-
-for anyone who's into like true crime
-
-dramas i saw the series and
-
-what's the actor who plays umbridge
-
-email the stormton yeah when they
-
-rang on her door to deliver the news
-
-that becky was dead i cried
-
-and i don't do that to tv i mean
-
-imelda stalton is a fantastic actor you
-
-only have to look at her portrayal of
-
-umbridge as a more hated character than
-
-voldetort to show how well she portrayed
-
-an evil witch yeah that's what i mean
-
-like
-
-she's so good that even i
-
-cried you cry all the time
-
-i don't to tv things i don't
-
-the thing is i don't
-
-i cry on my own time please
-
-and thank you but i don't cry to
-
-tv series and stuff and i cried
-
-when they rang the doorbell to tell her
-
-that her daughter was dead in the tv
-
-series so it's a kind of a good tv
-
-series i wouldn't recommend it to you
-
-but
-
-to the listeners out there a confession
-
-quite good to people who might actually
-
-be interested in true crime
-
-yeah willie mcburney loves to recrime
-
-loves investigating a murder so
-
-after hallie well told a prison
-
-psychiatrist
-
-about a fishing spot that meant a great
-
-deal to him
-
-the police searched the area and found
-
-60 items of women's clothing
-
-discarded in the water two of the
-
-items were linked to hollywell's known
-
-victims
-
-a cardigan worn by becky at the time of
-
-her murder
-
-and the high-heeled boot sean
-
-was wearing when she was abducted did
-
-you read anything about the
-
-clothing items nope
-
-so that was extremely
-
-interesting to me gosh darn it and i
-
-missed out
-
-because i was like oh my god 60
-
-items of clothing and two of them
-
-just one single cardigan that was linked
-
-to becky
-
-because they had evidence of her wearing
-
-it
-
-and one high-heeled boot that shawn was
-
-wearing
-
-at the time of her abduction to me it
-
-means like
-
-there's a lot more victims yeah and
-
-steve fulcher
-
-at the time thought that he would be
-
-leading an
-
-investigation into a serial killer
-
-because he didn't believe that somebody
-
-would kill
-
-someone between 2003 and 2005
-
-and then nothing and then killed someone
-
-else
-
-in 2011. bit of a gap
-
-yeah it is so i find that
-
-disturbing there's just not bode well
-
-no there's a lot of other cases
-
-linked to those geographical
-
-locations and other geographical
-
-locations
-
-that christopher halliwell have been
-
-living at
-
-and this is probably why i feel like
-
-it's fine that he did these
-
-urgent interviews because
-
-if he didn't turn in his notice
-
-at the police station more progress
-
-would have been made in this case yeah i
-
-mean
-
-morally i don't think you can question
-
-him
-
-he was trying to ensure the safety of
-
-sean
-
-and trying to save her i don't think
-
-anybody can doubt that
-
-what he did was in his opinion and
-
-most people's opinion trying to do what
-
-he could to save her
-
-the problem is in most developed
-
-countries
-
-everybody has the right to a fair trial
-
-like i said morally i don't disagree
-
-with what he did
-
-i wouldn't care that a murder suspect
-
-who turns out to have murdered two and
-
-possibly
-
-58 more women or men or people
-
-of any fluid gender i don't care that
-
-he was interviewed without a lawyer i
-
-don't care that he was interviewed
-
-outside of a police station
-
-without being read his right to silence
-
-i couldn't care less this guy
-
-doesn't deserve any of his human rights
-
-because he's taken a life
-
-or multiple but legally is where
-
-it all fell down i think the two judge
-
-reports that i read
-
-they could see exactly that that he
-
-looked to do everything he could to
-
-protect
-
-and serve but legally he didn't dot the
-
-eyes and cross the t's
-
-and therefore anything he brought
-
-forward from those interviews
-
-had to be made inadmissible or the judge
-
-would lose their job
-
-the trial would get thrown out
-
-completely so they'd lose
-
-any chance of prosecution on him how you
-
-all
-
-was convicted of the murders of Sian
-
-becky
-
-and is therefore not eligible
-
-for parole and is serving two life
-
-sentences
-
-so that's good at least i just want to
-
-reiterate so a life sentence in the uk
-
-typically means 25 years
-
-and eligible for parole for good
-
-behavior
-
-so he got the 25 years for
-
-sean's murder yeah and when he was
-
-convicted
-
-for becky's the judge changed it so that
-
-it was a whole life
-
-term with no eligibility for parole so
-
-he now will be behind bars for
-
-the rest of his life so steve fulcher
-
-believes that there are many more
-
-victims
-
-of halliwell as i said before because
-
-he felt like the gap between the murders
-
-is
-
-unusual for murderers who
-
-commit murder for like that kind of
-
-satisfaction which makes sense he wanted
-
-to investigate the murders
-
-of halliwell in more detail
-
-but then he quit the law force because
-
-of the fact that he was prosecuted
-
-because of this case and lost
-
-his whole pension because of it
-
-i just want to point out that it wasn't
-
-a prosecution in the legal sense
-
-no it was an internal policy yeah it
-
-yeah an internal investigation that they
-
-found
-
-he'd made a boo-boo the problem
-
-that i have with this whole case is
-
-the other victims because allegedly
-
-he's probably killed a lot of more
-
-people
-
-the clothes would indicate so yeah i
-
-feel like that as well
-
-because they couldn't identify two of
-
-the pieces of clothing
-
-to his known victims i would
-
-say that the other pieces of clothing
-
-was probably maybe not
-
-all but probably some other victims
-
-and i feel like it's unfair that they
-
-don't
-
-investigate all of the other crimes
-
-that he could have done some answers
-
-would be great you know it would be good
-
-if they
-
-were still investigating it but they
-
-probably
-
-aren't maybe they are expensive in it it
-
-is yeah
-
-what are you gonna do now sleep it's 11
-
-o'clock
-
-oh god are you gonna google berry farts
-
-no i am not
-
-i'm probably gonna google it and send
-
-you
-
-the details of the very first
-
-maybe i will tomorrow to not
-
-disturb you in your sleep but you know
-
-something to look forward to
-
-you will look forward to it but i'm
-
-probably gonna
-
-all right all right are you tripping
-
-what are you gonna do tomorrow
-
-same thing i do every sunday plan to
-
-take over the world
-
-all right pinky wait who's the brain the
-
-brain and pinky
-
-pinky in the brain yeah pinkie and the
-
-brain
-
-it's the brain that plots to take over
-
-the world i'm guessing you're in the
-
-brain then
-
-you'd have to be pinky
-
-all right pinkie's gonna send you all
-
-the details about the fairy farts
-
-if i have time if you have
-
-time all right
-
-get out of here all right thank you so
-
-much for listening
-
-to midweek murders we'll see you next
-
-week
-
-bye bye
+Bye.
 
 \[Music]
 
-you
+
 
 <!--EndFragment-->
