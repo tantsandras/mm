@@ -335,747 +335,131 @@ I'm not convinced.
 
 I know the answer, I know that they weren't drugged. I'm just flicking through the book now to see if there's pictures of Ronnie DeFeo after he gave his quote-unquote confession, because he was horrifically beaten by the police. Because they made up loads of stuff, there was more than one killer and there was four people involved and only one of them went to prison for it. 
 
-The thing that they could prove is that before going to the bar, or, before going to work. Sorry. Butch showered, trimmed his beard, got dressed and collected his blood-soaked clothing along with the rifle and put the evidence in a pillowcase. He then drove to Brooklyn where his place of work was, the car dealership, and disposed of the pillowcase in a storm drain. After which he showed up to work and clocked in at 6 am. At work he made a big show about calling the house several times and commented several times about nobody answering. He then left work at noon and went to his girlfriend's house and continued the charade there, by calling his house and commenting again on nobody answering. Then he and his girlfriend went to Butch's friend's Bobby's house, where butch repeated the same scene of calling his house and then commenting on nobody answering. He proceeded to hang out with his friends, they took heroin and then went to the bar, where he said that he was going home as his repeated calls had been met with no answer. He returned to the bar a couple of minutes after, so I'm guessing like 10 minutes or more maybe, shouting for help. And now we're at the start of the story again. When the police showed up at the house Butch was sobbing, and told them that Louis Falini, a mob hitman, had done the murders. Because he said that Louis Falini had been living with them for a while, and he knew that they had like money and stuff hidden in the basement, stuff like that. After which he casually asked the police how to go about collecting life insurance. The police believed Butch's story at first, but then after finding the rifle boxes and getting information about the staged robbery they began to suspect Butch of being the murderer.
+The thing that they could prove is that before going to the bar, or, before going to work. Sorry. Butch showered, trimmed his beard, got dressed and collected his blood-soaked clothing along with the rifle and put the evidence in a pillowcase. He then drove to Brooklyn where his place of work was, the car dealership, and disposed of the pillowcase in a storm drain. After which he showed up to work and clocked in at 6 am. At work he made a big show about calling the house several times and commented several times about nobody answering. He then left work at noon and went to his girlfriend's house and continued the charade there, by calling his house and commenting again on nobody answering. Then he and his girlfriend went to Butch's friend's Bobby's house, where butch repeated the same scene of calling his house and then commenting on nobody answering. He proceeded to hang out with his friends, they took heroin and then went to the bar, where he said that he was going home as his repeated calls had been met with no answer. He returned to the bar a couple of minutes after, so I'm guessing like 10 minutes or more maybe, shouting for help. And now we're at the start of the story again. When the police showed up at the house Butch was sobbing, and told them that Louis Falini, a mob hitman, had done the murders. Because he said that Louis Falini had been living with them for a while, and he knew that they had like money and stuff hidden in the basement, stuff like that. After which he casually asked the police how to go about collecting life insurance. The police believed Butch's story at first, but then after finding the rifle boxes and getting information about the staged robbery they began to suspect Butch of being the murderer. Butch had also stated that he had heard his brother, and seen his brother's wheelchair outside of the toilet, at 4.00 a.m. And the detectives who knew that the family had been sleeping while shot, and also that the time of death had been around three a.m, didn't believe that the crimes had happened after Butch left for work. So then after many lies about being threatened by Falini and some other dude, the police pressed him on the details that didn't add up. Press him on the details might have been physical if I'm getting your photo thing right?
 
-butch had also stated that he had heard
+Yeah, I mean there's also there was a second gun. In the confession Butch says it wasn't a second gun but there was a second gun, which is where the confusion comes from. So the girlfriend of Butch, he actually married her in prison, her name was Geraldine.
 
-his brother
+No, that's another girlfriend. 
 
-and seen his brother's wheelchair
+Well he's married to someone called Geraldine and through her they managed to get hold of the court documents, which they have in here, which have massive chunks of stuff that are redacted. And he has spoken to Ronnie himself about the story and the story that Butch tells matches up with the crime scene photos. One very specific one is the door to the bedroom of the parents is covered in blood, but if they were shot in bed, how was their blood spatter on the other side of the room?
 
-outside of the toilet at 4 00 am
+Okay. 
 
-and the detectives who knew that the
+And it's because he wasn't in bed when he was shot.
 
-family
+Who? The father? 
 
-had been sleeping while show and also
+The father, yeah. 
 
-that the
+I'm not sure about the second gun, because they did link up all of the bullets to one gun. 
 
-time of death had been around three a.m
+Ah. But they didn't. Like Joe was saying, other people were saying... I don't think this matches up. And also, the police lied a lot and have redacted a lot of the stuff in that... Like they just put black lines through loads of the evidence because they wanted to nail this guy and just get it over and done with. Because they were lazy 70s police officers. 
 
-didn't believe that the crimes had
+Yeah. I would agree that it was only the prosecution team at court that said that there was only one weapon involved.
 
-happened after butch left for work
+Okay. 
 
-so then after many lies about being
+The defense team tried to argue that not all of the bullets came from the same gun, but obviously the prosecution managed to convince the jury enough to say that it was all from one weapon.
 
-threatened by
+I would say, I'm quite sure that Butch did it. Not that I'm 100% sure that he was alone doing it, but I'm 100% sure that he was involved.
 
-felony and some other dude the police
+Oh he was involved, definitely. Like if the book is correct, which is from Butch and crime scene photos and testimonies and all the stuff of the night. If it is, he a hundred percent killed his mom and his dad but he did not kill the rest of his family members, minus Dawn. And that's why she wasn't in bed and why she was also shot at such close range.
 
-pressed him on the details
+Well I'm not 100% sure that Dawn had anything to do with it either, because I feel like that is placing blame on the victim.
 
-that didn't add up presto on the details
+No, there's evidence to say that Dawn could have been involved.
 
-might have
+I know about the gun powder.
 
-been physical if i'm
+Well yeah, the gun powder to start with. On her hands and on her nightgown, of unexploded gunpowder. The house was under surveillance, and this wasn't admissible evidence in court...
 
-getting your photo thing right
+Oh she was seen with the black gloves on, right? Walking to the basement? 
 
-yeah i mean there's also there was a
+Yeah. The police were concerned that Butch was smuggling drugs, or dealing drugs or had sincere involvement with drugs, which obviously he did because he was getting shit-faced more and more often. 
 
-second gun
+When the police said they saw it, did they see her carrying the gun? I can't remember.
 
-in the confession butch says it wasn't a
+Apparently they saw her getting into a car with the gun and disposing of it in the location where it was found. The police that were staking out the house saw Dawn in a hooded like parka coat with gloves on, walking into the house. Which matches the description that Butch gave of this spirit that visited him while he was high off his tits. They then saw Dawn leaving the house with the rifle, getting into a car and driving, I think, to a place called north point.
 
-second gun but there was a second gun
+That's the water, like where they dropped the gun in the water? 
 
-which is where the confusion comes from
+Yeah. It's a dock, basically. Which is where they recovered the Marlin rifle. So the theory is: she went in and killed the parents because of the abuse that the whole family were under. Then either like lost her mind or whatever, and killed the younger siblings. The plan between Dawn and Butch was to only kill the parents which is why, when she returned after disposing of the gun, Butch killed her. Which also explains why she wasn't in bed. That's supported by the scenes of crimes officers finding blood spatter on floorboards and skirting boards outside of her bedroom and why her headboard behind her bed was completely clean, but basically, her head was destroyed. It also supports the theory of the defense lawyers that multiple weapons were included, because she would have had to have been killed by a different weapon by Butch because she had already disposed of the rifle that she used to kill the rest of the family.
 
-so the girlfriend
+Was she placed on a bed after she was killed? 
 
-of butch he actually married her in
+Yes. She was recovered from her bed, but that wasn't her site of death. 
 
-prison her name was geraldine
+No, okay. That, I read about. She was shot behind her left ear, no? I read...
 
-no that's another girlfriend well he's
+I'm flipping through the book now to see if the autopsy things are in it. It shows where their bodies were positioned when they were found, but I don't think it shows their autopsy stuff in here. But yeah, she was shot at point blank range with that rifle, so.
 
-married to someone called geraldine
+She was shot with the rifle? 
 
-and through her they managed to get hold
+Yeah, she didn't dispose of the rifle. Ronnie disposed of the rifle. So the version I have is that Butch, Dawn, Bobby and somebody called Argie... Basically, Butch and Dawn wanted to get rid of the parents, they'd had had fucking enough. Like, they were sick of their shit. Dawn was just like: "you're a fucking pussy, you're never gonna do anything about it" and then she left and came back with the rifle and was wearing black gloves and was like: "let's just kill them now". And then they hatched the plan, and the plan was that Butch was gonna go kill the family... Sorry, the mum and the dad. And while he was doing this, Dawn went to the brothers and was just like: "you're gonna hear some noise but just fucking stay in bed. Whatever you do, do not leave your room". Before he went into his parents room he went into Allison's room, because Butch's favorite sister was Allison, and he said to Allison: "stay in your room, whatever you do. There's a burglar in the house and if you hear any noise, just stay in your room". And then Butch and Bobby went into the parents room, shot the dad in the back which woke him up and didn't kill him, the mum sat upright and was like: "oh my god". And apparently, Butch was like: "I've had it with her" and just shot her. The dad gets out of bed and runs at him and he shoots him dead in the hallway, which is why there's blood splatter up the door and on the wall, and he falls down dead. While this is happening, Bobby fires his gun at the mum, and then Ronnie like slaps it out of his hand and is like: "what are you doing?! That's my mum. Leave it". Bobby freaks out and runs away...
 
-of the court documents
+And this is the same friend that he then went to after work, before going to the pub? 
 
-which they have in here which have
+Yeah. Bobby freaked out and ran away. Because the plan was to get the kids out of the house and take them to the grandparents, and say that there'd been a robbery and and someone's been hurt. So he was like: "I'm gonna go get Bobby. You deal with the kids". And he's running around trying to find Bobby, and then Argie appears in a car and he's like: "mate, your sister's gone nuts. She pointed a gun at my head". And then fired into the ceiling of his car, and there's a bullet hole in the car. And he's like: "she's gone nuts. You need to deal with that". So he left Bobby and went back to the house. He spoke to his brothers and was like: "stay in bed, stay in bed". One of them was desperate for a piss, the one that had a broken leg, Johnny. And he was just like: "piss the bed or piss in a can", and he's like: "I'm not going to piss the bed". So he had to run downstairs, empty a can of coffee for him, come back up, give it to him to piss in, get rid of it. Checked on his younger sister. And then Dawn was playing her music really loudly upstairs and singing, and she'd clearly taken drugs. And he went up there and was just like: "you need to sober up. You have to get the kids and you have to take them to the grandparents. Remember the plan". Then he ran back downstairs and tried to move his dad back into the bed, but realized he couldn't lift him by himself. So he had to go find Bobby. So he ran out, managed to come across Bobby, brought him back to the house. But then when they went into the house he checked on his brothers and saw that they were dead. And then he checked on his sister and saw that she was dead. And he ran upstairs to see Dawn, was like: "what the hell did you do!", and she was just like: "oh, it's just easier this way, if we just do it this way". He allegedly wrestled her, because she pulled the gun on him, and in the wrestling fired the gun at point blank range into her head. He managed to get Bobby to help him move the body into the bed. And Bobby had dropped his gun in the blood of his dad. And then he took it with him, and some of his clothes, to get rid of. He was like: "take your clothes, take the gun and burn them. Get fucking rid of them". Then he got rid of Bobby. Then he got rid of his clothes, and did the cutting of his beard, and had a shower and stuff. And then he left. And then realized that he had left the fucking gun behind. So he went back and got the gun and took it and chucked it in that river.
 
-massive chunks of stuff that are
+But they did find the rifle in the storm drain?
 
-redacted
+No. They found his clothes in the storm drain. The rifle was found in... By.. At north point in the the dock. You wouldn't be able to hide a rifle in a pillow case, it's too small. It'd just be a fucking rifle sticking out of a bit of fabric. You'd be like: "there's a rifle over there!".
 
-and he has spoken to ronnie himself
+Yeah. 
 
-about the story
+The rifle was chucked in the river.
 
-and the story that butch tells matches
+Okay. But if... Wait. \[Laughter] So Butch said that he was on heroin at the police investigation, the police like beatings and stuff?
 
-up with the crime scene photos
+Yeah.
 
-one very specific one is the door to the
+Mescaline. 
 
-bedroom of the parents
+Okay. And Dawn's autopsy said that she wasn't on drugs? No? 
 
-is covered in blood but if they were
+I don't actually know. Joe, do you know?
 
-shot in bed
+I don't know. I can only assume that because she was deceased, she was included in the general "there was no unusual toxicology" to the autopsy report. 
 
-how was their blood spatter on the other
+I'm not sure about this either. 
 
-side of the room
+Well the thing is, it's like... Like I said, it matches the crime scene photos. And obviously the little brother is not shot in the head, he's shot in the back. We also have to take into account that in many years since Ronnie DeFeo junior, who is still alive, has said multiple different stories. Including, when the fucking Amityville horror happened, that a ghost made him do it. 
 
-okay and it's because he wasn't in bed
+Yeah. Which I think is lies, obviously. 
 
-when he was shot
+Oh definitely, yeah. 
 
-who the father the father yeah i'm not
+I thought that was the most plausible one. \[Laughter]
 
-sure about the second gun because they
+But also that he has blamed it first on his mother, and then he blamed it on Dawn. 
 
-did
+Just to let you know, so I've just found a page that has a picture of what was found in the sewer and it's like bullet casings, the boxes for the bullets, and the case for the rifle. 
 
-link up all of the bullets to one ah but
+Okay. 
 
-they didn't
+Yeah. Which was like a leather case, so you could fold it out.
 
-like joe was saying other people were
+Okay, yeah. And the box of the rifle was found at the crime scene? Yeah. 
 
-saying i don't think this matches up
+Yeah, yeah.
 
-and also the police lied a lot and have
+In the house. So the rifle wasn't in the pillowcase, no.
 
-redacted a lot of the stuff in that like
+No, the rifle was in the river. 
 
-they just put black lines through loads
+Yeah. But he did pick up the shell casings?
 
-of the evidence
+Yes. 
 
-because they wanted to nail this guy and
+Yes. 
 
-just get it over and done with
+Smart. 
 
-because they were lazy 70s yeah i would
+Yeah, but how smart, I don't know. The bullets were still there, even though you say that it's bullets from two different guns. I'm not sure.
 
-agree that
+Well, possibly. But also, leaving the shell cases is irrefutable evidence, so...
 
-it was only the prosecution team
-
-at court that said that there was only
-
-one weapon involved
-
-okay the defense team tried to argue
-
-that not all of the bullets came from
-
-the same gun
-
-but obviously the prosecution managed to
-
-convince the jury
-
-enough to say that it was all from one
-
-weapon
-
-i would say i'm quite sure that butch
-
-did it not that i'm 100 sure that he was
-
-alone doing it
-
-but i'm 100 sure that he was involved
-
-oh he was involved definitely like yeah
-
-if the book is correct
-
-which is from butch and crime scene
-
-photos and testimonies and all the stuff
-
-of the night
-
-if it is he a hundred percent killed his
-
-mom and his dad
-
-but he did not kill the rest of his
-
-family members minus dawn
-
-and that's why she wasn't in bed and why
-
-she was also shot at such close range
-
-well i'm not 100 sure that dawn had
-
-anything to do with it either because i
-
-feel like that is placing blame on the
-
-victim
-
-no there's evidence to say that dawn
-
-could have been involved
-
-well yeah the gun powder to start with
-
-on her hands
-
-and on her nightgown of unexploded
-
-gunpowder
-
-the house was under surveillance
-
-and this wasn't admissible evidence in
-
-court
-
-yeah the police were concerned that
-
-butch
-
-was smuggling drugs or dealing drugs or
-
-had sincere involvement with drugs
-
-which obviously he did because he was
-
-getting shit-faced more and more often
-
-when the police said they saw it did
-
-they see her carrying the gun i can't
-
-remember
-
-apparently they saw her getting into a
-
-car
-
-with the gun and disposing of it in the
-
-location
-
-where it was found the police that were
-
-staking out the house
-
-saw dawn in a hooded like
-
-parker coat with gloves on walking
-
-into the house which matches the
-
-description
-
-that butch gave of this spirit that
-
-visited him while he was high off his
-
-tits
-
-they then saw dawn leaving the house
-
-with the rifle getting into a car and
-
-driving
-
-i think to a place called north point
-
-that's the water like where they dropped
-
-the gate
-
-in the water yeah it's a dock basically
-
-which is where
-
-they recovered the mylar rifle so
-
-the theory is she went in and killed the
-
-parents
-
-because of the abuse that the whole
-
-family
-
-were under then either like lost her
-
-mind or whatever and killed
-
-the younger siblings the plan between
-
-dawn and butch was to only kill the
-
-parents
-
-which is why when she returned after
-
-disposing of the gun
-
-butch killed her which also explains why
-
-she wasn't in bed
-
-that's supported by the
-
-scenes of crimes officers finding blood
-
-spatter
-
-on floorboards and skirting boards
-
-outside of her bedroom
-
-and why her headboard behind her bed was
-
-completely clean
-
-but basically her head was destroyed
-
-it also supports the theory of
-
-the defense lawyers that multiple
-
-weapons were included
-
-because she would have had to have been
-
-killed by a different weapon
-
-by butch because she had already
-
-disposed of the rifle that she used to
-
-kill the rest of the family
-
-was she placed on a bed after she was
-
-killed yes she was recovered from her
-
-bed
-
-but that wasn't her sight of death no
-
-okay
-
-that i read about she was shot
-
-behind her left ear no that's what i
-
-read
-
-to see if the autopsy things are in it
-
-shows where their bodies were positioned
-
-when they were found
-
-but i don't think it shows their autopsy
-
-stuff in here
-
-but yeah she was shot at point blank
-
-range for that rifle so
-
-she was shot with the rifle yeah she
-
-didn't dispose of the rifle
-
-ronnie disposed of the rifle so the
-
-version
-
-i have is that butch
-
-dawn bobby and somebody called rg
-
-basically butch and dawn wanted to get
-
-rid of the parents they'd had a \[ __ ]
-
-enough
-
-like they were sick of their \[ __ ] dawn
-
-was just like
-
-you're a \[ \_\_ ] \[ \_\_ ] you're never
-
-gonna do anything about it and then she
-
-left and came back with the rifle and
-
-was wearing black gloves and was like
-
-let's just kill them now
-
-and then they hatched the plan and the
-
-plan was that
-
-butch was gonna go kill the family uh
-
-sorry the mum and the dad
-
-and while he was doing this dawn went to
-
-the brothers and was just like
-
-you're gonna hear some noise but just
-
-\[ __ ] stay in bed whatever you do do
-
-not leave your room
-
-before he went into his parents room he
-
-went into allison's room
-
-because butch's favorite sister was
-
-allison and he said to alison
-
-stay in your room whatever you do
-
-there's a burglar in the house and if
-
-you hear any noise just stay in your
-
-room
-
-and then butch and bobby went into the
-
-parents room
-
-shot the dad in the back which woke him
-
-up
-
-and didn't kill him the mum sat upright
-
-and was like oh my god and apparently
-
-butch was like
-
-i've had it with her and just shot her
-
-the dad gets out of bed
-
-and runs at him and he shoots him dead
-
-and the hallway which is why there's
-
-blood spiders up the door and on the
-
-wall
-
-and he falls down dead while this is
-
-happening bobby fires his gun
-
-at the mum and then ronnie like slaps
-
-out of his hand and it's like what are
-
-you doing that's my mum
-
-like leave it bobby freaks out and runs
-
-away
-
-and this is the same friend that he then
-
-went to
-
-after work before going to the pub yeah
-
-bobby freaked out and run away because
-
-the plan was
-
-to get the kids out of the house and
-
-take them to the grandparents
-
-and say that there'd been a robbery and
-
-and someone's been hurt
-
-so he was like i'm gonna go get bobby
-
-you deal with the kids
-
-and he's running around trying to find
-
-bobby and then arge appears in a car
-
-and he's like mate your sister's gone
-
-nuts she pointed a gun at my head
-
-and then fired into the ceiling of his
-
-car and there's a bullet hole in the car
-
-and
-
-he's like she's gone nuts like you need
-
-to deal with that so he left bobby and
-
-went back to the house
-
-he spoke to his brothers and was like
-
-stay in bed stay in bed one of them was
-
-desperate for a piss the one that had a
-
-broken leg johnny
-
-and he was just like piss the bed or
-
-piss in a can and he's like i'm not
-
-going to piss the bed so he had to run
-
-downstairs
-
-empty a can of coffee for him come back
-
-up give it to him to piss in
-
-get rid of it checked on his younger
-
-sister and then thorne was playing her
-
-music
-
-really loudly upstairs and singing and
-
-she'd clearly taken drugs and he went up
-
-there and was just like
-
-you need to sober up you have to get the
-
-kids and you have to take them to the
-
-parents remember the plan
-
-then he ran back downstairs and tried to
-
-move his dad back into the bed but
-
-realized he couldn't lift him by himself
-
-so he had to go find bobby so he ran out
-
-managed to come across bobby
-
-brought him back to the house but then
-
-when they went into the house
-
-he checked on his brothers and saw that
-
-they were dead and then he checked on
-
-his sister and saw that she was dead
-
-and he ran upstairs to see dawn was like
-
-what the hell did you do
-
-and she was just like oh it's just
-
-easier this way if we just do it this
-
-way
-
-he allegedly wrestled her because she
-
-pulled the gun on him
-
-and in the wrestling fired the gun at
-
-point blank range into her head
-
-he managed to get bobby to help him move
-
-the body into the bed
-
-and bobby had dropped his gun in the
-
-blood
-
-of his dad and then he took it with him
-
-and some of his clothes to get rid of
-
-he was like take your clothes take the
-
-gun and burn them get \[ __ ] rid of
-
-them
-
-then he got rid of bobby then he got rid
-
-of
-
-his clothes and did the cutting of his
-
-beard and had a shower and stuff
-
-and then he left and then realized that
-
-he had left the \[ __ ] gun behind so he
-
-went
-
-back and got the gun and took it and
-
-chucked it in that river
-
-but they did find the rifle in the storm
-
-drain
-
-no they found his clothes in the storm
-
-drain the rifle was found
-
-in by at north point in the in the in
-
-the dock
-
-you wouldn't be able to hide a rifle in
-
-a pillow case
-
-it's too small it'd just be a \[ __ ]
-
-rifle sticking out of a bit of fabric
-
-you'd be like there's a rifle over there
-
-yeah the rifle was chucked in the river
-
-okay
-
-but if wait
-
-so butch said that he was
-
-on heroin at the police investigation
-
-the
-
-police like beatings and stuff yeah
-
-masculine okay and don's
-
-autopsy said that she wasn't on drugs
-
-no i don't actually know joe do you know
-
-i don't know
-
-i can only assume that because she
-
-was deceased she was included in the
-
-general
-
-there was no unusual toxicology to the
-
-autopsy report i'm not sure about this
-
-either well the thing is it's like like
-
-i said it matches the crime scene photos
-
-and obviously the little brother is not
-
-shot in the head he's shot in the back
-
-we also have to take the into a can but
-
-in many years since ronnie defeat junior
-
-who is still alive has said
-
-multiple different stories including
-
-when the \[ __ ] amityville horror
-
-happened
-
-that a ghost made him do it yeah which i
-
-think is
-
-lies obviously oh definitely yeah but i
-
-thought that was the most plausible one
-
-but also that he
-
-has blamed it first on his mother
-
-and then he blamed it on dawn just to
-
-let you know so i've just found a page
-
-that has a picture of what was found in
-
-the
-
-sewer and it's like bullet casings the
-
-boxes for the bullets and the case
-
-for the rifle okay yeah which was like a
-
-leather case so you could fold it out
-
-okay yeah and the box of the rifle was
-
-found at the crime scene yeah yeah yeah
-
-in the house
-
-so the rifle wasn't in the pillowcase no
-
-no the rifle was in the
-
-river yeah but he did pick up the shell
-
-casing
-
-yes yes small yeah but how smart i don't
-
-know the bullets were still there
-
-even though you say that it's both from
-
-two different guns i'm not sure
-
-well possibly but also leaving the shell
-
-cases
-
-is irrefutable evidence so
-
-i just found another picture in here
+I just found another picture in here
 
 which is like there's a hairbrush on the
 
