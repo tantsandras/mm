@@ -705,7 +705,7 @@ It's been a fucking pleasure bruv.
 
 I know it's not my story to tell, but oh... \[Laughter]
 
-I had a ruddy time telling it! \[Laughter]
+I had a ruddy good time telling it! \[Laughter]
 
 All right guys. 
 
