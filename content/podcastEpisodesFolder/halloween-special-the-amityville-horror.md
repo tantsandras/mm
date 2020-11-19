@@ -459,313 +459,81 @@ Yeah, but how smart, I don't know. The bullets were still there, even though you
 
 Well, possibly. But also, leaving the shell cases is irrefutable evidence, so...
 
-I just found another picture in here
+I just found another picture in here, which is like... There's a hairbrush on the floor, which Ronnie claimed Dawn had thrown at Bobby. And unless they'd shown him crime scene photos, how the fuck did he know that brush was there?
 
-which is like there's a hairbrush on the
+How many gun shells was in that pillowcase?
 
-floor which
+Here we go. I can see one, two, three, four, five, six, seven, eight, nine shell casings. 
 
-ronnie claimed dawn had thrown at bobby
+So they're saying that the parents were shot twice...
 
-and unless they'd shown him crime scene
+Ooooooh. There should only be eight! 
 
-photos how the \[ __ ] did he know that
+Well, listen. I can see, with my eyes, that there's nine of them. \[Laughter]
 
-brush was there
+Are they definitely only the casing and not the whole shell?
 
-how many gun shells was in that
+It's really hard to tell from the photo, because there's like a strap over them. So some of them are covered with the strap, so I can't see if it's the complete thing.
 
-pillowcase
+Oh, they've got a strap on. I get it. 
 
-here we go i can see one two three
+If there are eight shell casings, or nine, that would point to the single gun theory? 
 
-four five six seven eight nine
+Yeah. 
 
-shell casings so they're saying that the
+Not necessellery. 
 
-parents were shot
+Necessellery. \[Laughter]
 
-there should only be eight well there's
+I'm sending you the picture of that right now. Not the crime... Not the bloody crime scene photos, but of the... What they found in the sewer. On your instagram. So you can see for yourself what I mean.
 
-i can see
+I can count nine.
 
-with my eyes that there's nine of them
+So you've got two eyes. 
 
-are they definitely only the casing and
+I have two eyes! \[Laughter] I think that this theory about Dawn being one of the perpetrators is a bit hard for me to swallow, because she's dead. And I feel like there's been countless accounts of people killing their family. It's mostly men.
 
-not the whole shell
+I mean it's very similar to that guy who killed his whole family instead of getting a divorce.
 
-it's really hard to tell from the photo
+Yeah. They mostly blame other people in the family, especially women. And I feel like, he has also tried to blame his mother for the death of the children, for the siblings. 
 
-because there's like a strap
+He also has said, and he's quoted in this book as saying, it's her fault anyway because she allowed the husband to be that much of an asshole.
 
-over them so some of them are covered
+Yeah. 
 
-with the strap so i can't see if it's
+But he blames her, even not for the physical shooting, but he blames her for it anyway.
 
-the complete thing
+Yeah. But he also tried to blame the physical shooting on his mother. And I feel like, while I can understand the anger of that, the resentment. He was a giant twat who didn't show up for work, and got paid for work. They bought him a boat for fucks sake. And he's like: "oh, but abuse cannot be bought for money", I get that. But I wouldn't necessarily want to believe, and that might be my own bias...
 
-oh they've got a strap on i get it if
+I mean it's fair enough. And also, he has changed his story so many times. But we could all conclusively agree that the ghost stuff was made up. \[Laughter]
 
-there
+Speaking of the ghost stuff, I have some notes about the ghost stuff that I thought was funny. 
 
-are eight shell casings or nine
+Go for it. 
 
-that would point to the single gun
+Do we want to do that? Okay. 
 
-theory yeah not necessary necessary
+The ghost stuff is the best bit. 
 
-i'm sending you the picture of that
+So George and Kathy Lutz moved into the house in 1976. And some of the claims from them are that a porcelain lion lept from the corner of the room and bit George in the ankle. George also saw a vision of Ronnie DeFeo, his head floating in the cellar, who is not dead. George and Kathy said that they saw the burnt impression of a demonic hooded figure in the fireplace. Kathy apparently levitated above their bed, and saw herself as an elderly woman. The toilets was backed up with black smelly ooze, which I feel like is my normal stool. \[Laughter]
 
-right now not the crime not the bloody
+No, no, no. No, wait. On that one, it wasn't that the toilets were backed up with smelly ooze, it was that the porcelain of the toilet turned black. 
 
-crime scene photos but of the
+Which would be better for the stains, I guess. But. And also, the walls of the house were covered with green slime, which I'm like: "who you gonna call? Ghostbusters!".
 
-uh what they found in the sewer on your
+So one of the things you listed there was that Kathy had a vision of herself as an old lady. She died of a disease that made her age really quickly.
 
-instagram
+That's not true. 
 
-so you can see for yourself what i mean
+Is it not true? She died of emphysema, but it made her look like she had aged loads apparently. 
 
-i can count nine
+There is no documented history of what was formerly called emphysema, is now called chronic obstructive pulmonary disorder, causing premature aging. Basically, COPD is a buildup of mucus, or whatever, in your lungs. Which just causes chronic coughing. It can be terminal, you can die from it. But this was one of the things where one of the psychics that investigated the house was like: "oh, yes! Kathy Lutz, she saw herself in mirror and saw herself old and then she died of a disease that made her old". No she didn't, she died of a chronic lung condition that has no medical background in premature aging, at all. 
 
-so you got two eyes i have two
+A notable psychic that did go into the house, or two of them, were the Warrens. Aka the people from The Conjuring. And also, my favorite thing is that the little girl of the Lutz'... 
 
-i think that this theory about dawn
+Oh! Is it the demon pig?! 
 
-being one of the
-
-perpetrators is a bit hard for me to
-
-swallow
-
-because she's dead and i feel like
-
-there's been countless accounts
-
-of people killing their family it's
-
-mostly men
-
-i mean it's very similar to that guy who
-
-killed his whole family instead of
-
-getting a divorce
-
-yeah they mostly blame other people in
-
-the family especially women
-
-and i feel like he has also
-
-tried to blame his mother for the death
-
-of the
-
-children for the siblings he also has
-
-said
-
-and he's quoted in this book as saying
-
-it's her fault anyway because she
-
-allowed
-
-the husband to be that much of an
-
-\[ __ ]
-
-yeah but he blames her even not for the
-
-physical
-
-shooting but he blames her for it anyway
-
-yeah but he also
-
-tried to blame the physical shooting on
-
-his mother
-
-and i feel like while i can't understand
-
-the anger of that
-
-the resentment he was a giant platt
-
-who didn't show up for work and got paid
-
-for work they bought him a boat for
-
-\[ __ ] sake
-
-and he's like oh but abuse cannot be
-
-bought for money
-
-i get that but i wouldn't necessarily
-
-want to believe and that might be my own
-
-bias
-
-i mean it's fair enough and also he has
-
-changed his story
-
-so many times but we could all
-
-conclusively agree that the ghost stuff
-
-was made up
-
-\[Laughter]
-
-speaking of the ghost stuff i have some
-
-notes about the ghost stuff that i
-
-thought was funny
-
-go for it do we want to do that okay so
-
-the ghost
-
-is the best bit george and kathy looks
-
-moved into the house in 1976
-
-and some of the claims from them are
-
-that
-
-a porcelain lion left from the corner of
-
-the
-
-room and bit george in the ankle
-
-george also saw a vision of
-
-ronnie defeo his head floating in the
-
-cellar
-
-who is not dead george
-
-and kathy said that they saw
-
-the burn depression of a demonic hooded
-
-figure
-
-in the fireplace cathy apparently
-
-levitated above their bed
-
-and saw herself as an elderly woman
-
-the toilets was backed up with black
-
-smelly ooze which i feel like
-
-is my normal stew no no no
-
-no wait on that one it wasn't that the
-
-toilets were backed up with smelly ooze
-
-it was that the porcelain of the toilet
-
-turned black which would be better for
-
-the stains i guess
-
-but and also the walls of the house were
-
-covered with green slime which i'm like
-
-who you're gonna call ghostbusters
-
-so one of the things you listed there
-
-was that kathy
-
-had a vision of herself as an old lady
-
-she died of a disease that made her age
-
-really quickly
-
-that's not true is it not true she died
-
-of emphysema but it made her look like
-
-she had
-
-aged loads apparently there is no
-
-documented history of
-
-what was formerly called emphysema is
-
-now called chronic obstructive pulmonary
-
-disorder
-
-causing premature aging basically copd
-
-is a buildup of mucus
-
-or whatever in your lungs which just
-
-causes
-
-chronic coughing it can be terminal you
-
-can die from it
-
-but this was one of the things where one
-
-of the psychics
-
-that investigated the house was like oh
-
-yes
-
-kathy looked she saw herself in mirror
-
-and saw herself
-
-old and then she died of a disease that
-
-made her old
-
-no she didn't she died of a chronic lung
-
-condition that has no medical background
-
-in premature aging
-
-at all a notable psychic that did go
-
-into the house or two of them were the
-
-warrens
-
-aka the people from the country and also
-
-my favorite thing is that the little
-
-girl of the lotsies
-
-oh is that the demon pig she had
-
-allegedly
-
-an invisible friend that was a demon pig
+She had, allegedly, an invisible friend that was a demon pig.
 
 yeah and there's a bit in a movie that
 
