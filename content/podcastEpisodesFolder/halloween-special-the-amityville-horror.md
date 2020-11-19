@@ -50,7 +50,7 @@ Joe got his information from:
 * [Snopes](https://www.snopes.com/fact-check/the-amityville-horror/)
 * [ParanormalSoup](http://www.paranormalsoup.com/forums/index.php?showtopic=41441)
 * The Real Amityville Horror, documentary by Craig Collinson and Nick Freand Jones
-* [Wikipedia](< https://en.m.wikipedia.org/wiki/Shinnecock_Indian_Nation>)
+* [Wikipedia](https://en.m.wikipedia.org/wiki/Shinnecock_Indian_Nation)
 
 Sandra got her information from: 
 
@@ -529,708 +529,198 @@ Is it not true? She died of emphysema, but it made her look like she had aged lo
 
 There is no documented history of what was formerly called emphysema, is now called chronic obstructive pulmonary disorder, causing premature aging. Basically, COPD is a buildup of mucus, or whatever, in your lungs. Which just causes chronic coughing. It can be terminal, you can die from it. But this was one of the things where one of the psychics that investigated the house was like: "oh, yes! Kathy Lutz, she saw herself in mirror and saw herself old and then she died of a disease that made her old". No she didn't, she died of a chronic lung condition that has no medical background in premature aging, at all. 
 
-A notable psychic that did go into the house, or two of them, were the Warrens. Aka the people from The Conjuring. And also, my favorite thing is that the little girl of the Lutz'... 
+A notable psychic that did go into the house, or two of them, were the Warrens. Aka the people from The Conjuring. And also, my favorite thing is that the little girl of the Lutzes... 
 
 Oh! Is it the demon pig?! 
 
 She had, allegedly, an invisible friend that was a demon pig.
 
-yeah and there's a bit in a movie that
+Yeah. 
 
-as a child traumatized me where
+And there's a bit in a movie, that as a child traumatized me, where the mum comes into the room and just before she walks in the rocking chair is rocking and as she walks in the room it stops. And she's like: "oh, what are you doing?" to the daughter sitting up. She's like: "oh mom, you just scared Jodie", and she's like: "oh yeah? Where did Jodie go?, and she's like: "oh, she went out the window", and then the mum goes to the window to shut it and sees these eyes staring back at her. So this little girl would draw pictures of Jodie, it looks like a pig. That's where they got the... It looked like a pig. Because but we all know what children drawings looks like, it's not quite right. That was shown to a neighbor and the neighbor was like: "oh, that's Jodie", and they were like: "how do you know that?", and he's like: "oh, that's the fat cat that lives on the street". Which makes sense, because cat's eyes are reflective. So that potentially could have happened. I feel like there was some potential creepy stuff that did happen, and then they just... When they had that drinking session with that fucking guy, they just made up a load of shit.
 
-a mum comes into the room and just
+I can corroborate that with what I read, in that it was widely known that this particular persian cat would sit on that windowsill and look in at the window. And because it was a fat cat it was nicknamed "the pig". 
 
-before she walks in the rocking chair is
+The chonker. \[Laughter]
 
-rocking and as she walks in the room it
+So I think the little girl would have obviously heard people referring to it as "the pig", it would have stuck in her subconscious, and that's where the whole drawing and haunting came from.
 
-stops
+There's a bit in the film where George is coming back to the house and looks up and just sees a giant pig monster in the window.
 
-and uh she's like oh what are you doing
+Apparently there's a hundred and sixteen errors in the book, that this guy... 
 
-to the door sitting up she's like oh mom
+Is it in the original book? The hardback cover has more errors than the softback because they fixed some of them when they did the second releasing. 
 
-you just scared jodie and she's like oh
+One of my favorite of the errors in the book, other than the demon pig, is that George Lutz claimed that there were mysterious hoof marks in the snow. Someone just like googled, or whatever the alternative was in the 70's. Went to the library, I don't know, whatever.
 
-yeah
+Microfiche. \[Laughter]
 
-like where did jody go and she's like oh
+On AltaVista. Do you remember that search engine? 
 
-she went out the window and then the mum
+No. I remember AlltheWeb. 
 
-goes to the window to shut it and sees
+AltaVista was the best for porn. Anyway. So, yeah, the hoof marks in the snow on that particular day that George reported them. There was no snow that whole week.
 
-these eyes staring back at her
+Beautiful. One of my favorite ones was that the priest, when he drove home after being told to get out, that the bonnet of his car opened and like went over the windshield and it caused him to crash. But that model of car that he drives, the bonnet opens the other way. \[Laughter] That was mentioned as well, because they said that they had flies in there and unseasonable things. Allegedly, something I saw, they were like: "yeah it was a fucking crime scene and they'd left all the windows shut and like the heating on". Like...
 
-so this little girl would draw pictures
+Yeah. The heating was left on, and obviously the crime scene wasn't reported for 24 hours afterwards or something like that. So that's like the perfect opportunity for maggots and flies to be created. And then while the Lutz's were sitting down with the lawyer, Weber, they were like: "oh, yeah. A swarm of flies in some of the bedrooms. Yeah. That's a really good idea". The other thing is the slime. So George and Kathy obviously said that their walls were dripping..
 
-of jodie
+Oh wait! I know what it is. Is it the fingerprint stuff? 
 
-it looks like a pig that's where they
+Exactly. It's the fingerprint powder that would have been used by the forensics teams, that again, came through in this drunken wine session with the lawyer. They just... They picked up on these tiny little things and just went crazy with them. 
 
-got the it looked like a pig because
+I love that it was like: "oh, they moved in and then they stayed there for like 28 days and then they never went back", and it's like: "why would they lie?". And it's like, because they made millions when they sold the book.
 
-but we all know what children drawing
+Actually, when they sold the book they only made three hundred thousand. 
 
-looks like it's not quite right
+I mean, that's still probably quite a lot.
 
-that was shown to a neighbor and a
+Yeah. I mean, 1970's money, 300 000 is a hell of a lot. The author of the book made millions.
 
-neighbor was like oh that's jody and
+Yeah.
 
-they were like how do you know that
+But the contract that they signed with him, they got a raw deal on. Which I feel like, just serves them right. 
 
-and he's like oh that's the fat cat that
+Yeah, good! You're fucking cashing in on a literal tragedy.
 
-like lives in the street
+Yeah. And then another one... Oooooh she's back.
 
-which makes sense because cat's eyes are
+Speaking of green slime, I had... 
 
-reflective so
+Have you been here since then?
 
-that potentially could have happened i
+Yeah. 
 
-feel like there was some potential
+Oh. You came back stealthy.
 
-creepy stuff that did happen and then
+I had mushroom and asparagus risotto for dinner, my pee did not smell nice. 
 
-they just when they had that drinking
+You got black porcelain now. \[Laughter]
 
-session with that \[ __ ] guy they just
+My other favorite debunkings of the haunting was that they claimed a window would slam shut. 
 
-blew up a load of \[ __ ]
+Yeah. 
 
-i can corroborate that with what i read
+When there was nobody near it and there was like no wind, it would just randomly slam shut whenever someone entered the room. And then some surveyors went in and found that the frame of the window wasn't constructed properly, and neither was the wall that the window was sitting in. So when you walked into a certain spot in the room you stood on a floorboard which sunk a little bit, which had enough of an impact to tilt the frame of the window like a degree, which was enough to slam shut the window.
 
-in the it was
+Yeah. 
 
-widely known that this particular
+And they they proved it. Like they lifted up the window, stood in that spot and "bang!" down went the window.
 
-persian
+I've just sent Sandra a picture, which is my favorite picture from the quote-unquote seance that they took there. Which is just a fucking picture of a... 
 
-cat would sit on that windowsill and
+Oh yeah! The demon boy, is what it's called. 
 
-look in at the window
+I think it's a person potentially wearing glasses looking at the camera as the flash goes off. 
 
-and because it was a fat cat it was
+Yes! Yes, I've seen this picture and so many people are like: "well this is irrefutable evidence that it's haunted. There were no children in the house at the time that we did the seance, and you can clearly see this is a child with demonic glowing eyes". If you actually zoom in on a high quality resolution of that picture, which appreciably isn't that easy to find because it was taken in the 70's, you can see the frames of his glasses.
 
-nicknamed
+Yeah. You can, yeah.
 
-the pig
+And that a person is kneeling down. This is a member of the media that was there for the seance to record it. It's just a random man. Who's wearing glasses. 
 
-\[Laughter]
+I will give props to The Conjuring 2, which is a film that sucks so fucking bad, but in the opening where they're in the Amityville house and the ghosts have those glowing eyes. I really appreciate that a bit. I've always thought that you could see the glasses. Like obviously that house still stands...
 
-so i think the little girl would have
+Yeah. 
 
-obviously heard people referring to it
+It's a real pain in the ass for people who live there. So they've had to alter the front of the house so that it doesn't look like... It doesn't have the iconic windows anymore because they've altered it.
 
-as the pig it would have stuck in her
+Yeah.
 
-subconscious
+But it's still at 112 Ocean Avenue Amityville New York. So it's not like it's hard to find. 
 
-and that's where the whole drawing and
+No.
 
-haunting came from
+They changed the address. 
 
-there's a bit in the film where george
+Yeah, yeah. 
 
-is coming back to the house and looks up
+But like, still. It's the in the same spot. 
 
-and just sees a giant pig monster in the
+It's in the same location.
 
-window
+Oh we've changed the address, so the house next to it is 111, and then it goes 111 B and then it's like... \[Laughter]
 
-apparently there's a hundred and sixteen
+113.
 
-errors
+This looks like that really famous house.
 
-in the book that is it in the original
+Did you read the dead Indian chief?
 
-book the hardback cover
+Yeah, that's not true either. \[Laughter]
 
-has more errors than the softback
+It was buried on an ancient Indian burial ground, and then someone was like: "but they don't bury them next to water, though". That's like their whole thing.
 
-because they fixed some of them when
+The other thing was they spoke to the Montaukett tribe, which are the natives that are closest to that region, and they were like: "we've got no burial ground in Amityville. We've never had a burial ground in Amityville, and capturing people's souls and using them as a vessel to cause evil is not within our philosophy. So it's definitely not us". And then the Shinnecock tribe, which are like 70 miles away but also the second closest. The house was built in 1924, so for a Native American tribal chief to have been buried in that plot of land needed to have happened like relatively early. In 1658 two-thirds of the Shinnecock tribe's population were wiped out by smallpox.
 
-they
+Oh yeah. But where did they fall dead, ey? All on 112 B Ocean Avenue. \[Laughter]
 
-did the second releasing one of my
+All 111 B, C Drive. 
 
-favorite of the errors
+Can you imagine if it was like: 111 Ocean Avenue, 113 Ocean Avenue and 112 J.F.K Drive. I can't find it! \[Laughter]
 
-in the book other than the demon pig is
+I'm completely lost!
 
-that
+This is a bit not funny, but I thought it was quite funny. On the 911 call, the whole call is just them trying to figure out what his name is. And then they were like: "where is it?", he was like: "this road", they were like: "where is that?", he was like: "this is the fucking road!".
 
-george lutz claimed that there were
+I was gonna say, the one you were saying earlier when he called up and he's like: "there's been a shooting", "there's been a shooting?", "yeah. There has been a shooting". And then: "they've all been shot", "what do you mean all have been shot?".
 
-mysterious hoof marks in the snow
+"Is anyone harmed?", "Yes! It's a fucking shooting! I opened with that!". \[Laughter]
 
-someone just like googled or whatever
+That's just like a third, or like a fourth, of the phone call. The whole phone call is just him being more and more annoyed by them not listening. 
 
-the alternative was
+I had a similar situation. I had to call the police once because I got jumped with a friend of mine by like 13 or 14, 13 or 14 year olds.
 
-in the 70s went to the library i don't
+Wait, and you were...
 
-know whatever
+That was a Nick Helm joke.
 
-microfiche on
+Wait, and you kind of were in that age?
 
-alta vista do you remember that search
+Yeah, like a year older. But there was like, way more of them. So I called the police, I was like: "me and my friend have been jumped, we're being attacked". I managed to escape, obviously, because I'm super fast. \[Laughter]
 
-engine no
+"My friend has been jumped!". \[Laughter]
 
-i remember oh the web alta vista was the
+"I ran away. I'm fine, don't worry about me". \[Laughter] I was like: "I'm in Market Square in Hemel Hempstead town center", and they were like: "where's that?", I'm like: "this is the geographical location, I can't give you any more details on this unless you want like longitude and latitude. Like Market Square Hemel Hempstead town center". And they're like: "I can't put that in the system. I don't know where that is", I'm like: "I'm a hundred meters away from the police station! In the time it's taken me to tell you where my fucking address was, I could have just ran to the fucking police station! Send me some local fucking police!".
 
-best for porn
+Why didn't you run to the police? 
 
-anyway
+Because obviously, I ran in the opposite direction...
 
-so yeah the hoof marks in the snow on
+Oh, smart. 
 
-that particular day that george reported
+...to the knife shop. \[Laughter] Good times, good times. 
 
-them
+Do you need to sign out, Lee?
 
-there was no snow that whole week
+Yeah. I should probably go, I've gotta...
 
-beautiful
+Good luck with your new job. 
 
-one of my favorite ones was that the
+Thank you very much. All right, well thanks for having me on here.
 
-priest when he drove home after being
+Oh, thank you for coming on! 
 
-told to get out
+It's been a fucking pleasure bruv.
 
-that the bonnet of his car opened and
+I know it's not my story to tell, but oh... \[Laughter]
 
-like went over the windshield and it
+I had a ruddy time telling it! \[Laughter]
 
-caused him to crash
+All right guys. 
 
-but that model of car that he drives the
+All right. Bye bye! 
 
-bonnet opens the other way
+Sleep well treacle. 
 
-\[Laughter]
+Bye!
 
-that was mentioned as well because they
+Is he gone? \[Laughter]
 
-said that they had flies in there and
+Yeah. It's just me and you now. Okay, should we say goodbye to the listeners? Thank you so much for listening to Midweek Murderers, we'll see you next week. Goodbye!
 
-unseasonable things allegedly something
-
-i saw they were like
-
-yeah it was a \[ __ ] crime scene and
-
-they'd left all the windows shut and
-
-like they're eating on like
-
-yeah the heating was left on and
-
-obviously the crime scene wasn't
-
-reported for
-
-24 hours afterwards or something like
-
-that so that's like
-
-the perfect opportunity for maggots and
-
-flies to
-
-be created and then while the lutz's
-
-were sitting down
-
-with the lawyer weber they were like oh
-
-yeah
-
-a swarm of flies in some of the bedrooms
-
-yeah that's a really good idea
-
-the other thing is the slime so george
-
-and kathy
-
-obviously said that their walls were
-
-white
-
-is it the fingerprint stuff exactly it's
-
-the fingerprint powder that would have
-
-been used by the forensics teams
-
-that again came through in this drunken
-
-wine session with the lawyer
-
-they just they picked up on these tiny
-
-little things
-
-and just went crazy with them i love
-
-that it was like oh they moved in and
-
-then they stayed there for like 28 days
-
-and then they never went back and it's
-
-like
-
-why would they lie and it's like because
-
-they made millions when they sold the
-
-book
-
-actually when they sold the book they
-
-only made three hundred thousand
-
-i mean yeah i mean
-
-1970s money 300 000 is a hell of a lot
-
-the author of the book made millions
-
-yeah
-
-but the contract that they signed with
-
-him they got a raw deal on which i feel
-
-like
-
-just serves them right yeah good you're
-
-\[ __ ] cashing in on a literal tragedy
-
-yeah and then another one oh she's back
-
-speaking of green slime i had have you
-
-been here since then
-
-yeah oh you came back stealthy
-
-asparagus risotto for dinner
-
-my pee did not smell nice you got black
-
-porcelain now
-
-my other favorite debunkings of the
-
-haunting
-
-was that they claimed a window would
-
-slam shut yeah when there was nobody
-
-near it and there was like no wind
-
-it would just randomly slam shut
-
-whenever someone entered the room
-
-and then some surveyors went in and
-
-found
-
-that the frame of the window wasn't
-
-constructed
-
-properly and neither was the wall that
-
-the window
-
-was sitting in so when you walked into a
-
-certain
-
-spot in the room you stood on a
-
-floorboard
-
-which sunk a little bit which had enough
-
-of an
-
-impact to tilt the frame of the window
-
-like a degree which was enough to slam
-
-shut the window
-
-yeah and they they proved it like they
-
-lifted up the window
-
-stood in that spot and bang down when
-
-the window
-
-i've just sent sandra a pitcher which is
-
-my favorite picture from the
-
-quote-unquote seance that they took
-
-there
-
-which is just a \[ __ ] picture of it oh
-
-yeah
-
-the demon boy is what it's called i
-
-think it's a person
-
-potentially wearing glasses looking at
-
-the camera as the flash
-
-goes off yes yes i've seen this picture
-
-and so many people are like well this is
-
-like
-
-irrefutable evidence that it's haunted
-
-there were no children
-
-in the house at the time that we did the
-
-seance and you can clearly see this is a
-
-child with demonic glowing eyes
-
-if you actually zoom in on a high
-
-quality resolution of that picture
-
-which appreciably isn't that easy to
-
-find because it was taken in the 70s
-
-you can see the frames of his glasses
-
-yeah you can yeah
-
-and that person is kneeling down this is
-
-a member
-
-of the media that was there for the
-
-seance to record it
-
-it's just a random man who's wearing
-
-glasses i will give props to the
-
-conjuring too which is a film that sucks
-
-so \[ __ ] bad but in the opening where
-
-they're in the army of your house and
-
-the ghosts have those glowing eyes i
-
-really appreciate that a bit
-
-i've always thought that you could see
-
-the glasses like obviously that house
-
-still stands
-
-yeah it's a real pain in the ass for
-
-people who live there so they've had to
-
-alter the front of the house so that it
-
-doesn't
-
-look like it doesn't have the iconic
-
-windows anymore because they've altered
-
-yeah
-
-but it's still at 112 ocean avenue emily
-
-real \[ __ ] new york so it's not like
-
-it's hard to fly no
-
-they changed the address yeah yeah but
-
-like still
-
-it's the in the same space it's in the
-
-same location
-
-oh we've changed the address so the
-
-house next to it is one one one
-
-and then it goes one one one b and then
-
-it's like
-
-one month this looks like that \[ __ ]
-
-really famous house
-
-i kind of did you read the uh dead
-
-indian chief
-
-\[Laughter]
-
-it was buried on an ancient indian
-
-burial ground and then someone was like
-
-but they don't bury them next to water
-
-though that's like their whole thing
-
-the other thing was they spoke to the
-
-montuckette tribe
-
-which are the natives that are closest
-
-to that region
-
-and they were like we've got no burial
-
-ground in
-
-amateurville we've never had a burial
-
-ground
-
-in ameterville and capturing people's
-
-souls
-
-and using them as a vessel to cause evil
-
-is not within our philosophy
-
-so it's definitely not us and then the
-
-shinnecock tribe which are
-
-like 70 miles away but also the second
-
-closest the house was built in 1924
-
-so for a native american tribal chief
-
-to have been buried in that plot of land
-
-needed to have happened
-
-like relatively early
-
-in 1658 two-thirds of the shinnecock
-
-tribe's population were wiped out by
-
-smallpox
-
-oh yeah but where did they fall dead eh
-
-all on one one twelve be
-
-all in one one one b
-
-c drive can you imagine if it was like
-
-one one
-
-ocean avenue one one three ocean avenue
-
-and one one two jfk drive
-
-i can't find it completely lost
-
-this is a bit not funny but i thought it
-
-was quite funny on the 911 call
-
-the whole call is just them trying to
-
-figure out what his name is
-
-and then they were like where is it he
-
-was like this
-
-road they were like where is that he was
-
-like this is the \[ __ ] road
-
-i was gonna say the one you were saying
-
-earlier when he called up and he's like
-
-there's been a shooting there's been a
-
-shooting
-
-yeah there has been a shoot and then
-
-they've all been shot what do you mean
-
-all of them
-
-is anyone harmed yes it's a \[ __ ]
-
-shooting
-
-i opened with that that's just like a
-
-third or like a fourth of the phone call
-
-the whole phone call is just
-
-him being more and more annoyed
-
-by them not listening i had a similar
-
-situation i had to call the police once
-
-because i got jumped with a friend of
-
-mine by
-
-like 13 or 14 13 or 14 year olds
-
-um wait and you were the nick helm joke
-
-wait are you kind of were in that age
-
-yeah like a year older but there was
-
-like way more of them
-
-so i called the police i was like me and
-
-my friend have been jammed with being
-
-atta i managed to escape
-
-obviously because i'm super fast
-
-\[Laughter]
+Bye bye bye.
 
 \[Music]
-
-i ran away i'm fine don't worry about me
-
-i was like i'm in market square in hemel
-
-hempstead town center
-
-and they were like where's that i'm like
-
-this is the geographical location i
-
-can't give you any more details on this
-
-unless you want like longitude
-
-longitudinal latitude
-
-like market square hemel hempstead town
-
-center and they're like i can't put that
-
-in the system i don't know where that is
-
-i'm like i'm a hundred meters away from
-
-the police station
-
-in the time it's taken me to tell you
-
-where my \[ __ ] address was
-
-i could have just ran to the \[ __ ]
-
-police station
-
-send me some local \[ __ ] police
-
-because why didn't you obviously i ran
-
-in the opposite direction
-
-oh smart to the knife shop
-
-good times good times do you need to
-
-sign out lee
-
-yeah i should probably go i've gotta
-
-like what's your new
-
-job thank you very much all right well
-
-thanks for having me on here
-
-oh thank you for coming on a \[ __ ]
-
-pleasure brav
-
-i know it's not my story to tell but so
-
-i had a radical time telling it
-
-\[Laughter]
-
-all right guys all right bye bye sleep
-
-sleep well tree cool bye
-
-is he gone
-
-\[Laughter]
-
-yeah it's just me
-
-okay should we say goodbye to the
-
-listeners thank you so much for
-
-listening to
-
-midweek murderers we'll see you next
-
-week
-
-okay
-
-you
 
 <!--EndFragment-->
