@@ -278,481 +278,93 @@ Only what condition they found the body in.
 
 Very horrific. I would say: trigger warning.
 
-So like you said, the chambermaid found Margery
+So like you said, the chambermaid found Margery. She originally couldn't enter the room, so they called the hotel manager who opened the room for them, and found Margery naked in the bed but covered up to her neck with the bed sheets. Once they removed the bed sheets they found that her ankles had been bound, and there were ligation marks on her wrists to show that her wrists had been bound as well. She had 17 lashes across her body that seemed to have been caused by a diamond headed, or shaped, whip of some sort. She had savagely bitten nipples. And an instrument, I didn't manage to find a source that said what the instrument was, had been inserted into her vagina and anus and "savagely ripped" was one description that was given. So pretty brutal. 
 
-she originally couldn't enter the room
+Yeah. 
 
-so they called
+The pathologist that looked at the case determined her time of death to be between midnight and the early morning hours, and the cause of death was given as suffocation.
 
-the hotel manager who opened the room
+Okay, so she was strangled? 
 
-for them
+Or smothered.
 
-and found marjorie naked in
+Okay. Didn't a coroner say at this point something along the lines of: "if you find that particular type of whip"?
 
-the bed but covered up to her neck
+Yes. Yeah. So he said: "if you find the whip, you find the culprit", basically. That was the main lead and back in the 40s, before forensic science existed, that was the kind of evidence that you could take someone to trial with. If you found the murder weapon, or in this case something so indicative of being used in the crime, it was basically enough for it to go to court and to the jury. So yeah, that's what the coroner said: "if you find the whip, you find the culprit". 
 
-with the bed sheets once they removed
+Yeah. I have a question later about that as well. Okay. So after meeting up with his fiancee, and writing a letter to the police about Margery that would no doubt clear him of any suspicion, and there I wrote: "sarcasm", Neville traveled to Bournemouth. Here, he checked into the Tollard Royal Hotel under the name Rupert Brook. I read somewhere, in one of the two sources I mentioned, or three, that Rupert Brook was like a poet or something? That had written about Bournemouth?
 
-the bed sheets they found
+He was definitely a poet. 
 
-that her ankles had been bound and there
+Okay. 
 
-were
+I don't know if he wrote about Bournemouth.
 
-ligation marks on her wrists to show
+Maybe he was from there, I don't know. I just found it a bit stupid to use a name that was a famous name. 
 
-that her wrists had been bound
+He took the E off of the end of Brook. He was probably fine in terms of being identified because they would have just seen the name and been like: "well it can't be the famous poet because there's no E on his name. So it must just be another guy named Rupert Brook".
 
-as well she had 17 lashes
+He was like: "let's just take the E off! Oh, bamboozled!". 
 
-across her body that seemed to have been
+Just reiterates his level of cunning, this guy. 
 
-caused by
+Yeah, of course. Yeah, a genius.
 
-a diamond headed or shaped
+He's the psychopath of psychopaths, really. Which is genuinely how he's been described. 
 
-whip of some sort she had savagely
+It's crazy though, because he was fucking stupid.
 
-bitten
+Yeah, but he was also a psychopath. 
 
-nipples and an instrument i didn't
+Yeah. And also in the 1940s, I guess you could get away with all kinds of shit. 
 
-manage to find a source that said what
+Oh yeah. No internet back then, they'd have had to go to the library. \[Laughter] 
 
-the instrument
+Oh yeah. 
 
-was had been inserted into her vagina
+Like: "Rupert Brook, I recognize that name", traipse all the way to the library: "ah, no. See? Different name. Rupert Brooke the poet's got an E on the end, can't be the same guy".
 
-and anus and savagely ripped
+So he met a woman in Bournemouth named Doreen Marshall, who was a 21 year old member of the women's Royal Navy Service and had served during World War II. Doreen had gone to Bournemouth to recover from the flu. They met, and he introduced himself as a fellow army man. Which he kind of was, I'm guessing.
 
-was one description that was given so
+Military man. 
 
-pretty brutal yeah the pathologist
+Military man, yeah. He probably put one or two extra, you know, ranks there.
 
-that looked at the case determined her
+Colonel second General Admiral of the grand Air Navy. 
 
-time of death to be between
+Yeah, of course. And then he probably was wearing some medal. Private Jimmy medal. \[Laughter] 
 
-midnight and the early morning hours
+Ah Jimmy, you've been done again! Keep track of your fucking medals, Jimmy! I know you're only a private but jesus christ.
 
-and the cause of death was given as
+Yeah. So they had tea together, and Doreen accepted Neville's invitation to have dinner at his hotel. Yes, he did book a table at his hotel for him and a guest. They were seen walking together towards the Norfolk Hotel after dinner, where Doreen was staying. The hotel manager at the Norfolk Hotel had gotten concerned, as he hadn't seen Doreen for two days after this dinner and contacted the other hotel as he knew that that's where Doreen went for dinner when she had been last seen. Which was also crazy, but I guess in the 1940s you knew that kind of shit.
 
-suffocation
+In the 40s, the grand hotels that were available were more like a BnB in today's time. So they were a lot more intimate, and you had a chat and stuff with the manager, or the receptionist, or whatever. Rather than the budget hotels where they're like: "name? Room 201", and that's all you ever speak to anyone about.
 
-okay so she was strangled or smothered
+But it's very lucky. And also very good of the hotel manager to even like, follow up on that. 
 
-okay didn't a coroner say at this point
+Well, depends on if she paid for her room in advance.
 
-something along the lines of if you find
+Yeah, probably. 
 
-that particular type of whip
+That was meant to be a callous cold comment that you were supposed to laugh at, not agree with.
 
-yes yeah so he said if you find the whip
+Oh! I have no faith in humanity, soz. So the manager at the Tollard Royal Hotel in turn contacted Neville to ask if Doreen had been the guest he had dined with that night. Because again, he booked the table at the restaurant with his name and a guest... Or, not his name. The poet's name. Neville denied this, and claimed to have been dining with some other dame. But in his utter and complete big-headedness, he agreed to go to the police station to clear things up. He was not asked to go to the police station by anyone, he was like: "I'm gonna go there and, you know, sort things out". Which is... 
 
-you find
+Admirable.
 
-the culprit basically that was the main
+The audacity, again, is utter mind-boggling. He contacted the police station by himself. At the police station he introduced himself as Rupert Brook, and one of the police officers thought that he looked a lot like the Neville Heath that had his photo circulated by the Scotland Yard because of his connection with the murder of Margery Gardner. Doreen's father and brother had traveled down to Bournemouth, and met Neville at the police station by chance. "By chance!", and was introduced to them. And again, this officer that recognized him from his photo, quite astute. I'm glad somebody looked at the photo that was circulating. 
 
-lead
+I mean, I've seen a picture of Neville and 1) I do not understand the charm behind him, and how he was repeatedly described as a handsome man. Because he's not, he's an unattractive man. Secondly, he has quite a distinct face. He doesn't look like he could dissolve into a crowd, like, he's got quite distinctive features. So if there's a picture circulating through all of the police departments from Scotland Yard, I'm not surprised at least one police officer was like: "you look suspiciously fugly. I recognize your face". 
 
-and back in the 40s before forensic
+That's true, and it's also funny that you mentioned that he was described as handsome because on wikipedia, the photo they chose there, I can kind of get it. I'm like: "yeah, he looks alright". And then on the photo on the other websites...
 
-science
+When he's in the car smoking his pipe? Have you seen that one?
 
-existed that was the kind of evidence
+No. 
 
-that you could take
+That is not a good look. 
 
-someone's trial with if you found the
-
-murder weapon
-
-or in this case something so indicative
-
-of being used in the crime
-
-it was basically enough for it to go to
-
-court and to the
-
-jury so yeah that's what the coroner
-
-said if you find the whip
-
-you find the culprit yeah i have a
-
-question later about
-
-that as well okay so after meeting up
-
-with his fiancee
-
-and writing a letter to the police about
-
-marjorie
-
-that would no doubt clear him of any
-
-suspicion
-
-and there i wrote sarcasm neville
-
-traveled to bournemouth
-
-here he checked into the tollered royal
-
-hotel
-
-under the name rupert brooke
-
-i read somewhere
-
-in one of the two sources i mentioned or
-
-three
-
-that rupert brooke was like a poet or
-
-something that had written about
-
-bournemouth
-
-he was definitely a poet okay i don't
-
-know if you wrote about bournemouth
-
-maybe it was from there i don't know i
-
-just found
-
-a bit stupid to use a name
-
-that was a famous name he took the e
-
-off of the end of brook
-
-he was probably fine in terms of being
-
-identified
-
-because they would have just seen the
-
-name well it can't be the famous poet
-
-because there's no e on his name so it
-
-must just be another guy named robert
-
-brooke
-
-he was like let's just take the e oh
-
-bamboozled just reiterates his level of
-
-cunning
-
-this guy yeah of course yeah a genius
-
-is the psychopath of psychopaths really
-
-which is genuinely how he's been
-
-described it's crazy though because he
-
-was \[ __ ] stupid
-
-yeah but he was also a psychopath yeah
-
-and also in the 1940s i guess
-
-you could get away with all kinds of
-
-\[ __ ] oh yeah
-
-no internet back then
-
-they'd have had to go to the library
-
-oh yeah like robert brooke i recognize
-
-that name
-
-traipse all the way to the library ah no
-
-see
-
-different name robert brooke the poet's
-
-got an e on the end can't be the same
-
-guy
-
-so he met a woman in bournemouth named
-
-dorian marshall
-
-who was a 21 year old member of the
-
-women's royal
-
-navy service and had served during
-
-world war ii doreen had gone to
-
-bournemouth to recover from the flu
-
-they met and he introduced himself as a
-
-fellow
-
-like army man which he kind of was i'm
-
-guessing
-
-but military man military man yeah he
-
-probably
-
-put one or two extra you know ranks
-
-there
-
-colonel seconds general admiral
-
-of the grand air navy yeah of course and
-
-then he probably was wearing
-
-some metal private tv ah
-
-jimmy you've been done again keep track
-
-of your \[ __ ] medals jimmy i know
-
-you're only a private but jesus christ
-
-yeah so they had tea together and doreen
-
-accepted neville's invitation to have
-
-dinner
-
-at his hotel yes he did book
-
-a table at his hotel for him and a guest
-
-they were seen walking together towards
-
-the norfolk hotel
-
-after dinner where doreen was staying
-
-the hotel manager at the norfolk hotel
-
-had gotten concerned
-
-as he hadn't seen dorian for two days
-
-after this dinner and contacted the
-
-other hotel
-
-as he knew that that's where durian went
-
-for dinner
-
-when she had been last seen which was
-
-also crazy
-
-but i guess in the 1940s you knew that
-
-kind of \[ __ ]
-
-in the 40s the grand hotels that were
-
-available were more like
-
-a bnb in today's time so they were a lot
-
-more intimate
-
-and you had a chat and stuff with
-
-the manager or the receptionist or
-
-whatever
-
-rather than the budget hotels where
-
-they're like
-
-name room 201 yeah and that's all you
-
-ever speak to anyone about
-
-but it's very lucky and also very good
-
-of the hotel manager to even like
-
-follow up on that well depends on if she
-
-paid for a room in advance
-
-yeah probably that was meant to be a
-
-callous
-
-cold comment that you were supposed to
-
-laugh at not agree with
-
-oh i have no
-
-faith in humanity
-
-sauce so the manager at the tollard
-
-royal hotel
-
-in turn contacted neville to ask if
-
-doreen had been the guest
-
-he had dined with that night because
-
-again
-
-he booked the table at the restaurant
-
-with his name and the guest or not his
-
-name
-
-the poet's name neville denied this
-
-and claimed to have been dining with
-
-some other dame
-
-but in his utter and complete
-
-big-headedness
-
-he agreed to go to the police station to
-
-clear
-
-things up he was not asked to go to the
-
-police station by anyone
-
-he was like i'm gonna go there and you
-
-know
-
-sort things out which is admirable
-
-the audacity again is other
-
-mind-boggling he contacted the police
-
-station
-
-by himself at the police station he
-
-introduced himself as robert brooke and
-
-one
-
-of the police officers thought that he
-
-looked a lot
-
-like the neville heath that had his
-
-photos circulated by the scotland yard
-
-because of his connection with the
-
-murder of marjory gardner
-
-dorian's father and brother had traveled
-
-down to bournemouth
-
-and met neville at the police station by
-
-chance
-
-by trance and was introduced to them
-
-and again this officer that recognized
-
-him from his
-
-photo quite astute i'm glad somebody
-
-looked at the photo that was circular i
-
-mean i've seen a picture
-
-of neville and one
-
-i do not understand the charm
-
-behind him and how he was repeatedly
-
-described as a handsome man
-
-because he's not he's an unattractive
-
-man
-
-secondly he has quite a distinct
-
-face he doesn't look
-
-like he could dissolve into a crowd
-
-like he's got quite distinctive features
-
-so if there's a picture circulating
-
-through all of the police departments
-
-from scotland yard
-
-i'm not surprised at least one police
-
-officer was like you look suspiciously
-
-fugly
-
-i recognize your face that's true and
-
-it's also funny that you mentioned that
-
-he was described as handsome
-
-because on wikipedia the photo they
-
-choose there
-
-i can kind of get it i'm like yeah he
-
-looks alright
-
-and then on the photo on like the other
-
-websites
-
-when is in the car smoking his pipe no
-
-have you seen that one
-
-no that is not a good look no and the
+no and the
 
 other
 
