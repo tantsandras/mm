@@ -78,635 +78,207 @@ But death is the ultimate prize!
 
 \[Music]
 
-
-
 Okay, it's Wednesday which means that it's time to talk about crime. Are you already laughing at me? 
 
-just
+You just sounded so defeated, "it's Wednesday... crime... Midweek Murders. You know it, you hear the same thing every week. Let's just get on with it".
 
-sounded so
+Who even knows what day it is. 
 
-defeated it's wednesday
+Well it's not Wednesday. \[Laughter]
 
-crime midweek mark you know it you hear
+That's true. Okay, it's Wednesday which means that it's time... 
 
-the same thing every week let's just get
+You did it again! I don't know why you're saying Wednesday like it's the hardest thing for you to get across in your life right now. "It's Wednesday. Just listen, okay? It's Wednesday, it's the worst day of the week. It's the hump of the week and not in the good way, all right? It's Wednesday". \[Laughter]
 
-on with it
+Which means that it's time to talk about crime. You're listening to Midweek Murders, and I'm your host Sandra.
 
-who even knows what day it is well it's
+And I'm your co-host Joe. 
 
-not wednesday
+Yeah. This is a very horrific crime, and not a lot of forensic science. Here we go! This week we're going to talk about Neville Heath. I got my information from wikipedia, theministryofhistory.co.uk, and murderuk.com.
 
-that's true okay it's wednesday
+I don't remember where I got mine from.
 
-which means that it's time to do it
+Our sources are gonna be on the website: midweekmurders.netlify.app. There we go, we're almost in it now. 
 
-again
+We're almost done, listeners. \[Laughter]
 
-why are you saying wednesday it's like
+You can go on with your fucking life! \[Laughter]
 
-it's the hardest thing
+Get on with your "Wednesday". \[Laughter]
 
-for you to get across in your life right
+Yeah. Lockdown is getting to us all, I think. So on the 20-furth of June 1946... 
 
-now
+20-furth? \[Laughter]
 
-it's wednesday just listen
+The furth. \[Laughter] Do you know why? Because I wrote it as: "21th". \[Laughter]
 
-okay it's wednesday this is the worst
+It's uh, that's not right.
 
-day of the week
+That's not right. On the 21st of June 1946, a 32 year old trained artist and film extra, Margery Gardner was found dead at the Pambridge Court Hotel in a room registered under the name Lieutenant-Colonel Neville Heath. Although... 
 
-it's the hump of the week and not in the
+It's pronounced Lieutenant.
 
-good way
+Oh. What did I say?
 
-all right it's wednesday
+Lieutenant.
 
-which means that it's time to talk about
+Oh. Is that the American...
 
-crime
+Yes, it is.
 
-you're listening to midweek murders and
+My true colors are showing. 
 
-i'm your host sandra
+And I would appreciate it if you could pronounce our stolen French word in the way we British like to say it. 
 
-and i'm your co-host joe yeah this
+The 20-furth.
 
-is a very horrific crime
+The 20-furth.
 
-and not a lot of forensic science here
+Under the name... Say it again.
 
-we go
+Lieutenant. 
 
-this week we're going to talk about
+Lieutenant-Colonel Neville Heath. Although Neville Heath was in fact his real name, he was not a Lieutenant...
 
-neville heath i quote my information
+Was it Heath or was it Heast? 
 
-from
+He was a right-tenant.
 
-wikipedia the ministry of history dot co
+No. That was weak.
 
-dot uk
+What did I say, Heath?
 
-and murder uk dot com
+That was a joke on your 20-furth.
 
-i don't remember where i got mine from
+Oh, okay. 
 
-our sources
+Is it Heath or is it Heast. 20-furth, 21st. 
 
-are gonna be on the website midweek
+I get it, I get it. I thought mine was funnier with the right-tenant.
 
-murders
+No, that was weak. Go home. 
 
-don't neglify the app there we go
+I am home, we're all home. It's the fucking lockdown.
 
-we're almost in it now rumors done
+That's the problem. \[Laughter]
 
-listeners
+He was not a Lieutenant-Colonel, in fact, Neville was a con man. Bam bam baaaaam.
 
-you can go on with your \[ __ ] life
+You should edit in some dramatic music there, I think we need to vamp this up to get more listeners.
 
-get on with your wednesday
+At age 15, Neville had attempted to rape a girl at a party. Fortunately, he was stopped by the other party-goers as they had heard the girl's cries for help. The girl's father found him the day after but Neville managed to talk him out of going to the police, blaming the incident on a few too many beers. And here I would like to say that if someone tries to rape a girl at a party, the beers are not the issue. He failed his school exams and was forced to take a job at a textile factory. At this point he realized that men in the military had higher status, because that's what he was all about, which was why he decided to join the Air Force. Because being a private, or joining the navy, wasn't what he imagined to be a glamorous lifestyle. As a pilot he changed his accent to try to fit in with the posher crowd and lied about having been to Eton and Oxford. Is Eton like a private school for younger people? 
 
-yeah lockdown is getting to us all i
+Yeah. It's where all the prime ministers go. Apart from the lady prime ministers, of which we've only had two.
 
-think
+Was that at Eton, where he fucked the pig? Or was that somewhere...
 
-so on the 21st of june
+Yes. 
 
-19th 25th
+Oh god, oh god.
 
-the first
+Yeah Cammy boy, we haven't forgotten Cammy. 
 
-you know why because i wrote it as 21.
+He was then invited to posh parties (pig fucking parties), which had ultimately been his goal, but then went AWOL...
 
-it's uh that's not right
+Do you know what that stands for? It's an acronym. 
 
-that's not right on the 21st of june
+It's something about without...
 
-1946 a 32 year old trained
+That's the W and O. 
 
-artist and film extra marjorie gardner
+Yeah. No, I can't remember. I know what it is. I can't remember, what is it?
 
-was found dead at the pambridge court
+Absent without leave. 
 
-hotel
+Yes, that is the one. Went absent without leave, as he had been stealing to keep up appearances, to fit in with the posh crowd. After being dismissed from the Air Force, he kept trying to keep up the act of being a man of money. He impersonated a Lord. He also called himself Lord Dudley at some point, I don't know if that's now or later, but Dudley is a funny name to choose. 
 
-in a room registered under the name
+Is that because you just think of a fat bully?
 
-lieutenant colonel
+Yeah, probably. Do you know any Lords? 
 
-neville hiss although it's pronounced
+Do I know any Lords?! It may surprise you to know, no I do not. \[Laughter]
 
-lieutenant
+I did not realize that that was a stupid question until I'd already said it. Oh. And he impersonated a Lord, and got in trouble when he tried buying an expensive car without having any money. You would say: "how would he even think that that would work?", but I guess in the 1940s you could do whatever you wanted, I don't know. He was tried for this, but got off easy because he smooth talked his way out by claiming to be "a young man in over his head". True story. He kind of went to court, I think, and then they were like: "fine".
 
-oh what did i say oh is that the
+Haven't we all gotten out of a lawsuit by just being charming?
 
-american
+"I was just joshing". 
 
-yes it is
+"Yeah, it was just fucking a pig, you know. It was just a school dare". \[Laughter]
 
-my true colors are showing and i would
+Is that your posh accent? It's hilarious! He did finally get in real trouble after selling stolen jewelry to a pawn broker, and got sentenced to three years in a prison for juveniles. 
 
-appreciate it
+Borstal.
 
-if you could pronounce our stolen french
+Yeah. Is that what it's called? 
 
-word
+Yeah. Or, as we like to call it now in the 21st century, juvie. 
 
-in the way we british like to say it the
+Yeah. I think I saw it being written as barstole, or something like that. 
 
-25th
+Borstal, not "barstool". \[Laughter]
 
-the 21st the 21st
+He got sentenced to three years of sitting in the same bar stool. \[Laughter]
 
-under the name say it again
+What a punishment, because bar stools are not comfy.
 
-lieutenant colonel neville his
+It'll fuck up your back real good. 
 
-although neville his was in fact his
+Yeah. I'd rather take juvie than bar stool. 
 
-real name
+He then joined the Royal Army Service Corps, because he tried to get back into the Royal Air Force, they were like: "no". He was like: "all right, I'll guess I'll just be a normal military man then. If I have to".
 
-he was not a lieutenant
+"A normal military man". \[Laughter]
 
-was it he or was it he's it was all
+In the beginning of World War II, but was attempted to be shipped home after less than a year due to stealing, again. During which, he escaped the guard.
 
-right
+By throwing a pig at him.
 
-no that was weak
+"Fuck this!" 
 
-what did i say that was a joke on your
+"Oh that's got quite a lot of holes, hasn't it Jimmy? You occupy yourself with that while oneself just, you know, tootle's off down here. Terry bye!" 
 
-25th
+"Terry bye, toodle do!"
 
-oh okay is it heath or is it east
+Okay. He escaped the guard. He fled to South Africa, where he pretended to be an aristocrat, and joined the South African Air Force where he eventually was given the rank of Captain.
 
-25th 21st i get it i get it
+"Captain!". 
 
-mine was familiar with the right
+"Captain!". They're all coming out today. 
 
-no that was weak go home i am home
+Yeah. During his time in the British army he was court-martialed two times, which I already told you about, but I would like to reiterate because the South African Air Force found out about that, but didn't seem to have been that bothered about it at first as Neville, the giant turdboat, talked himself out of that predicament as well.
 
-we're all home it's the \[ __ ] lockdown
+That wasn't his official title though, was it. 
 
-that's the problem
+The giant turdboat?
 
-\[Laughter]
+I don't think that's a military rank. \[Laughter]
 
-he was not a lieutenant colonel in fact
+Captain! Yeah. But then he was court-martialed again, because he was wearing medals that wasn't his and also because of undisciplined behavior, which must have been bad. 
 
-neville was a con man
+I'm just gonna point out that it wasn't that he was wearing medals that weren't his, he was wearing medals that weren't his rank.
 
-you should edit in some dramatic music
+Oh yeah, oh yeah. I just thought i would simplify it for our...
 
-there i think we need to vamp this up to
+He's a private in the military and he just stole Jimmy's privates badge. \[Laughter]
 
-get more listeners
+"Take that, Jimmy!" 
 
-at age 15 neville had attempted to rape
+"Fuck you, Jimmy! I'm the private now!" 
 
-a girl at a party
+I'm the private now.
 
-fortunately he was stopped by the other
+Aaaahh. Okay. So he was deported from South Africa. After this, he returned to war ravaged Britain in 1946. Here, he attempted to rape a young woman. Who, after being saved by hotel staff, decided not to press charges as she was afraid of being publicly shamed. Because this was in the 1940s. Only three months later is when he murders Margery. A couple of days before the maid at the hotel had discovered the horrific crime scene, Neville had checked into the hotel with his fiancee, in air quotes, Yvonne Symonds. The day after he brutally assaulted Margery, Neville took a train to meet up with Yvonne again. Yvonne had only known Neville for a week, and as the murder was all over the newspapers at the time Neville came up with a story about being horrified by being at the same hotel as the crime had taken place. He also wrote to the police, as they had publicly announced wanting to speak with him as his name had been on the check-in sheet for the room, I wrote in all caps. Because I wrote this whole thing in a... Not in a rage. But I would say, in like a: "Harry Potter and the Audacity of this Bitch"- mode.
 
-party-goers
+Mhhmm. \[Laughter]
 
-as they had heard the girl's cries for
+He wrote in the letter to the police that he had given his room key to Margery and her male companion, a man named "Jack". Even though Neville and Margery had been seen together the night before, this didn't seem to make Neville believe that he would be suspected, because he was a giant douchecanoe. Do you have any notes about the murder? 
 
-help
+Only what condition they found the body in.
 
-the girl's father found him the day
+Very horrific. I would say: trigger warning.
 
-after but
-
-neville managed to talk him out of going
-
-to the police
-
-blaming the incident on a few too many
-
-beers
-
-and here i would like to say that if
-
-someone tries to rape a girl at a party
-
-the beers are not the issue
-
-he failed his school exams and was
-
-forced to take a job
-
-at a textile factory at this point he
-
-realized that men in the military had
-
-higher status
-
-because that's what he was all about
-
-which was why
-
-he decided to join the air force because
-
-being a private
-
-or joining the navy wasn't what he
-
-imagined to be a glamorous lifestyle
-
-as a pilot he changed his accent
-
-to try to fit in with the potter crowd
-
-and lied about having been to eaton
-
-and oxford is even like a private school
-
-for younger people yes where all the
-
-prime ministers go
-
-apart from the lady prime ministers of
-
-which we've only had two
-
-was that at ethan where he \[ __ ] the
-
-pig or was that
-
-somewhere yes oh god oh god
-
-yeah cammy boy we haven't forgotten
-
-cammy he
-
-was then invited to push parties
-
-big \[ __ ] parties which had ultimately
-
-been his goal
-
-but then went awol what that stands for
-
-it's an acronym it's something about
-
-without
-
-without w and o yeah
-
-no i can't remember i know what it is i
-
-can't remember what is it
-
-absent without leave yes that is the one
-
-went absent without leave as he had been
-
-stealing to keep up appearances to fit
-
-in with the posh crowd
-
-after being dismissed from the air force
-
-he kept trying to keep up the act of
-
-being a man of money
-
-he impersonated a lot he also called
-
-himself
-
-lord dudley at some point i don't know
-
-if that's now
-
-or later but dudley is a funny name
-
-to choose is that because you just think
-
-of a fat bully
-
-yeah probably do you know any lord do i
-
-know any lords
-
-it may surprise you to know no i do not
-
-i did not realize that that was a stupid
-
-question
-
-until i've already said it oh
-
-and he impersonated the lord and got in
-
-trouble when he tried buying an
-
-expensive car without having any money
-
-you would say how would he even think
-
-that that
-
-would work but i guess in the 1940s you
-
-could do whatever you wanted
-
-i don't know he was tried for this but
-
-got off easy because he smooth talked
-
-his way out
-
-by claiming to be a young man in over
-
-his head
-
-true story he kind of went to court i
-
-think and then they were like fine
-
-haven't we all got one out of a lawsuit
-
-by just being charming
-
-i was just joshing oh yeah it was just
-
-\[ __ ] a pig you know it was just a
-
-school dare
-
-such a posh accent it's hilarious
-
-he did finally get in real trouble after
-
-selling stolen jewelry to a pawn broker
-
-and got sentenced to three years in a
-
-prison for
-
-juveniles yeah
-
-is that what it's called yeah yeah or as
-
-we like to call it now
-
-in the 21st century juvie yeah
-
-i think i saw it being written as bar
-
-stole
-
-or something like that postal not bar
-
-stool
-
-three years of sitting in the same bars
-
-what a punishment because bastards are
-
-not comfy
-
-oh \[ __ ] up your back a real kid yeah i'd
-
-i'd rather take juvie than
-
-basto he then joined the royal army
-
-service corps because he tried to get
-
-back into the
-
-royal air force they were like no
-
-he was like all right i'll guess i'll
-
-just be a normal
-
-military man then if i have to
-
-a normal military man
-
-in the beginning of world war ii but was
-
-attempted to be shipped home
-
-after less than a year due to stealing
-
-again during which he escaped the guard
-
-throwing a pig at him
-
-\[ __ ] this oh that's got quite a lot of
-
-holes hasn't it jimmy
-
-you occupy yourself with that while
-
-oneself just uh
-
-you know tootle's off down here terry
-
-bye bye
-
-okay he escaped the guard he fled to
-
-south africa
-
-where he pretended to be an aristocrat
-
-and joined the south african air force
-
-where he eventually was given the rank
-
-of captain
-
-captain captain
-
-they're all coming out today yeah during
-
-his time
-
-in the british army he was
-
-court-martialed two
-
-times which i already told you about but
-
-i would like to
-
-reiterate because the south african air
-
-force found out about that
-
-but didn't seem to have been that
-
-bothered about it
-
-at first as neville the giant third boat
-
-talked himself out of that predicament
-
-as well
-
-that wasn't his official title though
-
-was it the giant third boat
-
-i don't think that's a military rank
-
-cut on yeah but then he was
-
-court-martialed
-
-again because he was wearing medals that
-
-wasn't his
-
-and also because of undisciplined
-
-behavior
-
-which must have been bad i'm just gonna
-
-point out that it wasn't that he was
-
-wearing medals that weren't his
-
-he was wearing medals that weren't his
-
-rank
-
-oh yeah oh yeah i just thought i would
-
-simplify it
-
-he's a private in the military and he
-
-just stole jimmy's privates badge
-
-take that jimmy \[ __ ] you jimmy
-
-i'm the private now i'm the private now
-
-ah okay so he was deported from south
-
-africa
-
-after this he returned to war ravaged
-
-britain
-
-in 1946 here
-
-he attempted to rape a young woman who
-
-after being saved by
-
-hotel staff decided not to press charges
-
-as she was afraid of being publicly
-
-shamed
-
-because this was in the 1940s only three
-
-months later is when he murders marjorie
-
-a couple of days before the maid at the
-
-hotel
-
-had discovered the horrific crime scene
-
-neville had checked into the hotel with
-
-his
-
-fiancee in air quotes yvonne
-
-simmons the day after he brutally
-
-assaulted marjorie
-
-neville took a train to meet up with
-
-yvonne again
-
-yvonne had only known neville for a week
-
-and as the murder was all over the
-
-newspapers at the time
-
-neville came up with a story about being
-
-horrified
-
-by being at the same hotel as the crime
-
-had taken place
-
-he also wrote to the police as they had
-
-publicly
-
-announced wanting to speak with him as
-
-his
-
-name had been on the check-in sheet for
-
-the room
-
-i wrote in all caps because i wrote this
-
-whole
-
-thing in a not in a ridge but i would
-
-say in like a
-
-harry potter and the audacity
-
-of this \[ __ ] mode
-
-he wrote in the letter to the police
-
-that he had given his room key
-
-to marjorie and her male companion and
-
-man named jack
-
-even though neville and marjorie had
-
-been seen together the night before
-
-this didn't seem to make neville believe
-
-that he would be suspected
-
-because he was a giant douche canoe do
-
-you have any notes
-
-about the murder only what condition
-
-they found the body in
-
-very horrific i would say trigger
-
-warning
-
-so like you said the chambermaid found
-
-marjorie
+So like you said, the chambermaid found Margery
 
 she originally couldn't enter the room
 
