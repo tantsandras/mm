@@ -28,6 +28,10 @@ hashtags:
   - tag: blood type evidence
   - tag: The lady killer
   - tag: stupid murderers
+  - tag: premeditation
+  - tag: Psychopath murderers
+  - tag: Escalating criminal behavior
+  - tag: Scotland Yard
 ---
 <!--StartFragment-->
 
@@ -384,7 +388,7 @@ Yeah. And also, I'm guessing... This might be a yucky question, but I'm guessing
 
 I've got a degree in forensic science, I think any yucky question is probably gonna be fine.
 
-I'm guessing that the crossweave could be traced to the riding crop because of the lacerations? Like they could see the crossweave pattern? 
+I'm guessing that the crossweave could be traced to the riding crop because of the lacerations? Like, they could see the crossweave pattern? 
 
 Yeah. So an easier to imagine example of a boot print in mud. The tread will match the imprint in the mud and that's basically what they would have done with the riding crop, is match the pattern and the size. Because it's not a nine tails, if you know what that is? 
 
@@ -416,522 +420,166 @@ Yeah. I have a question, did they find the knife?
 
 Not as far as I'm aware. 
 
-Okay, okay. So I read that one of the reasons for why
+Okay, okay. So I read that one of the reasons for why he was convicted of murder and not like, deemed insane and stuff, was that they said that they could prove that he had pre-planned it. Because apparently, and this might not be true, but apparently he had taken his clothes off before murdering her and then washed off his hands and stuff in the sea, and then put his clothes back on. Did you read about that?
 
-he was convicted
+I didn't read anything about that, but there is a a level of premeditation in the fact that he had a knife in Doreen's murder. 
 
-of murder and not like deemed insane and
+Yeah, that's true, yeah. I think her stuff was also found like a beach hut or something, or some of her stuff, I don't remember the exact... 
 
-stuff
+I think it's interesting that there was probably more evidence to use in the case of him being sane and pre-meditating for Doreen's murder, and yet that wasn't the one he was tried for.
 
-was that they said that they could prove
+Yeah, yeah. That's true. Because I also read that, that he was actually hanged for Margery's murder. 
 
-that he had pre-planned it because
+Yeah. He was only tried for Margery's murder, so Doreen's murder didn't even make it to the court. 
 
-apparently and this might not be true
+Oh. Because it happened too quickly? He was shipped off to London after they found the things, like the riding crop and stuff.
 
-but apparently had
+Yeah, quite possibly. The whole court proceeding was very quick, it only took the jury an hour to come to the conclusion that he was guilty. So yeah, it was probably that enough evidence was available to prosecute him for Margery that they didn't even stall it long enough to convict for Doreen as well.
 
-taken his clothes off before murdering
+Yeah. 
 
-her
+Which is a bit sad really, for her family. But I guess if they were confident that it was him then he's gone now, so. 
 
-and then washed off like his hands and
+Yeah, that's true. I think that I also read that he said, he claimed... Because he did confess to Margery's murder, and said that he blacked out drunk and then woke up and had murdered her. I'm like: "100 percent not". That kind of abuse and assault doesn't happen if somebody's so drunk they can't remember, or stand up. Like it's...
 
-stuff in the sea
+Yeah. And that was that was exactly how it was counted in court as well, they just said: "that's complete nonsense". The amount of premeditation and planning, and forethought and awareness, to inflict this amount of damage to two bodies, or even one body at the time because they were only looking at Margery, there's no way that anybody could do this if they were blackout drunk. I think he was hoping that maybe eyewitnesses would corroborate that he was drunk, because eyewitnesses did come forward and say that Margery and Neville were well into their cups and was staggering back to the hotel. But I think the prosecution lawyers did a good enough job to convince the jury that just the sheer amount of malice that was inflicted on her body couldn't have been done by someone who wasn't in control of their faculties.
 
-and then put his clothes back on did you
+No. Definitely impossible. He could have also like, as you said, faked it to maybe lure Margery in and maybe get eyewitnesses to say that he was drunk. But yeah, I think he's full of shit.
 
-read about that
+Well, not anymore. He dead. 
 
-i didn't read anything about that but
+He dead. Yeah. So Neville Heath was found guilty, and was not deemed insane as the defense argued, as we said. The doctors, like the psychologist that had interviewed him in prison, found him to be a psychopath and a sexual sadist but not insane. Or like, in any kind of psychotic episode.
 
-there is a
+I don't know if you read this, but he managed to get a... Either psychiatrist or psychologist, I can't remember, to vouch for him in court and that was where the plead of insanity came from. He was like: "yeah, we can do that, no problem", and then all of the evidence that this expert shall we call him, provided was thrown out because they found he was a heroin addict.
 
-a level of premeditation in the fact
+What!? The doctor, or the psychiatrist? 
 
-that he had a knife
+The psychologist or the psychiatrist went to court and obviously defended Neville, to whatever extent a supposedly impartial expert witness could defend, and they were like: "oh yeah, that's interesting. Oh, that might be true. Hold on a minute, this guy's high off his tits". 
 
-in doreen's murder yeah that's true yeah
+Really!?
 
-i think her stuff was also found like a
+And then they got the two psychologists that evaluated Neville in prison, and they both offered contradictory: "no, this guy is completely sane. He knew exactly what he was doing, he's a complete psychopath". And that sort of swayed the jury's decision to go the other way. 
 
-big shot
+When he was impersonating an aristocrat in South Africa he did get married and had a child. I feel very bad for that child. I didn't include their names, because I feel like that child might still be alive... 
 
-or something or some of her stuff i
+Because they haven't got a daddy? Or because 50% of their genes is a psychopath? 
 
-don't remember
+Because fifty percent of their genes is a psychopath. \[Laughter] I know that's not how genes work, but I still feel... 
 
-the exactly i think it's interesting
+That's exactly how genes work, that child is gonna grow up half a psychopath. You better hope his mother was a saint. \[Laughter]
 
-that there was probably more
+That was sarcasm. 
 
-more evidence to use in the case of him
+No it wasn't. 
 
-being sane and pre-meditating
+Well psychopathy, they can't prove that that's... 
 
-for doreen's murder and yet that wasn't
+It's genetic. I've tracked the gene myself, it's genetic.
 
-the one he was tried for
+No. 
 
-yeah yeah that's true because i also
+It's the PSY 1 gene.
 
-read that
+No. Are you...
 
-that he was actually hanged for
+No. I'm bullshitting, obviously.
 
-marjorie's murder yeah
+I was like: "what the fuck is this, and how haven't I heard about this". \[Laughter]
 
-he was only tried for marjorie's murder
+Did you not hear the part where I said: "I've sequenced the gene myself"? You know, with all the genome sequencing kit that I've got in my bathroom. \[Laughter]
 
-so doreen's murder didn't
+I had a full on, like.... 
 
-even make it to the core oh because
+Questioning everything you thought was true. "Do stars really stay where they are in the daytime?!".
 
-it happened too quickly he was shipped
+I was like: "what is this?!". That's funny. Yeah. He was sentenced to hang, as we said, and was executed on the 16th of October 1946. The 20-furth. 
 
-off to london
+The 20-furth. Not again. 
 
-after they found the things like the
+Yeah. That's our case! Bam, whacked it out. We did good, time wise. 
 
-riding crop and stuff
+Done and done.
 
-yeah quite possibly the whole court
+What are you gonna do now? Sleep, no? 
 
-proceeding was very quick it only took
+Try and sleep, because I've gotta get up at disgusting o'clock tomorrow.
 
-the jury an
+Oh. That's true, yeah. I'm gonna probably watch a bit of Iron Man. I'm watching... 
 
-hour to come to the conclusion that he
+Iron Man? Not Iron Man. \[Laughter]
 
-was guilty
+He does a smashing job with the shirts.
 
-so yeah it was probably the enough
+Tally-ho, what what. Let me just light up my pipe.
 
-evidence was available to prosecute him
+Oh. It was funny, Susanne said that in the beginning... Because everything...
 
-for
+In the beginning, there was only God. Then God said: "let there be light!", and lo, there was light. Genesis, chapter one. \[Laughter]
 
-marjorie yeah yeah that they didn't even
+She has all the answers, that girl. 
 
-stall it
+Is Genesis even the first book in the Bible?
 
-long enough to convict for doreen as
+Yeah. 
 
-well
+Yes! 
 
-yeah which is a bit sad really for a
+Do you want to know how many stories of the earth creation there are in Genesis? More than one. 
 
-family yeah
+Whaaaat?
 
-but i guess if they were confident that
+Yeah, true. So Susanne said that she... Because all studies at uni in Sweden are done remote, she started off going to her seminars with... 
 
-it was him then
+No clothes on. 
 
-he's gone now so yeah that's true i
+"In the beginning there was only flesh". \[Laughter] She started going with a shirt on, and like a sweater over it because it's winter in Sweden so very cold, and then pajama bottoms obviously. Because, you know. Now she's just in her pajamas. I thought that was excellent. 
 
-think
+Sounds like the best way to study.
 
-that i also read that he said he claimed
+Oh ja, oh ja. I've given up on clothes.
 
-because he did confess to marjorie's
+I was going to say: "I don't remember the last time I wore trousers", but I do, it was Wednesday when I had to visit a customer. Otherwise, sweatpants. 
 
-murder and said that he
+Sweatpants. Joggers, as you say here. 
 
-blacked out drunk and then woke up and
+Yes.
 
-had murdered her i'm like 100 percent
+Ja. 
 
-not that kind of abuse and like
+Yes. 
 
-assault doesn't happen if somebody's so
+I'm in my sweater, I'm wearing joggers. I don't even remember what a bra is. Boob prison, that's what it is. Burn the bra.
 
-drunk they can't remember or stand up
+Boob prison.
 
-like it's
+I think that's the best meme of 2020, it's like: "free the titty, protect the city", and there's like a cross over the bra and a mask.
 
-yeah and that was that was exactly how
+Okay. I'm gonna have a great time with Iron Man. \[Sings Iron Man, by Black Sabbath] I should be a recording artist, I know.
 
-it was counted
+I'd buy that tune.
 
-in court as well they just said that's
+Yeah. I made it up all by myself. 
 
-complete nonsense
+I'm not sure you did.
 
-the amount of premeditation and planning
+Even you know that much about pop culture. \[Laughter] Can't bamboozle you. I'm just gonna call myself a famous poet name, and then you're going to think that I'm an accomplished writer.
 
-and forethought and awareness
+As long as you take one of the letters out, I'd have no reason to suspect you.
 
-to inflict this amount of damage to two
+No, that's true. Okay. Thank you so much for listening to Midweek Murders, we'll see you next week. Bye bye! Do you want to say bye, or are you just going to be obstinate? 
 
-bodies
+That one.
 
-or even one body at the time because
+Fuck you, Jimmy! Your medal is mine.
 
-they were only looking at margaery
+I couldn't have put it better myself.
 
-there's no way that anybody could do
+A Lieutenant-Colonel.
 
-this if they were blackout drunk
+Left-tenant. 
 
-yeah i think he was hoping that maybe
-
-eyewitnesses would corroborate
-
-that he was drunk because eyewitnesses
-
-did come forward and say
-
-that margaery and neville were well into
-
-their cups
-
-and was staggering back to the hotel but
-
-i think the prosecution lawyers did a
-
-good enough job to convince the jury
-
-that just the sheer amount of malice
-
-yeah that was inflicted on her body
-
-couldn't have been done by someone who
-
-wasn't in control of their faculties
-
-no definitely impossible he could have
-
-also like as you said
-
-faked it to maybe lure marjorie and
-
-and maybe get eyewitnesses to say that
-
-he was drunk
-
-but yeah i think he's full of \[ __ ]
-
-well not anymore he died he did
-
-yeah so neville he was found guilty
-
-and was not deemed insane as the defense
-
-argued as we said
-
-the doctors like the psychologist
-
-that had interviewed him in prison found
-
-him to be a psychopath
-
-and a sexual siddist but not insane
-
-or like in any kind of psychotic episode
-
-i don't know if he read this but he
-
-managed to get
-
-a either psychiatrist or psychologist i
-
-can't remember
-
-to vouch for him in court and that was
-
-where the plead of
-
-insanity came from he was like yeah we
-
-can do that
-
-no problem and then all of the evidence
-
-that this
-
-expert shall we call him provided
-
-was thrown out because they found he was
-
-a heroin addict
-
-what the doctor or the psychiatrist the
-
-psychologist or the psychiatrist
-
-went to court and obviously defended
-
-neville
-
-to whatever extent a supposedly
-
-impartial
-
-expert witness could defend and they
-
-were like oh
-
-yeah that's interesting oh that might be
-
-true hold on a minute this guy's
-
-high off his tits really and then they
-
-got
-
-the two psychologists that evaluated
-
-neville in prison yeah and they both
-
-offered contradictory no this guy is
-
-completely sane
-
-he knew exactly what he was doing his
-
-complete psychopath
-
-and that sort of swayed the jury's
-
-decision
-
-to go the other way when he was
-
-impersonating an aristocrat
-
-in south africa he did get married and
-
-had a child
-
-i feel very bad for that child i didn't
-
-include their names because i feel like
-
-that child because they haven't got a
-
-daddy or because
-
-50 of their genes are psychopath because
-
-fifty percent
-
-i know that's not how genes work but i
-
-still feel that's exactly how
-
-genes work that child is gonna grow up
-
-half a psychopath you better hope his
-
-mother was a saint
-
-that was sarcastic no it wasn't well
-
-psychopathy they can't prove that that's
-
-it's genetic i've tracked the gene
-
-myself it's genetic
-
-no it's the psy one gene
-
-no are you no i'm bullshitting obviously
-
-like what the \[ __ ] is
-
-did you not hear the part where i said
-
-i've sequenced the gene
-
-myself
-
-you know with all the genome sequencing
-
-kit that i've got in my bathroom
-
-i had a full on like questioning
-
-everything you thought was true
-
-do stars really stay where they are in
-
-the daytime
-
-i was like what is this
-
-that's funny yeah he was sentenced to
-
-hang as we said
-
-and was executed on the 16th of october
-
-1946 the 25th the 25th
-
-not again first
-
-yeah that's our case bam whacked it out
-
-we did good time wise done and done
-
-what are you gonna do now sleep no try
-
-and sleep because i've gotta get up at
-
-disgusting o'clock tomorrow
-
-oh that's true yeah i'm gonna probably
-
-watch a bit of iron ma'am
-
-i'm watching iron man
-
-not iron man
-
-smashing job with the shirts
-
-ellie hey what what let me just light up
-
-my pipe
-
-oh it was funny suzanne said that
-
-in the beginning because everything
-
-every in the beginning
-
-that was only god
-
-then god said let there be light and lo
-
-there was light genesis chapter one
-
-she has all the answers that girl is
-
-genesis even the first book in the bible
-
-yeah yes do you want to know how many
-
-stories of the earth creations there are
-
-in genesis
-
-more than one what
-
-true so since then said that she
-
-because all studies at uni
-
-in sweden are done remote she started
-
-off going to her seminars
-
-with uh clothes on
-
-in the beginning there was only flesh
-
-she started going with a shirt on and
-
-like a sweater over it because it's
-
-winter in sweden so very cold
-
-and then pajama bottoms obviously
-
-because
-
-you know now she's just in her pajamas
-
-i thought that was excellent sounds like
-
-the best way to study
-
-oh yeah oh yeah i've given up on clothes
-
-i was going to say i don't remember the
-
-last time i wore trousers but i do it
-
-was wednesday when i had to visit a
-
-customer
-
-otherwise sweatpants sweatpants
-
-joggers as you say here yes
-
-yeah yes i'm in my sweater i'm wearing
-
-joggers i don't even remember what a bra
-
-is
-
-food prison that's what it is
-
-i think that's the best meme of 2020
-
-it's like free the titty protect the
-
-city
-
-and there's like cross over the bra and
-
-a mask
-
-okay i'm gonna have a great time with
-
-iron man
+Left-tenant. Right, right. Tally-ho, what what. Bye-bye.
 
 \[Music]
-
-i should be a recording artist i know
-
-that tune
-
-yeah i made it up all by myself i'm not
-
-sure you did
-
-even you know that much about pogba
-
-\[Laughter]
-
-can't bamboozle you i'm just gonna call
-
-myself
-
-a famous poet name and then you're going
-
-to think that i'm an accomplished writer
-
-as long as you take one of the letters
-
-out i'd have no reason to suspect you
-
-no that's true okay thank you so much
-
-for listening
-
-to midweek murders we'll see you next
-
-week
-
-bye bye do you want to say bye or
-
-just going to be obstinate that one \[ __ ]
-
-you
-
-timmy your mother is mad
-
-i wouldn't have put it better myself
-
-ellie tennant colonel
-
-left-handed left-handed right right
-
-hello
-
-what bye-bye
 
 <!--EndFragment-->
