@@ -364,393 +364,59 @@ No.
 
 That is not a good look. 
 
-no and the
+No. And in the other photos he looks not at all handsome, I don't know. 
 
-other
+He looks... Okay, you carry on. I'm gonna google a picture and send it to you, of what he reminds me of. 
 
-photos he looks not at all handsome
+And the photo will be up on the website, if it's not a celebrity because then probably not. Yeah. So Neville asked to get his jacket from the hotel and detective inspector George Gates went to the hotel to fetch it, as he was suspicious about Neville, probably because he looked like the photo of Neville Heath. In the jacket they found a pearl from Doreen's necklace, as well as her return train ticket. They also found a cloakroom ticket, and went to the train station to check what else Neville might have stored. And there they hit the proverbial jackpot in a suitcase with bloodstained items, the blood coming from Margery, and items with tags clearly spelling out the name Heath. They also recovered from this suitcase a riding crop with the same cross weave as the one used on Margery. And this is where I have the question for you, because they said that the bloodstained items could be linked to Margery, how did they link that in the 1940s? 
 
-i don't it looks okay you carry on i'm
+So they would have detected what blood type the blood spatter was, whether it was A, O, A positive, AB, whatever all of the options are, and then would have compared that to Margery's blood type. Before DNA fingerprinting came in, which was Colin Pitchfork which we've already discussed way, way back, blood typing was the only way to get a match as it were. So it's not really a match because obviously it could be anyone of the same blood type. But given the extenuating circumstances, which was also the riding crop, it proved enough in the 40s to lead to the conviction. 
 
-gonna google a picture and send it to
+Yeah. I don't know why I was surprised.
 
-you
+It's really, really simple to determine blood type. You can do it at home with the right kit.
 
-of what it reminds me of and the photo
+Yeah. And I also realized that obviously during the war, they obviously knew what blood types the soldiers were and could do blood transfusions and shit. I didn't even remember that. I don't know, it just seems so far back but it wasn't. 
 
-will be up on the website
+It was 80 years ago now. But I think because science moves so quickly in our generation, it can sometimes be hard to track back to what stage they were at in history. Because really, that kind of thing... And fingerprinting, and DNA fingerprinting, and genome sequencing has only really come through in the last 20-30 years. So when you go all the way back to 80, their science seems quite primitive but it could have been cutting edge at the time. 
 
-if it's not a celebrity because then
+Yeah. And also, I'm guessing... This might be a yucky question, but I'm guessing the cross...
 
-probably not
+I've got a degree in forensic science, I think any yucky question is probably gonna be fine.
 
-yeah so neville asked to get his jacket
+I'm guessing that the crossweave could be traced to the riding crop because of the lacerations? Like they could see the crossweave pattern? 
 
-from the hotel
+Yeah. So an easier to imagine example of a boot print in mud. The tread will match the imprint in the mud and that's basically what they would have done with the riding crop, is match the pattern and the size. Because it's not a nine tails, if you know what that is? 
 
-and detective inspector george gates
+Yeah. 
 
-went to the hotel to fetch it as he was
+Yeah. So you wouldn't have had multiple threads like, cross contaminating I think is probably the best way to describe it. So if you strike with the nine tails, some of those tails could overlap and then wipe out the pattern. But because with a riding crop each strike has to be individual, unless he's hitting over the same place, which he wasn't because they counted 17 hits. It would have been manageable to cross-reference the pattern that was left on Margery with the riding crop, which is why the coroner was so sure: "if you find the crop, you find the culprit". 
 
-suspicious about
+Yeah, yeah. So Neville's gig was up, and he was taken to London to stand trial for the murder of Margery Gardner. The police in Bournemouth realized that Doreen Marshall had likely been murdered by the same man, because he was at the police station talking to them about Doreen Marshall. The day after, Doreen's badly mutilated body was found by a woman walking her dog. And that is like, she found a suspicious swarm of flies by a rhododendron bush, and then she went home and fetched her dad and was like: "okay, there might be a body or something here. We should check it out". Which, I would say, that woman - very astute. 
 
-neville probably because he looked like
+Well, a lot of murder victims are found by dog walkers.
 
-the photo of neville his
+Yeah, yeah. But also, in the 1940s, she was like: "a swarm of flies!? Could be something suspicious!". 
 
-in the jacket they found a pearl from
+"A swarm of flies, in the middle of summer, unheard of! Papa! Papa! One has found something suspicious!".
 
-doreen's necklace
+"You must come down to the rhododendron!".
 
-as well as her return train ticket they
+"Gather my girdle and meet me at the rhododendrons!".
 
-also found a cloakroom ticket
+Yeah. Okay, so on a very awful note, you had some things about the body. 
 
-and went to the train station to check
+Yes. So like you said, they found Doreen in the rhododendrons. She had clear defense wounds on her hands, so she was conscious and fighting when she was abducted. Again, the clothing was removed, much like they found Margery. And the body showed that there was a clear blow to the head. Her wrists and ankles were bound, so the same MO as Margery again, and one of her nipples was bitten off. So he went a bit further than he went with Margery.
 
-what
+Escalating behavior, yeah. 
 
-else neville might have stored and there
+Yeah. And again, an instrument, which one source said was a tree branch but unconfirmed by other sources, had been inserted into her vagina and anus. The cause of death this time was two slashes, or cuts, to her throat. So if he severed her carotid then hopefully she'd have died quite quickly and painlessly. So a different method of murder, but similar enough between Margery and Doreen for the police to be comfortable I'd say, rather than confident, that it was probably the same person.
 
-they hit the proverbial jackpot in a
+Yeah. I have a question, did they find the knife?
 
-suitcase
+Not as far as I'm aware. 
 
-with bloodstained items the blood coming
-
-from marjory
-
-and items with tags clearly spelling out
-
-the name his
-
-they also recovered from the suitcase
-
-the riding crop
-
-with the same cross weave as the one
-
-used on marjorie
-
-and this is where i have the question
-
-for you
-
-because they said that the bloodstained
-
-items could be linked to margaery
-
-how did they link that in the 1940s so
-
-they would have detected
-
-what blood type the blood spatter was
-
-whether it was
-
-a o a positive a b
-
-whatever all of the options are and then
-
-would have compared that
-
-to margaery's blood type before dna
-
-fingerprinting came in which was
-
-colin pitchfork which we've already
-
-discussed
-
-way way back blood typing was the only
-
-way to get
-
-a match as it were so it's not really a
-
-match because obviously it could be
-
-anyone of the same blood type but given
-
-the
-
-extenuating circumstances which was also
-
-the riding crop yeah it proved enough in
-
-the 40s to
-
-lead to the conviction yeah i don't know
-
-why i was surprised
-
-it's really really simple to determine
-
-blood type
-
-you can do it at home with the right kit
-
-yeah and i also
-
-realized that obviously during the war i
-
-obviously knew
-
-what blood types the soldiers were and
-
-could like do blood transfusions and
-
-\[ __ ]
-
-i didn't even remember that i don't know
-
-it just seems like so
-
-far back but it wasn't it was 80 years
-
-ago now
-
-but i think because science moves so
-
-quickly in our generation
-
-it can sometimes be hard to track back
-
-to what stage
-
-they were at in history because really
-
-that kind of thing and fingerprinting
-
-and dna
-
-fingerprinting and genome sequencing has
-
-only really
-
-come through in the last 20 30 years
-
-so when you go all the way back to 80
-
-their science seems quite primitive
-
-but it could have been cutting edge at
-
-the time yeah and also i'm guessing
-
-this might be a yucky question but i'm
-
-guessing the crush
-
-i've got a degree in forensic science i
-
-think any yucky question is
-
-probably gonna be fine
-
-i'm guessing that the crossweave could
-
-be
-
-like traced to the riding crop because
-
-of the lacerations
-
-like they could see the crossfield
-
-pattern yeah so
-
-an easier to imagine example of a boot
-
-print
-
-in mud yeah the tread will match the
-
-imprint
-
-in the mud and that's basically what
-
-they would have done with the riding
-
-crop
-
-is match the pattern and the size
-
-because it's not a nine tails
-
-if you know what that is yeah yeah so
-
-you wouldn't have had multiple threads
-
-like
-
-cross contaminating i think is probably
-
-the best way to describe it so if you
-
-strike with the nine tails
-
-yeah some of those tails could overlap
-
-and then wipe out the pattern but
-
-because with a riding crop
-
-each strike has to be individual unless
-
-he's hitting over the same
-
-place yeah which he wasn't because they
-
-counted
-
-17 hits it would have been manageable
-
-to cross-reference the pattern that was
-
-left on marjorie with the riding crop
-
-which is why the coroner was so sure if
-
-you find the crop you find
-
-the culprit yeah yeah so neville's gig
-
-was up
-
-and he was taken to london
-
-to stand trial for the murder of
-
-marjorie gardner
-
-the police in bournemouth realized that
-
-doreen marshall had likely been murdered
-
-by the same man
-
-because he was at the police station
-
-talking to them
-
-about dorian marshall the day after
-
-dorian's badly mutilated body was found
-
-by a woman
-
-walking her dog and that is like she
-
-found
-
-a suspicious swarm of flies by a
-
-rhododendron
-
-bush and then she went home and fetched
-
-her dad
-
-and was like okay there might be a body
-
-or something here
-
-we should check it out which i would say
-
-that woman very astute well a lot of
-
-murder victims are found by dog walkers
-
-yeah yeah but also in the 1940s she was
-
-like a swarm of flies
-
-i could be something suspicious like
-
-swarm of flies in the middle of summer
-
-you must come down to the rhododendron
-
-gather my girdle and meet me at the
-
-rhododendrons
-
-yeah okay so on a very awful note
-
-you had some things about the body yes
-
-so like you said they found doreen in
-
-the road engines
-
-she had clear defense wounds
-
-on her hands so she was
-
-conscious and fighting when she was
-
-abducted again the clothing was removed
-
-much like they found margaery and
-
-the body showed that there was a clear
-
-blow to the head
-
-her wrists and ankles were bound so the
-
-same
-
-ammo as marjorie again and one of her
-
-nipples was bitten
-
-off so he went a bit further than he
-
-went with margaery
-
-escalating behavior yeah yeah and again
-
-an instrument which one source said
-
-was a tree branch but unconfirmed
-
-by other sources had been inserted
-
-into her vagina and anus the cause of
-
-death
-
-this time was two slashes or cuts to her
-
-throat
-
-so if he severed her carotid
-
-then hopefully she'd have died quite
-
-quickly and painlessly
-
-so a different method of murder
-
-but similar enough between marjorie and
-
-doreen
-
-for the police to be comfortable i'd say
-
-rather than confident
-
-that it was probably the same person
-
-yeah i have a question did they find the
-
-knife
-
-not as far as i'm aware okay okay so
-
-i read that one of the reasons for why
+Okay, okay. So I read that one of the reasons for why
 
 he was convicted
 
