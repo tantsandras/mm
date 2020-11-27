@@ -165,9 +165,9 @@ const Icon = styled.a`
 `
 
 const EpisodeCard = ({ slug, number, date, month, serial, title, description }) => {
-  const [index] = useState(() => Math.floor(Math.random() * 10))
+  const [index] = useState(() => Math.floor(Math.random() * 11))
 
-  const imagesArray = ["https://midweekmurders.netlify.app/imgUploads/14.png", "https://midweekmurders.netlify.app/imgUploads/15.png", "https://midweekmurders.netlify.app/imgUploads/16.png", "https://midweekmurders.netlify.app/imgUploads/17.png", "https://midweekmurders.netlify.app/imgUploads/18.png", "https://midweekmurders.netlify.app/imgUploads/19.png", "https://midweekmurders.netlify.app/imgUploads/20.png", "https://midweekmurders.netlify.app/imgUploads/21.png", "https://midweekmurders.netlify.app/imgUploads/22.png", "https://midweekmurders.netlify.app/imgUploads/23.png", "https://midweekmurders.netlify.app/imgUploads/24.png"];
+  const imagesArray = ["https://midweekmurders.netlify.app/imgUploads/14.png", "https://midweekmurders.netlify.app/imgUploads/15.png", "https://midweekmurders.netlify.app/imgUploads/16.png", "https://midweekmurders.netlify.app/imgUploads/17.png", "https://midweekmurders.netlify.app/imgUploads/18.png", "https://midweekmurders.netlify.app/imgUploads/19.png", "https://midweekmurders.netlify.app/imgUploads/20.png", "https://midweekmurders.netlify.app/imgUploads/21.png", "https://midweekmurders.netlify.app/imgUploads/22.png", "https://midweekmurders.netlify.app/imgUploads/23.png", "https://midweekmurders.netlify.app/imgUploads/24.png", "https://midweekmurders.netlify.app/imgUploads/25.png"];
 
   const image = imagesArray[index];
 
