@@ -173,1167 +173,173 @@ Sorry, sorry. I wrote this myself, I didn't see the humor in it at the time. The
 
 Yeah. One of the sources that I read said that the taxi driver was struggling to understand the instructions of where he wanted to go.
 
-Yeah. So Georgi concluded that the man must have accidentally prodded him with the umbrella he had picked up from the street, as if he had recently dropped it. Georgi carried on with his day and recalled the umbrella incident to a colleague after noticing a small red spot, like an insect bite with a swollen red circle around it, on the back of his thigh. And then later on to his wife when he returned home. So that evening, Georgi fell ill with a high fever and was hospitalized the next morning.
+Yeah. So Georgi concluded that the man must have accidentally prodded him with the umbrella he had picked up from the street, as if he had recently dropped it. Georgi carried on with his day and recalled the umbrella incident to a colleague after noticing a small red spot, like an insect bite with a swollen red circle around it, on the back of his thigh. And then later on to his wife when he returned home. So that evening, Georgi fell ill with a high fever and was hospitalized the next morning. Some people talked about it as if he was vomiting a lot, did you read anything about that? 
 
-some people talked about it as if he was
+I didn't think he started vomiting until he was in hospital. 
 
-vomiting
+Okay, okay. He told the medical staff about the umbrella incident, insisting that he had been poisoned by the KGB with a toxic dart, as he had been warned about there being a plot to assassinate him a couple of months earlier. But the medical staff at the hospital was unconvinced by this. And I don't know if it was because they just didn't think that that would happen, or if it was something about his symptoms, but I'm guessing it just seemed implausible because, you know, KGB. 
 
-a lot did you read anything about that i
+I think they originally diagnosed him with septicemia, which is blood poisoning. And so I think, being a combination of quite an outlandish claim really, when you think about it, as well as a clinical picture that matches almost perfectly with septicemia, they were probably reluctant to accept that theory. 
 
-didn't think he started vomiting until
+So even though they say that the medical staff was unconvinced, Dr Bernard Riley who examined him at St James's hospital had phoned the Scotland Yard about his patient, and the Scotland Yard launched an investigation into it. Dr Riley stated to the BBC that he thought that it couldn't be cyanide since that would have killed Georgi quicker than the four days it took for him to succumb to his symptoms in the hospital. He said that he ruled out thallium or arsenic, as it would have taken longer for the symptoms to set in.
 
-he was
+Both cyanide and arsenic present very specific side effects. When you overdose on cyanide, or if you get poisoned with cyanide, you turn blue in a condition called cyanosis. Which is also where the ink cartridge color... That's why they're all: "cyan", "cyanide", because they're all related to blue. I think arsenic does something strange to your fingernails, I think it affects your keratin production, so there are very obvious clinical signs for both cyanide and arsenic poisoning. 
 
-in hospital okay okay he told the
+Yeah. The doctor concluded that it must have been a toxin. And then at home, in a strange coincidence, his wife who had just read an Agatha Christie book suggested that it might be ricin because that was the poison used in the book. So at the autopsy they removed a small part of the tissue surrounding the swollen spot on his thigh, and found a small circular metal pellet with holes in it, in the tissue. And when I say small, it was like super small.
 
-medical staff
+1.53 millimeters in diameter.
 
-about the umbrella incident insisting
+Yeah, that's extremely small. 
 
-that he had been poisoned by the kgb
+Yes, they're very small.
 
-with a toxic
+So the autopsy findings were surprisingly similar to an incident in Paris that happened only 10 days prior, where another Bulgarian exile named Vladimir Kostov had come down with a high fever and been hospitalized. In this case it was a failed assassination attempt, as Kostov survived. They did retrieve the same kind of small circular pellet embedded in his back. So the theories about how he survived, or why he survived, varies. But I picked out some that I thought were most plausible. It might have been a combination of Kostov being shot from a further distance away than Markov, as well as him having worn a very thick sweater on the day, and a lucky coincidence of the outer layer of the coating of the pellet failing to fully dissolve.
 
-dart as he had been warned about there
+It was in his back, wasn't it? 
 
-being a plot
+Yeah, it was in his back.
 
-to assassinate him a couple of months
+Obviously, because that's where your spinal cord runs, there's a lot more bone protection there than there is in the thigh. So it's a lot harder to get that pellet to the same depth than it would be for a meaty area like the thigh. So it was never going to be as deep, which, you don't even need to accommodate for the fact that he was shot further away. 
 
-earlier
+Okay. 
 
-but the medical staff at the hospital
+It could be exactly the same distance, but because the location on the body was different it wouldn't have penetrated as far. It was mentioned in a couple of the sources that I read, that they all agreed he was wearing either a thick jumper or a thick jersey, I think one of them said. Which obviously would have slowed the impact, whereas Georgi was wearing jeans which is just one layer. Although they couldn't prove, with Georgi, that there was a covering on the pellet, it has been implied that there was one. Which did, obviously, fully dissolve. Because they couldn't trace it. If the other one didn't, then he would have received a lower dose of the poison as well. 
 
-was
+Yeah. Here, maybe we should talk about ricin.
 
-unconvinced by this and i don't know if
+I think we should probably talk about the autopsy first.
 
-it was
+Yes. Hit me with your rhythm stick, I'm ready. 
 
-because they just didn't think that that
+Hit me! So as you said, they found the spherical metal pellet embedded in his thigh meat.
 
-would happen
+Wow. \[Laughter]
 
-or if it was something about his
+They obviously cut that out, but they also took an identical tissue sample from his other leg in order to be able to compare what, in air quotes, would be normal compared to what was causing the problem. 
 
-symptoms
+The swelling, yeah.
 
-but i'm guessing it just seemed
+Yeah. The pathologist that was looking at it, the tissue sample got sent away so the second pathologist that looked at it, could see it visually in the sample tissue. 
 
-implausible because you know
+The pellet?
 
-kgb i think they originally
+Yep. And assumed that it was a marker that the first pathologist had put in the tissue to indicate where to look, or what to examine microscopically. And he said that the whole case was incredibly lucky, because if he had popped that out and it had rolled off the table onto the floor, they wouldn't have been able to examine it because it probably would have been lost, it was so small. But he managed to extract it, and they did look at it. Obviously they measured it 1.53 millimeters, and it had two holes that had been drilled into it and the holes were 0.34 millimeters wide. 
 
-diagnosed him with septicemia which is
+Oh god, that is so tiny. 
 
-blood poisoning
+Absolutely minuscule. 
 
-and so i think being a combination of
+Can they even see that in a microscope? Was it an electron microscope?
 
-quite an
+No, just a visual microscope. It's millimeters not nanometers. \[Laughter]
 
-outlandish claim yeah really when you
+Here I go again with my science.
 
-think about it
+But the fact that there were two identical holes of exactly the same dimensions showed the pathologist that this wasn't a natural defect, in the pellet. So it could have been like a ball bearing that you have in BMX's, or any kind of wheel basically, but they knew that it wasn't and it was manufactured this way because these holes were so perfect, really. The original pathologist saw that Georgi had lungs full of fluid, which indicated heart failure. His liver was damaged severely, which would indicate blood poisoning which coincides with the septicemia that the doctors diagnosed him with. However, they also found that the intestines, the lymph nodes, the heart, testicles, pancreas, and the lymph glands in his groin, all had small hemorrhages in them. So they were bleeding out internally.
 
-as well as a clinical picture that
+That would indicate that this tiny, tiny, tiny amount of ricin that they think was in the pellet must have been incredibly poisonous, no? 
 
-matches almost perfectly
+Well, I'll get onto that a little bit later.
 
-with septicemia they were probably
+I have another question, sorry if I'm interrupting you. The cause of death was cardiac arrest, no? 
 
-reluctant to accept
+I think they originally labeled it as cardiac arrest.
 
-that theory so even though they say
+Okay. 
 
-that the medical staff was unconvinced
+But then, once they dug a bit further, I think they amended it. But we could talk about that a bit later as well.
 
-dr bernard
+Okay. 
 
-reilly who examined him at st james's
+So he had a couple of ECG's while he was still alive, obviously, you can't do an ECG when someone's passed away. 
 
-hospital
+What is an ECG?
 
-had phoned the scotland yard about his
+A test that measures the electrical voltages in your heart.
 
-patient
+Oh, okay. 
 
-and the scotland yard launched an
+During the autopsy they found that his atria had actually stopped pumping. So the heart is divided into four pumps, essentially. You've got two pumps at the top which are called the atria, and two bigger pumps at the bottom which are called the ventricles. The atria pump the oxygenated blood from the lungs into the ventricles, and the ventricles pump it everywhere else to the body. So they found that his atria had stopped pumping completely, which means that he's not getting any oxygenated blood supply to the rest of his body, because there's nothing to supply it into the ventricles for it to be pumped out. So heart failure was probably the initial cause of death, based on that finding. While he was still alive they took multiple blood tests, obviously, and also found that he had a white cell count of 33 200. The normal range is between 4 and 11 000. 
 
-investigation into it
+Okay.
 
-dr riley stated to the bbc that he
+So white cell count increases when you've got some kind of infection in your body. The white blood cells are used to fight off the infection. And at the time of drawing these bloods, and when the whole incident occurred, they thought that this was a record high level of white cell count in his blood. So they were absolutely astonished to find that it was that high. 
 
-thought that it couldn't be cyanide
+So that means they've never seen that before? 
 
-since
+I don't think the doctors at the time would have seen it before. I did try and find the world record for highest white cell count, and these days it goes up into the hundreds of thousands. So that is all I have for the autopsy.
 
-that would have killed gyorgy quicker
+Okay. The question that I have now is, what do they know about ricin poisonings? Do they know anything about how ricin affects bodies, or can't they tell because they can't study it because it doesn't happen? That's a bad question, what I'm trying to get at is... 
 
-than the four days it took for him to
+I got the question. \[Laughter] So at the time of when this happened, there were a couple of places that were looking at developing ricin based chemical weapons. So there were a couple of institutes, I think there was one in Norway, obviously the Russians did a lot, I think the Americans did some research, and there was a research institute in Great Britain, that were all looking at the viability of ricin as a biological weapon. So there were a couple of places that were looking at it. But like you said, because it's so toxic there's no real in vitro studies, so studies in the human body, that they could look at to compare it. Now the pathologist that was... I don't know if he conducted the autopsy, but he was definitely there, gave a wonderful explanation of the thought process behind how they came to the conclusion of ricin. And they basically thought of any kind of toxicity, or bacteria, or fungus, or nerve agent, that could cause death and ruled them out based on clinical symptoms. So they ruled out all nerve agents, because a lot of them will cause paralysis or convulsions, and they act super quick. So because Georgi didn't present with any of those symptoms, they knew it wasn't a nerve agent. They knew it wasn't anything viral, because either his death was too quick or too slow, I think it was probably too quick. And again, a lot of his clinical symptoms didn't fit. They ruled out everything bacterial, again through clinical symptoms and because of time frame, bacterial cause of death is a lot slower. And they also took cultures from his blood, and they all came back negative for everything that they tested them for, so they knew it was nothing bacterial or microbial. And then that sort of left them with toxins, and so they went through the list of known toxins. And it's worth pointing out at this stage, that ricin was always a contender. It wasn't one of the last on the list that they were like: "well, we've ruled everything else out, it must be ricin", it was always at the top of their list because it matched all of the clinical symptoms and time frame. But because there's no test for ricin, in terms of a blood test or anything like that, there is now but there wasn't at the time, they had to rule out everything else. I think there was only one other contender that it could have been by the time they'd gone through everything. So they'd got down to toxins, and it was either between ricin or something else. And again, they ruled out that something else because it didn't fit the clinical picture. So once they'd sort of ruled out everything else, they were quite sure that it was ricin. And this bit disturbed me a little bit, so vegans - turn off now. They got a lab pig... 
 
-succumb to his symptoms in the hospital
+I heard about that as well! 
 
-he said that he ruled out thalium or
+And injected the pig in a similar location, so back of the right thigh, with a dose of ricin and monitored the pig for the same clinical symptoms and speed of death. So the pig died in 26 hours after being injected, showed all of the same clinical symptoms as Georgi did, apart from vomiting.
 
-arsenic
+Yeah. 
 
-as it would have taken longer for the
+So the pig didn't vomit, but they did note that it had gone off its food, so it wasn't eating. I don't know the ins and outs of pig emetic system, whether it's even possible for them to vomit, some animals can't vomit, whether they have the same internal mechanism that would stimulate vomiting, whether it's a built-in response that if they are feeling nauseous they just don't eat so there's nothing for them to vomit up, can't comment. Not a pig farmer. But when...
 
-symptoms to set in
+We haven't forgotten, Cammy! \[Laughter]
 
-both cyanide and arsenic present very
+Pig fucker. When they did the autopsy on the pig, they found exactly the same internal hemorrhaging, build up of fluid, heart failure, that they found in Georgi. So they were quite convinced that it was ricin. They did note that the pig had died a lot sooner than Georgi did, I think he died four days... 
 
-specific side effects when you overdose
+Yeah, four days.
 
-on cyanide or if you get poisoned with
+...after he was shot. So the pig lasted just over a day. But also, we can take into consideration that the dosage they would have given the pig of ricin, would have been a lot higher. Because at that stage they didn't know the dosage that Georgi had been administered. So I think that can pretty much cover why the pig died faster. And the fact that all of the clinical symptoms remain the same, and all of the autopsy findings remain the same, lends pretty conclusively to show that it was ricin
 
-cyanide you turn blue
+Yeah. 
 
-in a condition called cyanosis which is
+Now I mentioned earlier that the ricin theory is interesting; because there is no test, or was no test for ricin, they couldn't detect it in his bloodstream, they couldn't find it on the pellet, it still has to go down as a theoretical cause of death. 
 
-also where the
+Yeah.
 
-ink cartridge color that's why they're
+They can't say for sure that this is what caused it, even if they're 99% sure that this is what caused it, because they have no scientific evidence to show 100% they found this in his body and therefore that was what killed him.
 
-all
+Yeah. And I feel bad about the doctor that I mentioned, Bernard Riley, who was interviewed. Because he was like: "I always wanted to be a forensic pathologist", and then when this happened and he treated Markov, after everything, he did come to the conclusion that actually, he wanted more than anything else to be able to save people's lives. Instead of just looking at the autopsy and trying to find out what killed them. 
 
-cyan cyanide because they're all related
+In the doctor's defense, a lot of people might be thinking: "well, if his wife had identified it as ricin"... 
 
-to blue
+Yeah. 
 
-i think arsenic does something strange
+I mean, obviously you're not just going to be like: "oh, you read that in a fictional whodunit story? Well, it must be ricin". If he had some clinical inkling that it was ricin poisoning, I feel that it's important to point out at this stage that there is no cure for ricin poisoning. Because it was basically injected, it was intravenous through his tissue straight into his bloodstream, all of your typical poisoning treatments wouldn't have worked. So one of the most common ones is activated charcoal, which sits in the stomach and absorbs the poison before it can be absorbed into the bloodstream. Now, because he didn't have any in his stomach, that wouldn't have worked. Ricin can't be removed by dialysis, so they couldn't have filtered his blood artificially to get rid of it, that wouldn't have worked. So all they can really do is administer fluids and certain drugs that could have kept his heart in rhythm, and helped his kidneys, or his liver, and things like that. Given the degree of internal hemorrhaging that they found in the autopsy, I don't think there was anything that the medical team could have done to save him. 
 
-to your fingernails
+Yeah, but for me it was impressive that the doctor even concluded that it was a toxin. And also impressive of Agatha Christie to even think up that story. 
 
-i think it affects your keratin
+I'm pretty sure she's done this a couple of times. Whether it be in her stories, she's thought this up and then someone has done it, or whether a medical professional has read that story and successfully treated someone. I'm sure that this is not the first time that Agatha Christie has been... Or one of her stories rather, has been involved in a medical case.
 
-production so
+That is quite impressive. She's quite an impressive lady.
 
-there are very obvious clinical signs
+Yeah. I'm almost certain that it was a doctor, or a nurse, some kind of medical professional, that had read an Agatha Christie story and identified the exact same symptoms of one of the murders in the Agatha Christie novel, and saved the patient because of that.
 
-for both cyanide
+That is quite cool.
 
-and arsenic poisoning yeah the doctor
+The amount of research that she'd have had to go into, and at the time of her writing, that's like, so many trips to the library. \[Laughter]
 
-concluded
+Yeah, definitely. If you don't get the jokes, they're all references to our previous episodes. Because we're not that creative to come up with new jokes.
 
-that it must have been a toxin and then
+Behave, I just like to pick something funny and stick with it. \[Laughter]
 
-at home
+Okay, so... 
 
-in a strange coincidence his wife who
+This is for you forest dwellers that listen to every episode. \[Laughter]
 
-had just read
+That's for you, Susanne! Forest dwellers. So according to... 
 
-an agotha christie book suggested
+Should we talk about ricin? Or do you want to do that in a bit? 
 
-that it might be ricin because that was
+Oh! I thought we did that? 
 
-the poison used in the book
+No. That was autopsy, babe. \[Laughter]
 
-so at the autopsy they removed a small
+Oh, okay. Let's talk about ricin. 
 
-part of the tissue
+Okay. So ricin is produced within the seeds of the castor oil plant. 
 
-surrounding the swollen spot on his
+Oh, wait! Castor oil is a skin care product! Amongst other things. 
 
-thigh
-
-and found a small circular metal
-
-pellet with holes in it in the tissue
-
-and when i say small it was like super
-
-small
-
-1.53 millimeters in diameter
-
-yeah that's extremely yes they're very
-
-small
-
-so the autopsy findings were
-
-surprisingly
-
-similar to an incident in paris that
-
-happened
-
-only 10 days prior where another
-
-bulgarian exile named vladimir kostov
-
-had come down with a high fever and been
-
-hospitalized
-
-in this case it was a failed
-
-assassination attempt
-
-as kostov survived they did retrieve
-
-the same kind of small circular pellet
-
-embedded in his back so the series about
-
-how he survived or why he survived
-
-varies
-
-but i picked out some that i thought
-
-were most
-
-plausible it might have been a
-
-combination of
-
-cost of being shot from a further
-
-distance away
-
-than markov as well as him
-
-having worn a very thick sweater on the
-
-day
-
-and the lucky coincidence of the outer
-
-layer of the coating
-
-of the pellet failing to fully dissolve
-
-it was in his back wasn't it yeah it was
-
-in his back
-
-obviously because that's where your
-
-spinal cord runs there's a lot
-
-more bone protection there than there is
-
-in the thigh
-
-so it's a lot harder to get that pellet
-
-to the same
-
-depth yeah than it would be for a meaty
-
-area like the thigh so it was never
-
-going to be as deep
-
-which you don't even need to accommodate
-
-for the fact that he
-
-was shot further away okay it could be
-
-exactly the same distance but because
-
-the location on the body was different
-
-it wouldn't have penetrated as far it
-
-was mentioned in a couple of the sources
-
-that i read that
-
-they all agreed he was wearing uh either
-
-a thick jumper
-
-or a thick jersey i think one of them
-
-said
-
-which obviously would have slowed the
-
-impact whereas
-
-gyorgy was wearing jeans yeah which is
-
-just
-
-one layer although they couldn't prove
-
-with gergie that there was a covering on
-
-the pellet
-
-it has been implied that there was one
-
-which did obviously fully dissolve
-
-because they couldn't trace it
-
-if the other one didn't then he would
-
-have received a lower dose of
-
-the poison as well yeah here maybe
-
-we should talk about horizon i
-
-think we should probably talk about the
-
-autopsy first
-
-yes hit me with your rhythm stick
-
-i'm ready hit me so
-
-as you said they found the spherical
-
-metal pellet embedded in his thigh meat
-
-wow
-
-they obviously cut that out but they
-
-also took an identical
-
-tissue sample from his other leg in
-
-order to be able to compare
-
-what in air quotes would be normal
-
-compared to
-
-what was causing the problem well yeah
-
-yeah the pathologist
-
-that was looking at it the tissue sample
-
-that got sent away
-
-to the second pathologist that looked at
-
-it could see it
-
-visually in the sample tissue the pellet
-
-yep and assumed that it was
-
-a marker that the first pathologist had
-
-put in the tissue
-
-to indicate where to look or what to
-
-examine microscopically
-
-and he said that the whole case was
-
-incredibly lucky
-
-because if he had popped that out and it
-
-has rolled off the table
-
-onto the floor they wouldn't have been
-
-able to examine it because
-
-it probably would have been lost it was
-
-so small but he managed to extract it
-
-and they did look at it
-
-obviously they measured it 1.53
-
-millimeters
-
-and it had two holes that had been
-
-drilled into it
-
-and the holes were 0.34
-
-millimeters wide oh god that is
-
-so absolutely minuscule can they even
-
-see that in a microscope was it an
-
-electron microscope
-
-no just a visual microscope it's
-
-millimeters not nanometers
-
-here i go again with my science
-
-but the fact that there were two
-
-identical
-
-holes of exactly the same dimensions
-
-showed the pathologist that this wasn't
-
-a natural defect
-
-in the pellet so it could have been like
-
-a ball bearing that you have
-
-in bmx's or any kind of
-
-wheel basically but they knew that it
-
-wasn't
-
-and it was manufactured this way because
-
-these
-
-holes were so perfect really
-
-the original pathologist saw that
-
-gyorgy had lungs full of fluid which
-
-indicated heart failure
-
-his liver was damaged severely
-
-which would indicate blood poisoning
-
-which coincides with the septicemia that
-
-the doctors diagnosed him with
-
-however they also found that the
-
-intestines
-
-the lymph nodes the heart testicles
-
-pancreas and the lymph glands in his
-
-groin
-
-all had small hemorrhages in them
-
-so they were bleeding out internally
-
-that
-
-would indicate that this tiny tiny tiny
-
-amount
-
-of ricin that they think was in the
-
-pellet would have been incredibly
-
-poisonous
-
-no well i'll get onto that a little bit
-
-later
-
-i have another question sorry if i'm
-
-interrupting you
-
-the cause of death was cardiac arrest
-
-no i think they originally labeled it as
-
-cardiac arrest
-
-okay but then once they dug a bit
-
-further
-
-i think they amended it but we could
-
-talk about that a bit later as well
-
-okay so he had a couple of
-
-ecgs while he was still alive
-
-obviously he can't do an ecg when
-
-someone's passed away what is an ecg
-
-a test that measures the electrical
-
-voltages in your heart
-
-oh okay during the autopsy they found
-
-that his atria had actually stopped
-
-pumping so the heart is divided into
-
-four pumps
-
-essentially you've got two pumps at the
-
-top which are called the atria
-
-and two bigger pumps at the bottom which
-
-are called the ventricles
-
-the atria pump the oxygenated blood
-
-from the lungs into the ventricles and
-
-the ventricles pump it
-
-everywhere else to the body so they
-
-found that his atria had stopped
-
-pumping completely which means that he's
-
-not getting
-
-any oxygenated blood supply to the rest
-
-of his body
-
-because there's nothing to supply it
-
-into the ventricles for it to be pumped
-
-out
-
-so heart failure was probably the
-
-initial cause of death based on that
-
-finding while
-
-he was still alive they took
-
-multiple blood tests obviously and also
-
-found
-
-that he had a white cell count of 33
-
-200. the normal range is between
-
-4 and 11 000 okay
-
-so white cell count increases when
-
-you've got
-
-some kind of infection in your body the
-
-white blood cells are used to
-
-fight off the infection and at the time
-
-of drawing these bloods and when the
-
-whole incident occurred
-
-they thought that this was a record
-
-high level of white cell count in his
-
-blood
-
-so they were absolutely astonished to
-
-find that it was
-
-that high so that means they've never
-
-seen that before i don't think the
-
-doctors at the time would have seen it
-
-before
-
-i did try and find the world record
-
-for highest white cell count and these
-
-days it goes up into the hundreds of
-
-thousands
-
-so that is all i have for the autopsy
-
-okay the question that i have now is
-
-what do they know
-
-about rising poisonings
-
-do they know anything about how rising
-
-affects bodies or can't they tell
-
-because they can't
-
-study it because it doesn't happen
-
-that's a bad
-
-question what i'm trying to get at is i
-
-got the question
-
-okay so at the time
-
-of when this happened there were a
-
-couple of places
-
-that were looking at developing
-
-ricin based chemical weapons
-
-so there were a couple of institutes i
-
-think there was one in
-
-norway obviously the russians did a lot
-
-i think the americans did some research
-
-and there was
-
-a research institute in great britain
-
-that were all
-
-looking at the viability of ricin
-
-as a biological weapon so there were a
-
-couple of places that were looking at it
-
-but like you said because it's so
-
-toxic there's no real in vitro studies
-
-so
-
-studies in the human body that they
-
-could look at
-
-to compare it now the pathologist
-
-that was i don't know if he conducted
-
-the autopsy but he was definitely there
-
-gave a wonderful explanation of the
-
-thought process
-
-behind how they came to the conclusion
-
-of ricin
-
-and they basically thought of
-
-any kind of toxicity or bacteria or
-
-fungus
-
-or nerve agent that could cause
-
-death and ruled them out
-
-based on clinical symptoms so they ruled
-
-out
-
-all nerve agents because a lot of them
-
-will cause
-
-paralysis or convulsions and they
-
-act super quick so because gyorgy didn't
-
-present with
-
-any of those symptoms they knew it
-
-wasn't a nerve agent
-
-they knew it wasn't anything viral
-
-because either his death was too
-
-quick or too slow i think it was
-
-probably too quick
-
-and again a lot of his clinical symptoms
-
-didn't fit they ruled out everything
-
-bacterial
-
-again through clinical symptoms and
-
-because of time frame
-
-bacterial cause of death is a lot slower
-
-and
-
-they also took cultures from his blood
-
-and they all came back negative for
-
-everything that they tested them for so
-
-they knew it was nothing bacterial
-
-or microbial and then that sort of left
-
-them with
-
-toxins and so they went through the list
-
-of
-
-known toxins and it's worth pointing out
-
-at this stage that
-
-ricin was always a contender
-
-it wasn't one of the last on the list
-
-that they were like well we've ruled
-
-everything else out it must be ricin
-
-it was always at the top of their list
-
-because it matched all of the clinical
-
-symptoms and time frame
-
-but because there's no test for rice in
-
-in terms of
-
-a blood test or anything like that there
-
-is now
-
-but there wasn't at the time they had to
-
-rule out
-
-everything else i think there was only
-
-one
-
-other contender that it could have been
-
-by the time they'd gone through
-
-everything so they'd got down to toxins
-
-and it was either between
-
-ricin or something else and again they
-
-ruled out that something else because it
-
-didn't fit the clinical picture
-
-so once they'd sort of ruled out
-
-everything else
-
-they were quite sure that it was ricin
-
-and this bit disturbed me a little bit
-
-so vegans
-
-turn off now they got a lab
-
-pig i heard about that as well and
-
-injected the pig in a similar location
-
-so back of the right thigh with a dose
-
-of ricin
-
-and monitored the pig for the same
-
-clinical symptoms
-
-and speed of death so the pig died
-
-in 26 hours after being injected
-
-showed all of the same clinical symptoms
-
-as gyorgy did apart from vomiting
-
-yeah so the pig didn't vomit
-
-but they did note that it had gone off
-
-its food so it wasn't eating
-
-i don't know the ins and outs
-
-of pig emetic system
-
-whether it's even possible for them to
-
-vomit some animals can't vomit
-
-whether they have the same internal
-
-mechanism that would stimulate vomiting
-
-whether it's a built-in response that if
-
-they are feeling nauseous they just
-
-don't eat so there's nothing for them to
-
-vomit up
-
-can't comment not a pig farmer but when
-
-we haven't forgotten cammy
-
-pig \[ __ ] when
-
-they did the autopsy on the pig they
-
-found exactly the same
-
-internal hemorrhaging okay build up a
-
-fluid
-
-heart failure that they found in gyorgy
-
-so they were quite convinced that it was
-
-ricin
-
-they did note that the pig had died
-
-a lot sooner than gyorgy did i think
-
-he died four days yeah four days
-
-after he was shot so the pig lasted just
-
-over a day but also we can take into
-
-consideration that the dosage
-
-they would have given the pig of ricin
-
-would have been
-
-a lot higher because at that stage they
-
-didn't know
-
-the dosage that gyorgy had been
-
-administered
-
-so i think that can pretty much cover
-
-why the pig died faster
-
-and the fact that all of the clinical
-
-symptoms remain the same
-
-and all of the autopsy findings remain
-
-the same lens
-
-pretty conclusively to show there was
-
-ricin
-
-yeah now i mentioned earlier that the
-
-rice in theory is interesting
-
-because there is no test or was no test
-
-for ricin
-
-they couldn't detect it in his
-
-bloodstream they couldn't
-
-find it on the pellet it still has to go
-
-down
-
-as a theoretical cause of death yeah
-
-they can't
-
-say for sure that this is what caused it
-
-even if they're 99 sure that this is
-
-what caused it
-
-because they have no scientific evidence
-
-to show 100 they found this in his body
-
-and therefore that was what killed him
-
-yeah and i feel bad about the doctor
-
-that i mentioned
-
-bernard riley who was interviewed
-
-because he was like
-
-i always wanted to be a forensic
-
-pathologist and then when this happened
-
-and he treated markov
-
-after everything he did come to the
-
-conclusion that
-
-actually he wanted more than anything
-
-else
-
-to be able to save people's lives
-
-instead of just
-
-looking at the autopsy and trying to
-
-find out what
-
-killed them in the doctor's defense
-
-a lot of people might be thinking well
-
-if his wife
-
-had identified it as ricin yeah i mean
-
-obviously you're not just going to be
-
-like oh
-
-you read that in a fictional whodunit
-
-story well it must be ricin
-
-if he had some clinical inkling that it
-
-was rice in poisoning
-
-i feel that it's important to point out
-
-at this stage
-
-that there is no cure for ricin
-
-poisoning
-
-because it was basically injected it was
-
-intravenous
-
-through his tissue straight into his
-
-bloodstream all of your typical
-
-poisoning treatments wouldn't have
-
-worked
-
-so one of the most common ones is
-
-activated charcoal
-
-which sits in the stomach and absorbs
-
-the poison before it can be
-
-absorbed into the bloodstream now
-
-because he didn't have any in his
-
-stomach that wouldn't have worked
-
-ricin can't be removed by dialysis
-
-so they couldn't have filtered his blood
-
-artificially to get rid of it that
-
-wouldn't have worked
-
-so all they can really do is administer
-
-fluids
-
-and certain drugs that could have kept
-
-his heart in rhythm
-
-and helped his kidneys or his liver and
-
-things like that
-
-given the degree of internal
-
-hemorrhaging that they found
-
-in the autopsy i don't think there was
-
-anything that the medical team could
-
-have done
-
-to save him yeah but for me it was
-
-impressive that the doctor even
-
-concluded that it was a toxin and also
-
-impressive of agatha christie to even
-
-think up that story i'm pretty sure
-
-she's done this a couple of times
-
-whether it be in her stories she's
-
-thought this up and then someone has
-
-done it
-
-or whether a medical professional
-
-has read that story and successfully
-
-treated someone
-
-i'm sure that this is not the first time
-
-that agatha christie has been
-
-or one of her stories rather has been
-
-involved in a medical case
-
-that is quite impressive she's quite an
-
-oppressive lady
-
-yeah i'm almost certain that it was a
-
-doctor
-
-or a nurse some kind of medical
-
-professional
-
-that had read an agatha christie story
-
-and identified the exact same symptoms
-
-of one of the murders in the agatha
-
-christie novel
-
-and saved the patient because of that
-
-that is quite cool
-
-the amount of research that she'd have
-
-had to go into
-
-yeah and at the time of her writing
-
-that's like
-
-so many trips to the library
-
-yeah definitely if you don't get
-
-the jokes they're all references to our
-
-previous episodes
-
-because we're not that creative to come
-
-up with new jokes
-
-yeah if i just like to pick something
-
-funny and stick with it
-
-okay so this is for you forest dwellers
-
-that listen to every episode
-
-that's for you suzanne
-
-forest dwellers so according should we
-
-talk about ricin
-
-or do you want to do that in a bit oh i
-
-thought we did that no that was autopsy
-
-babe
-
-oh okay
-
-let's talk about ricin okay so
-
-ricin is produced within the seeds
-
-of the castor oil plant oh wait
-
-castor oil is a skin care product
-
-amongst other things yeah it has a
+yeah it has a
 
 multitude of different uses
 
