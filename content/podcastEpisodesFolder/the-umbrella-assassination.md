@@ -40,8 +40,6 @@ This week, we discuss the assassination of Georgi Markov, shot in the leg with a
 
 <!--EndFragment-->
 
-
-
 Joe got his information from:
 
 * [Ricin and the Assassination of Georgi Markov](https://www.researchgate.net/publication/23781130_Ricin_and_the_Assassination_of_Georgi_Markov), by Apostolos Stergioulas
@@ -49,8 +47,6 @@ Joe got his information from:
 * [Georgi Markov - Death in a Pellet](http://elbdisliker.at.ua/Jedy/Georgi_Markov-Death_in_a_Pellet.pdf), transcription from meeting at the Royal Society of Medicine
 * [Ricin poisoning and forensic toxicology](https://pdfs.semanticscholar.org/b093/2c94493513f41a577b6bba8ade2b30af19c2.pdf), by Frank Musshoff and Burkhard Madea
 * Both Sandra and Joe got information from [Wikipedia](https://en.wikipedia.org/wiki/Georgi_Markov) 
-
-
 
 Sandra got her information from:
 
@@ -61,413 +57,123 @@ Sandra got her information from:
 * [The History Herald](https://thehistoryherald.com/articles/european-history/cold-war-history/finding-francesco-gullino-aka-agent-piccadilly/), by Richard H Cummings
 * The photo of Georgi Markov can be found [here](https://www.theguardian.com/world/2018/mar/06/poisoned-umbrellas-and-polonium-russian-linked-uk-deaths), in The Guardian
 
-
-
 #### Audio transcript
 
 Midweek Murders contains graphic and explicit content, listener discretion is advised.
 
-I had some seaweed at some fancy-ass Australian brunch spot in London, when those things were still allowed. 
+I had some seaweed at some fancy-ass Australian brunch spot in London, when those things were still allowed. The fancy-ass Australian brunch spots, no I'm just kidding. 
 
-the fanciest is really a brunchbox no
+Sounds real fancy. "G'day mate! For your starter today we've got something that some jobby just picked up off the beach. Enjoy that, you fucking cunt." \[Laughter]
 
-i'm just sounds uh
+Incredible. I didn't know you could do Australian. 
 
-real fancy g'day mate for your starter
+Everyone can do Australian.
 
-today
+I can't. Well, maybe I can. No. 
 
-we've got something that some jobby just
+Well that's an invitaion right there. Abort, abort!
 
-picked up off the beach
+\[Music]
 
-enjoy that you \[ \_\_ ] \[ \_\_ ]
 
-incredible i didn't know you could do
 
-australian everyone can do australian
+Okay. It is Wednesday, which means...
 
-okay
+Do you not want to wait until I finish my burp? I'm like full-on belching and you're like: "la la la la la, podcast la la la". 
 
-abort
+I had too much steam, I just plowed on. 
 
-so
+More heat, less foam.
 
-okay it is wednesday which means
+It's Wednesday, which means that it's time to talk about crime. You're listening to Midweek Murders and I'm your host Sandra. 
 
-do you not want to wait until i finish
+And I'm your co-host Joe. That will never cease being my least favorite part of this podcast. Me having to introduce myself. 
 
-my burp
+I can introduce you and you can introduce me. 
 
-like full-on belching and you're like
+Then we'll confuse our listeners.
 
-podcast i had too much steam
+They will be like: "who's this dark testosterone voice? Must be Sandra". 
 
-i just i just plowed on more heat less
+"Sandra was the guy?!" 
 
-foam
+Sandra was the guy all along, we all knew it. I have the biggest dick.
 
-it's wednesday which means that it's
+Pew pew. 
 
-time to talk about crime
+That's the sound my dick makes when it clonks against the toilet when I sit down to pee. Wow. 
 
-you're listening to midweek murders and
+Poseidon's kiss. That's when it splashes back up after you've pooped and you get a little bit of bog water in your bum hole. 
 
-i'm your host
+Oh yeah, I've heard about that. I don't do that, because I always put down a splash pad. 
 
-sandra and i'm your co-host joe that
+Yeah, me too.
 
-will
+Got to keep it safe. Be safe out there, kids!
 
-never cease being my least favorite part
+I mean, your splash pad is more like a splash parachute given how often you clog the toilet.
 
-of this podcast
+I have some explosive shits, man. I don't know what to tell you.
 
-me having to introduce myself i can
+Gotta make sure, okay?!
 
-introduce you
+I'm a lady!
 
-and you can introduce me and we'll
+I'm delicate! Apart from one's shitting their innards out. The queen shits, you know. It's nothing abnormal.
 
-confuse our listeners
+You could make the case that my shits are abnormal
 
-it will be like just this dark disgester
+So are the Queen's probably, she's quite old now. 
 
-own voice
+True.
 
-must be sandra sandra was the guy
+Doubt she gets enough fiber in that diet of poor people and prawns to be able to form a solid stool. 
 
-son was the guy all along we all knew it
+Poor people and prawns! \[Laughter]
 
-i have the biggest dick
+If you're listening Lizzy, please don't write to us. We're not interested.
 
-pew pew that's the sound my dick makes
+Sometimes you are funny, man.
 
-when it
+Queen Elizabeth II will not be writing to you.
 
-clunks against the toilet when i sit
+Speaking of which, this week we have a very special fan pick. Picked especially by our loyal Russian bots. Here we go! \[Laughter]
 
-down to pee
+This one is for you. Please do not write, we are not interested. Unless it is for review or comment, then please leave good review.
 
-wow poseidon's kiss
+Yeah. And also, I should probably say, it was not picked by our Russian bot fans. But we do appreciate you bumping our numbers up. Okay. This week we're going to talk about the murder of Georgi Markov. I got my information from wikipedia, BBC News, About Forensics by J. Emsley, a Guardian article from 1978 by David Pallister, The View East by Dr Kelly Hignett and The History Herald by Richard H. Cummings. He knows the comings and goings of history. 
 
-wow that's when it splashes back up
+Oh god. \[Laughter] 
 
-after you've pooped and
+Sorry, I couldn't help myself. 
 
-you get a little bit of bog water in
+Yeah, you guessed it listeners, this is gonna be a long one. I got my sources from a couple of journal articles, a transcription in a meeting that was held between a leading scientist at the time and one of the pathologists who performed the autopsy. Ooh! And Wikipedia. 
 
-your bun hole oh yeah i've heard about
+Yeah, always there, Wiki-wiki-wah. So Georgi Markov was a 49 year old man who had defected from the People's Republic of Bulgaria in 1968, where he had worked as a novelist and a playwright. And he wasn't like, just a normal failed author, he was very famous in Bulgaria. After his relationship with the Bulgarian regime soured, he was sentenced in absentia for defecting. He relocated to England, where he started working for the BBC World Service. And other things, so there was a radio thing... Oh shit, I'm on the wrong Wikipedia page. Radio Free Europe, I think it was in Munich, actually.
 
-that i don't do that because i
+That's where it's hosted, but it's a free broadcast across all of Europe.
 
-i always put down a splash pad yeah me
+That was broadcasted also in the Eastern block. So this was during the Cold War, and he used this platform to, among other things, criticise the communist party that ruled in Bulgaria and the communist party leader Todor Zhivkov. He got married in England to Annabel Dilke who, I must say, looks a lot like Rachel Weisz. So I was like, lucky man. 
 
-too
+Good job, Georgi.
 
-go keep it safe be safe out there kids
+Yeah. The couple also had a daughter. On the 7th of september 1978, Georgi parked his car underneath Waterloo Bridge, as he did... 
 
-i mean your splash pad is more like a
+He parked in the Thames?! \[Laughter]
 
-splash parachute given how often you
+It's not funny. Okay. As he did every morning on his way to work. Near the bridge was a bus stahp. "Near the bridge was a bus stahp!". 
 
-clog the toilet
+A bus stahp?
 
-i have some explosive shits man i don't
+Near the bridge was a bus stop, where he went to catch a bus that would take him to his office. At the bus stop, he suddenly felt a sharp prick on the back of his... \[Laughter]
 
-gotta make sure okay
+Doesn't mean penis. 
 
-i'm a lady
+Sorry, sorry. I wrote this myself, I didn't see the humor in it at the time. There, he suddenly felt a sharp prick on the back of his right thigh and turned around to see what could have brought it on. What he saw was a heavyset man with an accent, that was briskly walking away and hailed a taxi on the other side of the street. Some sources say that he could tell that the man had an accent because he mumbled an apology, and some sources say that he noticed the accent because of the way he was talking with the taxi driver.
 
-i'm delicate apart from one's \[ __ ]
+Yeah. One of the sources that I read said that the taxi driver was struggling to understand the instructions of where he wanted to go.
 
-there in it's out
-
-the queen shits you know it's nothing
-
-abnormal
-
-you could make the case that my \[ __ ] are
-
-abnormal
-
-so with the queens probably she's quite
-
-old now true
-
-now she gets enough fiber in that diet
-
-of poor people and prawns
-
-to be able to form a solid stool poor
-
-people in prawns
-
-if you're listening lizzy please don't
-
-write to us
-
-we're not interested
-
-sometimes you are funny man
-
-queen elizabeth ii will not be writing
-
-to you
-
-speaking of which this week we have
-
-a very special fan pick picked
-
-especially by our loyal
-
-russian bots here we go
-
-this one is for you please do not
-
-write we are not interested unless it is
-
-for review or comment then please
-
-leave good review
-
-yeah and also i should probably say it
-
-was not picked by our russian book fans
-
-but we do appreciate you bumping our
-
-numbers up
-
-okay this week we're going to talk about
-
-the murder
-
-of georgie markov i got my information
-
-from
-
-wikipedia bbc news about forensics
-
-by j emsley a guardian article
-
-from 1978 by david pallaster
-
-the view east by dr kelly hignit
-
-and the history herald by richard
-
-h cummings he knows the comings and
-
-goings
-
-sorry i couldn't help myself yeah you
-
-guessed it listeners this is gonna be a
-
-long one
-
-i got my sources from a couple of
-
-journal articles
-
-a transcription in a meeting that was
-
-held
-
-between a leading scientist at the time
-
-and
-
-one of the pathologists who performed
-
-the autopsy
-
-oh ooh and wikipedia yeah
-
-always there wiki so gyorgy malkov
-
-was a 49 year old man who had defected
-
-from
-
-the people's republic of bulgaria in
-
-1968
-
-where he had worked as a novelist and a
-
-playwright
-
-and he wasn't like just a normal failed
-
-author
-
-he was very famous in bulgaria after his
-
-relationship with the bulgarian regime
-
-soured he was sentenced in absentia
-
-for defecting he relocated to england
-
-where he started working for the bbc
-
-world service and other things
-
-so there was a radio thing oh \[ __ ] i'm
-
-on the wrong wikipedia page
-
-radio free europe i think it was in
-
-munich actually
-
-that's where it's hosted but it's uh
-
-free broadcast across all of europe
-
-that was broadcasted also in the eastern
-
-bloc
-
-so this was during the cold war and he
-
-used this platform too
-
-among other things criticized the
-
-communist party that ruled in bulgaria
-
-and the communist party leader tudor
-
-zhivkov he got married in
-
-england to annabelle dilk who
-
-i must say looks a lot like rachel weiss
-
-so i was like lucky man good job georgie
-
-yeah the couple also had a daughter
-
-on the 7th of september 1978
-
-gyorgy parked his car underneath
-
-waterloo bridge
-
-as he did talked in the thames
-
-it's so funny okay
-
-as he did every morning on his way to
-
-work
-
-near the bridge was above bus stop
-
-the bridge was a bus stop a fuss stop
-
-near the bridge was a bus stop where he
-
-went to catch a bus
-
-that would take him to his office at the
-
-bus stop
-
-he suddenly felt a sharp prick on the
-
-back of it
-
-doesn't mean penis sorry
-
-sorry i wrote this myself i didn't see
-
-the humor in it
-
-at the time there he suddenly felt the
-
-sharp
-
-prick on the back of his right thigh and
-
-turned around to see what could have
-
-brought it on
-
-what he saw was a heavyset man with an
-
-accent
-
-that was briskly walking away and hailed
-
-the taxi
-
-on the other side of the street some
-
-sources say
-
-he could tell that the man had an accent
-
-because he
-
-mumbled an apology and some sources say
-
-that he
-
-noticed the accent because of the way he
-
-was talking with the taxi driver
-
-yeah one of the sources that i read said
-
-that the taxi driver was struggling to
-
-understand
-
-the instructions of where he wanted to
-
-go
-
-yeah so gyorgy concluded that the man
-
-must have
-
-accidentally prodded him with the
-
-umbrella
-
-he had picked up from the street as if
-
-he had recently dropped it
-
-georgie carried on with his day and
-
-recalled the umbrella
-
-incident to a colleague after noticing a
-
-small red spot
-
-like an insect bite with like a swollen
-
-red
-
-circle around it on the back of his
-
-thigh
-
-and then later on to his wife when he
-
-returned home
-
-so that evening gyorgy fell
-
-ill with a high fever and was
-
-hospitalized the next morning
+Yeah. So Georgi concluded that the man must have accidentally prodded him with the umbrella he had picked up from the street, as if he had recently dropped it. Georgi carried on with his day and recalled the umbrella incident to a colleague after noticing a small red spot, like an insect bite with a swollen red circle around it, on the back of his thigh. And then later on to his wife when he returned home. So that evening, Georgi fell ill with a high fever and was hospitalized the next morning.
 
 some people talked about it as if he was
 
