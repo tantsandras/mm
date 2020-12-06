@@ -11,8 +11,6 @@ month: August
 images:
   - image: /imgUploads/alexanderlitvinenkohospital.jpg
     alt: Alexander Litvinenko in the hospital.
-  - image: /imgUploads/3000.webp
-    alt: Police cars outside The Millenium hotel.
 hashtags:
   - tag: true crime podcast uk
   - tag: Alexander Litvinenko
@@ -33,20 +31,14 @@ The poisoning of Alexander Litvinenko, the man who solved his own murder, is the
 
 * [](https://en.wikipedia.org/wiki/File:AlexanderLitvinenkoHospital.jpg)[Photo of Alexander](https://en.wikipedia.org/wiki/File:AlexanderLitvinenkoHospital.jpg) from wikipedia 
 * [Article](https://www.theguardian.com/world/2016/jan/19/alexander-litvinenko-the-man-who-solved-his-own-murder) in The Guardian 
-* [Police cars outside the hotel](https://www.theguardian.com/world/2016/jan/19/alexander-litvinenko-the-man-who-solved-his-own-murder#img-5), taken by Alessia Pierdomenico/Reuter
 
   Joe got his information from: 
 * An Independent [article](https://www.independent.co.uk/news/uk/home-news/alexander-litvinenko-government-refuses-calls-for-public-inquiry-into-death-8705570.html) written by Terri Judd
 * The Litvinenko [inquiry](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/493860/The-Litvinenko-Inquiry-H-C-695-web.pdf), found [here](https://www.gov.uk/government/publications/the-litvinenko-inquiry-report-into-the-death-of-alexander-litvinenko)
 
-
-
 #### Audio transcript
 
-
-
-Midweek Murders contains graphic and explicit content,
-listener discretion is advised.
+Midweek Murders contains graphic and explicit content, listener discretion is advised.
 You know a funny thing that happened? You
 gave
 birth to a live turtle. That would have
@@ -70,8 +62,7 @@ Watford football team. Okay, fuck you.
 hashtag too soon. Too soon.
 \[Music] 
 
-The worst part of this is that
-I'm gonna ask her for your birthday. But
+The worst part of this is that I'm gonna ask her for your birthday. But
 you would rather I forget. The worst part
 of that is you don't remember when my
 birthday is.
@@ -87,27 +78,23 @@ remember my
 own birthday. Okay no,
 that's not okay. Is it the fourth of September? Not
 even fucking close mate.
-\[Laughter] I believe you. Oh it's hilarious.
-How long have we known each other now?
+\[Laughter] I believe you. Oh it's hilarious. How long have we known each other now?
 I don't know that either man. Bet you
 don't celebrate our fucking friend-iversary.
 I don't use facebook.
 Do you know how long we've been friends?
 I know when your fucking birthday is
 though.
-\[Laughter] When is it? The 9th of march. Well that
-just
+\[Laughter] When is it? The 9th of march. Well that just
 shut me up didn't it. Yeah, suck a dick
 bitch.
-\[Laughter] I mean you're right, I don't want any
-undue attention
+\[Laughter] I mean you're right, I don't want any undue attention
 or focus brought to it, but you know you
 could at least still
 fucking remember. You could at least
 remember the day
 that you're meant to forget.
-\[Laughter] I'm sorry, I know it's in september
-somewhere.
+\[Laughter] I'm sorry, I know it's in september somewhere.
 It's very, very easy to remember.
 It's the day after 9 11.
 So is it the 10th? Oh good lord.
@@ -120,8 +107,7 @@ talking in dolphin pitch.
 Oh god, I can't breathe. I almost peed
 myself.
 I realized it's the 12th
-\[Laughter] which kind of speaks to the
-whole "I can't remember any kind of
+\[Laughter] which kind of speaks to the whole "I can't remember any kind of
 date or month" thing that i didn't
 realize
 that 9 11 was written the other way
@@ -132,8 +118,7 @@ way around.
 Yeah, like the rest of the world.
 Yeah, that was
 hilarious but also painful.
-\[Laughter] Also, I know what day of the week I was
-born on.
+\[Laughter] Also, I know what day of the week I was born on.
 Just a fun fact for you, because the day
 after was friday the 13th.
 Oh yeah! You say "oh yeah" like you knew
@@ -150,9 +135,7 @@ into the world and just hate it? They didn't
 know I would come into the world as
 demon spawn.
 
-
-Oh god I almost died.
-Unlike Alexander Litvinenko
+Oh god I almost died. Unlike Alexander Litvinenko
 who did. You're listening to midweek
 murders,
 prepare for a bumpy ride.
@@ -191,8 +174,7 @@ simple math you know you don't know
 me you don't don't even know where
 when my birthday is you don't even know
 where i was
-\[Laughter] I had to re-like sit and everything
-to not pee myself because I realized.
+\[Laughter] I had to re-like sit and everything to not pee myself because I realized.
 I had to practice my pelvic floor
 exercises.
 I haven't done that since i was pregnant
@@ -205,9 +187,7 @@ Well you say that, but just because
 their young are born in eggs, doesn't
 mean they're a birb.
 
-
-You're listening to midweek murders
-which means that it's time
+You're listening to midweek murders which means that it's time
 to talk about crime. I'm your host sandra
 and with me is my pal... You did it wrong.
 Then tell me how I'm supposed to just say it!
@@ -246,9 +226,7 @@ you're the one who always makes it an
 issue
 because you fuck it up every week.
 
-
-this week we're gonna talk about the man
-who solved his own murder and no
+this week we're gonna talk about the man who solved his own murder and no
 it wasn't joe because i'm still alive
 and kicking
 so i got my information from a
@@ -326,14 +304,12 @@ I thought you were expecting a reaction
 from me
 yeah but also like you're gonna have to
 follow
-\[Laughter] I'm stage trained I know, I know.
-and scene
+\[Laughter] I'm stage trained I know, I know. and scene
 okay so that wasn't funny.
 Moving swiftly on
 \[Laughter] 
 
-He went to the pine bar
-in london's millennium hotel to meet one
+He went to the pine bar in london's millennium hotel to meet one
 of his
 former friends from the federal
 security fucking shit
@@ -406,9 +382,7 @@ tea
 experience, disregarding the poison
 obviously.
 
-
-After that he went home
-and then starts to feel sick
+After that he went home and then starts to feel sick
 spends the night vomiting and with
 diarrhea and it doesn't
 get better so three days after that
@@ -447,8 +421,7 @@ so you're just gonna have to live with
 that. You say that as though anybody's
 listening.
 Hi Lee, love you.
-\[Laughter] At the hospital, well, he's first in one
-hospital and then gets transferred to the
+\[Laughter] At the hospital, well, he's first in one hospital and then gets transferred to the
 university college hospital
 in central london because he's placed
 in intensive care and also under armed
@@ -458,9 +431,7 @@ a poisoning case. First they thought it
 was
 thallium, please tell us a bit about that.
 
-
-\[silence] This is your role, Joe.
-I have some information. Hit me with that rythm stick.
+\[silence] This is your role, Joe. I have some information. Hit me with that rythm stick.
 Hit me, hit me. Fantastic, Ich liebe dich,
 hit me, hit me, hit me. What?
 Was that a thing in the original song?
@@ -594,8 +565,7 @@ were pretty much conclusive that it was
 polonium.
 Yeah. 
 
-Fun fact, maybe not fun because you
-seem
+Fun fact, maybe not fun because you seem
 to be a tough crowd tonight. Well i'm
 gonna tell it anyways.
 Is that sweden was the first country
@@ -702,9 +672,7 @@ of the
 isotopes that are used in nuclear
 reactors.
 
-
-Because like, I remember from the
-witness statement that they took from
+Because like, I remember from the witness statement that they took from
 alexander before he died,
 so he said that he sat at that table
 had the tea just a couple of clunks of
@@ -789,8 +757,7 @@ because of the radiation, it was so
 clearly laid out
 for them. Yeah. 
 
-And when alexander told
-the investigators from the uk
+And when alexander told the investigators from the uk
 what had happened he obviously
 being a former secret agent
 know everything about like how to
@@ -885,8 +852,7 @@ radioactiveness
 of the substance like it's not
 even hard. 
 
-and then
-why they do this i think is
+and then why they do this i think is
 because they can't do anything the uk
 was like you need to
 extradite Andrei Logovoy
@@ -957,9 +923,7 @@ at the hotel how many people in the
 NHS could have been poisoned at the
 hospital.
 
-
-actually it's interesting that you
-should mention that
+actually it's interesting that you should mention that
 because i've got a little bit of science
 in science you'll say oh
 oh yeah i hope you're sitting down
@@ -973,8 +937,7 @@ toxicity
 when exposed to
 skin which is why the son
 of persons aforementioned logo boy
-lagoyev lagoyev \[Laughter] that's why both lagoyev
-and Kovtun and all of the people
+lagoyev lagoyev \[Laughter] that's why both lagoyev and Kovtun and all of the people
 that were involved in the murder weren't
 affected
 by the polonium themselves even though
@@ -1177,10 +1140,7 @@ and i don't really care it's mostly
 canadian
 bots and russian.
 
-
-
-i'm not gonna say
-like i'm not gonna go into the whole
+i'm not gonna say like i'm not gonna go into the whole
 reddit thing
 now but what i wanted to say is that
 people
@@ -1291,15 +1251,10 @@ long live putin we should post that
 photo of him on a bear like shirtless
 that should be the image for this
 episode
-\[Laughter] we're in compliance
-\[Laughter] don't hate us we love you china
-free tibet wait what who said that
+\[Laughter] we're in compliance \[Laughter] don't hate us we love you china free tibet wait what who said that
 oh god 
 
-
-
-yeah have you seen those videos
-about people who are like
+yeah have you seen those videos about people who are like
 yeah the best way to take care of your
 plants is to please
 free tibet
@@ -1433,5 +1388,4 @@ jesus god bars it's happening
 god damn do you want to go say goodbye
 to the listeners
 oh i thought we'd
-\[Laughter] \[Music] love you see you next week bye
-\[Music]
+\[Laughter] \[Music] love you see you next week bye \[Music]
