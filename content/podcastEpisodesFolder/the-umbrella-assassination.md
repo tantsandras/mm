@@ -8,10 +8,6 @@ descriptionText: This week, we discuss the assassination of Georgi Markov, shot
 date: 2
 month: December
 images:
-  - image: /imgUploads/4973.webp
-    alt: "An umbrella similar to the one used in the assassination of Georgi Markov,
-      displayed at the International Spy Museum in Washington. Credit: Saul
-      Loeb/AFP/Getty Images"
   - image: /imgUploads/2617.webp
     alt: A smiling Georgi Markov sitting on a lawn in front of some bushes.
   - image: /imgUploads/markov_pellet.jpg
@@ -52,7 +48,7 @@ Sandra got her information from:
 
 * [BBC News](https://www.bbc.co.uk/news/av/magazine-37376130)
 * [](https://aboutforensics.co.uk/georgi-markov/)[Molecules of Murder: Criminal Molecules and Classic Cases](https://aboutforensics.co.uk/georgi-markov/), by J. Emsley
-* The Guardian, [article](https://www.theguardian.com/world/from-the-archive-blog/2020/sep/09/georgi-markov-killed-poisoned-umbrella-london-1978) from 1978 by David Pallister. This is also where we found the photo of the umbrella exhibit from the International Spy Museum. Photograph by Saul Loeb/AFP/Getty Images
+* The Guardian, [article](https://www.theguardian.com/world/from-the-archive-blog/2020/sep/09/georgi-markov-killed-poisoned-umbrella-london-1978) from 1978 by David Pallister
 * [The View East](https://thevieweast.wordpress.com/tag/vladimir-kostov/), by Dr Kelly Hignett. The photo of the metal pellet can be found here. 
 * [The History Herald](https://thehistoryherald.com/articles/european-history/cold-war-history/finding-francesco-gullino-aka-agent-piccadilly/), by Richard H Cummings
 * The photo of Georgi Markov can be found [here](https://www.theguardian.com/world/2018/mar/06/poisoned-umbrellas-and-polonium-russian-linked-uk-deaths), in The Guardian
@@ -463,7 +459,7 @@ Yeah, they do this a lot. I don't know if you've listened to our other episodes.
 
 What episode are we on now, 21? 
 
-21. 
+21.
 
 I think 19 of them have been Russian assassinations. \[Laughter]
 
@@ -546,7 +542,5 @@ Oooooh what's the point. \[Laughter]
 What day even is it? \[Laughter] Bye-bye!
 
 Love you.
-
-
 
 \[Music]
