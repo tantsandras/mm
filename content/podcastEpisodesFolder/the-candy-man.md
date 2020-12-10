@@ -11,6 +11,9 @@ month: December
 images:
   - image: /imgUploads/halloween-killer-ronald-clark-o-bryan-candy-man-body-image-1477911947.png
     alt: Mugshot of Ronald Clark O'Bryan
+  - image: /imgUploads/800px-old-tjikko-2011-07-19-001.jpg
+    alt: Old Tjikko, the world's oldest Norway spruce, and the world's third oldest
+      clonal tree.
 hashtags:
   - tag: murder of Timothy O'Bryan
   - tag: Ronald Clark O'Bryan
@@ -43,6 +46,7 @@ Sandra got her information from:
 * [A Capital Case in America: How Today's Justice System Handles Death Penalty Cases from Crime Scene to Ultimate Execution of Sentence](https://archive.org/details/capitalcaseiname0000crum/page/119/mode/2up), by David Crump & George Jacobs
 * [O’Bryan vs State](https://law.justia.com/cases/texas/court-of-criminal-appeals/1979/59731-3.html), Court of Criminal Appeals decisions in Texas
 * [Wikipedia](https://en.wikipedia.org/wiki/Ronald_Clark_O%27Bryan)
+* The photo of Old Tjikko, the tree, can be found [here](https://en.wikipedia.org/wiki/Old_Tjikko)
 
 <!--StartFragment-->
 
