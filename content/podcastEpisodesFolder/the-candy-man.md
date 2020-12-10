@@ -37,6 +37,11 @@ The topic this week is the poisoning of Timothy O'Bryan, who was murdered by his
 Joe got his information from: 
 
 * The mugshot of Ronald Clark O'Bryan can be found [here](https://www.vice.com/en/article/8ge87v/halloween-killer-ronald-clark-o-bryan-candy-man)
+* [Article](https://www.houstonchronicle.com/news/houston-texas/houston/article/Looking-back-at-Houston-s-Candyman-murders-10427611.php#photo-4840024) in The Houston Chronicle, by Will Axford
+* [The Gorgeous History Geeks](https://m.facebook.com/TheGorgeousHistoryGeeks/posts/-the-candyman-the-guy-who-ruined-halloween-for-generations-of-american-children-/2571905206240462/) on facebook, by Lissa Bryan
+* [Cyanide poisoning](https://en.m.wikipedia.org/wiki/Cyanide_poisoning), Wikipedia 
+* The Houston Chronicle from 1974, [The Hoax Project](http://jclass.umd.edu/archive/newshoax/casestudies/crime/CrimeHalArst2.html)
+* Ronald Clark O'BRYAN, Petitioner-Appellant, v. W. J. ESTELLE, Jr., Director, Texas Department of Corrections, Respondent-Appellee, on [law resource](https://law.resource.org/pub/us/case/reporter/F2/691/691.F2d.706.82-2422.html)
 
 Sandra got her information from:
 
