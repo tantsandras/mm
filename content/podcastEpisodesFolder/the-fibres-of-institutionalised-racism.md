@@ -18,8 +18,8 @@ images:
   - image: /imgUploads/_73423077_lawrence_afp.jpg
     alt: Stephen Lawrence
 hashtags:
-  - tag: Racism in the UK police
   - tag: Stephen Lawrence
+  - tag: Racism in the UK police
   - tag: fibre analysis
   - tag: forensic science
   - tag: scanning electron microscope
