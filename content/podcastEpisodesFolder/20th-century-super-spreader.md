@@ -26,8 +26,6 @@ The topic this week is Mary Mallon, also known as Typhoid Mary. Joe explains typ
 
 <!--EndFragment-->
 
-
-
 Joe got his information from: 
 
 * [Mary Mallon (1869-1938) and the history of typhoid fever](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3959940/), by Filio Marineli, Gregory Tsoucalas, Marianna Karamanou, and George Androutsos
@@ -41,3 +39,13 @@ Sandra got her information from:
 * An [article](https://www.history.com/news/10-things-you-may-not-know-about-typhoid-mary) on History.com, by Christopher Klein. This is also where the photo of Mary in a hospital bed can be found. 
 * [Article](https://www.smithsonianmag.com/history/the-frightening-legacy-of-typhoid-mary-180954324/) in the Smithsonian Magazine, by Veronique Greenwood
 * [Typhoid Mary](https://www.britannica.com/biography/Typhoid-Mary), on Encyclopaedia Brittanica
+
+
+
+<!--StartFragment-->
+
+#### Audio transcript
+
+Midweek Murders contains graphic and explicit content, listener discretion is advised.
+
+<!--EndFragment-->
