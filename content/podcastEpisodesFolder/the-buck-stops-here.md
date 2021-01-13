@@ -33,8 +33,6 @@ The topic this week is the murders of Isabella Ruxton and Mary Jane Rogerson, co
 
 <!--EndFragment-->
 
-
-
 Joe got his information from:
 
 * [Forensic anthropology](https://en.m.wikipedia.org/wiki/Forensic_anthropology), on wikipedia 
@@ -48,57 +46,29 @@ Sandra got her information from:
 * [Article](https://news.google.com/newspapers?nid=2202&dat=19351127&id=pQYmAAAAIBAJ&sjid=__wFAAAAIBAJ&pg=6883,5660783) inGettysburg Times, from 1935
 * The image of one of the skulls that were found superimposed onto a photo of Isabella can be found [here](https://www.nlm.nih.gov/exhibition/visibleproofs/galleries/cases/ruxton.html). 
 
-
-
-
-
 <!--StartFragment-->
 
 #### Audio transcript
 
 Midweek Murders contains graphic and explicit content, listener discretion is advised.
 
-<!--StartFragment-->
+It was interesting to me. Should we start maybe, now that I've regaled you with this exciting story. It's not going to be in the episode, you don't need to worry. 
 
-it was interesting to me should we start
+It's not me that I'm worried for, it's the poor listeners.
 
-maybe
+You were riveted the whole time. \[Laughter] I don't meet anyone, I don't see anyone.
 
-how could i regale you with this
+Let me have this, okay! 
 
-exciting story
-
-it's not going to be in the episode you
-
-don't need to worry it's not me that i'm
-
-worried for it's the poor listeners
-
-you were riveted the whole time
-
-\[Laughter]
-
-i don't meet anyone i don't see anyone
-
-let me have this okay i had to get it
-
-all out okay
+I had to get it all out, okay?!
 
 \[Music]
 
-so
+So it's Wednesday, which means that it's time to talk about crime. You're listening to Midweek Murders, and I'm Sandra.
 
-it's wednesday which means that it's
+And I'm Joe. 
 
-time to talk about crime
-
-you're listening to midweek murders and
-
-i'm sandra
-
-and i'm joe merry christmas you filthy
-
-animals
+Merry Christmas you filthy animals.
 
 yeah i was uh pretty non-enthusiastic
 
@@ -2183,7 +2153,5 @@ having sex by being \[ __ ] in the air
 yeah all right i'm gonna hang up
 
 though my
-
-<!--EndFragment-->
 
 <!--EndFragment-->
