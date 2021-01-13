@@ -15,6 +15,8 @@ images:
     alt: James Hanratty
 hashtags:
   - tag: James Hanratty
+  - tag: Michael Gregsten
+  - tag: Valerie Storie
   - tag: A6 murder
   - tag: true crime comedy podcasts
   - tag: UK podcasts
@@ -27,8 +29,6 @@ hashtags:
   - tag: british executions
   - tag: escalating criminal behaviour
   - tag: identity parades
-  - tag: Murder of Michael Gregsten
-  - tag: Valerie Storie
   - tag: PCR
   - tag: Carjackings
   - tag: brain damage in serial killers
