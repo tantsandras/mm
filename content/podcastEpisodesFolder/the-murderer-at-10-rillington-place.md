@@ -58,395 +58,77 @@ Uneventful, is how my day has been.
 
 I have a feeling I might keep you on the phone for a while today, because I feel a bit depressed and this is the only plans I've had...
 
-For the entirety of this year
+For the entirety of this year.
 
-yep
+Yep. And also, I don't have two days to edit the episode, so if I take three hours on this, I don't mind.
 
-and also i don't have two days
+So what you're saying is, this is going to be full of burps and toilet breaks
 
-to edit the episode so if i
+That is the gist of it, yeah. Also, I've thought about one thing, and that is that you have a tendency to duck out when you're laughing. Like duck away from the microphone. 
 
-take three hours on this i don't mind
+Well, I can't duck away from the microphone because it's fixed to my headset. So your thought is full of poop.
 
-so what you're saying is this is going
+Yeah. Maybe it's because my laughter is so fucking loud. \[Laughter] It mutes... It mutes you.
 
-to be full of
+Well, maybe because I usually laugh silently.
 
-burps and toilet breaks
+Yeah, maybe. 
 
-that is the gist of it yeah
+I'm not a loud laugher, I'm not you. \[Makes honking sound] That's my impression of you laughing.
 
-also i've thought about one thing and
+\[Music]
 
-that is that
+So do you know what day it is? 
 
-you have a tendency to duck out when
+It's Wednesday, which means that it's time to talk about crime. I'm your host Sandra.
 
-you're laughing
+And I'm your host miserable bastard.
 
-like duck away from the microphone well
+That's Joe, by the way. 
 
-i can't duck away from the microphone
+They know who it is, we don't get any new listeners. 
 
-because it's fixed to my headset
+Some people listen to just one episode, then they don't know who you are. Although you are the miserable bastard, so.
 
-so your thought is full of poop
+Well there you go then, problem solved.
 
-yeah maybe it's because my laughter is
+The miserable bastard is Joe. Today we're going to talk about the murders of Beryl and Geraldine Evans. I got my information from wikipedia, an article on medium by Andrew Paul Shakespeare, an article on whales online by Jason Evans, an article in the montreal gazette from 1953 and all that's interesting.com. And a house of lords debate from 1966.
 
-so \[ __ ] loud
+I got my sources from the wiki wiki wah, a parliamentary debate from 1961, and some other places that I do not remember, but will be available on the website - midweekmurders.netlify.app. You're lucky that I remembered.
 
-\[Laughter]
+So Timothy Evans entered the police station in the south of Wales on the...
 
-it mute this it mutes you well maybe
+Merthyr Tydfil.
 
-because i usually laugh silently
+What? 
 
-yeah maybe i'm not a loud laugher i'm
+That's the police station, Merthyr Tydfil.
 
-not you
+Oh. I didn't write it down because I didn't think I would be able to pronounce it.
 
-that's my impression of you laughing
+Merthyr.
 
-so
+Merthyr.
 
-do you know what day it is it's
+Tydfil.
 
-wednesday which means that it's time
+Tydfil.
 
-to talk about crime i'm your host sandra
+Exactly. Now with a Welsh accent, Merthyr Tydfil.
 
-and i'm your host miserable bastard
+...entered a police station in the south \[Laughter]
 
-that's joe
+In the south of Wales on the 30th of november 1949, telling the police that he was worried about his 18 months old daughter Geraldine. The police asked him where the mother of the child was, to which he answered that she had died in unusual circumstances. He went on to tell police that his wife Beryl had been pregnant, but the couple had decided on an abortion, which was illegal at the time, as they couldn't handle the financial strain of a second child. He then told police that he had been given a bottle of some unknown liquid, by a man who had told him that this would lead to a termination of the pregnancy. He stated that Beryl had drunk the contents of the mystery bottle, and had died shortly after. He claimed that he had then disposed of Beryl's body by putting it down a manhole situated outside the couple's home in Notting Hill, London. He also said that he had arranged for somebody to take care of Geraldine before going back to his hometown in Wales. In Wales, his relatives had become worried for his wife and daughter, as they suspected that Timothy had abandoned them because of the pregnancy. They wanted to know where his daughter was, and as Timothy failed to locate her, they persuaded him to go to the police. So the police searched the home at number 10 Rillington Place, and realized that the manhole cover required three men to remove. Also, they did not find a body down there. 
 
-by the way they know who it is
+They did not find no body.
 
-we don't get any new listeners some
+Timothy then recounted his quote-unquote confession, and told the police that his downstairs neighbor had offered to perform an abortion on Beryl. Timothy now told them that he had returned from work on the 8th of November, the day that the quote-unquote abortion was supposed to have taken place, to the news that his wife had died due to complications. His neighbor, John Christie, informed him that he would put Beryl's body down the manhole, and make sure Geraldine was taken care of by giving her up for adoption. Christie then urged Timothy to get out of London and lay low somewhere, as he claimed that the police would be looking for him. The police returned to Rillington Place to perform a second search of the home, and this time they found the bodies of both Beryl and Geraldine wrapped in a table cloth in the wash house situated in the garden. They had both been strangled. I'm guessing that a wash house is a house in the garden with, like, some kind of laundry... 
 
-people listen to just one episode then
+Yeah. I think it all would have been external to the main house.
 
-they don't know
+Timothy had been in solitary confinement for two days before he was shown articles of clothing that the bodies had been wearing, and identified them as belonging to Beryl and Geraldine. He was then interrogated for hours, and threatened with violence should he not cooperate. They wanted him to sign the confession. The confession they wanted him to sign though, stated that he had strangled Beryl on the 8th following an argument, and then two days later murdered his daughter, before traveling to Wales. And Timothy was described as having the IQ of a 12 year old, and was more or less illiterate. The confession however, was coherent and worded in a way that makes it implausible that Timothy had much input in what it said at all. And with this, I kind of mean that it sounded like it was put in a narrative that the police wanted things to have happened.
 
-who you are although you are the
-
-miscible's bastard so
-
-well there you go then problem solved
-
-the miserable bastard
-
-is joe
-
-today we're going to talk about the
-
-murders of beryl
-
-and geraldine evans i got my information
-
-from
-
-wikipedia an article on medium by andrew
-
-paul
-
-shakespeare an article on whales online
-
-by jason evans an article in the
-
-montreal gazette
-
-from 1953 and
-
-all that's interesting.com
-
-and a house of lords debate from 1966.
-
-i got my sources from
-
-the wiki wiki a parliamentary
-
-debate from 1961
-
-and some other places that i do not
-
-remember but will be
-
-available on the website
-
-midweekmurders.netfinder app
-
-you're lucky that i remembered
-
-so timothy evans entered the police
-
-station
-
-in the south of wales on the third
-
-mercer
-
-tedfield what that's the police station
-
-now the deadville
-
-oh i didn't write it down because i
-
-didn't think i would be able to
-
-pronounce it
-
-murther martha titfield
-
-ted phil murphy phil mercedes
-
-exactly now with a whale shark scent
-
-mercer title entered a police station in
-
-the south
-
-in the south of wales on the 30th
-
-of november 1949 telling the police that
-
-he was worried about his
-
-18 months old daughter geraldine
-
-the police asked him where the mother of
-
-the child
-
-was to which he answered that she had
-
-died in
-
-unusual circumstances he went
-
-on to tell police that his wife barrow
-
-had been pregnant but the couple had
-
-decided
-
-on an abortion which was illegal at the
-
-time
-
-as they couldn't handle the financial
-
-strain
-
-of a second child he then told police
-
-that he had been given a bottle of some
-
-unknown liquid by a man who had told him
-
-that this would lead to a termination of
-
-the pregnancy
-
-he stated that beryl had drunk the
-
-contents of the mystery bottle
-
-and had died shortly after he claimed
-
-that he had then disposed of barrel's
-
-body by putting it
-
-down a manhole situated outside the
-
-couple's home
-
-in notting hill london he
-
-also said that he had arranged for
-
-somebody to take care of geraldine
-
-before going back to his hometown in
-
-wales
-
-in wales his relatives had become
-
-worried for his wife and daughter as
-
-they suspected that timothy had
-
-abandoned them because of the pregnancy
-
-they wanted to know where his daughter
-
-was and as
-
-timothy failed to locate her they
-
-persuaded him to go to the police
-
-so the police searched the home at
-
-number 10
-
-rilington place and realized
-
-that the manhole cover required three
-
-men
-
-to remove also they did not
-
-find a body down there they did not find
-
-nobody
-
-timothy then recounted his quote-unquote
-
-confession
-
-and told the police that his downstairs
-
-neighbor
-
-had offered to perform an abortion on
-
-barrel timothy now told them that he had
-
-returned from work
-
-on the 8th of november the day that the
-
-unquote abortion was supposed to have
-
-taken place
-
-to the news that his wife had died due
-
-to
-
-complications his neighbor
-
-john christie informed him that he would
-
-put barrel's body down the manhole
-
-and make sure geraldine was taken care
-
-of
-
-by giving her up for adoption chrissy
-
-then urged
-
-timothy to get out of london and lay low
-
-somewhere as he claimed that the police
-
-would be
-
-looking for him the police returned to
-
-rillington place to perform a second
-
-search of the home and this time they
-
-found the bodies of
-
-both barrow and geraldine wrapped in a
-
-table cloth
-
-in the wash house situated in the garden
-
-they had both been strangled i'm
-
-guessing that a wash house
-
-is a house in the garden with
-
-like some kind of laundry yeah i think
-
-it all would have been external to the
-
-main house
-
-timothy had been in solitary confinement
-
-for two days
-
-before he was shown articles of clothing
-
-that the bodies had been wearing and
-
-identified them as belonging to beryl
-
-and geraldine he was then interrogated
-
-for hours
-
-and threatened with violence should he
-
-not
-
-cooperate they wanted him to sign
-
-the confession the confession they
-
-wanted him to sign though
-
-stated that he had strangled barrow on
-
-the 8th
-
-following an argument and then two days
-
-later murdered his daughter before
-
-traveling to wales and timothy was
-
-described as having the iq
-
-of a 12 year old and was more or less
-
-illiterate
-
-the confession however was coherent and
-
-worded in a way that makes it
-
-implausible that timothy had much
-
-input in what it said at all
-
-and with this i kind of mean that it
-
-sounded like
-
-it was put in a narrative
-
-that the police wanted things to have
-
-happened
-
-yeah so i think it was examined
-
-later not at the time and they found
-
-that there were quote linguistic
-
-discrepancies between what you would
-
-expect
-
-someone with the iq of between 10 and 12
-
-to be able to articulate and common
-
-phraseology that the police would use
+Yeah. So I think it was examined later, not at the time, and they found that there were quote linguistic discrepancies between what you would expect someone with the IQ of between 10 and 12 to be able to articulate, and common phraseology that the police would use.
 
 obviously you would need to be of a
 
