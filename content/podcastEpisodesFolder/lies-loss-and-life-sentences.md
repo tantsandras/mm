@@ -17,16 +17,16 @@ images:
     alt: "Chris Watts at his neighbours house, not watching the security camera
       footage from the day when his wife and kids disappears. "
 hashtags:
+  - tag: Chris Watts
+  - tag: Shanann Watts
+  - tag: Bella Watts
+  - tag: Celeste Watts
+  - tag: The Watts family murders
   - tag: Polygraph test
   - tag: lie detector test
   - tag: Men who murder their family
   - tag: unlawful termination of a pregnancy
-  - tag: astute neighbours
-  - tag: Chris Watts
-  - tag: The Watts family murders
-  - tag: "cheating "
   - tag: Polygraph tests explained
-  - tag: MLM
   - tag: "American Murder: The Family Next Door"
   - tag: true crime documentary discussion
   - tag: Victim statements
