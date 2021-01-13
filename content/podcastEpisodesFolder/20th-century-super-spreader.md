@@ -56,23 +56,17 @@ Don't make it weird in the first five seconds.
 
 \[Music]
 
-so
+So maybe we should start? 
 
-maybe we should start maybe we should
+Maybe we should give the listeners a warning that this case is not a murder mystery case like all the others.
 
-give the listeners a warning
+Well it's gonna be clear probably from...
 
-that this case is not a murder mystery
+I think everybody knows who typhoid Mary is. 
 
-case like all the others
+I think so too.
 
-well it's gonna be clear probably from
-
-i think everybody knows who typhoid mary
-
-is i think so too
-
-but we could say something about it like
+But we could say something about it like
 
 hey listeners all of you
 
