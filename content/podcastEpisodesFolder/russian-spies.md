@@ -16,6 +16,7 @@ images:
       unconscious.
 hashtags:
   - tag: salisbury posionings
+  - tag: Sergei and Yulia Skripal
   - tag: russian spies
   - tag: uk true crime podcasts
   - tag: political assassinations
@@ -24,7 +25,6 @@ hashtags:
   - tag: nerve agents
   - tag: radiation poisoning
   - tag: Novichok
-  - tag: poisonings of Sergei and Yulia Skripal
   - tag: Amesbury poisonings
   - tag: radioactive contamination
 ---
