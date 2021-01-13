@@ -14,8 +14,11 @@ images:
   - image: /imgUploads/_53649120_millie_dowler_624map.jpg
     alt: Map of Milly Dowlers last movements.
 hashtags:
-  - tag: serial killers
   - tag: Levi Bellfield
+  - tag: Milly Dowler
+  - tag: Marsha McDonnell
+  - tag: Amélie Delagrange
+  - tag: serial killers
   - tag: UK true crime
   - tag: UK podcasts
   - tag: Podcast about serial killers
