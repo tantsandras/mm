@@ -12,19 +12,18 @@ images:
   - image: /imgUploads/colin_pitchfork.jpg
     alt: "Black and white photo of Colin Pitchfork. "
 hashtags:
-  - tag: DNA profiling
-  - tag: Professor Alec Jeffreys
   - tag: Colin Pitchfork
+  - tag: DNA profiling
+  - tag: "Lynda Mann "
+  - tag: Dawn Ashworth
+  - tag: Professor Alec Jeffreys
   - tag: escalation of predatory behaviour
   - tag: "indicent exposure "
-  - tag: "murder of Lynda Mann "
-  - tag: murder of Dawn Ashworth
   - tag: life sentences
   - tag: DNA database
   - tag: obstruction of justice
   - tag: DNA evidence
   - tag: "british serial killler "
-  - tag: early release on parole
   - tag: DNA profiling explained
   - tag: "forensic science "
   - tag: "how DNA is used in criminal investigations "
