@@ -265,982 +265,208 @@ Of course, of course. They do tend to do that.
 
 Yeah, because they're all from Norwich. I can say that, because I live with someone from Norwich. \[Laughter]
 
-Of course. So these parcels had led to
+Of course. So these parcels had led to the deaths of six physicians, according to one newspaper article, as well as Frank Mason, Alice McHenry, and a traveling man by the name of D. H. Johnson who had walked into a hardware store and died without having gotten a word out. Drescher had been the coroner who examined the bodies of these last three, and had decided that no inquest into their deaths needed to be made. They were all concluded to have died of symptoms caused by strychnine poisoning, although this was not on their death certificates. And I'm going to give some examples of that now. In the home of Frank Mason they had found a small amount of strychnine on a piece of paper, and although Frank had bellowed: "I'm poisoned doc! Quick, get me out of here!" before dying...
 
-the deaths of
+Didn't he say: "get it out of me"? 
 
-six physicians according to one
+Yeah. What did I say?
 
-newspaper article
+Get me out of here. 
 
-as well as frank mason alice mchenry
+Oh shit. 
 
-and a traveling man by the name of d.h
+Like he was a celebrity in the jungle.
 
-johnson who had walked into a hardware
+"I'm poisoned doc! Quick, get it out of me!" before dying, Drescher decided that the cause of death was suicide. Side note, why this was recorded was that Drescher wasn't the doctor on site. Another doctor had been called when Frank had fallen acutely ill with convulsions and stuff, and he said that to that doctor. But Drescher was the coroner, so. Alice McHenry had been suffering from a headache at school, and when she came home her grandmother had given her a tablet of quinine. Quinine. Tablet of quinine she had received in the post. Alice died 20 minutes later, and Drescher noted the cause of death down as cerebral hemorrhage. 
 
-store and died
+Nasty way to go.
 
-without having gotten a word out
+Also, like, what? But alrighty then.
 
-dresher had been the coroner who
+It would account for her previously recorded symptoms of headaches. So I think what he's done is: picked a condition that post autopsy you couldn't prove that matched her clinical symptoms. 
 
-examined the bodies of these last
+Oh. I didn't know you couldn't prove that. And now, I feel like, maybe we could talk about what strychnine... 
 
-three and had decided that no inquest
+Well, I've got more names. So maybe we could talk about them. 
 
-into their deaths
+We'll get to the names! Fucking hell. I still don't know what strychnine does, because I haven't looked it up. Patience, my dear, patience! \[Laughter]
 
-needed to be made they were all
+I don't have any! I like to do things chronologically! I'm gonna listen back to this one and be like: "no, tell me about who died!". Strychnine is a neurotoxin. This one works on the spinal cord, and in the particular part that controls muscle contraction. 
 
-concluded to have died of symptoms
+Oh! That's why you have convulsions.
 
-caused by stricken
+Yeah. Your normal bodily response would be to have an impulse triggered at the nerve, which causes your muscles to contract, and then a molecule called glycine will bond to your receptor, basically raising the required potential for that neuron to fire again. So it stops firing and your muscle relaxes, that's how normal muscle contraction works. So strychnine works by binding onto the same receptor that glycine does. So you get your impulse at the nerve, triggers the muscle response to contract, and then there's no glycine available to bind, so you stay contracted. Which, like you said, is why one of the main symptoms is convulsions. It can lead eventually to asphyxia, which is suffocation.
 
-poisoning although this was not under
+Is that because your throat muscles contract, as well?
 
-death certificates and i'm going to give
+Not your throat muscles, but your respiratory muscles. So things like your diaphragm, and your intercostal muscles between your ribs. So everything that controls the expansion of your lungs and the retraction of your lungs stops working, you essentially stop breathing. It's most commonly used, or only used, as a pesticide. It has no medicinal benefits at all. So it's not like a medicine that can be prescribed that has nasty side effects, it is just a pesticide. 
 
-some examples of that
+Could it be bought at that time? Like at the store? 
 
-now in the home of frank mason
+As a pesticide, yeah. And you go through a couple of stages of symptoms. First round of symptoms is a nervousness and restlessness, muscle twitching and a stiff neck, so not too severe. And then it starts to get a bit nasty. So then you start to suffer from the convulsions, extended limbs, dilated pupils - not so bad. And then this one, bear with me, opisthotonus - which is basically, your body goes into such a rigid state that if you are laying flat on your back, and then arch upwards so that only your heels and the back of your head are touching the floor. 
 
-they had found a small amount of
+Oh! Like in the horror films? 
 
-strychnine on a piece of paper
+Yes... I guess? 
 
-and although frank had bellowed i'm
+Every time they do a horror film about, like, possession...
 
-poisoned doc
+Yeah! Yeah, yeah. Yeah, so pretty much like that. An inverted arch, but completely involuntary. An important thing to consider is that it is rapidly absorbed from your gastrointestinal tract. So if you administer it orally, supposedly about 50 percent of the dose is absorbed into tissue within five minutes. 
 
-quick get me out of here before dying
+Oh god, that's so quick! 
 
-didn't he say get it out of me yeah what
+So pretty nasty stuff. And you don't need a very high dose. Obviously, there's no human testing on it because it's horrible, but anywhere between 30 and 120 milligrams. Your standard paracetamol tablet is 500. And that is all I have on strychnine.
 
-did i say
+So, the murders appears to have started with a woman named Maude Clark, who was working for the Drescher family as a maid and nanny. Nine years before the investigation into the poisonings had started, Maude had been left alone with Drescher for several days. And one morning she suddenly started convulsing, and died half an hour later, hand clenched around Mr Drescher's trousers, in the laundry room. A few days after Maurd... 
 
-get me out of here oh \[ __ ] like he was a
+Maurd. \[Laughter]
 
-celebrity in the jungle
+A few days after Maude was murdered a Dr Grey, the coroner investigating Maude's death, fell seriously ill and was admitted to hospital. His entire family had fallen ill, but fortunately they all recovered. Strychnine was found in a sugar bowl on the Grey family dining table, but the mystery of where the poison had come from was never solved due to lack of evidence. Although Dr Grey suspected Maude to have been a victim of poisoning, Drescher had convinced a second coroner that Maude must have poisoned herself due to being depressed, or as he said: "often sad", and no autopsy was done. I'm surprised that nobody was like: "wait a second".
 
-i'm poison doc quick get it out of me
+Well he was the county coroner, so he's in a position of power. 
 
-before dying dresher decided that the
+Yeah. So an autopsy of Drescher was performed by Dr Pierson, who removed his stomach and sent it off to the state board of health in Indianapolis for examination. There, an analysis of the stomach, by Dr Noble, found that no radishes or strychnine was present in the stomach of Drescher. Dr Noble stated that: "death frequently is caused by poison which has passed through the stomach". So I'm guessing the thing that you said, that it's absorbed very quickly. 
 
-cause of death
+I would like to know why, under these suspicious circumstances, they didn't examine the liver or kidneys.
 
-was suicide side note why
+Yeah. That's a good question. 
 
-this was recorded was that dresher
+He was under suspicion of suicide from ingestion of poison. You assume he takes it orally, so you check his stomach. Oh, nothing in there. What's the next key organ that, I don't know, filters out your blood? It might be those funky things at the back called kidneys.
 
-wasn't the doctor on site another
+Whaaaat. 
 
-doctor had been called when frank had
+Chop them out, stick them in the post with the stomach, be like: "have a look, geez. Anything in there?", comes back: "ah yeah, bunch of fucking strychnine in there, in't there". 
 
-fallen
+You mean there's a natural filter system in the body that might have processed the poison?! Whaaaaat. 
 
-acutely ill with convulsions and stuff
+That might have actually tried to take toxins out of his blood system like, you know, their entire functional purpose. Or, given that strychnine is mainly eluted in the urine, you know, they might have looked into that organ that specifically filters out your urine so that you're only bypassing anything to waste.
 
-and he said that to that doctor
+Whaaaaat. You mean there's an organ in the body... 
 
-but dresher was the coroner so alice
+Ah, what is that one called? Oh. It's the main... it's the fucking liver! \[Laughter]
 
-mchenry had been suffering from a
+I think that maybe they checked his stomach and then...
 
-headache at school and when she came
+No. Natural causes.
 
-home
+It was officially ruled as a suicide, so I'm guessing they still thought that the poison just had been absorbed. 
 
-her grandmother had given her a tablet
+Or is that because they couldn't find anything else? "Has he got a bullet hole in his head?",  "oh, which bit's the head guvnor?" \[Laughter]
 
-of creamin
+Do you mean there's an organ... 
 
-tablet of quinine she had received in
+"Bloody head, it's the bit at the top that does the thinkin'", "oh. No, that bit looks alright", "Oh. Must have been suicide then. Case closed, clean him up!". \[Laughter]
 
-the post
+I think that it was probably the note, as well. They were like: "a note, must be a suicide". 
 
-alice died 20 minutes later and dresher
+"Well everyone knows radishes are fucking poisonous. What's that lunatic doing, eating radishes? He was a fucking doctor, he should have known better".
 
-noted
+They're fucking red, man. Nature's sign of poison, obviously. 
 
-the cause of death down as cerebral
+"You ever eaten a ladybug? No you haven't, cause they're red. Why would you eat a radish?" \[Laughter]
 
-hemorrhage nasty way to go
+The motive behind Drescher's many alleged murders is unclear, though some people speculated that he might have committed these murders to increase his undertaker business, some cases seem to have been more personal. William Blair, for example, an undertaker working in Patricksburg, had received one of these "free sample" bottles of quinine in the post.
 
-also like what but alrighty then
+Oh, did you hear that confidence?
 
-it would account for her previously
+Oh, you fucking nailed it, mate. Oh. Hold on, I need to bash one out. \[Laughter]
 
-recorded symptoms of headaches
+He had told investigators that Drescher had been angry with him, as Drescher believed that the undertaking jobs that Blair had been taking on should have gone to him. Charles Surber told investigators that, before defeating Drescher for a nomination in the democratic primaries, he had been warned that he would not live to hold the office if elected. Surber had received a "free sample" bottle shortly before the election, but had noticed that the cork had been tampered with, and had turned it. In. To. The police. Good lord.
 
-so i think what he's done is picked a
+Oh, it was going so well. 
 
-condition
+I know, right? At the state laboratory... "At the state laboratory". \[Laughter] I just love the "library", and "laboratories".
 
-that post autopsy you couldn't prove
+"At the state laboratory, where everybody is smoking a pipe".
 
-that
+They concluded that the bottle contained enough strychnine to kill six people. When this reached the news, several other politicians reached out to police over having received the same kind of bottle in the post. Jason Stucky... Oh so plucky, Jason Stucky... had also been on the receiving end of the world's shittiest parcel, and told police that he and Drescher had had a quarrel shortly before the package of death had arrived. And as a side note, they were all clearly labeled with the "free sample" typewritten label over the quinine pharmaceutical label, so they were all the same.
 
-matched her clinical symptoms oh
+Once it reached the papers that someone was sending poison, 26 individual residents also reported getting free quinine in the post. 
 
-i didn't know you couldn't prove that
+Oh god, yeah.
 
-and now i feel like maybe we could talk
+So Drescher really covered his bases. He was like: "why poison the water well when I can just send them each an individually postmarked letter with the poison?".
 
-about
+And also, I'm shocked at how many names there were. In some articles there were like: "six physicians, and these other victims", and in other articles it was like: "and this one, and that one".
 
-what's stricken well i've got more names
+I think a lot of the names come from people collating not necessarily autopsy results of strychnine poisoning, but suspicious deaths under which Drescher was the coroner. 
 
-so
+Yeah. That could have been it, yeah. So C. W. Edwards, another undertaker, had told investigators that he had found a bottle of whiskey on his doorstep one day, with a note saying that the whiskey was from a friend. But Edwards noticed that the friend's signature was off, and suspicious because of the forged signature, he had turned it into police who discovered that the whiskey contained large amounts of strychnine. And this is where both you and I would have been dead, or at least I would've been. \[Laughter]
 
-maybe we could talk about them to the
+"Whiskey?! Glug glug glug". 
 
-names
+Because I do not recognize the handwriting of my friends.
 
-\[ __ ] it hell i still don't know what
+You know mine. 
 
-strict it
+Well, if it was scrawled in an Elizabethan lady's handwriting, that's probably Joe. But most of my other friends...
 
-does and because i haven't looked it up
+Elizabethan lady?! \[Laughter]
 
-patients wear their patients i don't
+You have very good handwriting. 
 
-have any i like to do things
+Whereas if I received a bottle of chicken scrawl, I'd be like: "yeah, that's Sandra". \[Laughter]
 
-chronologically
+True story. But I would have been dead because I would not recognize my friend's handwriting... 
 
-i'm gonna listen back to this one and be
+You wouldn't have even read the label. You'd have been: "bottle of whiskey, where's the ice?". Not even that, because you don't have ice with your whiskey. "Bottle of whiskey, where's my tumbler? Nah, fuck it. Sip sip sip sip".
 
-like no tell me about who died
+I would have read the label and been like: "probably from whatever friend it said", and you would have read the label and then been like: "eh fuck it, free whiskey".
 
-strychnine is a neurotoxin
+Yep. 
 
-this one works on the spinal cord
+Yep. 
 
-and in the particular part that controls
+But then probably would have had a bit, realized it tasted horribly bitter, and drank the rest anyway. \[Laughter]
 
-muscle contraction oh that's why you
+So if anybody's looking to murder me, my favorite brand of whiskey is Talisker.
 
-have convulsions
+The Russian bots who are listening are taking notes: "this is the way". \[Laughter]
 
-yeah your normal bodily response would
+If you want to stab me with a talisker-injected umbrella, then go for it. I have got plenty of ass to aim for. \[Laughter]
 
-be
+Oh god. It's true. It's sad, but it's true.
 
-to have an impulse triggered at the
+Actually, that's the point where you're meant to say: "no, no, you've got a tiny ass", not: "it's true". 
 
-nerve
+I didn't mean your ass, I meant the way poison us is so obvious. Just like your ass.
 
-which causes your muscles to contract
+I walk into a room and everybody's like: "hot damn, that is jiggly". 
 
-and then a
+That's some meaty backside, right there. So the list of Drescher's possible victims is extremely long, and in one newspaper article it said that the citizens of Owen County held Drescher responsible, as Drescher led the inquest into these deaths and buried most of the bodies. Francis Edward Drescher was believed by investigators to have played a role in the poison-by-mail plot that had taken so many lives in Owen County, but they did not believe that he had acted alone. After his death, three more cases of strychnine poisonings happened, and although several citizens had turned in their "free sample" bottles to police... I think you said 23?
 
-molecule called glycine will bond to
+Twenty six.
 
-your receptor
+Crazy. After the story hit the news, no new parcels were ever discovered to have been sent out. 
 
-basically raising the required potential
+So those three obviously either had delayed delivery, which, if it were by royal mail, not unexplainable, or saw their parcel, popped it down on the side and thought: "I'll save that for ron".
 
-for that neurons fire again
+Yeah. I think they probably saved it for later, when they had the flu or something. 
 
-so it stops firing and your muscle
+Yeah, saved it for ron.
 
-relaxes
+What's the ron? 
 
-that's how normal muscle contraction
+Later on. 
 
-works so strictness works by
+Oh. Should have gotten that.
 
-binding onto the same receptor that
+Wasted on you. I made that joke last episode as well, and it flew over your head.
 
-glycine does
+How do you even remember that? Last episode was four hours. 
 
-so you get your impulse at the nerve
+Because I only have five jokes. \[Laughter] Anyway, back to the case. 
 
-triggers the muscle response to contract
+I think that was it. Maybe I should say that: "and that's the case!".
 
-and then there's no
+Now for something completely different. You should put that on the end, because that is a classic. Monty Python - flying circus. 
 
-glycine available to bind so you stay
-
-contracted
-
-which like you said is why one of the
-
-main symptoms
-
-is convulsions it can lead eventually
-
-to asphyxia which is suffocation
-
-is that because your throat muscles
-
-contract as well
-
-not your throat muscles but your
-
-respiratory muscles
-
-so things like your diaphragm and your
-
-intercostal muscles between your ribs so
-
-everything that
-
-controls the expansion of your lungs and
-
-the retraction of your lungs
-
-stops working you essentially stop
-
-breathing
-
-it's most commonly used or only used
-
-as a pesticide it has no medicinal
-
-benefits
-
-at all so it's not like a medicine that
-
-can be prescribed
-
-that has nasty side effects it is just
-
-a pesticide could it be bought at that
-
-time
-
-like at the store as a pesticide yeah
-
-and you go through a couple of
-
-stages of symptoms first round of
-
-symptoms
-
-is a nervousness and restlessness
-
-muscle twitching and a stiff neck so not
-
-too severe
-
-and then it starts to get a bit nasty so
-
-then you start to suffer from the
-
-convulsions
-
-extended limbs dilated pupils not so bad
-
-and then this one bear with me a pistol
-
-which is basically your body goes into
-
-such a rigid state
-
-that if you are laying flat on your back
-
-and then
-
-arch upwards so that only your heels
-
-and the back of your head are touching
-
-the floor oh
-
-like in the horror films yes
-
-i guess every time they do a horror film
-
-about like possession
-
-yeah yeah yeah yeah so pretty much like
-
-that an inverted
-
-arch but completely involuntary an
-
-important thing to consider is that
-
-it is rapidly absorbed from your
-
-gastrointestinal tract so if you
-
-administer it orally supposedly about
-
-50 percent of the dose is absorbed into
-
-tissue
-
-within five minutes oh god that's so
-
-quick so pretty nasty stuff and you
-
-don't need a very high dose
-
-obviously there's no human testing on it
-
-because it's orible
-
-but anywhere between 30 and 120
-
-milligrams
-
-your standard paracetamol tablet is 500.
-
-and that is
-
-the murders appears to have started with
-
-a woman named maud
-
-clark who was working for the drescher
-
-family as a mid and
-
-nanny nine years before the
-
-investigation into the poisonings
-
-had started maude had been left alone
-
-with
-
-thresher for several days and one
-
-morning she
-
-suddenly started convulsing and died
-
-half an hour later
-
-hand clenched around mr drescher's
-
-trousers
-
-in the laundry room a few days after
-
-mart marred
-
-a few days after maude was murdered
-
-a dr gray the coroner investigating
-
-maud's death fell seriously ill
-
-and was admitted to hospital his entire
-
-family had fallen ill
-
-but fortunately they all recovered
-
-stricken
-
-was found in a sugar bowl on the great
-
-family dining table
-
-but the mystery of where the poison had
-
-come from
-
-was never solved due to lack of evidence
-
-although dr gray suspected mud to have
-
-been
-
-a victim of poisoning drescher had
-
-convinced
-
-a second coroner that maude must have
-
-poisoned herself
-
-due to being depressed or as he said
-
-often
-
-sad and no autopsy was done
-
-i'm surprised that nobody was like wait
-
-a second
-
-well he was the county coroner so he's
-
-in a position of power yeah
-
-so an autopsy of dresher was performed
-
-by
-
-dr peterson who removed his stomach and
-
-sent it off to the state board of health
-
-in indianapolis for examination
-
-there an analysis of the stomach by
-
-dr noble found that no radishes
-
-or stricken was present in the stomach
-
-of dresser
-
-dr noble stated that death frequently
-
-is caused by poison which has passed
-
-through
-
-the stomach so i'm guessing the thing
-
-that you said
-
-that it's absorbed very quickly i would
-
-like to know
-
-why under these suspicious circumstances
-
-they didn't examine the liver or kidneys
-
-yeah that's a good question he was under
-
-suspicion of suicide
-
-from ingestion of poison you assume
-
-he takes it orally so you check his
-
-stomach oh
-
-nothing in there what's the next key
-
-organ
-
-that i don't know filters out your blood
-
-it might be those funky things at the
-
-back called kidneys
-
-what chop them out stick them in the
-
-post with the stomach
-
-be like have a look geez anything in
-
-there
-
-comes back ah yeah bunch of \[ __ ]
-
-strychnine in there in there
-
-you mean there's a natural filter system
-
-in the body that might have processed
-
-the poison
-
-what that might have actually tried to
-
-take toxins
-
-out of his blood system like you know
-
-their entire functional purpose
-
-or given that strictness is mainly
-
-eluted in the urine you know they might
-
-have looked into that
-
-organ that specifically filters out your
-
-urine so that you're only bypassing
-
-anything to waste
-
-what you mean there's an organ in the
-
-body
-
-ah what is that one called oh it's the
-
-main
-
-it's the \[ __ ] liver
-
-i think that maybe they checked her
-
-stomach and then
-
-no natural causes
-
-it was officially ruled as a suicide so
-
-i'm guessing
-
-they still thought that the poison just
-
-had been
-
-absorbed or is that because they
-
-couldn't find
-
-anything else as he got a bullet hole
-
-in his head oh which \[ __ ] to hedge
-
-governor
-
-do you mean there's an organ for the
-
-edge it's the bit of the top that does
-
-the thinking
-
-oh no that bear looks alright what must
-
-have been suicide then
-
-case closed clean them up i think that
-
-it was probably the no as well they were
-
-like i know
-
-must be a suicide well everyone knows
-
-radishes are \[ __ ] poisonous
-
-what's that lunatic doing eating
-
-radishes
-
-he was a \[ __ ] doctor he should have
-
-known bear
-
-\[ __ ] red man nature's sign of poison
-
-obviously you ever eaten a
-
-no you haven't cause they're red why
-
-would you eat a radish
-
-the motive behind dresher's many alleged
-
-murders
-
-is unclear though some people speculated
-
-that he might have committed these
-
-murders to increase his
-
-undertaker business some cases seem to
-
-have been more personal
-
-william blair for example an undertaker
-
-working in patricksburg had received one
-
-of these free
-
-sample bottles of quinine in the post
-
-oh did you hear that \[ __ ] nailed it
-
-mate
-
-oh hold on i need to bash one out
-
-yeah told investigators that dresher had
-
-been angry with him
-
-as dresher believed that the undertaking
-
-jobs that blair had been taking on
-
-should have gone to him charles
-
-serber told investigators that before
-
-defeating
-
-thresher for a nomination in the
-
-democratic primaries
-
-he had been warned that he would not
-
-live to hold the office
-
-if elected server had received a free
-
-sample bottle
-
-shortly before the election but had
-
-noticed
-
-that the cork had been tampered with and
-
-had turned
-
-it in to the police good lord
-
-oh it was going so well i know right at
-
-the state laboratory
-
-at the state laboratory
-
-i just love the library and laboratories
-
-at the state laboratory where everybody
-
-is smoking a pipe
-
-they concluded that the bottle contained
-
-enough stricken
-
-to kill six people when this
-
-reached the news several other
-
-politicians
-
-reached out to police over having
-
-received the same kind of bottle
-
-in the post jason stuckey
-
-oh so plucky jason stacky had also been
-
-on the receiving end of the world's
-
-shittiest parcel and told police that he
-
-and dreshert had had
-
-a quarrel shortly before the package
-
-of death had arrived and
-
-as a side note they were all clearly
-
-labeled with the
-
-free sample type written label over
-
-the quinine pharmaceutical label so they
-
-were all the same
-
-once it reached the papers that someone
-
-was sending
-
-poison 26
-
-individual residents also reported
-
-getting free quinine in the post oh god
-
-yeah
-
-so dresher really covered his bases
-
-it was like why poison the water well
-
-when i can just send them each
-
-an individually postmarked letter with
-
-the poison
-
-and also i'm shocked at how many names
-
-there were
-
-in some articles there were like six
-
-physicians
-
-and these other victims and in other
-
-articles it was like and this one and
-
-that one
-
-i think a lot of the names come
-
-from people collating not necessarily
-
-autopsy results of strychnine poisoning
-
-but suspicious deaths under which
-
-dresher was the coroner yeah that could
-
-have been it yeah
-
-so cw edwards another undertaker
-
-had told investigators that he had found
-
-a bottle of whiskey on his doorstep one
-
-day
-
-with a note saying that the whiskey was
-
-from a friend
-
-but edward noticed that the friend's
-
-signature was
-
-off and suspicious because of the ford's
-
-signature he had turned it into police
-
-who discovered
-
-that the whiskey contained large amounts
-
-of stricken
-
-and this is where both you and i would
-
-have been dead or at least
-
-whiskey
-
-because i do not recognize the
-
-handwriting of my friends
-
-you know mine well if it was
-
-scrawled in a elizabethan ladies
-
-handwriting that's probably joe
-
-but most of you might listen lady
-
-very good handwriting whereas if i
-
-received
-
-a bottle of chicken scrawl
-
-not yet melisandre
-
-just a story but i would have been dead
-
-because i would not
-
-recognize my friend's handwriting you
-
-wouldn't have even read the label
-
-\[Music]
-
-you'd have been bottle of whiskey
-
-where's the ice
-
-not even that because you don't have ice
-
-with your whiskey
-
-bottle of whiskey where's my tumblr now
-
-\[ __ ] it ship ship ship ships
-
-i would have read the label and been
-
-like probably
-
-from whatever friend that said and you
-
-would have read the label and then been
-
-like oh \[ __ ] it free whiskey
-
-yep yep but
-
-then probably would have had a bit
-
-realized it tasted
-
-horribly bitter and drank the rest
-
-anyway
-
-so uh if anybody's looking to murder me
-
-my favorite brand of whiskey is talisker
-
-russian bots were listening or taking
-
-notes
-
-this is the wish if you want to stab me
-
-with a talisker-injected
-
-umbrella then go for it i have got
-
-plenty of ass to aim for
-
-oh god it's true it's sad but it's true
-
-actually that's the point where you're
-
-meant to say no no you got a tiny
-
-ass not
-
-it's true i didn't mean your ass i'm at
-
-the weight
-
-poisonous
-
-just like your ass
-
-walk into a room and everybody's like
-
-damn
-
-that is jiggly that's a meaty backside
-
-right there
-
-so the list of dressers possible victims
-
-is
-
-extremely long and in one newspaper
-
-article it said that the citizens of
-
-owen county
-
-held dresher responsible as
-
-drescher led the inquest into these
-
-deaths
-
-and buried most of the bodies francis
-
-edward drescher was believed by
-
-investigators to have played a role
-
-in the poison by a male plot that had
-
-taken so many lives in
-
-owen county but they did not believe
-
-that he had acted alone
-
-after his death three more cases of
-
-stricken
-
-poisonings happened and although several
-
-citizens had turned in their free sample
-
-bottles
-
-to police i think you said 23.
-
-26. crazy after the story hit the news
-
-no new parcels were ever discovered to
-
-have been
-
-sent out so those three
-
-obviously either had delayed delivery
-
-which if it were by royal mail not
-
-unexplainable or
-
-saw their parcel popped it down on the
-
-side and thought
-
-i'll save that for ron yeah i think they
-
-probably saved it for later when they
-
-had the flu or something yeah saved it
-
-for ron
-
-what's the wrong later on oh should have
-
-gotten that
-
-wasted on you i made that joke last
-
-episode as well and it flew over your
-
-head
-
-how do you even remember that last
-
-episode was
-
-four hours because i only have
-
-five jokes
-
-anyway back to the case i think that was
-
-it maybe i should say that
-
-and that's the case
-
-now for something completely different
-
-you should put that on the end because
-
-that is a classic
-
-monty python flying circus maybe we
-
-should say
-
-bye thank you so much for listening to
-
-midweek murders we'll see you next week
+Maybe we should say bye? Thank you so much for listening to Midweek Murders. We'll see you next week.
 
 Bye bye! 
 
 Ciao!
+
+\[Music]
 
 <!--EndFragment-->
