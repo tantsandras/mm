@@ -95,545 +95,177 @@ Hello.
 
 Oh, I'm waiting for your references. 
 
-Oh! Reddit. A newspaper that's been archived in the library and
+Oh! Reddit. A newspaper that's been archived in the library, and I didn't make a note of who wrote it or what newspaper it was in. A book, Francis Drescher strychnine, or strychnine, however you want to pronounce it. We probably need to come to a conclusion on that.
 
-i didn't make a note of who wrote it or
+Oh. I thought it was pronounced strych-nine.
 
-what newspaper it was in
+I would probably go with strychnine.
 
-a book francis drescher strike mean
+Cool.
 
-or stricken however you want to
+And the wiki wiki wah. 
 
-pronounce it we probably need to come to
+Are you sure about that? Because I've always heard it as strychnine when other people talk about it.
 
-a conclusion on that
+I am as sure as I am sexually virile.
 
-oh i thought it was pronounced strict
+....So not at all? \[Laughter] Speaking of which, I should just ask, the other one...
 
-nine
+Quinine. 
 
-i would probably go with strict mean
+Quinine, okay. 
 
-cool
+Yeah. No wait, that one is definitely pronounced quinine.
 
-and the wiki wiki are you sure about
+Yeah. 
 
-that because i've always heard it as
+So then I would say that it would be strychnine, because they both have nine on the end.
 
-strychnine when other people talk about
+Yeah, it would make sense, I've just never heard it like that.
 
-it
+Well, you say it however the fuck you want then. This is your podcast.
 
-i am as sure as i am
+I might have just heard it in America, so it might be American... 
 
-sexually virile
+America, fuck yeah!
 
-so not at all
+Okay. 
 
-speaking of which i should just ask the
+Yeah, I would like you to pronounce it strychnine.
 
-other one
+Mhm. So Francis Edward Drescher, let's talk about the name first and foremost. He is... 
 
-queening queen okay yeah no way that one
+Very germanic. 
 
-is definitely pronounced quinine
+Yeah, but he is mostly referred to in the newspapers as either Francis Edward Drescher, Francis Drescher, or Edward Drescher. So I'm not actually sure what his first name is, but... 
 
-yeah so then i would say that it would
+Francis. 
 
-be strychnine
+All right, let's go with that.
 
-because they both have nine on the end
+It was on his death certificate, so. 
 
-yeah
+Oh yeah.
 
-it would make sense i've just never
+I think that's a fairly reputable source.
 
-heard it like that
+It was on his grave, I saw the photo. Although in some newspaper articles he is referred to as Edward Drescher, but lets go with Francis. I've written Drescher because I wasn't sure. Francis Edward Drescher, a coroner and part-time undertaker in Owen County Indiana, was found dead in his library...
 
-well you say however the \[ __ ] you want
+\[burps]
 
-then this is your podcast
+Was found dead in his library by his wife Estella, on the evening... \[Laughter]
 
-i might have just heard it in america so
+I just like how you chose to keep that in: "he was found dead in his library". 
 
-it might be
+Library!
 
-america america yeah
+I don't know why we're talking like this, because Indiana is not in the south. 
 
-okay yeah i would like you to pronounce
+It's like Washington, isn't it? There abouts? I don't know, I shouldn't say anything about it. Geography, it's beyond me!
 
-it strychnine
+Even though your favorite show is a geography quiz show.
 
-so francis edward drescher
+I know, right? I'm full of... contradictions! That's the word. 
 
-let's talk about the name first and
+Full of hypocrisy. \[Laughter]
 
-foremost
+By his wife Estella, on the evening of the 2nd of June, you guessed it, 1915. 
 
-he is very germanic yeah but he is
+I'm sensing a theme.
 
-mostly referred to in the newspapers
+He was estimated to have been alone for a mere hour before his body was discovered, as he had suggested to his children that they should go and watch a movie at the nearby cinema. Found with his body was a note he had written to his wife, stating: "I ate a radish and my heart has broken. It hurts me today. Pocketbook. Goodbye mom and children". Reportedly it was a bit unintelligible, so they couldn't read if he said: "my heart has broken", or: "my heart has bulked".
 
-as either francis edward drescher
+I'd lean towards bulked, rather than broken. That makes a lot more sense having eaten a radish. Radishes, what even are they? Murderous, that's what they are. I knew I shouldn't be eating them.
 
-francis drescher or edward drescher
+How big was the radish? Did he swallow it whole? Nobody knows. 
 
-so i'm not actually sure what his first
+Not sure those are the most pertinent questions that arise from this case, but okay, everybody has their own research methods. \[Laughter]
 
-name is but francis all right let's go
+A better question would have probably been - why does it say pocketbook in the middle of it? 
 
-with that
+I have a theory as to why it says pocketbook, and it's completely unfounded, and not supported with any evidence. But my thought is, his wife was in on his killing spree and knew that he wrote down the names of his victims, or potential victims, in his pocketbook. I feel like radish is probably a code word.
 
-it was on his death certificate so oh
+Oh yeah, maybe. 
 
-yeah i think that's a fairly reputable
+Like: "I ate a radish", means: "I took the strychnine". And pocketbook is like: "dispose of the pocketbook, otherwise they're gonna poop in my grave".
 
-i saw the fire although in some
+That might be a good theory. So Drescher was under suspicion for a large number of poisonings, as the town of Spencer Indiana had experienced several cases of people who had died after receiving parcels of "free samples" of quinine. An investigation into these murders had begun, and Drescher had reportedly heard a rumor that he was to be arrested on the 3rd of June, which could explain why he decided to kill himself on the second. It could, it could. We don't know. A federal officer had been in town to look into the poisonings, and Drescher was reported to have been much alarmed in the days leading to his body being discovered. I thought it was funny that they said "much alarmed".
 
-newspaper articles
+Suspicious. 
 
-he is referred to as edward drescher but
+Suspicious, oh ja. So these parcels, the parcels with quinine, on the bottles there was a typewritten label on top of the normal label which said "free sample" on it. So people just took these. So I'm guessing they didn't have, like, a steady supply of medications? So they were like: "all right, fine. Free medicine! Okie dokie".
 
-yeah francis i've written dresher
+"Oh! I got free pills in the post. I'm just gonna pop these in my mouth and hope they don't kill me!".
 
-because
+"And hope for the best!". Wait, have we talked about qui-nine? 
 
-i wasn't sure francis edward drescher
+Quinine. 
 
-a coroner and part-time undertaker in
+Quinine.
 
-owen county indiana
+No. 
 
-was found dead in his library
+What the fuck is quinine? \[Laughter] What is quinine, sorry.
 
-was found dead in his library by his
+Quinine, historically, was an anti-malarial drug. 
 
-wife
+What?!
 
-estella on the evening
+Yeah. So from its discovery... Well, from its european discovery, until about 2006 it was the leading drug used to tackle malaria. But also, has a shit ton of side effects. Some of which can be quite severe. 
 
-i just like how he chose to keep that in
+But why did people in 1915 take qui-nine?
 
-it was found dead in his library a
+Quinine! Was taken... \[Laughter]
 
-library
+Quinine, sorry. 
 
-i don't know why we're talking like this
+I can only imagine it was taken because it's got analgesic properties. So it's a painkiller. I'd imagine it's the same theory behind taking paracetamol when you've got a cold, in that it can make you feel a bit better. But what tends to happen with these kind of drugs, is they get marketed as a miracle cure for everything. 
 
-because indiana is not
+Okay.
 
-in the south it's
+So they'll find something that works really well with one thing, in this case malaria, but because it also has analgesic properties they're like: "well, why not take it for your aches and pains? Why not take it for your flu? Why not take it for a headache? Why not take it for conjunctivitis?". Don't take it for that, it's not an antibiotic. \[Laughter]
 
-like washington isn't it there abouts i
+Okay. 
 
-don't know i shouldn't say anything
+Interestingly, quinine has been, I don't know if it still is, an ingredient in tonic water. The theory.... 
 
-about
+What? Wait! I heard...
 
-it geography it's beyond me
+All right, you do the pharmacology side of this podcast then! \[Laughter]
 
-even though your favorite show is a
+I just wanted to add, that I heard somewhere that gin and tonic was invented because of malaria. 
 
-geography quiz show
+Yeah. 
 
-i know right i'm full of contradictions
+Cool!
 
-that's the word full of hypocrisy
+I don't know how reputable this story is. But theoretically, back in the colonial days when Great Britain liked to invade everyone and pretend they were ours, when we did that in Asia the troops needed to take anti-malarials. And the anti-malarial was quinine. So what they would do is drink a solution of quinine, find that "oh, this is horribly bitter", and add some gin to it. And thus, the gin and tonic was born.
 
-by his wife stella on the evening of the
+Historically interesting. Oh. 
 
-2nd
+Which is why I say that I don't know if it's still an ingredient in tonic water. Because quinine is now no longer first choice as an anti-malarial, we've synthetically made drugs that are just as effective and less side effect nasty. 
 
-of june you guessed it 1950. i'm sensing
+Which is the clinical term, obviously. 
 
-a theme
+Yeah. There's three different types of parasite that can cause malaria, and one of them is quinine resistant, one of the other ones is modern drug resistant, so you still have to use quinine to be able to get rid of it. The reason quinine was dropped as first choice is because common side effects are: headaches, tinnitus, vision problems, and sweating. I mean, that's pretty much my life. \[Laughter]
 
-he was estimated to have been alone for
+I can relate, yeah. 
 
-a mere
+Severe side effects can lead to deafness, an irregular heartbeat - which can lead to cardiac arrest, and low blood platelets. Which means, if you get a cut you're at risk of bleeding out, because you can't clot properly. 
 
-hour before his body was discovered as
+Oh no. That would be really bad for you, because you're allergic to plasters. 
 
-he had suggested to his children
+And that would be like the royal family all being hemophiliacs, and a good statement for why inbreeding shouldn't be allowed.
 
-that they should go and watch a movie at
+Is that true? 
 
-the nearby cinema
+I think in Vicky's time they were all hemophiliacs. Because, you know, they married their cousins and shit. 
 
-found with his body was a note he had
+Of course, of course. They do tend to do that.
 
-written to his wife
+Yeah, because they're all from Norwich. I can say that, because I live with someone from Norwich. \[Laughter]
 
-stating quote i ate a radish
-
-and my heart has broken it hurts me
-
-today
-
-pocket book goodbye mom and children
-
-end quote reportedly it was a bit
-
-unintelligible so they couldn't read if
-
-he said my heart has broken
-
-or my heart has bulked
-
-i'd lean towards bulked rather than
-
-broken
-
-that makes a lot more sense having eaten
-
-a radish
-
-radishes what even are they murderous
-
-that's what they are i knew i shouldn't
-
-be eating them
-
-how big was the radish did he swallow it
-
-whole
-
-nobody knows not sure those are the most
-
-pertinent questions that arise from this
-
-case but okay everybody has their own
-
-research methods
-
-a better question would have probably
-
-been why does it say
-
-pocketbook in the middle of it i have a
-
-theory as to why it says pocketbook
-
-and it's completely unfounded and not
-
-supported with any evidence but
-
-my thought is his wife
-
-was in on his killing spree and knew
-
-that he wrote down the names of his
-
-victims
-
-or potential victims in his pocketbook
-
-i feel like radish is probably a code
-
-word
-
-oh yeah maybe like i ate a radish means
-
-i took the strict name and pocketbook is
-
-like
-
-dispose of the pocketbook otherwise
-
-they're gonna poop in my grave
-
-that might be a good theory so dresher
-
-was under suspicion for a large number
-
-of poisonings
-
-as the town of spencer indiana had
-
-experienced
-
-several cases of people who had died
-
-after receiving
-
-parcels of quote free samples
-
-unquote of quinine an investigation into
-
-these murders had
-
-begun and dresher had reportedly heard a
-
-rumor
-
-that he was to be arrested on the 3rd of
-
-june
-
-which could explain why he decided to
-
-kill himself
-
-on the second it could it could
-
-we don't know a federal officer had been
-
-in town to look into the poisonings and
-
-dresher was reported to have been
-
-much alarmed in the days leading to his
-
-body being discovered
-
-i thought it was funny that they said
-
-much alarmed
-
-suspicious suspicious
-
-so these parcels the parcels with
-
-queen on the bottles there was a
-
-typewritten
-
-label on top of the normal label
-
-which said free sample on it so people
-
-just took this so i'm guessing they
-
-didn't have like a steady supply of
-
-medications so they were like all right
-
-fine free medicine okie dokie
-
-oh i got free pills in the post i'm just
-
-gonna pop these in my mouth and hope
-
-they don't kill me
-
-and hope for the best wait have we
-
-talked about
-
-queen 9 queen quinn
-
-no what the \[ __ ] is quinn in what is
-
-squinning
-
-sorry
-
-quitting historically was
-
-an anti-malarial drug what
-
-yeah so from its discovery
-
-well from its european discovery
-
-until about 2006 it
-
-was the leading drug used
-
-to tackle malaria but also has a
-
-\[ __ ] ton of side effects some of which
-
-can be quite severe well why did
-
-people in 1915 take quinine
-
-quinine was taken
-
-sorry i can only imagine it was taken
-
-because it's got analgesic properties
-
-so it's a painkiller i'd imagine it's
-
-the same theory behind taking
-
-paracetamol when you've got a cold
-
-in the it can make you feel a bit better
-
-but what tends to happen
-
-with these kind of drugs is they get
-
-marketed
-
-as a miracle cure for everything okay
-
-so they'll find something that works
-
-really well with one thing
-
-in this case malaria but because it also
-
-has analgesic properties they're like
-
-well
-
-why not take it for your aches and pains
-
-why not take it for your flu
-
-why not take it for a headache why not
-
-take it for
-
-conjunctivitis don't take it for that
-
-it's not an antibiotic
-
-okay interestingly quinine
-
-has been i don't know if it still is
-
-an ingredient in tonic water
-
-the theory all right you do
-
-the pharmacology side of this podcast
-
-then
-
-i just wanted to add that i heard
-
-somewhere that
-
-gin and tonic was invented because
-
-of malaria yeah cool
-
-i don't know how reputable this story is
-
-but theoretically back in the colonial
-
-days
-
-when great britain liked to invade
-
-everyone and pretend they were ours
-
-when we did that in asia
-
-the troops needed to take anti-malarials
-
-and the anti-malarial was quinine so
-
-what they would do is drink a solution
-
-of quinine
-
-find that oh this is horribly bitter
-
-and add some gin to it and thus the gin
-
-and tonic was born
-
-historically interesting oh which is why
-
-i say that i don't know if it's still an
-
-ingredient in tonic water
-
-because quinine is now no longer first
-
-choice as an anti-malarial
-
-we've synthetically made drugs that are
-
-just as
-
-effective and less side effect
-
-nasty which is the clinical term
-
-obviously yeah there's three different
-
-types
-
-of parasite that can cause malaria
-
-and one of them is quinine resistant
-
-one of the other ones is modern drug
-
-resistant so you still have to use
-
-quinine to be able to get rid of it
-
-the reason quinine was dropped as first
-
-choice
-
-is because common side effects are
-
-headaches tinnitus vision problems
-
-and sweating i mean that's pretty much
-
-my life
-
-\[Laughter]
-
-i can relate yeah severe side effects
-
-can lead to deafness an irregular
-
-heartbeat
-
-which can lead to cardiac arrest and
-
-low blood platelets which means if you
-
-get a cut
-
-you're at risk of bleeding out because
-
-you can't clot
-
-properly oh no that would be really bad
-
-for you
-
-because you're allergic to plasters and
-
-that would be
-
-like the royal family all being
-
-hemophiliacs
-
-and a good statement for why inbreeding
-
-shouldn't be allowed
-
-is that true i think in vicky's time
-
-they were all
-
-hemophiliacs because you know they
-
-married their cousins and \[ __ ] of course
-
-of course they do tend to do that
-
-yeah because they're all from norwich
-
-and say that because i live with someone
-
-from norwich
-
-of course so these parcels had led to
+Of course. So these parcels had led to
 
 the deaths of
 
