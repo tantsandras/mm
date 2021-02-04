@@ -205,793 +205,159 @@ Oh here we go, I'm expecting this to be highly reliable.
 
 And Nick Fury lifted a fingerprint with a piece of tape from his, like, ID card. Because somebody else touched it. But I've always been believing, because of movies again, that you have to like warm it up or something? 
 
-So it depends on what surface the fingerprint is on, which will determine which technique that you need to use.
+So it depends on what surface the fingerprint is on, which will determine which technique that you need to use. But most of the time if it's a solid surface; a desk, a pen, an ID card... Anything that's not like a carrier bag or something, you need to use a different technique for a carrier bag. But anything that's a non-malleable surface, all you need to do to recover the fingerprint is dust it with a specific powder, and then literally lift it with a bit of clear tape. 
 
-but most of the time if it's a solid
+Okay, so you have to dust it first?
 
-surface
+Yes. You won't be able to recover a fingerprint unless the fingerprint is left in dust already. So unless your fingerprint is on a surface that you can visually see the fingerprint. So for example, one of the best case scenarios for a scene of crime officer is a carjacking where the car is a manual transmission and has a chrome, or metallic, gearbox. Because you'll have extra sweat, because of the adrenaline, and the metal is non-absorbent. So you can get perfect fingerprints from a metal gear box, just from the sweat. I think that they would dust it anyway, but you can visually see that fingerprint already, so you know it's there. 
 
-a desk a pen an id card anything that's
+So you can't actually lift the fingerprint with tape unless you can already see it? 
 
-not like a carrier bag or something you
+Yes. 
 
-need to use a different technique for a
+Okay. 
 
-carrier bag but anything that's a
+So that's why a lot of things like CSI Miami, or any kind of tv show that feature forensic science, they're always running around with like a little tiny feather duster. And that's essentially what they use to administer the fingerprint dust onto surfaces. So you dust down the surface and then that will show up the fingerprint, and then you just lay a bit of tape over it carefully, peel that off and then lay it down on some clear acetone.
 
-non-malleable surface all you need to do
+He also folded his tape with the fingerprint on it, and then went to use it again. I'm like: "that wouldn't work", right? 
 
-to recover the fingerprint is
+If you close the tape over the fingerprint and then reopen to use the tape again, you won't be able to use that fingerprint. 
 
-dust it with a specific powder and then
+No. That's what I thought as well. I was like: "this doesn't make sense".
 
-literally lift it with a bit of
+So yeah, that would be the fingerprint, we've covered that, we can tick that. Lovely. Good job. They also got a cryo biological expert, I don't know what the full word is, I just wrote cryobio because it's fun. Might be cryobiology, might be biological whatever.
 
-clear tape okay so you have to dust it
+I don't actually know what that is. 
 
-first
+I'm talking about it! If you'd give me a minute! \[Laughter]
 
-yes you won't be able to recover a
+Fine, fine.
 
-fingerprint unless the fingerprint is
+I mean to be fair, I would expect you to know what this is because it has greek stems. Let's do the easy ones: what's "ology"?
 
-left in dust already so unless your
+I did this in Swedish, so fuck you. But..
 
-fingerprint is
+Okay. So what's "ology"? \[Mimics Swedish chef] 
 
-on a surface that you can visually see
+It's the "study of". I was going to say the "learning of", but that's incorrect.
 
-the fingerprint
+Well yeah, that's the same thing innit. Then "bio".
 
-so for example one of the best case
+Bio is life. 
 
-scenarios for a
+Yeah, living things innit. So, so far we've got "the study of living things". And then "cryo".
 
-scene of crime officer is a
+No. Wait. 
 
-carjacking where the car is a manual
+You'll kick yourself, because I know it's in there.
 
-transmission
+Yeah. Yeah well, I wasn't expecting a pop quiz okay?!
 
-and has a chrome or metallic gearbox
+Well, we need to mix these up a bit. Murder, murder, murder. That's all you talk about. \[Laughter] Cryo is freezing, or frozen.
 
-because you'll have extra sweat because
+Yeah, of course... Fucking hell. I was going to say that! 
 
-of the adrenaline
+See, I knew it was in there, I knew it!
 
-and the metal is non-absorbent
+And then I was like: "no that's silly, you're thinking of Star Wars".
 
-so you can get perfect fingerprints
+So cryo chambers are like the futuristic: "you freeze your body, and then thaw it in the future". Supposedly what happened to Walt Disney, not true. So yeah, a cryobiologist is the expert that looks at the study of frozen life, whether that be plant-based or animal based. So they brought one of these people in, and they looked at the decomposition of Leanne's body and the stage that she should have been in given that it was eight months, I think, between her disappearance and her body being found.
 
-from a metal gear box just from the
+Yeah, nine months. 
 
-sweat
+Okay. So you'd expect her to be in an advanced state of decay. What they found was, she was not. 
 
-i think that they would dust it anyway
+I kind of guessed, because of the fingerprint.
 
-but you can visually see
+Yeah. They likely wouldn't have been able to recover any soft tissue evidence over that amount of time. 
 
-that fingerprint already so you know
+Yeah. 
 
-it's there so you can't actually
+They'd have to look at teeth, or hair, or something like that to be able to identify her. So what this told the investigators was that she had recently been placed in that shallow grave, and that she hadn't been there the whole time. Which is why, when they did that massive search of that massive area, nothing came up. Because she literally was not there. Her body was in, I think, nine bin bags. Might be a different number, but I feel like it's nine.
 
-lift the fingerprint with tape unless
+Oh god.
 
-you can already
+Not chopped up, for once. And also a floral patterned duvet, the floral pattern seems to be significant to a lot of the people that have written these reports. I can find no significance to it, but they all mentioned it, so I thought I'd let you know as well. She had a dog collar, a leather dog collar, that was closing one of the bags over her head.
 
-see it yes okay so that's why
+Okay. So it was on top of the bag? 
 
-a lot of things like csi miami
+Yeah. So the bag was on her, and then the dog collar was sealing that bag around her neck. She was also bound, with her arms behind her back, with cable ties. One of the bags that was used to cover her body was a specific type of green plastic bag. I don't know if it was a bag, but it was definitely a green plastic. And she also had a scarf that was knotted around her neck. 
 
-or any kind of tv show that features
+Okay. 
 
-forensic science they're always running
+That's the summary of the condition that they found her body in.
 
-around with like a little tiny feather
+Yeah. So after Leanne had been identified, the police made a public appeal asking for any information about people living in Bramley who had a connection to Lindley woods where the body had been found. After this appeal, two separate women reached out to police about a man named John Taylor. They were both former girlfriends of his, and told police that they had driven past Lindley woods with John, who had told them that he would go there regularly to poach. The police were also tracking another lead, they had contacted over 100 pet stores in an effort to identify the person who had purchased the dog collar that was around the plastic bag. This had been ultimately successful, as one company was able to supply the police with the name of a customer who had bought several of these dog collars, and who lived in Bramley. 
 
-duster
+Sorry, I just want to interject. Because I found particular aspects of the police work behind finding and linking the evidence really fascinating. Which is probably just a reflection of my sad, sad personality. But for the dog collar, they worked out that it was made by one specific company in Nottinghamshire.
 
-and that's essentially what they use to
+Okay. 
 
-administer the
+They then followed that, so they got in contact with that company and they said: "yep, we sent this particular brand of collar to 112 wholesalers". So they then got in contact with all of those 112 individual wholesalers and said: "has anybody, in this time frame, purchased one of these collars?". And so they got a list of people back with addresses, and whatever else data the police can seize. And one sale in Liverpool, they found that Taylor was the customer.
 
-fingerprint dust onto surfaces so you
+I think it was a mail order? 
 
-dust down the surface and then that will
+Yeah. So he bought it online, which probably made it easier to track him, because they had shipping addresses. So they would have said to the wholesalers: "okay, did you ship to anybody in this area during these dates?". And so they got the list and they cross referenced it. But I just find it so incredible, that from a random looking leather dog collar they can come up with a positive ID for someone who's already a suspect.
 
-show up the fingerprint
+Yeah. And also, in Liverpool. Which, I'm guessing, is not North Yorkshire or whatever?
 
-and then you just lay a bit of tape over
+It's not, no. That's why it's called Liverpool. \[Laughter] Yeah, I just thought it was a particularly interesting point. 
 
-it carefully peel that off and then lay
+Yeah. It is crazy. So John Taylor, a 44 year old dick bag and Parcelforce employee, lived less than a mile from Leanne. Known locally as the "pet man" which, a weird moniker but alrighty then. He owned several animals such as ferrets, ew, and dogs.
 
-it down on some clear acetone
+You're just thinking of Draco as a ferret.
 
-he also folded his tape with the
+Ferrets might be good pets, I don't know. Being a Parcelforce employee would have given him access to the cable ties found with Leanne's body, as these were more or less only supplied to Royal Mail, Parcelforce's parent company. Which is funny, because we mentioned Royal Mail in the last episode. We shit on them, but it's good that they exist.
 
-fingerprint on it and then
+They're back! \[Laughter]
 
-went to use it again i'm like that
+They're back. Okay. Maybe we should talk about the evidence that linked John Taylor to Leanne's body?
 
-wouldn't work
+You've already done two of it, so my role here is reduced. They also found a dog hair on Leanne's person, I don't know where they found it exactly. Did you read that at all?
 
-right if you close the tape over the
+No, I thought it was a human hair?
 
-fingerprint
+They found a human hair, but they also found a dog hair. 
 
-and then reopen to use the tape again
+Oh, okay. 
 
-you won't be able to use that
+So they sent this dog hair to a university in Texas. Yeah, long way to go. Which specialized in DNA profiling for pedigree dog research. So you could submit your dog's hair to them, and they'd be like: "nah, that's a mongrel, not a pedigree. Don't spend seven thousand dollars on it".
 
-fingerprint no that's what i thought as
+Didn't know that was a thing, but good to know. 
 
-well i was like this doesn't make sense
+So they managed to get a partial profile from the hair that was recovered, and they believe that it would have been a match to the dog that Taylor owned, which conveniently died of heart failure just as the police were starting to close in on Taylor. 
 
-so yeah that would be the fingerprint
+Oh. I thought that he killed the dog.
 
-we've covered that we can tick that
+That was why I said it laced with sarcasm. \[Laughter]
 
-lovely good job they also
+Sorry.
 
-got a cryo biological
+Yeah. So a lot of people think that he killed the dog and burnt the body, so that he couldn't be linked back to Leanne's murder. Yeah, like you said, they also found a human hair. This was found on the scarf that was wrapped around her neck, and it was in the knot. So they were pretty sure that this was not a cross-contamination, that it had come from either Leanne or the main suspect. 
 
-expert i don't know what the full word
+Yeah. 
 
-is i just wrote cryobio because it's fun
+They easily ruled out Leanne, because she still had her hair, easy cross reference. Done. They couldn't recover enough DNA to be able to use nuclear DNA. So nuclear DNA is all in the root of your hair. So if you pluck a hair out, the only way that it can be matched by nuclear DNA is if it's still got its root attached. There wasn't enough DNA on the hair to be able to use nuclear DNA, so they used a relatively newer technique which is mitochondrial DNA. So the important thing to remember about mitochondrial DNA is - it is not unique to each person like your nuclear DNA is. So because your nuclear DNA is a mix of both of your parents, and then a certain combination of that which makes it different to your siblings. Your siblings, if you have any, will have exactly the same mitochondrial DNA as you. So you can't use it to identify, uniquely, a person. But you can use it to identify someone of that maternal lineage. So if Taylor had a brother, you wouldn't have been able to tell which one of the two of them the hair belonged to, but you would be able to determine that it was one of those two. 
 
-might be cryobiology might be biological
+Yeah. 
 
-whatever
+Or a sister. 
 
-i don't actually know what that is i'm
+Yeah.
 
-talking about it
+So there's a bit more evidence. So like we mentioned before, there was a green plastic that was found that was used to wrap the body. The sample that was recovered from the body was found to be a match to some green plastic that Taylor had in his home. He'd used some twine to tie up some of the bags, this was linked back to a specific brand of twine that was manufactured in Devon, that was usually only sold to the ministry of defense. Now that company said: "actually, we did make an individual batch, that was a one-off, that we gave to retailers to use in rabbit hunting", which is one of the things that a certain Mr Taylor was particularly fond of. They managed to link the twine that was found on the body to the twine that was found in his house, and link it back to that specific one manufacturer to be able to connect the dots. So pretty impressive stuff there as well.
 
-you'd give me a minute fine fine
+Yeah crazy.
 
-i mean to be fair i would expect you to
+You think that it's crazy, but to be fair, both fiber ID, so the twine, and plastic ID can be done just by microscopy.
 
-know what this is because it has
+This is a weird question, maybe. But this can't be ruled as circumstantial, right? 
 
-greek stems let's do the easy ones
+No. 
 
-what's ology
+No. 
 
-i did this in swedish so \[ __ ] you but
-
-okay so what's uh
-
-it's the study of i was going to say the
-
-learning of
-
-but that's well yeah that's correct same
-
-thing in it then bio
-
-bio is life yeah
-
-living things in it so so far we've got
-
-the study of living
-
-things and then cryo no
-
-wait you'll kick yourself because i know
-
-it's in there
-
-yeah yeah well i wasn't expecting a pop
-
-quiz okay
-
-well we need to mix these up a bit
-
-murder murder murder that's all you talk
-
-about
-
-cryo is freezing or frozen
-
-\[ __ ] hell see i knew it was in there
-
-i knew it
-
-and then i was like no that's silly
-
-you're thinking of star wars
-
-so cryo chambers are like the futuristic
-
-you freeze your body and then thaw it in
-
-the future supposedly what happened to
-
-walt disney
-
-not true so yeah a cryobiologist is the
-
-expert
-
-that looks at the study of frozen
-
-life whether that be plant-based or
-
-animal based so they brought one of
-
-these people in and
-
-they looked at the decomposition of
-
-leanne's body
-
-and the stage that she should have been
-
-in
-
-given that it was eight months
-
-i think between her disappearance and
-
-her body being found
-
-yeah nine months okay so you'd expect
-
-her to be
-
-in an advanced state of decay
-
-what they found was she was not i kind
-
-of guessed because of the fingerprint
-
-yeah they likely wouldn't have been able
-
-to recover any soft tissue evidence
-
-over that amount of time yeah they'd
-
-have to look at teeth
-
-or hair or something like that to be
-
-able to identify her
-
-so what this told the investigators was
-
-that she had
-
-recently been placed in that shallow
-
-grave and that she hadn't been there
-
-the whole time which is why when they
-
-did that
-
-massive search of that massive area
-
-nothing came up
-
-because she literally was not there
-
-her body was in i think
-
-nine bin bags might be a different
-
-number but i feel like it's nine
-
-not chopped up for once and also
-
-a floral patterned duvet the floral
-
-pattern seems to be significant to a lot
-
-of the people that
-
-have written these reports i can find no
-
-significance to it but they all
-
-mentioned it
-
-so i thought i'd let you know as well
-
-she had
-
-a dog collar a leather dog collar that
-
-was
-
-closing one of the bags over her head
-
-okay so it was on top of the bag yeah so
-
-the bag was on
-
-her and then the dog collar was sealing
-
-that bag
-
-around her neck she was also bound with
-
-her arms behind her back with cable ties
-
-one of the bags that was used to cover
-
-her body was
-
-a specific type of green plastic
-
-bag i don't know if it was a bag but it
-
-was definitely a green
-
-plastic and she also had a scarf that
-
-was
-
-knotted around her neck okay that's the
-
-summary of the condition that they found
-
-her body in
-
-yeah so after lyanna had been identified
-
-the police made a public appeal asking
-
-for any information about people living
-
-in bramley
-
-who had a connection to lindley woods
-
-where
-
-the body had been found after this
-
-appeal
-
-two separate women reached out to police
-
-about a man named john taylor
-
-they were both former girlfriends of his
-
-and told police that they had driven
-
-past lindley woods with john
-
-who had told them that he would go there
-
-regularly
-
-to poach the police were also tracking
-
-another lead
-
-they had contacted over 100
-
-pet stores in an effort to identify the
-
-person who had purchased
-
-the dog collar that was around the
-
-plastic bag
-
-this had been ultimately successful as
-
-one company was able to supply the
-
-police with the name
-
-of a customer who had bought several of
-
-these dog collars
-
-and who lived in bramley sorry
-
-i just want to because
-
-i found particular aspects of the police
-
-work
-
-behind finding and linking the evidence
-
-really fascinating which is probably
-
-just a reflection of my sad sad
-
-personality but for the dog collar
-
-they worked out that it was made by
-
-one specific company in nottinghamshire
-
-okay they then followed that so they got
-
-in contact with that company and they
-
-said yep we sent
-
-this particular brand of collar to 112
-
-wholesalers so they then got in contact
-
-with all of those 112
-
-individual wholesalers and said has
-
-anybody
-
-in this time frame purchased one of
-
-these
-
-collars and so they got a list of people
-
-back with
-
-addresses and whatever else data the
-
-police can seize
-
-and one sale in liverpool
-
-they found that taylor was the customer
-
-i think
-
-it was a mail order yeah so he bought it
-
-online
-
-which probably made it easier to track
-
-him because they had shipping addresses
-
-so they would have said to the
-
-wholesalers okay did you ship to anybody
-
-in this area
-
-during these dates and so they got the
-
-list and they cross referenced it
-
-but i just find it so incredible that
-
-from
-
-a random looking leather dog collar
-
-yeah they can come up with a positive id
-
-for someone who's already a suspect
-
-yeah and also in liverpool
-
-which i'm guessing is not north
-
-yorkshire or whatever
-
-it's not no that's why it's called
-
-liverpool
-
-yeah i just thought it was a
-
-particularly interesting point yeah it
-
-is crazy
-
-so john taylor a 44 year old dick bag
-
-and partial force employee
-
-lived less than a mile from leanne known
-
-locally as the pet man which
-
-a weird moniker but alrighty then
-
-he owns several animals such as ferrets
-
-ew and dogs
-
-he's just thinking of draco as a ferret
-
-ferrets might be good pets i don't know
-
-being a parcel force employee
-
-would have given him access to the cable
-
-ties
-
-found with leanne's body as these were
-
-more or less
-
-only supplied to royal mail
-
-parcel forces parent company which is
-
-funny because we mentioned
-
-royal mail in the last episode we \[ __ ]
-
-on them
-
-but it's good fist
-
-they're back okay maybe we should talk
-
-about
-
-the evidence that linked john taylor to
-
-lia's body
-
-you've already done two with it so
-
-my role here is reduced
-
-they also found a dog hair on
-
-leanne's person i don't know
-
-where they found it exactly did you read
-
-that at all
-
-no i thought it was a human hair
-
-they found a human hair but they also
-
-found a dog hair oh
-
-okay so they sent this dog hair
-
-to a university in texas
-
-yeah long way to go which specialized
-
-in dna profiling for
-
-pedigree dog research so you could
-
-submit your dog's hair to them and
-
-they'd be like nah that's a mongrel not
-
-a pedigree
-
-don't spend seven thousand dollars on it
-
-didn't know that was a thing
-
-but good to know so they managed to get
-
-a partial profile
-
-from the hair that was recovered and
-
-they believe
-
-that it would have been a match to the
-
-dog
-
-that taylor owned which conveniently
-
-died of heart failure just as the police
-
-were starting to close in on taylor oh
-
-i thought that he killed the dog
-
-that was why i said it laced with
-
-sarcasm
-
-sorry
-
-yeah so a lot of people think that he
-
-killed the dog and burnt the body so
-
-that he couldn't be linked back to
-
-leanne's murder
-
-yeah like he said they also found a
-
-human hair
-
-this was found on the scarf that was
-
-wrapped around her neck
-
-and it was in the knot so they were
-
-pretty sure
-
-that this was not a cross-contamination
-
-that it had come from either liane or
-
-the main suspect yeah they easily pulled
-
-out liane
-
-because she still had her hair easy
-
-cross reference
-
-done they couldn't recover enough
-
-dna to be able to use nuclear dna
-
-so nuclear dna is all in the root of
-
-your hair
-
-so if you pluck a hair out the only way
-
-that it can be matched by nuclear dna is
-
-if it's still got its root attached
-
-there wasn't enough dna on the hair to
-
-be able to use
-
-nuclear dna so they used a relatively
-
-newer technique which is
-
-mitochondrial dna so the important
-
-thing to remember about mitochondrial
-
-dna
-
-is it is not unique to each person
-
-like your nuclear dna is so because your
-
-nuclear dna is a
-
-mix of both of your parents and then a
-
-certain combination
-
-of that which makes it different to your
-
-siblings your siblings
-
-if you have any will have exactly the
-
-same mitochondrial dna as you
-
-so you can't use it to identify
-
-uniquely a person but you can use it to
-
-identify
-
-someone of that maternal lineage so if
-
-taylor had a brother you wouldn't have
-
-been able to tell which one of the two
-
-of them the hair belonged to but you
-
-would be able to determine that it was
-
-one of those two yeah or a sister yeah
-
-so there's a bit more evidence
-
-so like we mentioned before there was a
-
-green plastic that was found that was
-
-used to wrap the body
-
-the sample that was recovered from the
-
-body
-
-was found to be a match to some green
-
-plastic that taylor had in his home
-
-he'd used some twine to tie up some of
-
-the bags
-
-this was linked back to a specific
-
-brand of twine that was manufactured
-
-in devon that was usually
-
-only sold to the ministry of defense
-
-now that company said actually
-
-we did make an individual batch
-
-that was a one-off that we gave to
-
-retailers to use in rabbit hunting
-
-which is one of the things that a
-
-certain mr taylor was particularly fond
-
-of
-
-they managed to link the twine that was
-
-found on the body
-
-to the twine that was found in his house
-
-and link it back to that specific one
-
-manufacturer to be able to connect the
-
-dots
-
-so pretty impressive stuff there as well
-
-yeah crazy
-
-you think that it's crazy but to be fair
-
-both fiber id so the twine
-
-and plastic id can be done just by
-
-microscopy
-
-this is a weird question maybe but this
-
-can't be ruled as circumstantial
-
-right no no it's a direct link between
-
-the body and a source material found in
-
-his home
-
-like if they hadn't found a batch of
-
-cable ties
-
-in his bedside drawer that were the
-
-exact same manufacturer
-
-as the ones used by the royal mail
-
-then the cable ties would have been
-
-circumstantial because the cable ties
-
-found at the body
-
-would have been linked back to the ones
-
-supplied by the royal mail
+It's a direct link between the body and a source material found in his home. Like if they hadn't found a batch of cable ties in his bedside drawer, that were the exact same manufacturer as the ones used by the Royal Mail, then the cable ties would have been circumstantial. Because the cable ties found at the body would have been linked back to the ones supplied by the royal mail
 
 and he worked for the royal mail yeah
 
