@@ -61,85 +61,29 @@ I have a mildly amusing too.
 
 Oh yeah? Tell me. 
 
-I was watching not going
+I was watching Not Going Out, it's the sitcom with Lee Mack in it, and this episode was all about a pub quiz. And one of the questions on the pub quiz was: "pi, the mathematical number, is 3.14. But what is the next number in the sequence?". And one of the characters was like: "what kind of insufferable know-it-all knows anything more than 3.14?", and I was like: "3.1416". Me, I'm that kind of insufferable know-it-all.
 
-out it's the
+I am a bit surprised, but I'm also not surprised. Well, I shouldn't be surprised.
 
-sitcom with lee mac in it and this
+I'm a little bit insulted. \[Laughter]
 
-episode was all about a pub quiz
+Well it is funny, because you make fun of know-it-alls sometimes. Or, you do it sarcastically, but I know deep inside you do want to actually correct me.
 
-and one of the questions on the pub quiz
+Nooooo.
 
-was
+You do that unsarcastically sometimes as well.
 
-pi the mathematical number is 3.14
+It's not deep inside at all, it's just brimming beneath the surface. \[Laughter]
 
-but what is the next number in the
+Fair enough, fair enough.
 
-sequence
+\[Music]
 
-and one of the characters was like what
+Should we start maybe? Okay.
 
-kind of insufferable
+Okay. Let's kick this in the dick! Good evening cocksuckers! \[Laughter]
 
-know-it-all knows anything more than
-
-3.14
-
-and i was like 3.1416
-
-me i'm that kind of insufferable now at
-
-all
-
-i am a bit surprised but i'm also not
-
-surprised well i shouldn't be surprised
-
-i'm a little bit insulted
-
-well it is funny because
-
-you make fun of know-it-alls sometimes
-
-or you do it sarcastically
-
-but i know deep inside you do want to
-
-actually correct me
-
-no
-
-you do that unsarcastically sometimes as
-
-well
-
-it's not deep inside at all it's just
-
-brimming beneath the surface
-
-fair enough fair enough
-
-should we start maybe okay
-
-okay let's kick this in the dick
-
-good evening \[ __ ]
-
-\[Laughter]
-
-i might keep that in maybe i shouldn't
-
-but i don't
-
-care anymore
-
-it's wednesday which means that it's
-
-time to talk about crime i'm your host
-
-no you're listening to midweek
+I might keep that in. Maybe I shouldn't, but I don't care anymore. It's Wednesday, which means that it's time to talk about crime. I'm your host... No! You're listening to Midweek
 
 \[ \_\_ ] \[ \_\_ ] kick it in
 
