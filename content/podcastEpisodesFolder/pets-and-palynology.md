@@ -83,541 +83,129 @@ Should we start maybe? Okay.
 
 Okay. Let's kick this in the dick! Good evening cocksuckers! \[Laughter]
 
-I might keep that in. Maybe I shouldn't, but I don't care anymore. It's Wednesday, which means that it's time to talk about crime. I'm your host... No! You're listening to Midweek
+I might keep that in. Maybe I shouldn't, but I don't care anymore. It's Wednesday, which means that it's time to talk about crime. I'm your host... No! You're listening to Midweek... Fucking shit. Kick it in the dick! \[Laughter]
 
-\[ \_\_ ] \[ \_\_ ] kick it in
+You have one job. 
 
-you have one job i have
+I have all the jobs! \[Laughter]
 
-all the jobs
+That's the joke dot jpeg.
 
-that's the joke dot jpeg
+You're listening to Midweek Murders, and I'm your host Sandra.
 
-you're listening to midweek murders and
+And I'm your host Joe. 
 
-i'm your host sandra
+Ba bam!
 
-i'm your host joe bye-bye
+Kaplow.
 
-i got my information from wikipedia
+I got my information from wikipedia, four separate BBC articles which will be on the blog. On the website. Midweek... Midweek Murders. 
 
-four separate bbc articles which
+Midweek Murders! \[Mimics Swedish chef]
 
-will be on the blog on the website
+Midweekmurders.netlify.app. A blog post on crime and investigation, an article in Yorkshire Evening Post... Yorkshire? 
 
-midweek
+"Yorkshire".
 
-midweek merlin weekend
+An article in Yorkshire Evening Post by David Bruce, and an article in The Guardian by Martin Wainwright.
 
-\[Music]
+Also one of my sources is the BBC News article, also the wiki wiki wah. The national archives which documents her majesty's courts records, a journal article titled "hair as a source of forensic evidence in murder investigations". And what when how dot com, that reminded me all that I'd forgotten about plastic bag striations.
 
-midweek murders.net life dot app
+So this week we're going to talk about the murder of Leanne Tiernan. And Leanne Tiernan was a happy, chocolate loving 16 year old, which one of those apply to you. 
 
-a blog post on crime and investigation
+You're right. I am a 16 year old. \[Laughter]
 
-an article in yorkshire evening
+I was thinking about chocolate loving. 
 
-post yorkshire yorkshire
+I know, that was the joke. 
 
-an article in yorkshire evening post by
+And Leanne Tiernan was christmas shopping in Leeds city center with her best friend Sarah on the 26th of November in the year 2000. "In the year 2000". That was a Conan O'Brien sketch, you're welcome.
 
-david bruce and an
+And that is why there was no canned laughter afterwards.
 
-article in the guardian by martin wayne
+They had taken a bus back to the suburb of Bramley, where they lived, at approximately 4.30 p.m. Leanne and Sarah had begun to walk home together, but parted ways at Houghley Lane where Sarah watched her friend walk towards the wooded area of Houghley Gill. When Sarah had returned home she phoned Leanne's house on the landline, and was told that Leanne wasn't home yet. You remember when we had landlines?
 
-wright
+James asked me the other day if I ever call Munich on the land line. I was like: "James, what's a landline?". \[Laughter] I quite like the idea of a landline, but I know that if I installed one it would only ever be telemarketers. Or my mum, who would just call me on my mobile if I ignored the landline anyway.
 
-also one of my sources is the bbc news
+That's moms for you. Leanne's mother tried calling her cell phone at 5.20 pm, but nobody answered. She tried calling again, but this time the call dropped after just four rings. At 7pm Leanne's mother called the police to report her daughter missing. The search for Leanne started immediately, but the area of Houghley Gill consisted of extremely varied terrain, which made the search very difficult. The police inquest headed by detective superintendent Cris Gregg, not the Gregg pasties person...
 
-article also the wiki wiki
+Nah that was weak, move on. 
 
-the national archives which documents
+Yeah it was, it was. I don't even know where I was supposed to be going with that, but all right. Calculated her probable route with the help of Sarah, who was the last person to have seen Leanne on the 26th. They went door-to-door along this route, searching 955 houses and countless other buildings, for any clue as where Leanne could be.
 
-her majesty's courts records a
+I've got some actual numbers on the "countless other things", just to put into context the size of this search.
 
-journal article titled hair as a source
+Okay, yeah. 
 
-of forensic evidence in murder
+1400 houses were questioned. 
 
-investigations
+Oh god.
 
-and what when how dot com
+800 sheds or garages were searched. 150 commercial properties were searched, so shops and stuff like that. 12 search warrants were issued, and I don't know if you know, but a search warrant needs to be authorized by a judge. Which means that the police officers need an evidence base to be able to get a search warrant approved. So they take time, and they take money, and they take effort, and they got 12 of them. Usually it's hard enough to get one. 140 male DNA samples were taken. A three mile section of a canal was searched, including two of those three miles where the canal was drained to one meter of water. So the search was absolutely massive.
 
-that reminded me all that i'd forgotten
+I also wrote down that they searched 32 drain shafts. 
 
-about plastic bag
+Yeah, and they got help from lots of different organizations to locate hidden drains, and old drains that aren't in service anymore. They really did quite a thorough job.
 
-striations
+Yeah. On the 4th of December, police released a facial composite of a man that had been spotted walking his dog in the Houghley Gill area at the time of leanne's disappearance. And I actually looked up the composite, and it is quite similar to the man that was responsible for Leanne's disappearance and death. I looked into this a little bit more, and he was actually spotted in the area like an hour before Leanne went missing. I'm a bit surprised that somebody saw him, and I'm also a bit surprised that they could remember, kind of, what the face looked like. It was quite interesting actually, and also goes to show that they did talk to so many people that they were like: "this man, an hour before Leanne went missing, might be a person of interest". But I also remembered like, you know... Do you remember the dodgy dog walker episode? 
 
-so this week we're going to talk about
+No. \[Laughter]
 
-the murder of leanne
+We talked about like, this one guy who... Police interest peaked about him, because he was out walking his dog, but he had nothing to do with the actual case. But this time it actually did have something to do with the case. 
 
-tiernon and leanne tiernon was a happy
+I always find it suspicious that it's a dog walker that finds someone, or a cadaver, at six o'clock in the morning. What kind of maniac goes out at six o'clock in the morning to walk their dog? Obviously a murderer. \[Laughter]
 
-chocolate loving 16 year old which
+Ollie would like that, but that's not the case for you. 
 
-one of those applied to you you're right
+He wouldn't. He complains if I have to take him out too early.
 
-i am a 16 year old
+Aww, that's why he's so perfect for you, because he's so old. 
 
-i was thinking about chocolate flour i
+Yeah. Screw getting a puppy. Ugh, could you imagine? \[Laughter]
 
-know
+No, I couldn't imagine, because puppies are a lot of work.
 
-that was the joke and leanne tiernon was
+I mean it's bad enough anyway, I have to take him out four times a day. But when he gets the shits and it's at three o'clock in the morning?
 
-christmas
+Yeah. 
 
-shopping in lids city center with her
+I ain't invested in that life. This dog-owning business has just reaffirmed for me the fact that I do not want children.
 
-best friend
+Well, you chose to have a dog.
 
-sarah on the 26th of november and the
+I know, and he's great company for about 10 minutes every day and then he slinks off and does his own thing, which is great. But a baby won't slink off and do their own thing, you have to pay attention to them all the time. I'm like: "why aren't you grown up and have left the house already?".
 
-year
+To all the listeners out there, if this makes it into the cut, I don't think you've been invested in anything as you're invested in your dog. So don't be worried, the dog lives a great life.
 
-2000. in the year 2000
+He is my only reason for existence. 
 
-that was a conan o'brien sketch you're
+Oh yeah. Nine months after Leanne was last seen, another dog walker, this is the one you were talking about...
 
-welcome
+Surprise surprise.
 
-and that is why there was no canned
+...named Mark Bisson was out for a walk with his puppers in Lindley woods North Yorkshire, 16 miles from Leanne's home. He came across Leanne's body only 100 yards away from where another murder victim, a woman named Yvonne Fitt, had been found in 1992. So 100 yards is?
 
-laughter afterwards
+I'm going to guess 108 meters.
 
-they had taken a bus back to the suburb
+91.4 meters.
 
-of
+Ah! I wen't the wrong way.
 
-bramley where they lived at
+Yeah. So almost there, almost. Leanne's body was identified by her fingerprints. And now I wrote: "autopsy and things found with the body". Maybe that's your... \[Laughter] What was found with Leanne's body?
 
-approximately
+A lot, forensically. So we can start with the fingerprints. So they identified her body by fingerprints, but obviously she... I say obviously. Most likely, she wasn't on the fingerprint database. So they would have taken comparison prints of objects in her house that she likely would have touched. 
 
-4 30 p.m leanne and sarah had begun to
+Okay. I have a question about that.
 
-walk home together
+Si. 
 
-but parted ways at huffley lynn where
+I think I saw Captain Marvel recently, again. 
 
-sarah watched her friend
+Oh here we go, I'm expecting this to be highly reliable.
 
-walk towards the wooded area of huffle
+And Nick Fury lifted a fingerprint with a piece of tape from his, like, ID card. Because somebody else touched it. But I've always been believing, because of movies again, that you have to like warm it up or something? 
 
-jill
-
-when sarah had returned home she phoned
-
-leanne's house
-
-on the landline and was told that leanne
-
-wasn't home yet
-
-you remember when we had landlines
-
-james asked me the other day if i ever
-
-call munich on the land line
-
-that james what's a landline
-
-i quite like the idea of a landline but
-
-i know
-
-that if i installed one it would only
-
-ever be telemarketers
-
-or my mum who would just call me on my
-
-mobile if i ignored the landline anyway
-
-that's moms for you leanne's mother
-
-tried calling her cell phone at 5
-
-20 pm but nobody answered
-
-she tried calling again but this time
-
-the call dropped after just
-
-four rings at 7pm leanne's mother
-
-called the police to report her daughter
-
-missing
-
-the search for leanne started
-
-immediately
-
-but the area of huffle jill consisted of
-
-extremely
-
-varied terrain which made the search
-
-very difficult
-
-the police inquest headed by detective
-
-superintendent chris greg
-
-not the greg pastis person
-
-nah that was weak move on yeah it wasn't
-
-i don't even know where i was supposed
-
-to be going with that but all right
-
-calculated her probable route with the
-
-help of sarah
-
-who was the last person to have seen
-
-leanne on the 26th
-
-they went door-to-door along this route
-
-searching
-
-950 houses and countless
-
-other buildings for any clue as where
-
-leanne could be
-
-i've got some actual numbers on the
-
-countless other things
-
-just to put into context the size of
-
-this search
-
-okay yeah 1 400
-
-houses were questioned oh god
-
-800 sheds or garages were searched
-
-150 commercial properties searched
-
-so shops and stuff like that 12 search
-
-warrants were issued
-
-and i don't know if you know but a
-
-search warrant needs to be
-
-authorized by a judge which means that
-
-the police officers
-
-need an evidence base to be able to get
-
-a search warrant approved
-
-so they take time and they take money
-
-and they take effort
-
-and they got 12 of them usually it's
-
-hard enough to get one
-
-140 male dna samples were taken
-
-a three mile section of a canal was
-
-searched
-
-including two of those three miles where
-
-the canal
-
-was drained to one meter of water
-
-so the search was absolutely massive
-
-i also wrote down that they searched 32
-
-drain shafts yeah and they got help
-
-from lots of different organizations
-
-to locate hidden drains and
-
-old drains that aren't in service
-
-anymore
-
-they really did quite a thorough job
-
-yeah
-
-on the 4th of december police released
-
-a facial composite of a man that had
-
-been spotted
-
-walking his dog in the huffly jill area
-
-at the time of leanne's disappearance
-
-and i actually
-
-looked up the composite and it is
-
-quite similar to the man
-
-that was responsible for leanne's
-
-disappearance
-
-and death i
-
-looked into this a little bit more and
-
-he was
-
-actually spotted in the area like an
-
-hour before leanne went missing i'm a
-
-bit surprised that somebody saw him
-
-and i'm also a bit surprised that they
-
-could remember
-
-kind of what the face looked like it was
-
-quite
-
-interesting actually and also ghosts
-
-showed that they did talk to so many
-
-people
-
-that they were like this man an hour
-
-before leanne
-
-went missing might be a person of
-
-interest but i also remembered like you
-
-know
-
-do you remember the dodgy dog walker
-
-episode no
-
-we talked about like this one guy who
-
-police
-
-interest peaked about him because he was
-
-out walking his dog but he had nothing
-
-to do with the
-
-actual case but this time it actually
-
-did have something to do with the case i
-
-always
-
-find it suspicious that it's a dog
-
-walker that finds someone
-
-or a cadaver at six o'clock in the
-
-morning
-
-what kind of maniac goes out at six
-
-o'clock in the morning to walk the dog
-
-obviously a murderer
-
-ollie would like that but that's not he
-
-wouldn't
-
-he complains if i have to take him out
-
-too early
-
-oh that's why he's so perfect
-
-for you because he's so old yeah screw
-
-getting a puppy
-
-ugh could you imagine
-
-couldn't imagine because puppies are a
-
-lot of work
-
-i mean it's bad enough anyway i have to
-
-take him out four times a day
-
-but when he gets the shits and it's at
-
-three o'clock in the morning
-
-yeah i ain't invested in that life this
-
-dog-owning business has just reaffirmed
-
-for me the fact that i do not want
-
-children
-
-well you chose to have a dog
-
-i know and he's great company for about
-
-10 minutes every day
-
-and then he slinks off and does his own
-
-thing which is great
-
-but a baby won't slink off and do their
-
-own thing you have to pay attention to
-
-them
-
-all the time i'm like why aren't you
-
-grown up and i've left the house already
-
-to all the listeners out there if this
-
-makes it into the cut
-
-i don't think you've been invested in
-
-anything as you're invested
-
-in your dog so don't be worried
-
-the dog lives a great life
-
-he is my only reason for existence oh
-
-yeah nine months after leanne was last
-
-seen another dog walker this is the one
-
-you were talking about
-
-surprise surprise named mark bisson
-
-was out for a stall with his papas
-
-in lindley woods north yorkshire
-
-16 miles from leanne's home
-
-he came across leanne's body only 100
-
-yards
-
-away from where another murder victim a
-
-woman named
-
-yvonne fit had been found in 1992
-
-so 100 yards is i'm going to guess 108
-
-meters
-
-91.4 in the wrong way
-
-yeah so almost there almost leanne's
-
-body was
-
-identified by her fingerprints
-
-and now i wrote autopsy and things found
-
-with the body
-
-maybe that's war
-
-what was found with leon's body
-
-a lot forensically so we can start with
-
-the fingerprints
-
-so they identified her body by
-
-fingerprints but obviously she
-
-i say obviously most likely she wasn't
-
-on the fingerprint database so they
-
-would have taken
-
-comparison prints of objects in her
-
-house
-
-that she likely would have touched okay
-
-i have a question about that
-
-see i think i saw captain marvel
-
-recently again here we go i'm expecting
-
-this to be highly reliable
-
-and nick fury lifted a fingerprint with
-
-a piece of tape
-
-from his like id card
-
-because somebody else touched it but
-
-i've always been
-
-believing because of movies again that
-
-you have to like
-
-warm it up or something so it depends on
-
-what
-
-surface the fingerprint is on
-
-which will determine which technique
-
-that you need to use
+So it depends on what surface the fingerprint is on, which will determine which technique that you need to use.
 
 but most of the time if it's a solid
 
