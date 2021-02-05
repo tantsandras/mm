@@ -357,679 +357,137 @@ No.
 
 No. 
 
-It's a direct link between the body and a source material found in his home. Like if they hadn't found a batch of cable ties in his bedside drawer, that were the exact same manufacturer as the ones used by the Royal Mail, then the cable ties would have been circumstantial. Because the cable ties found at the body would have been linked back to the ones supplied by the royal mail
+It's a direct link between the body and a source material found in his home. Like if they hadn't found a batch of cable ties in his bedside drawer, that were the exact same manufacturer as the ones used by the Royal Mail, then the cable ties would have been circumstantial. Because the cable ties found at the body would have been linked back to the ones supplied by the Royal Mail, and he worked for the Royal Mail. 
 
-and he worked for the royal mail yeah
+Yeah.
 
-but because they were also found in his
+But because they were also found in his bedside table, that then moves beyond the realm of circumstantial to hard evidence. You've got a batch of these cable ties, they have been used on this body, must have been you. 
 
-bedside table
+And because it wasn't a cable tie readily available to the public? 
 
-that then moves beyond the realm of
+To the general public, yeah. 
 
-circumstantial
+Okay. 
 
-to hard evidence you've got a batch of
+The same as the twine. So if it were just a generic white string that he'd bought from Tesco for example, other retailers are available, it would have been circumstantial evidence. Because you can't link that twine to the twine that was used on the body. But because it was specifically made by one company that sold it to a specific batch of retailers, and then they looked at the microscopy and found that the twist direction was the same, the blend of fibers were the same, any dye or manufacturing defects were the same, it then moves beyond the realm of circumstantial to being hard evidence. Circumstantial evidence is enough to be able to give you a hint. You wouldn't be able to, as a jury member, say beyond reasonable doubt that this piece of evidence links this person to this crime. When you add them all together, which has been the case in previous cases, if you add a bunch of circumstantial evidence together then... 
 
-these cable ties
+It's beyond reasonable doubt.
 
-they have been used on this body must
+Yeah. Then that all accumulates to become beyond reasonable doubt. But if you've only got a couple of bits, then you can't really prosecute on it.
 
-have been you
+Yeah. Well they do, in America for example.
 
-and because it wasn't a cable tie
+But we have a much better legal system than them. \[Laughter]
 
-readily available to the to the general
+I would hope so, yes. Okay! 
 
-public
+Were you going to say something else? Because I was going to talk about the pollen, that's fucking amazing. 
 
-yeah okay the same as the twine so if it
+I'm excited about the pollen, actually. 
 
-were just a
+Ah mate, the pollen! \[Laughter] So I genuinely was so fascinated reading this paper, because I was not taught anything about pollen analysis during my course. So writing my notes I've done what you've done, and have blocked capital written notes, just like: "oh my god, this has blown my mind. What has happened?". So for the listeners who are not aware of the full details of the case, they brought in a pollen analyst to look over any pollen or biological detritus, such as leaves, twigs, etc, that were found on the body. And to be able to narrow down where Leanne had been previously. Whether she was kept in the forest the whole time, which they sort of knew she hadn't because of the cryobiology but just wanted to be sure. 
 
-generic white string that he'd bought
+I think that's probably why they were able to, and also did, all of the analysis of the body. Because she still had soft tissue.
 
-from tesco
+It's much, much easier to get the approval, and financial backing, to be able to do all of these kind of wacky out there tests when you've got some kind of evidential basis to go by.
 
-for example other retailers are
+Yeah. 
 
-available it would have been
+They probably wouldn't have even bothered looking at the pollen if she was in a nine-month state of decay that they would expect to see. 
 
-circumstantial evidence because you
+Yeah. 
 
-can't link
+So they took samples from her hair, she had some charcoal-like deposits and other stuff in her hair. \[Laughter]
 
-that twine to the twine that was used on
+"Other stuff", mhm.
 
-the body
+They took swabs of her nasal cavity. And found some evidence on the bed covering, the aforementioned floral bed covering, that she was covered in.
 
-but because it was specifically made by
+The floral, ja. 
 
-one company
+So from these sample profiles they managed to determine a bunch of different plant varieties that were non-native to the environment that she was found in. So she was found in woodland, and they found pollen or physical samples of: a privet hedge, elder trees, bramble bushes, hawthorne trees, a cherry or plum or slow bush, and buckler fern. So those are all like plants or bushes. They also found pollen from beech and poplar trees. And the pollen profiles were dominated by nettle pollen and a thing called orachi or orach. If there's any plant people out there, I apologize for butchering the pronunciation of whatever that word is. The most interesting thing for me is that they looked at these pollen profiles that they'd got from the body and they came up with a scenario, or a place, that was almost an exact match for Taylor's back garden. So they were like: "judging by the amount of x, y, and z, it's probably in a garden that's got an overgrown privet hedge, that's got overgrown nettles so it's not going to be a well manicured garden. There will be fire pits, like you're just burning shit in your garden..."
 
-that sold it to a specific batch of
+Is that why they found the charcoal on her hair? 
 
-retailers
+Yeah, because of the fire pit.
 
-and then they looked at the microscopy
+Oh.
 
-and found that the twist direction was
+Yeah. And the thing that blew my mind, that was in block capitals, the beach and poplar pollen from the trees...
 
-the same the blend of fibers were the
+Yeah.
 
-same
+... they managed to say that: "these two species of trees would just be visible where the body was".
 
-any dye or manufacturing defects were
+Oh my god. 
 
-the same
+They were like: "we found some pollen from a beech tree, but it was only a little bit and so therefore a couple of gardens across somewhere will have a beach tree growing".
 
-it then moves beyond the realm of
+That is fucking crazy. 
 
-circumstantial to being hard evidence
+Fucking mental. So once all of the other evidence had linked Taylor to the crime they went to his house, obviously. Went into his back garden, and test to your memory, his garden was overrun by a privet hedge, had a shit ton of nettles, he had plum and damson trees, there was a poplar observable in the distance, and there was abundant buckler ferns.
 
-circumstantial evidence is enough to be
+That is fucking crazy. 
 
-able to give you a hint
+They also found fungal remains, so a bit of mushrooms, and charcoal remnants that under microscopy were the same species... So the fungi were the same species that were recovered on the body as to the ones that were found in his garden. The charcoal was an exact match. So obviously wood, or coal, burns in a specific way. So if you've got a barbecue for instance, and you stick your hand in it, that charcoal will be unique to coming from that barbecue.
 
-you wouldn't be able to as a jury member
+That's so crazy though!
 
-say beyond reasonable doubt that this
+It gets even crazier. They were like; there's quite significantly large portions of charcoal, or burnt fragments, that they recovered in her hair. From which they were able to determine almost the exact positioning of her body while he burnt shit in his garden.
 
-piece of evidence
+What the fuck. I can theoretically understand this, but also, I'm like: "why isn't this always done". 
 
-links this person to this crime when you
+I think it probably comes down to a dead end. This, in this situation, is circumstantial evidence. Because it's highly likely that the same ratio of plant matter would be found in his next-door neighbor's garden. 
 
-add them all together
+Yeah.
 
-which has been the case in previous
+If they also left it to be overgrown. So unless there's actually a call for doing it, you're not gonna get any evidence out of it. So I understand the frustration with finding a case like this, and they've done absolutely everything you can think of, and it's come to a nice conclusion in that this guy's been found and sentenced. But if they didn't have any kind of link to him in the first place, they wouldn't have done the pollen analysis. 
 
-cases if you add a bunch of
+Yeah. 
 
-circumstantial evidence
+The twine analysis would have come back inconclusive, they'd been like: "yeah, this is just string". The plastic would have come back as: "this is plastic". It's only because they got the corroborating story from his ex-girlfriends, and then all of the other evidence linked itself together, that this became possible to ID him in such a way that they got the positive. It's the problem with a lot of cold cases, is that you can recover all of the material from the crime scene. So someone who's been sexually assaulted and then murdered, you can recover a DNA profile from any semen deposit, but if you haven't got anyone in the database that matches it, and that's all the evidence you've got, that's where the case stops. 
 
-together then it's beyond reasonable
+Yeah. 
 
-doubt
+Because there's nowhere to go from that, short of testing everybody in the local area. Which they did do in this case, and they've done it in a couple of historical cases as well - the first DNA case springs to mind. I don't think they can do it anymore. 
 
-yeah then that all accumulates to become
+Yeah. But also, I must commend the West Yorkshire Police.
 
-beyond reasonable doubt but if you've
+Yeah. They did a really thorough job. 
 
-only got
+Yeah, it was incredible. 
 
-a couple of bits then you can't really
+Which is refreshing given the amount of cases we've done where the police have been like: "herp derp, evidence, bler bler bler".
 
-prosecute on it
+Yeah. It's been appalling in some cases, but yeah. 
 
-yeah well they do in america for example
+I've got one more bit. So there were also carpet fibers that were recovered from Leanne's body. Whether it was the body or her clothing, I'm not sure, doesn't really matter. They found some carpet. Taylor had actually tried to be clever and had ripped up all of the carpet in his house, which I think attributes the burn piles in his garden. It's either his carpet or his dog, probably both. What he wasn't smart enough to do was remove all of the carpet. So when the scenes of crimes officers popped into his house and looked into the corners of his living room, he'd actually missed some carpet on some of the nails that hold the carpet in place. So like: "pluck", popped that under a microscope, and what do you know? Perfect match. Kablammo.
 
-but we have a much better legal system
+Wait. Perfect match for what? For the blood?
 
-than them
+No, the carpet. The carpet found on her body was the perfect match to the remnants of the carpet that was found in his house. So they were like: "she was in here brah". 
 
-i would hope so yes okay were you going
+Yeah. 
 
-to say something else because i was
+Yeah. Just do a little mic drop, because now I've finished the evidence. I'm out, it's all you. 
 
-going to talk about the pollen that was
+It was a lot of fucking evidence, it was crazy.
 
-\[ __ ] amazing i'm excited about the
+I know, right? I'm fucking parched. 
 
-pollen
+I read some of it on the wikipedia page, but that doesn't really encompass all of the actual evidence that was there.
 
-actually ah mate the pollen
+Nah, you need a bit of me. 
 
-so i genuinely was so
+Yeah.
 
-fascinated reading this paper because i
+"Yeeeaah". \[Laughter]
 
-was not taught anything
+No, I mean it. I mean it. 
 
-about pollen analysis during my course
+"Anyone can fucking google a microscope, can't they mate? You ain't that special". \[Laughter]
 
-so writing my notes i've done what
-
-you've done and have blocked
-
-capital written notes just like oh my
-
-god this has blown my mind what has
-
-happened
-
-so for the listeners who are not aware
-
-of the full details of the case
-
-they brought in a pollen analyst
-
-to look over any pollen
-
-or biological detritus such as leaves
-
-twigs
-
-etc that were found on the body and to
-
-be able
-
-to narrow down where liane had been
-
-previously whether she was kept in the
-
-forest the whole time
-
-which they sort of knew she hadn't
-
-because of the cryobiology
-
-but just wanted to be sure i think
-
-that's probably
-
-why they were able to and also
-
-did all of the analysis of the body
-
-because she still had soft tissue
-
-it's much much easier to get the
-
-approval
-
-and financial backing to be able to do
-
-all of these kind of
-
-wacky out there tests when you've got
-
-some kind of evidential basis to go by
-
-yeah they probably wouldn't have even
-
-bothered looking at the pollen
-
-if she was in a nine-month state of
-
-decay
-
-that they would expect to see yeah so
-
-they took
-
-samples from her hair she had
-
-some charcoal-like deposits
-
-and other stuff in her hair
-
-other stuff it took
-
-swabs of her nasal cavity and
-
-found some evidence on the bed covering
-
-the aforementioned
-
-floral that covering that she was
-
-covered in
-
-yeah so from these sample profiles
-
-they managed to determine a bunch of
-
-different plant varieties that were
-
-non-native to the environment that she
-
-was found in
-
-so she was found in woodland and they
-
-found
-
-pollen or physical samples of
-
-a privet hedge elder trees bramble
-
-bushes
-
-hawthorne trees a cherry or plum
-
-or slow bush and buckler fern
-
-so those are all like plants or bushes
-
-they also
-
-found pollen from beech and
-
-poplar trees and the pollen profiles
-
-were dominated by nettle pollen
-
-and a thing called orachi or
-
-orange if there's any plant people out
-
-there
-
-i apologize for butchering the
-
-pronunciation of
-
-whatever that word is the most
-
-interesting thing for me
-
-is that they looked at these pollen
-
-profiles that they'd got from the body
-
-and they came up with a scenario
-
-or a place that was almost an exact
-
-match for taylor's back garden so they
-
-were like
-
-judging by the amount of x y and z
-
-it's probably in a garden that's got
-
-an overgrown privet hedge that's
-
-got overgrown nettles so it's not going
-
-to be a well
-
-manicured garden there will be fire pits
-
-like you're just burning \[ __ ] in your
-
-garden is that why they found the
-
-charcoal
-
-on her hair yeah because of the fire pit
-
-oh
-
-yeah and the thing that blew my mind
-
-that was in block capitals
-
-the beach and poplar pollen from the
-
-trees
-
-yeah they managed to say that these
-
-two species of trees would
-
-just be visible where the body was
-
-oh my god they were like we found some
-
-pollen
-
-from a beech tree but it was only a
-
-little bit and so
-
-therefore a couple of gardens across
-
-somewhere will have a beach tree growing
-
-that is \[ __ ] crazy and mental
-
-so once all of the other evidence had
-
-linked
-
-taylor to the crime they went to his
-
-house
-
-obviously went into his back garden and
-
-test to your memory
-
-his garden was overrun by a privet hedge
-
-had a \[ __ ] ton of nettles he had plum
-
-and damson trees there was a poplar
-
-observable in the distance and there was
-
-abundant buckler ferns
-
-that is \[ __ ] crazy they also found
-
-fungal remains so a bit of mushrooms
-
-and charcoal remnants that under
-
-microscopy were the same species
-
-so the fungi were the same species that
-
-were recovered on the body
-
-as to the ones that were found in his
-
-garden
-
-the charcoal was an exact match so
-
-obviously
-
-wood or coal burns in a specific way
-
-so if you've got a barbecue for instance
-
-and you stick your hand in it that
-
-charcoal will be unique to
-
-coming from that barbecue that's so
-
-crazy though
-
-it gets even crazier they were like
-
-there's quite
-
-significantly large portions
-
-of charcoal or burnt fragments that they
-
-recovered in her hair
-
-from which they were able to determine
-
-almost
-
-the exact positioning of her body
-
-while he burnt \[ __ ] in his garden what
-
-the \[ __ ]
-
-i can theoretically understand this
-
-but also i'm like why isn't this always
-
-done i think it probably comes down to a
-
-dead end
-
-this in this situation is circumstantial
-
-evidence
-
-because it's highly likely that the same
-
-ratio of plant matter would be found
-
-in his next-door neighbor's garden yeah
-
-if they also
-
-left it to be overgrown so unless
-
-there's actually a call
-
-for doing it you're not gonna get any
-
-evidence out of it
-
-so i understand the frustration with
-
-finding a case like this
-
-and they've done absolutely everything
-
-you can think of
-
-and it's come to a nice conclusion in
-
-that this guy's been found and sentenced
-
-but if they didn't have any kind of link
-
-to him
-
-in the first place they wouldn't have
-
-done
-
-the pollen analysis yeah the twine
-
-analysis would have come back
-
-inconclusive they've been like yeah this
-
-is just string
-
-the plastic would have come back as this
-
-is plastic
-
-it's only because they got the
-
-corroborating story
-
-from his ex-girlfriends and then all of
-
-the other evidence
-
-linked itself together yeah that this
-
-became possible to id him in such a way
-
-that they got the positive
-
-it's the problem with a lot of cold
-
-cases is that you can recover
-
-all of the material from the crime scene
-
-so someone who's been sexually assaulted
-
-and then murdered
-
-you can recover a dna profile from any
-
-semen deposit but if you haven't got
-
-anyone in the database that matches it
-
-and that's all the evidence you've got
-
-that's where the case stops yeah because
-
-there's nowhere to go
-
-from that short of testing everybody in
-
-the local area
-
-which they did do in this case and
-
-they've done it in a couple of
-
-historical cases as well
-
-the first dna case springs to mind i
-
-don't
-
-think they can do it anymore yeah but
-
-also
-
-i must command the west yorkshire police
-
-yeah they did a really thorough job yeah
-
-it was incredible which is refreshing
-
-given the amount of cases we've done
-
-where the police have been like
-
-herp derp evidence
-
-yeah it's been appalling in some cases
-
-but yeah i've got one more bit so there
-
-were also
-
-carpet fibers that were recovered
-
-from leanne's body whether it was the
-
-body or a clothing i'm not sure
-
-doesn't really matter they found some
-
-carpet taylor had actually tried to be
-
-clever
-
-and had ripped up all of the carpet in
-
-his house
-
-which i think attributes to burn piles
-
-in his garden it's either his carpet or
-
-his dog
-
-probably both what he wasn't smart
-
-enough to do
-
-was remove all of the carpet so when the
-
-scenes of crimes officers popped into
-
-his house
-
-and looked into the corners of his
-
-living room
-
-he'd actually missed some carpet on some
-
-of the nails that hold the carpet in
-
-place
-
-so like pluck popped that under a
-
-microscope and what do you know
-
-perfect match
-
-wait perfect mask for what for the blood
-
-i know the carpet
-
-the carpet found on her body was the
-
-perfect match
-
-to the remnants of the carpet that was
-
-found in his house so they were like
-
-she was in here brah yeah yeah just do a
-
-little mic
-
-drop because now i've finished the
-
-evidence
-
-i'm out it's all you it was a lot of
-
-\[ __ ] evidence it was crazy
-
-i know right i'm \[ __ ] parched i read
-
-some of it on the like wikipedia page
-
-but that doesn't
-
-really encompass all of the actual
-
-evidence that was there
-
-now you need a bit of me yeah
-
-no i mean it i mean it anyone can
-
-\[ __ ] google a microscope can't they
-
-mate you ain't that special
-
-so only one month after leanne's body
-
-had been
-
-found john taylor was charged
-
-with her murder he pleaded guilty
-
-and at the trial the judge stated that
-
-john was a dangerous sexual sadist
-
-who should expect to spend the rest of
-
-his life
-
-in custody when police added his dna to
-
-their database
-
-he was linked to two rape cases in
-
-1988 and 1989
-
-one of which had occurred on the same
-
-footpath
-
-where leanne had been abducted taylor
-
-was found
-
-guilty of these and received two further
-
-life sentences
-
-because of these rapes okay so
-
-thank you so much for listening to
-
-midweek murders
-
-special thanks to jim and jordan
-
-we appreciate you thank you thank you
-
-okay
-
-bye bye 
+So only one month after Leanne's body had been found, John Taylor was charged with her murder. He pleaded guilty, and at the trial the judge stated that John: "was a dangerous sexual sadist who should expect to spend the rest of his life in custody". When police added his DNA to their database he was linked to two rape cases in 1988 and 1989, one of which had occurred on the same footpath where Leanne had been abducted. Taylor was found guilty of these, and received two further life sentences because of these rapes. Okay. So thank you so much for listening to Midweek Murders. Special thanks to Jim and Jordan, we appreciate you. Thank you, thank you, okay, bye bye. 
 
 Ciao pow!
 
