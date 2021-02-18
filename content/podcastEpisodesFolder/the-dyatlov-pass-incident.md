@@ -29,8 +29,6 @@ The Dyatlov Pass mystery has been solved with science, and Joe tries to explain 
 
 <!--EndFragment-->
 
-
-
 Joe got his information from:
 
 * [Wikipedia](https://en.m.wikipedia.org/wiki/Dyatlov_Pass_incident)
@@ -44,13 +42,7 @@ Sandra got her information from:
 * Stuff You Should Know (podcast), The Dyatlov Pass Mystery (episode)
 * [Blog post](https://ermakvagus.com/Europe/Russia/Cholat-%20Syachil/Kholat%20Syakhl.htm) on the Ermak Travel Guide. This is also where the "light phenomena" photos come from, and the photo of the group skiing. 
 
-
-
-
-
 <!--StartFragment-->
-
-
 
 #### Audio transcript
 
@@ -186,935 +178,161 @@ No, I didn't read that. They didn't have any! \[Laughter]
 
 So the footprints led down to a wooden area on the other side of the pass, which I'm thinking is the wooded area where they decided not to backtrack to, because it was in the same distance. But I'm not sure. And at the edge of the forest they discovered remnants of a small fire. Here, the bodies of Yuri Krivonichenko and Yuri Doroshenko were found, both were in their underwear. The branches of the tree where the fire had been were damaged, which could indicate that someone had climbed it trying to get a better view of something. Maybe they were looking for the campsite, I don't know. Nobody knows.
 
-igor diatlov sinaida
+Igor Dyatlov, Zinaida Kolmogorova, and Rustem Slobodin were found between the fire and the campsite in poses suggesting that they had been attempting to return to the tent. As I understand it, they were found crawling uphill. Or not crawling, because they were dead, but in poses suggesting that they had been crawling uphill. Maybe they were unaware of where the wooded area was? Maybe they thought that it was closer? 
 
-were found between the fire and the
+Closer than what? 
 
-campsite
+Then what it was. 
 
-and poses suggesting that they had been
+Why does it make a difference?
 
-attempting to return
+I'm just confused about why they would walk that far. Although downhill it takes much less time than uphill. 
 
-to the tent as i understand it they were
+It would have provided cover, they could have started the fire, so it would have offered them their best chance of survival. 
 
-found
+Yeah. 
 
-crawling uphill or not crawling because
+To me it seems like a logical step whether you know that it's 1500 meters away or a mile away.
 
-they were dead by imposes suggesting
+Yeah. No, that does make sense. I'm just confused about why they didn't stay longer at the fire. Maybe it did make sense at the time, and that I'm just not an experienced hiker, because I'm not. Surprise, surprise! Sitting here with my beer. So the remaining four members of the group were not found until two months later, under 13 feet, or four meters, of snow. Three of these were wearing more clothes than the other bodies had been found in, indicating that they had taken the clothing from their group members after they died, as Lyudmila was wearing Yuri's burned, torn trousers - one of the Yuris that were found by the fire. And this does make sense. So after the first bodies were discovered, the cause of death was hypothermia, but when the other bodies were discovered people became suspicious of foul play. Maybe we should talk about what kind of conditions the bodies were found in?
 
-that they had been crawling uphill
+Well, well, well. So the five that died of hypothermia had no injuries that might have led to their deaths. Slobodin... 
 
-maybe they were unaware of where
+Rustem, yeah. 
 
-the wooded area was maybe they thought
+... did have a small skull fracture, but that was deemed non-fatal, and that probably coincided with the broken tree branches, in that it's hypothesized he climbed up the tree and fell down on his head. 
 
-that it was closer closer than
+I didn't know that! 
 
-what then what it was why does it make a
+So four bodies were found at the bottom of the creek, and three of them had severe soft tissue damage.
 
-difference
+Okay, yeah. 
 
-i'm just confused about why they would
+So Thibeaux-Brignolles didn't. Dubinina was missing the tongue, eyes, lips and part of her face. Zolotaryov was missing eyes, and Kolevatov was missing eyebrows.
 
-walk that
+Oh! Only the eyebrows? 
 
-far although downhill it takes
+Yeah, bit of a weird thing to go missing. But the forensic pathologist, Vozrozhdenny, determined that all of these soft tissue injuries were post-mortem. 
 
-much less time than uphill it would have
+Yeah, that's what I read as well.
 
-provided
+So they all occurred after they died, and it makes sense because these are the typical parts of the body that scavengers, in terms of animals, would go for. It's quite well documented that if you're a little old lady in a house full of cats, and you die, they will eat your face. Anyway, Thibeaux-Brignolles suffered a major skull fracture. Dubinina and Zolotaryov both had major chest fractures. The interesting thing about these wounds is that the force that was needed to do it would have been equal to that of being in a car crash, and there were no external wounds, they had no soft tissue wounds that would have coincided with this internal damage. So when you've got that kind of internal wound but nothing on the outside, it's indicative of that being performed, or received, under high amounts of pressure. The important thing about those two sets of clinical symptoms is that you can rule out any case of someone else inflicting that bodily harm.
 
-cover yeah they could have started the
+I also heard about some burn marks on the skin. Is this something you read about? 
 
-fire so
+I did read of it, but it was a glancing reference. The only thing that I can imagine it coming from is, once they've got the fire up, they were so friggin cold that they got too close.
 
-it would have offered them their best
+Yeah. Which would make sense because of the trek towards the wood. 
 
-chance of survival yeah to me it seems
+I imagine it's probably more the fact that they were in their underwear.
 
-like a
+Yeah, but they might have had clothing that the other people took when they died. 
 
-logical step whether you know that it's
+Yeah, they still weren't fully kitted out, were they? It was like trousers. 
 
-1500 meters away or a mile away
+No, no. No shoes, no... yeah, yeah. 
 
-yeah no that does make sense i'm just
+Yeah. I've got more. So I did get a bit of a summary of where we would be up to in the case, but also where the investigators were up to, which might be helpful. So there were no indications of anybody else around. So you mentioned that earlier, with the random number of footprints, or sets of footprints, away from the tent. Might have been all nine of them, might have been less than that, but there wasn't more.
 
-confused about why they didn't stay
+From what I've read, there's between five and nine. So there's not more than nine, however you look at it.
 
-longer at the fire maybe it did make
+So like you say, they know that the tent was cut open from within. They all died within six to eight hours of their last meal, which is significant if you're looking at things like poisoning.
 
-sense
+Yeah. 
 
-at the time and that i'm just not an
+One of the sources that I read said that they all left of their own accord on foot, apparently there was no source of dragging. There was radiation found on one set of the clothing. 
 
-experienced hiker because i'm not
+Yeah, I think it was more than one set of the clothing, but that might be wrong. 
 
-surprise surprise sitting here with my
+Mhm. Well I'm done.
 
-beer
+Okay. So because people became suspicious of foul play, because of the four bodies found in May, they interrogated and tortured a couple of Mansi - the local indigenous reindeer herders, on the suspicion that they had attacked the group for trespassing on their land. This seemed highly unlikely though, as you said, there was no additional footprints at the tent site, and none of the bodies had injuries that indicated a fight. Not to mention that the Mansi people were peaceful, and probably didn't give a shit that there were people camping in the mountains. I would be very surprised if they gave one fuck about that. The Mansi people had also helped with the search, and the four bodies discovered in May were discovered because of a Mansi tracker and hunter, who had found a part of Lyudmila's sweater in the snow. So they were volunteering to help in the search. And fun facts about the Mansi people, in legends they are said to have been riding moose, or the Eurasian elk, into battle. Which is probably not true, but I really hope that it is.
 
-so the remaining four members of the
+I can confirm, they did do that.
 
-group were not found until
+I also heard, in the Stuff You Should Know episode, that apparently they ingest hallucinogenic mushrooms by feeding the hallucinogenic mushrooms, that are poisonous...
 
-two months later under 13 feet or four
+To their reindeer, and then drinking their piss. 
 
-meters of snow
+Yes! Have you heard about this?
 
-three of these were wearing more clothes
+I don't know if it was specifically this group of indigenous people, but it's quite common in far northern hemisphere tribes to do that. Also just wanted to push that out there before you could finish your sentence, so that you know that I knew stuff. \[Laughter]
 
-than the other bodies
+Of course. So one of the Mansi people living in the area now, or at the time when they did the BBC article, stated to the BBC that they: "absolutely did not have anything to do with the incident". Because why would they, and also there's no evidence to suggest that they did. And he stated that he: "believes that there's a technological explanation for what transpired, we just don't know what it is". Other theories about what happened include; the group was attacked and chased by wildlife. And the things that contradict this theory is that there were no animal footprints found around the tent. And speaking of which, Zinaida had been in a relationship with one of the Yuris, Yuri Doroshenko, and had fallen in love with him on a previous expedition, or hiking trip, when he chased off a brown bear with a geologist's hammer. So they probably wouldn't have panicked, cut up the tent, and left all of their clothing and belongings at the sight of a bear.
 
-had been found in indicating that they
+Also worth mentioning that the slope that they camped on, in Mansi translates as like: "a lack of prey", or a "lack of animals". So also unlikely to have been a wild animal attack. 
 
-had taken the clothing
+Unlikely, yeah. One other theory is katabatic wind; which is rare events of extremel violent winds. And this, I think, is the theory of two Swedish people that went to the Dyatlov pass and did some investigation of their own, I guess. And said that at least one such incident has happened in a mountain in Sweden, where eight hikers died, and the topography of where that happened in Sweden is very similar to the topography of the campsite. So maybe, maybe not.
 
-from their group members after they died
+Yeah. Katabatic winds are also... they're described as "rare phenomena", but also are incredibly common in specific places in the world. So I feel like, if you meet the conditions for katabatic wind, then they can happen regularly. I just think there's probably not that many places that have it.
 
-as
+Yeah, that's true. Speaking of winds, did you know that it can rain fish?
 
-ludmila was wearing yuri's burned
+Have you been reading the bible again? 
 
-torn trousers one of the oris that were
+No! True story, bro. I looked it up because I was like: "nah, this sounds like bullshit to me". Turns out it can happen, but it happens when there's a hurricane, or typhoon? What is a typhoon? 
 
-found by the fire and this does make
+A typhoon is a hurricane at sea.
 
-sense
+Oh, okay. 
 
-so after the first bodies were
+So it sucks them all up from the sea, and then drops them when it gets over land. 
 
-discovered the cause of death was
+Yeah, exactly. Funny story, it has happened plenty of times in recorded history. I was like: "this is hilarious". 
 
-hypothermia but when the other bodies
+Yeah. Happened during Egyptian times, apart from it was frogs, not fish.
 
-were discovered people became suspicious
+Yeah, but it has also happened with frogs, but...
 
-of
+I was making a biblical reference, you turdington!
 
-foul play maybe we should talk about
+Yeah! But it also has happened with frogs. So I'm guessing \[Joe sighs]... So I'm guessing that might be the hurricanes? \[Laughter]
 
-what kind of
+I understood, I just wanted to fact check.
 
-conditions the bodies were found in well
+Yeah? So why did the Nile turn into blood? It didn't, it was clay.
 
-well well
+So another theory is infrasound; wind going around the Kholat Syakhl created a Kármán vortex street, which can produce infrasound capable of inducing panic attacks in humans. This theory could maybe explain why the group fled the tent, and then when they were out of the infrasound's path they would have regained mental clarity. Which explains trying to return to the tent. And the other theory is the military tests. There were records of parachute mines being tested by the soviet military in the area around the time when the hikers were there. They theorized that maybe the group woke up by a loud explosion, and fled because of the shock. Parachute mines detonate while still in the air, and leads to injuries similar to those experienced by the hikers, as I understand it. So that's heavy internal damage with relatively little external trauma. The theory coincides with reported sightings of glowing orange orbs floating, or falling, in the sky. Because there were witness statements taken about these glowing orbs, although these eyewitness statements were first taken a couple of years after this happened, so I'm not sure. And then one source said that the hikers allegedly photographed them, so I looked for the alleged photos of these light phenomenons, and there is two photos. There's some flash thing in one of the photos, and then the other photo is very bright. I'm guessing this might be exposure problems. Another theory is radiological weapons; that could explain the radioactive residue found on some of the people, as well as some of the belongings, or the clothing. As well as the bodies having an orange, or brick red, skin color, as well as gray hair. Although this is probably explained by mummification, as I understand it? I couldn't find the autopsy photos, so I'm not sure that actually is a thing that did happen.
 
-so the five that died of hypothermia
+I might be able to help you out on this, in that it's quite common, and I don't know what the frequency of it happening is. But there's one pathologist, who, this is a sign that he looks for to confirm hypothermia. It's a condition called frost erythema, also colloquially known as stoplight knees. It's a general reddening of your skin caused by a very complicated process involving carboxyhemoglobin and oxyhemoglobin. But basically, your oxygen in your bloodstream will bind to one or the other, and it will cause this reddening of your skin. Which seems to coincide a bit more with the facts rather than some crazy theory. 
 
-had no injuries that might have led
+Yeah. I get it, and that's why I thought that the mummification thing was partly explainable. Because, I felt like, the bodies they found in the permafrost are really darkened. So I kind of guessed that it has to do with the cold environment, no?
 
-to their deaths slobodan rustam
+I remember seeing the picture of the guy... the oldest ever tattooed person.
 
-yeah did have a small skull fracture
+That might have been a lady. 
 
-but that was deemed non-fatal and that
+Might have been a lady. Or woman! \[Laughter] Yeah, they were pretty brown. It was like going out for a night out in Essex. \[Laughter]
 
-probably coincided
+But I read on reddit, a long time ago...
 
-with the broken tree branches in the
+Oh, here we go! 
 
-it's hypothesized he climbed up the tree
+And I spent quite some time trying to fish out that reddit post, but I couldn't find it. But I read that one of them, or more, was working at a laboratory at the time. Which might have been the cause for the radiation. And it wasn't a lot of radiation, it was like a tiny bit of radiation, as I understand it. No? 
 
-and fell down
+I don't know the exact amounts, but I'm inclined to think that it was only a small amount.
 
-on his head i didn't know that so
+Yeah. I think I read somewhere like the exact amount. But they said that: "this is a normal exposure amount of radiation to something that is not that radioactive". 
 
-four bodies were found at the bottom of
+Yeah. So it ain't no big bomb.
 
-the creek
+Yeah. 
 
-and three of them had severe soft tissue
+Well the National Geographic article mentions in passing that, at the time, camping lights had some sort of radioactive element to them. Which would make sense in the context, in that it was low level radiation, and it was only on a few of them or their things. The people that were closest to the source of the light probably would have had a higher exposure.
 
-damage
+Maybe, yeah. So another theory is aliens, obviously. 
 
-okay yeah so tibo brignoles
+Okay, case closed, we're done here. 
 
-didn't dubinina was missing the tongue
+Because of the infamous photographs, that I don't think is that telling at all, because you can't really see what's going on, it just looks like bad exposure. And also other eyewitness statements about the glowing orbs in the sky. 
 
-eyes lips and part of her face
+It's called the moon.
 
-zolotariov was missing eyes
+I also read that there's another theory about ssssss... Semyon.
 
-and kalevitov was missing eyebrows
+Snakes?
 
-oh only the eyebrows yeah they have a
-
-weird thing to go missing
-
-but the forensic pathologist vos rajdani
-
-determined that all of these soft tissue
-
-injuries
-
-were post-mortem yeah that's what i read
-
-as well
-
-so they all occurred after they died and
-
-it makes sense
-
-because these are the typical parts of
-
-the body that
-
-scavengers in terms of animals would go
-
-for
-
-it's quite well documented that if
-
-you're a little old lady
-
-in a house full of cats and you die they
-
-will eat your face
-
-anyway tibo brignoli suffered
-
-a major skull fracture
-
-dubinina and solitariov both
-
-had major chest fractures the
-
-interesting thing
-
-about these wounds is that the force
-
-that was needed to do it would have been
-
-equal to that of being in a car crash
-
-and there were no external wounds
-
-they had no soft tissue wounds that
-
-would have coincided with this
-
-internal damage so when you've got that
-
-kind of
-
-internal wound but nothing on the
-
-outside it's indicative of that being
-
-performed or received under high amounts
-
-of pressure
-
-the important thing about those two sets
-
-of clinical symptoms
-
-is that you can rule out any case of
-
-someone else inflicting that bodily harm
-
-i also heard about some burn marks on
-
-the skin
-
-is this something you read about i did
-
-read
-
-of it but it was a glancing reference
-
-the only thing that i can imagine it
-
-coming from is once they've got the fire
-
-up
-
-they were so friggin cold that they got
-
-too close
-
-yeah which would make sense because of
-
-the trek
-
-towards the wood i imagine it's probably
-
-more the fact that they were in their
-
-underwear
-
-yeah but they might have had clothing
-
-that the other people
-
-took when they died yeah they still
-
-weren't fully kitted out were they it
-
-was like
-
-trousers no no no shoes no yeah
-
-yeah yeah i've got more so i did get a
-
-bit of a summary
-
-of where we would be up to in the case
-
-but also where the investigators were up
-
-to
-
-which might be helpful so there were no
-
-indications
-
-of anybody else around so you mentioned
-
-that earlier with the
-
-random number of footprints or sets of
-
-footprints away from the tent
-
-might have been all nine of them might
-
-have been less than that but there
-
-wasn't more
-
-from what i've read there's between five
-
-and nine
-
-so there's more than nine however you
-
-look at it
-
-so like you say they know that the tent
-
-was cut open
-
-from within they all died within six to
-
-eight
-
-hours of their last meal which is
-
-significant if you're looking at things
-
-like poisoning
-
-yeah one of the sources that i read said
-
-that they all
-
-left of their own accord on foot
-
-apparently there was no source of
-
-dragging
-
-there was radiation found
-
-on one set of the clothing yeah i think
-
-it was more than one set of the clothing
-
-but that might be wrong when i'm done
-
-okay so because people became suspicious
-
-of foul play
-
-because of the four bodies found in may
-
-they interrogated and tortured a couple
-
-of
-
-mansi the local indigenous reindeer
-
-herders on the suspicion that they had
-
-attacked the group for trespassing on
-
-their land
-
-this seemed highly unlikely though as
-
-you said
-
-there was no additional footprints at
-
-the tent site and none of the bodies
-
-had injuries that indicated a fight not
-
-to mention that the mansi people were
-
-peaceful
-
-and probably didn't give a that
-
-there were people
-
-camping in the mountains i would be
-
-very surprised if they gave one
-
-about that the mansi people had also
-
-helped with the search
-
-and the four bodies discovered in may
-
-were discovered because
-
-of a mancy tracker and hunter who had
-
-found a part of lyudmila's
-
-sweater in the snow so they were
-
-volunteering
-
-to open the search and fun facts about
-
-the nancy people
-
-in legends they are said to have been
-
-riding moose
-
-or the origin elk into battle
-
-which is probably not true but i really
-
-hope that it is
-
-i can't confirm they did do that
-
-as i heard in the stuff you should know
-
-episode
-
-that apparently they ingest
-
-hallucinogenic
-
-mushrooms by feeding the hallucinogenic
-
-mushrooms that are poisonous
-
-for their reindeer and then drinking
-
-their best yes have you heard about this
-
-i don't know if it was specifically this
-
-group of indigenous people
-
-but it's quite common in far northern
-
-hemisphere
-
-tribes to do that so just wanted to push
-
-that out there before you could finish
-
-your sentence so that you know that i
-
-knew stuff
-
-of course so one of the fancy people
-
-living in the area
-
-now or at the time when they did the bbc
-
-article stated to the bbc that they
-
-absolutely did not have anything to do
-
-with the incident
-
-because why would they and also there's
-
-no evidence to suggest
-
-that they did and he stated that he
-
-believes that there's a technological
-
-explanation for what transpired
-
-we just don't know what it is other
-
-theories about what happened include
-
-the group was attacked and chased by
-
-wildlife
-
-and the things that contradict this
-
-theory is that there were no
-
-animal footprints found around the tent
-
-and speaking of which
-
-sinaida had been in a relationship with
-
-one of the yuris
-
-yuri doroshenko and had fallen in love
-
-with him
-
-on a previous expedition or hiking trip
-
-when he chased off a brown bear
-
-with a geologist's hammer so they
-
-probably wouldn't have
-
-panicked cut up the tent and left
-
-all of the clothing and belongings at
-
-the side of a bear
-
-also worth mentioning that the
-
-slope that they camped on in mancy
-
-translates as like a lack of prey or a
-
-lack of animals
-
-so also unlikely to have been
-
-a wild animal attack unlikely yeah
-
-one other theory is catabotic
-
-wind which is rare events of extremely
-
-violent winds and this i think
-
-is the theory of two swedish people
-
-that went to the diathlov pass
-
-and did some investigation of their own
-
-i guess
-
-and said that at least one such
-
-incident has happened in a mountain in
-
-sweden
-
-where eight hikers died and the
-
-topography of where that happened in
-
-sweden
-
-is very similar to the topography
-
-of the campsite so maybe maybe not
-
-yeah katabatic winds are also they're
-
-described as
-
-rare phenomena but also
-
-are incredibly common in specific places
-
-in the world
-
-so i feel like if you meet the
-
-conditions for katabatic wind
-
-then they can happen regularly i just
-
-think there's probably not that many
-
-places that have it
-
-yeah that's true speaking of winds did
-
-you know that it can rain fish
-
-have you been reading the bible again no
-
-true story bro
-
-i looked it up because i was like nah
-
-this sounds like to
-
-me turns out it can happen but
-
-it happens when there's a hurricane or
-
-typhoon what is a typhoo a typhoon is a
-
-hurricane at sea
-
-oh okay so it sucks them all up from the
-
-sea
-
-and then drops them when it gets
-
-overland yeah
-
-exactly funny story it has happened
-
-plenty of times in recorded history i
-
-was like this is
-
-hilarious yeah happens during
-
-egyptian times apart from it as frogs
-
-not fish
-
-yeah but it has also happened with frogs
-
-but
-
-i was making a biblical reference you
-
-turdington
-
-yeah but it also has happened with frogs
-
-so i'm guessing so i'm guessing that
-
-might be the hurricanes
-
-i understood i just wanted to fact check
-
-yeah so why did the nile turn into blood
-
-it didn't it was clay
-
-so another theory is infrasound
-
-wind going around the kolatsyakal
-
-created a karman vortex street
-
-which can produce infrasound capable of
-
-inducing
-
-panic attacks in humans this theory
-
-could
-
-maybe explain why the group fled the
-
-tent and then
-
-when they were out of the infrasound's
-
-path
-
-they would have regained mental clarity
-
-which explains trying to return to the
-
-tent
-
-and the other theory is the military
-
-tests
-
-there were records of parachute mines
-
-being tested by the soviet military in
-
-the area
-
-around the time when the hikers were
-
-there
-
-they theorized that maybe the group woke
-
-up by a loud
-
-explosion and fled because of the shock
-
-parachute mines detonate while still in
-
-the air
-
-and leads to injuries similar to those
-
-experienced by
-
-the hikers as i understand it so
-
-that's heavy internal damage with
-
-relatively
-
-little external trauma the theory
-
-coincides with reported sightings of
-
-glowing orange orbs floating or falling
-
-in the sky
-
-because there were witness statements
-
-taken
-
-about these glowing orbs although
-
-these eyewitness statements were first
-
-taken
-
-a couple of years after this happened so
-
-i'm not sure
-
-and then one source said that the hikers
-
-allegedly photographed them so i looked
-
-for the alleged photos of these light
-
-phenomenons
-
-and there is two photos there's some
-
-flash
-
-thing in one of the photos and then the
-
-other photo
-
-is very bright i'm guessing this
-
-might be exposure problems
-
-another theory is radiological
-
-weapons that could explain the
-
-radioactive residue found on some of the
-
-people as well as some of the belongings
-
-or the clothing as well as the bodies
-
-having an orange
-
-or brick red skin color as well as gray
-
-hair
-
-although this is probably explained
-
-by mummification as i understand it
-
-i couldn't find the autopsy photos so
-
-i'm not sure
-
-that actually is a thing that did happen
-
-i might be able to help you out on this
-
-in that it's quite common and
-
-i don't know what the frequency of it
-
-happening
-
-is but there's one pathologist who this
-
-is a sign
-
-that he looks for to confirm hypothermia
-
-it's a condition called frost erythema
-
-also colloquially known as stoplight
-
-knees
-
-it's a general reddening of your skin
-
-caused by a very complicated process
-
-involving carboxyhemoglobin and
-
-oxyhemoglobin
-
-but basically your oxygen in your
-
-bloodstream will bind to one or the
-
-other and it will cause this
-
-reddening of your skin which
-
-seems to coincide a bit more with the
-
-facts rather than
-
-some crazy theory yeah i get it
-
-and that's why i thought that the
-
-mummification thing was
-
-partly explainable because i felt like
-
-the
-
-bodies they found in the permafrost
-
-are really darkened so kind of guess
-
-that it has to do
-
-with the cold environment no
-
-i remember seeing the picture of the guy
-
-the oldest ever tattooed person
-
-i might have been a lady might have been
-
-a lady yeah
-
-oh woman
-
-yeah they were pretty brown it was like
-
-going out for a night out in essex
-
-but i read on reddit a long time ago
-
-oh here we go and i spent quite some
-
-time
-
-trying to fish out that reddit post but
-
-i couldn't find it
-
-but i read that one of them or more
-
-was working at a laboratory at the time
-
-which might have been the cause for the
-
-radiation and it wasn't a lot of
-
-radiation
-
-it was like a tiny bit of radiation as i
-
-understand it
-
-no i don't know the exact amounts but
-
-i'm inclined
-
-to think that it was only a small amount
-
-yeah i think i read somewhere like the
-
-exact amount
-
-but they said that this is a normal
-
-exposure amount of radiation to
-
-something that is
-
-not that radioactive yeah so it ain't no
-
-big bomb
-
-yeah or the national geographic
-
-article mentions in passing
-
-that at the time camping lights
-
-had some sort of radioactive element to
-
-them
-
-which would make sense in the context in
-
-that it was low level radiation
-
-and it was only on a few of
-
-them or their things the people that
-
-were closest to the source of the light
-
-probably would have had a higher
-
-exposure
-
-maybe yeah so another theory is aliens
-
-obviously okay case closed we're done
-
-here
-
-because of the infamous photographs
-
-that i don't think is that telling at
-
-all because you can't really see what's
-
-going on it just
-
-looks like bad exposure and also
-
-other eyewitness statements about the
-
-glowing orbs
-
-in the sky it's called the moon
-
-i also read that there's another theory
-
-about
-
-semyon snakes
-
-sorry my parcel tongue is a bit rusty
-
-there's another theory about
-
-semyon and they said that he was a kgb
+Sorry, my parseltongue is a bit rusty. There's another theory about Semyon and they said that he was a kgb
 
 agent
 
