@@ -270,7 +270,7 @@ Yeah, that's true. Speaking of winds, did you know that it can rain fish?
 
 Have you been reading the bible again? 
 
-No! True story, bro. I looked it up because I was like: "nah, this sounds like bullshit to me". Turns out it can happen, but it happens when there's a hurricane, or typhoon? What is a typhoon? 
+No! True story bro. I looked it up because I was like: "nah, this sounds like bullshit to me". Turns out it can happen, but it happens when there's a hurricane, or typhoon? What is a typhoon? 
 
 A typhoon is a hurricane at sea.
 
@@ -332,813 +332,113 @@ I also read that there's another theory about ssssss... Semyon.
 
 Snakes?
 
-Sorry, my parseltongue is a bit rusty. There's another theory about Semyon and they said that he was a kgb
+Sorry, my parseltongue is a bit rusty. There's another theory about Semyon, and they said that he was a KGB agent sent there to kill them for some reason.
 
-agent
+Because nobody in Soviet Russia can have grade 3 hiking license. \[Laughter]
 
-sent there to kill them for some reason
+That would have been funny. But because he was a World War II veteran, because he was an outsider in the group in some way, because he had his camera on him... 
 
-because nobody in soviet russia can have
+Oh! Suspicious. \[Sarcasm]
 
-grade 3
+... when they died. So none of them had shoes, but he had a camera. But I'm guessing that he was probably wearing the camera in the tent when this happened. 
 
-hiking license
+But not his shoes? I am suspicious. \[Sarcasm]
 
-that would have been funny but because
+But I think that someone said that Dyatlov forced everyone in the group to wash their feet every night. Which might be true, might not be true, but it sounds weird. 
 
-he was a world war
+Do you not remember the Dan Radclaff... Radclaff? \[Laughter] The film we watched? 
 
-ii veteran because he was an outsider in
+Jungle, yeah.
 
-the group
+Wash your feet bro. 
 
-in some way because he had his camera
+Yeah. It might be some hiking thing.
 
-on him suspicious when they died
+It's the same conditions, isn't it? They were hiking through the jungle, so they were getting wet feet, you're hiking through snow, you get wet feet. Make sure they're clean and dry.
 
-so none of them had shoes but he had a
+That's true. I did believe the fire theory for a while there. And the fire theory is that they had a stove in the tent, and the theory was that the stove fell over and things started burning. Which would explain the burn injuries on the bodies, and also some of the burnt clothing, and also the panic to get out of the tent. But I will say this on the burnt clothing thing, Zinaida wrote in one of her last diary entries that: 
 
-camera
+> "All day long we followed the river, at night we'll camp on a Mansi trail. I burned my mittens, and Yura's jacket, at the campfire. He cursed me a lot!" 
 
-but i'm guessing that he was probably
+Yura is one of the Yuris. So it might have been that they sometimes came close to the fire. 
 
-wearing the camera
+I think that would make sense, in that you're spending all this time hiking through the freezing cold, the only chance you ever get to dry out is when you stop at night for the fire. So they probably got too close with their clothing. And then when they were in the state of hypothermia and confusion, because they'd escaped their tent, then they probably got a bit complacent with their person. 
 
-in the tent when this happened but not
+Yeah.
 
-his shoes i am suspicious
+And that's where the body burns come in. Like having hiked in a rain forest, I know all too easily how difficult it is to get dry clothing, and how tempted you are to just move everything closer to the fire just to dry it out quicker. 
 
-but i think that someone said that the
+Yeah. Maybe we should discuss the theory that is prevalent now, when they say that science has solved the Dyatlov pass incident. 
 
-outlaw
+But we already talked about the aliens. \[Laughter]
 
-forced everyone in the group to wash
+Yeah. The avalanche. 
 
-their feet
+Oh! The avalanche that was caused by the alien landing, got ya. \[Laughter] So given that this is a nice mountainous, hilly landscape covered in snow, with very strong winds, why has it taken until 2020 to conclude that it was an avalanche? Subscribe and like to find out why. \[Laughter]
 
-every night which might be true might
+I. I... \[Laughter]
 
-not be true but it sounds weird do you
+I think they first said that it was an avalanche quite soon, but now they've successfully explained the evidence.
 
-not
+Obviously one of the first theories was avalanche. There are a number of reasons why they thought that it could have been an avalanche, and then also a number of reasons why this was pooh-poohed. Let's go through why they ruled out avalanche, or why it's been a mystery for the last 50 years. Now one of the biggest reasons that they thought it couldn't have been an avalanche, was that there was no debris left behind that would have been indicative of an avalanche. Now they cause massive amounts of damage, the tent would have been completely submerged, the cops of trees where they made their fire would have been destroyed, you would have seen more signs of an avalanche had it been an avalanche. Also another reason was that a lot of the weather reports, and hiking reports and things like that from other people in the area, had never shown any sign of avalanche before. It wasn't recorded as being an avalanche risk zone. Another one of the reasons was that these were all experienced hikers. Part of your grade two is to traverse a peak on rock, snow, and ice, and they were all grade two going up to grade three. So they'd all hiked on ice and snow before, they wouldn't have camped in a known avalanche path. Just wouldn't have done it. You would have taken that sacrifice of going those 1500 meters back downhill to get out of the way of an avalanche rather than risk it. One of the reasons that you can rule out, or rule in, a zone for being an avalanche risk is the topography. And at the time they thought that the slopes were too shallow. And then one of the biggest things, is that usually victims who fall to an avalanche asphyxiate, because they've been submerged in the snow. There is usually not the blunt force trauma that you would see with the victims that were found. And there's usually no chance of escape from an avalanche, if you know you're in an avalanche - it's too late. 
 
-remember the dan radcliff radclaf
+Yeah. 
 
-the film we watched jungle yeah
+Unless you get found. So with modern science the case was reinvestigated. It's been reinvestigated multiple times over the years, but with this latest one that I think started in 2019? Might have been earlier. 
 
-wash your feet bro yeah it might be some
+I think the investigation started 2015, but it went up to 2019.
 
-hiking thing
+Okay, yeah. Makes sense. So they looked at the weather conditions historically, and currently, and found that the weather at the pass could be particularly brutal. They could get winds up to 70 to 100 kilometers an hour, that's about 45 to 70 miles an hour. Temperatures can plummet down to minus 40 degrees, and these weren't conditions that were considered by the original investigators. One of the biggest factors was that the hikers dug their tent into the side of the slope. So they didn't camp on the surface, they dug it in so they would have a flat camp. Now what that does is weaken what's called the snow base, which is the underlying layer of snow that causes all of the stability. It's that hard, clumpy stuff rather than the soft surface snow. They also found with modern topographical techniques that the slopes weren't that shallow at all. They looked into all of the topography of the area, and the particular region where they set up camp had a 30 degree angle of slope, which is really steep. Also, fun fact for you, the minimum requirement for an avalanche is 30 degrees. 
 
-it was the same conditions isn't it they
+Oooh! 
 
-were hiking through the jungle so they
+Ooooh, what a coincidence. So during this reinvestigation, the team that were looking at it were spending a little bit of down time and watching Frozen, as you do. And they were super impressed with the animation of the snow in Frozen. They were like: "hey, this looks like snow! That's pretty incredible!". So they spoke to Disney, and managed to get hold of their coders for the animation. 
 
-were getting wet feet
+Yeah. 
 
-you're hiking through snow you get wet
+So they went to Hollywood, took this animation code and reprogrammed it to simulate the conditions on the mountain. They also had a bunch of crash test data from General Motors. General Motors had a bunch of data about blunt force trauma and impact injuries for safety testing for their cars. So what the investigators did is, they paired this data together. So they had the new topography data from the new investigations, they had the new animation code from the Frozen team, and they had the blunt force trauma information from General Motors. The combination of the Frozen data and the topography showed that it was very much possible for an avalanche to have occurred, at the specific time that these guys were camping. 
 
-feet make sure they're clean and dry
+This is a slow avalanche, no? 
 
-that's true i did believe the fire
+Yeah. It has a certain name, and I think slow avalanche is probably right. Because it's not that whole massive cascade of snow, it was a very, very localized event. Because they had dug their tent in and weakened the snow base. So what they concluded with the animation is that there would have been an avalanche block, rather than a massive wall, that they estimated would have been about 16 foot long. Which is about the size of a standard people carrier, like a nine person taxi or something. In terms of avalanche speak, that's really, really small. But they've proven it could have been possible, and it fits with all the rest of the data in that; the tent wouldn't have been completely submerged, it wouldn't have flowed all the way down the mountainside into the cops of trees at the bottom of the hill where they were camping. So you would have seen no damage from that, because it was such a small avalanche. It would have been covered by snows that would have come afterwards, so you wouldn't have seen any of the movement, or anything like that. Now I'm a bit confused about where and when the blunt force trauma injuries occurred. 
 
-theory for a while there and the fire
+Me too. I was gonna ask you a question about that. \[Laughter]
 
-theory
+Okay. So this study, that was published in the National Geographic, has said that in the tent, some of the bedding that was found had been placed on top of their skis, to form a base layer for their mattress type thing. Now when you coincide the General Motors data about force and crash velocity, they concluded that the strength of the avalanche, and the pressures involved, would explain the blunt force traumas that the victims had without having any of the surface trauma. So they thought that the fact that a couple of these hikers had slept on their skis, is what caused them to have their rib fractures, and their skull fractures etc. Which would make sense, because if not all of them were doing it, then not all of them would have had the same level of damage. Now if you've got a fatal skull fracture, you're not just gonna hop out of bed, jump out of the tent, walk down to the trees with everybody else, and then die. 
 
-is that they had a stove in the tent and
+That is the question. 
 
-the theory was that the
+Some of the other stories have said that they fell down a ravine, and that's why they ended up in the river, or the stream, or whatever. Which also makes sense, because if there's been light snowfall, it could quite easily hide loose footing where they could have fallen. But if they had fallen, that wouldn't have accounted for their injuries, because then they would have had surface injuries. You can't fracture your skull without laceration, bruising, to your head. So the fall wouldn't have caused the injuries.
 
-stove fell over and things started
+Could you survive for a while with that amount of internal damage?
 
-burning which would explain the burn
+I think the ones with chest fractures probably could, Dubinina and Zolotaryov.
 
-injuries
+Yeah. 
 
-on the bodies and also some of the burnt
+I don't think our boy Thibeaux would have been in any condition to walk down the hill with a major skull fracture. They could have carried him I suppose.
 
-clothing
+Yeah. 
 
-and also the panic to get out of the
+Which would then accommodate for the fewer number of footprints. It's one of those things that I don't think we'll ever know.
 
-tent
+No. 
 
-but i will say this on the burnt
+I would be inclined to think that they probably carried him from camp, but he was obviously still alive, otherwise they would have just left him behind.
 
-clothing thing
+Yeah. It seems incredulous because of the fact that the people with internal damage survived longer than the people without internal injuries.
 
-sinaida wrote in one of our last diary
+Yeah, because they were all the ones with the extra clothing. They had the extra clothing because they lasted long enough to take it off of their campmates who'd have died. Which then doesn't lend towards them already having their injuries. 
 
-entries that
+Yeah, exactly. 
 
-quote all day long we followed the river
+Unless the guys that died of hypothermia gave them their clothing to try and increase their chances to survive, then realized: "wait, that's a stupid idea. Let's go back to camp and get more clothes", and died on the way up.
 
-at night we'll camp on a mansi trail
+I think I solved it! \[Laughter] They put the clothing on the people that were injured. That were... because I read somewhere that someone went there, maybe it was the BBC article, maybe it was the Swedish people that went there to investigate, I don't know. But they said that the place where the four other bodies were discovered weren't that far away from the fire, so it was in speaking distance, like they could have spoken to each other. So they put the injured people there, and then they all died, and then the snow fell upon the injured people. 
 
-i burned my mittens and yora's
+And then the end. 
 
-jacket at the campfire he cursed me
-
-a lot yura is one of the yuris
-
-so it might have been that they
-
-sometimes came close
-
-to the fire i think that would make
-
-sense
-
-in the you're spending all this time
-
-hiking through the freezing cold
-
-the only chance you ever get to dry out
-
-is when you stop at night
-
-for the fire so they probably got too
-
-close with their clothing
-
-and then when they were in the state of
-
-hyperthermia and confusion
-
-because they'd escaped their tent then
-
-they probably got a bit complacent with
-
-their person yeah
-
-and that's where the body burns come in
-
-like having hiked
-
-in a rain forest i know all too easily
-
-how difficult it is to get dry clothing
-
-and how tempting you are to just move
-
-everything
-
-closer to the fire just to dry it out
-
-quicker yeah
-
-maybe we should discuss the theory
-
-that is prevalent now when they say
-
-that science has solved the diet love
-
-pass
-
-incident but we already talked about the
-
-aliens
-
-yeah the avalanche oh
-
-the avalanche that was caused by the
-
-alien landing
-
-got here so
-
-given that this is a nice mountainous
-
-hilly landscape covered in snow with
-
-very strong winds
-
-why has it taken until 2020
-
-to conclude that it was an avalanche
-
-subscribe and like to find out why
-
-i think they first said that it was an
-
-avalanche
-
-quite soon but now they've
-
-successfully explained the evidence
-
-obviously one of the first theories
-
-was avalanche there are a number of
-
-reasons why they thought that it could
-
-have been
-
-an avalanche and then also
-
-a number of reasons why this was
-
-pooh-poohed
-
-let's go through why they ruled out
-
-avalanche
-
-or why it's been a mystery for the last
-
-50 years now one of the biggest
-
-reasons that they thought it couldn't
-
-have been an avalanche was that there
-
-was
-
-no debris left behind
-
-that would have been indicative of an
-
-avalanche now they caused
-
-massive amounts of damage the tent would
-
-have been
-
-completely submerged the cops of trees
-
-where they made their fire would have
-
-been destroyed
-
-you would have seen more signs of an
-
-avalanche
-
-had it been an avalanche also another
-
-reason
-
-was that a lot of the weather reports
-
-and hiking reports and things like that
-
-from other people in the area had never
-
-shown
-
-any sign of avalanche before it wasn't
-
-recorded
-
-as being an avalanche risk zone another
-
-one of the reasons
-
-was that these were all experienced
-
-hikers
-
-part of your grade two is to
-
-traverse a peak on rock snow
-
-and ice and they were all grade two
-
-going up to grade three so they'd all
-
-hiked on ice and snow before they
-
-wouldn't have camped
-
-in a known avalanche path just wouldn't
-
-have done it
-
-you would have taken that sacrifice of
-
-going those 1500 meters back downhill
-
-to get out of the way of an avalanche
-
-rather than
-
-risk it one of the reasons that you can
-
-rule out or rule in a zone for being an
-
-avalanche risk
-
-is the topography and at the time
-
-they thought that the slopes were too
-
-shallow
-
-and then one of the biggest things is
-
-that usually
-
-victims who fall to an avalanche
-
-asphyxiate because they've been
-
-submerged in the snow
-
-there is usually not the blunt force
-
-trauma
-
-that you would see with the victims
-
-that were found and there's usually no
-
-chance of escape
-
-from an avalanche if you know you're in
-
-an avalanche
-
-it's too late yeah unless you get found
-
-so
-
-with modern science the case was
-
-reinvestigated
-
-it's been reinvestigated multiple times
-
-over the years
-
-but with this latest one that i think
-
-started in 2019
-
-might have been earlier i think the
-
-investigation started
-
-2015 but it went up to
-
-2019. okay yeah makes sense
-
-so they looked at the weather conditions
-
-historically
-
-and currently and found that
-
-the weather at the pass could be
-
-particularly brutal
-
-they could get winds up to 70
-
-to 100 kilometers an hour that's about
-
-45 to 70 miles an hour
-
-temperatures can plummet down to minus
-
-40 degrees
-
-and these weren't conditions that were
-
-considered by the
-
-original investigators one of the
-
-biggest factors was that the
-
-hikers dug their tent into the side
-
-of the slope so they didn't camp on the
-
-surface they dug it in so they would
-
-have a flat camp
-
-now what that does is weaken what's
-
-called the snow base
-
-which is the underlying layer of snow
-
-that causes all of the stability is that
-
-hard
-
-clumpy stuff rather than the soft
-
-surface snow
-
-they also found with modern
-
-topographical techniques
-
-that the slopes weren't that shallow at
-
-all
-
-they looked into all of the topography
-
-of the area and the particular region
-
-where they set up
-
-camp had a 30 degree
-
-angle of slope which is
-
-really steep also fun fact for you
-
-the minimum requirement for an avalanche
-
-is 30 degrees oh
-
-what a coincidence so during
-
-this reinvestigation the team that were
-
-looking at it
-
-were spending a little bit of down time
-
-and watching frozen
-
-as you do and they were super impressed
-
-with
-
-the animation of the snow in frozen
-
-they're like hey this looks like snow
-
-that's
-
-pretty incredible so they spoke to
-
-disney
-
-and managed to get hold of their coders
-
-for the animation yeah so they went to
-
-hollywood
-
-took this animation code and
-
-reprogrammed it
-
-to simulate the conditions on the
-
-mountain
-
-they also had a bunch of crash test data
-
-from general motors
-
-general motors had a bunch of data about
-
-blunt force trauma and impact injuries
-
-for safety testing for their cars so
-
-what the investigators did is they
-
-paired this
-
-data together so they had the new
-
-topography data
-
-from the new investigations they had the
-
-new
-
-animation code from the frozen team
-
-and they had the blunt force trauma
-
-information from general motors
-
-the combination of the frozen data
-
-and the topography showed that
-
-it was very much possible for
-
-an avalanche to have occurred at the
-
-specific
-
-time that these guys were camping this
-
-is a
-
-slow avalanche no yeah
-
-it has a certain name and i think slow
-
-avalanche is probably right
-
-because it's not that whole massive
-
-cascade of snow
-
-it was a very very localized event
-
-because they had dug their tent
-
-in and weakened the snow base so what
-
-they concluded with
-
-the animation is that there would have
-
-been
-
-an avalanche block rather than
-
-a massive wall that they estimated would
-
-have been about 16
-
-foot long which is about the size of a
-
-standard
-
-people carrier like a nine person taxi
-
-or something
-
-in terms of avalanche speak that's
-
-really really small
-
-but they've proven it could have been
-
-possible
-
-and it fits with all the rest of the
-
-data
-
-in that the tent wouldn't have been
-
-completely submerged
-
-it wouldn't have flowed all the way down
-
-the mountainside into the cops of trees
-
-at the bottom of the hill where they
-
-were camping so you would have seen no
-
-damage from that
-
-because it was such a small avalanche it
-
-would have been covered
-
-by snows that would have come afterwards
-
-so you wouldn't have seen any of the
-
-movement
-
-or anything like that now i'm a bit
-
-confused
-
-about where and when the blunt force
-
-trauma injuries
-
-occurred me too i wasn't gonna ask you a
-
-question about that
-
-okay so this study that was published
-
-in the national geographic has said that
-
-in the tent some of the bedding
-
-that was found had been placed on top of
-
-their skis
-
-to form a base layer for their mattress
-
-type
-
-thing now when you coincide
-
-the general motors data about
-
-force and crash velocity they concluded
-
-that the strength of the avalanche
-
-and the pressures involved would explain
-
-the blunt force traumas that the victims
-
-had
-
-without having any of the surface trauma
-
-so they thought that the fact that a
-
-couple of these
-
-hikers had slept on their skis
-
-is what caused them to have their rib
-
-fractures and their skull fractures
-
-etc which would make sense because if
-
-not all of them were doing it then not
-
-all of them would have had the same
-
-level of damage
-
-now if you've got a fatal skull
-
-fracture yeah you're not just gonna hop
-
-out of bed
-
-jump out of the tent walk down to the
-
-trees with everybody else and then
-
-die that is the question some of the
-
-other stories
-
-have said that they fell down a ravine
-
-and that's why they ended up in the
-
-river or the stream or whatever
-
-which also makes sense because if
-
-there's been light snowfall
-
-it could quite easily hide loose footing
-
-where they could have fallen but if they
-
-had
-
-fallen that wouldn't have accounted for
-
-their injuries
-
-because then they would have had surface
-
-injuries
-
-you can't fracture your skull without
-
-laceration
-
-bruising to your head so the fall
-
-wouldn't have caused the injuries
-
-could you survive for a while with that
-
-amount of internal damage
-
-i think the ones with chest fractures
-
-probably could they've been in a and
-
-solitary off
-
-yeah i don't think our boy tebow would
-
-have been in any condition
-
-to walk down the hill with a major skull
-
-fracture
-
-they could have carried him i suppose
-
-yeah which would then
-
-accommodate for the fewer number of
-
-footprints
-
-it's one of those things that i don't
-
-think we'll ever know
-
-no i would be inclined to think that
-
-they probably carried him from
-
-camp but he was obviously still alive
-
-otherwise they would have just left it
-
-behind
-
-yeah it seems incredulous
-
-because of the fact that the people with
-
-internal damage survived
-
-longer than the people without internal
-
-injuries
-
-yeah because they were all the ones with
-
-the extra clothing they had the extra
-
-clothing because they lasted long enough
-
-to take it off of their campmates who
-
-have died
-
-which then doesn't lend towards them
-
-already having
-
-their injuries yeah exactly unless
-
-the guys that died of hypothermia gave
-
-them their clothing
-
-to try and increase their chances to
-
-survive
-
-then realized wait that's a
-
-stupid idea
-
-let's go back to camp and get more
-
-clothes and died on the way up
-
-i think i sold
-
-they it the clothing on the people that
-
-were injured
-
-that were because i read somewhere that
-
-someone
-
-went there maybe it was the bbc article
-
-maybe it was
-
-the swedish people that went there to
-
-investigate i don't know
-
-but they said that the place where the
-
-four other bodies were discovered
-
-weren't that far away from the fire
-
-so it was in speaking distance like they
-
-could have
-
-spoken to each other so they put the
-
-injured people
-
-there and then they all died and then
-
-the snow
-
-fell upon the injured people and then
-
-the end yeah isn't that an epiphany
-
-I was like: "I've solved it!". I didn't solve it but, you know. 
+Yeah. Isn't that an epiphany? \[Sarcasm] I was like: "I've solved it!". \[Laughter] I didn't solve it but, you know. 
 
 It sounds like you solved it to me.
 
@@ -1146,7 +446,7 @@ Okay! We've done the shit.
 
 We've done the shiiit. 
 
-So on the 11th of July 2020, Andrey Kuryakov, deputy head of the Urals federal district dictate of the prosecutor-general's office, announced an avalanche to be the official cause of death for the Dyatlov group in 1959. That was a quote from wikipedia. I didn't want to write: "the deputy head of the Urals federal district dictate of the prosecutor-general's office", by myself. I was like: "we're gonna quote that". And the area where the incident took place is now named Dyatlov pass in honor of the hiking group leader, Igor. Yeah. That's the case! Thank you so much for listening to Midweek Murders, we'll see you next week. Bye-bye! 
+So on the 11th of July 2020, Andrey Kuryakov, deputy head of the Urals federal district dictorate of the prosecutor-general's office, announced an avalanche to be the official cause of death for the Dyatlov group in 1959. That was a quote from wikipedia. I didn't want to write: "the deputy head of the Urals federal district dictorate of the prosecutor-general's office", by myself. I was like: "we're gonna quote that". And the area where the incident took place is now named Dyatlov pass in honor of the hiking group leader, Igor. Yeah. That's the case! Thank you so much for listening to Midweek Murders, we'll see you next week. Bye-bye! 
 
 Goodbye to you.
 
