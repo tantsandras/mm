@@ -8,6 +8,21 @@ descriptionText: The Frankston serial killer murdered Elizabeth Stevens, Deborah
   why she doesn't eat "big shrimp".
 date: 24
 month: February
+images:
+  - image: /imgUploads/4a-elizabeth-stevens-108.webp
+    alt: Elizabeth Stevens
+  - image: /imgUploads/7a-debbie-fream108.webp
+    alt: Deborah Fream
+  - image: /imgUploads/3b-donna-youre-dead-200.jpg
+    alt: Message left on Donna Vanes Claude's wall stating "Donna you're dead".
+hashtags:
+  - tag: Paula Denyer
+  - tag: Elizabeth Stevens
+  - tag: Deborah Fream
+  - tag: Natalie Russell
+  - tag: The Frankston serial killer
+  - tag: The Frankston murders
+  - tag: Australian serial killers
 ---
 <!--StartFragment-->
 
@@ -15,25 +30,17 @@ The Frankston serial killer murdered Elizabeth Stevens, Deborah Fream and Natali
 
 <!--EndFragment-->
 
-
-
 Joe got his information from:
 
 * Wikipedia
 * Forensic Investigators: Paul Denyer (TV episode 2004)
-
-
 
 Sandra got her information from:
 
 * Wikipedia
 * [Article](https://murderpedia.org/male.D/d/denyer-paul.htm) on crime library, by Paul B. Kidd
 * An [article](https://www.nowtolove.com.au/news/real-life/true-crime-frankston-serial-killer-51265) on now to love, by as told to take 5
-* [Blog post](https://crimeinmypocket.com/2020/03/22/paula-denyer/) on crime in my pocket
-
-
-
-
+* [Blog post](https://crimeinmypocket.com/2020/03/22/paula-denyer/) on crime in my pocket. This is also where the images can be found. 
 
 <!--StartFragment-->
 
@@ -77,8 +84,6 @@ True story though, isn't it?
 I mean, I feel like that's modern day Sweden.
 
 \[Music]
-
-
 
 So it's Wednesday, which means that it's time to talk about crime. You're listening to Midweek Murders, and I'm your host Sandra.
 
@@ -178,835 +183,177 @@ Yeah, yeah. I think that is all I have on Natalie Russell.
 
 There was a license plate clue? 
 
-Yes. So when Natalie went missing, there was a postal worker that was covering a route that also coincided with the start of the path that she had disappeared on, or that she was found near. As that postal worker was doing their deliveries, they noticed a yellow Toyota parked opposite the track where Natalie had disappeared. And I think they were on some kind of motorized scooter, or some kind of motorized device that wasn't a car, because they were on the path.
+Yes there was. So when Natalie went missing, there was a postal worker that was covering a route that also coincided with the start of the path that she had disappeared on, or that she was found near. As that postal worker was doing their deliveries, they noticed a yellow Toyota parked opposite the track where Natalie had disappeared. And I think they were on some kind of motorized scooter, or some kind of motorized device that wasn't a car, because they were on the path.
 
-a motorized scooter is such
+A "motorized scooter" is such an English way... 
 
-an english way how would you describe it
+How would you describe it?
 
-i don't know a motorbike she wasn't on a
+I don't know, a motorbike? 
 
-motorbike
+She wasn't on a motorbike.
 
-i don't mean natalie it was the post
+I don't mean Natalie, I mean the postal worker.
 
-yeah the post
+Yeah the postal... No, the postal worker wasn't on a motorbike. She must have been on like a low-powered mobility scooter, or like something like that, to be able to be on the path. Otherwise she would have had to have been on the road. So it was like a motorized scooter, but I don't know what her exact vehicle was, so I said motorized scooter. \[Laughter]
 
-no the postal worker wasn't on a
+Okay. 
 
-motorbike she must have been
+It might have been a bicycle, with the little electric engine that helps them go uphill. 
 
-on like a low-powered mobility scooter
+Okay.
 
-or like something like that to be able
+I don't know. I just don't know! \[Laughter] She was in some kind of motorized assistant vehicle, that was low power enough to be on the path, but not high power enough to be on the road. 
 
-to
+How do we know that it's not a bike?
 
-be on the path otherwise she would have
+I don't know! It wasn't a bike. For some reason, there was some kind of motor involved. \[Laughter]
 
-had to have been on the road
+Okay. I don't know why I'm getting so...
 
-so it was like a motorized scooter but
+Yeah! Why are you sticking on this point? This isn't even an important point. \[Laughter]
 
-i don't know what her exact vehicle was
+It isn't!
 
-so i said motorized scooter
+Anyway. She scooted past a yellow Toyota that was parked opposite the track where Natalie was found. As she scooted past, electrically or manpowered - remains to be determined, she noticed that the car didn't have any number plates, either on the back or the front. 
 
-okay it might have been a bicycle with
+Oh! I thought there was a number plate!
 
-the little
+Bear with. So there were no license plates on the car where you would expect license plates to be. 
 
-electric engine that helps them go
+Oh my god, I didn't know that!
 
-uphill okay
+And when she scooted past, power undetermined, she noticed the person in the driver's seat slouched down in the seat, as if to try and be unobserved.
 
-i don't know i just don't know
+Definitely suspicious. 
 
-she was in some kind of motorized
+Yeah, exactly. So she was like: "Mm". 
 
-assistant
+"Hold on one Australia minute!".
 
-vehicle okay that was low power enough
+"This jingles my bells". I don't know why she's southern American rather than Australian. It's like the buffalo all over again.
 
-to be on the path
+"I don't know why the buffalo is Scottish!".
 
-but not high power enough to be on the
+"Put a shrimp on the barbie, this guy's suspicious!" \[Laughter]
 
-road
+That's the only thing we know that is Australian, although I have Australian friends. I'm sorry Hayle! \[Laughter]
 
-how do we know that it's not a bike
+Christmas in the sunshine, what is this world?
 
-i don't know it wasn't a bike
+She moved to England thinking that she would be fine with like a windbreaker, and some fleece leggings. \[Laughter]
 
-for some reason there was some kind of
+Oh Hayle, you are gonna be freezing your tits off in this weather.
 
-motor injury
+And she's from Queensland, so it's fucking warm. I was like: "should I go visit you?", she's like: "no, you're gonna boil". Which is probably a thing that she says to keep me from visiting. No, we were good friends. She probably means in the best way... I'm hoping. Hayle, if you're there... \[Laughter]
 
-okay i don't know why i'm getting so
+"I still want to be your friend! I love shrimp barbecued! I love Fosters, it's the best!" 
 
-yeah why are you sticking on this point
+I love shrimp. Although, I don't...
 
-this is an
+Or Fosters, it's piss water. 
 
-important point
+No. I don't love Fosters, obviously. But I do love shrimp, but I don't like the big ones because they're really bad for the enviornment. \[Laughter]
 
-anyway she scooted past
+Also, fun fact about Fosters. Australian company, brewed in the UK. 
 
-a yellow toyota that was parked opposite
+I don't nobody who drinks Fosters in the UK! 
 
-the track
+Loads of people drink Fosters in the UK.
 
-where natalie was found as
+Oh. Maybe I'm just not that peasant. \[Laughter]
 
-she scooted past electrically
+Yeah, we're Irish hop house kind of people. Anyway, the postal worker obviously flagged that this was suspicious. Very astute. So as soon as the postal worker got to a house where they knew someone was in, they called the police.
 
-or manpowered remains to be determined
+That's incredible.
 
-she noticed that the car didn't have any
+Yeah. So good job you, postal worker. The police came out. The person in the car had disappeared, but the car was still there. They also noted that there were no obvious license plates on the car, however, they did notice that there was a temporary license plate registration label in the windscreen. So they took a note of this, wrote it down, knocked on a couple of the local doors, nobody had any more information about the vehicle. So they took as much detail as they could and left the scene. Once Natalie's body was recovered, those two junior officers came forward and said: "look, we were called out to this location yesterday", the day before Natalie was found, "found this strange vehicle. Do you want these details? Run these details". So they ran the details, and found that the vehicle was registered to a Denyer. Sometime between Debbie's body being discovered and Natalie's body being discovered, the police engaged with a criminal profiler. So the profiler looked through all of the case history, and all of the information available to them. They found that most serial killers were between the age of 18 and 24, so that was the age range that they were looking for. Most serial killers lead a very rich fantasy life, so they're quite often involved with fantasizing about their next victim, or things that they can do to their victims, all of that kind of morbid stuff. And because of that, the profiler theorized that this person was likely unemployed. Because of the amount of time that they would spend fantasizing about their victims, they wouldn't be able to hold down a regular job. So either they were doing part-time menial work that didn't involve much thought, or they were unemployed.
 
-number plates either on the back
+And speaking of which... or did you have more?
 
-or the front oh i thought there was a
+I have one more point, but are you going to talk about how you would also fit the profile of serial killer? \[Laughter]
 
-number plate
+That is true.
 
-bear with so there were no license
+And the last point was that they were likely going to be a local resident. So the profiler thought that given that they knew the back road that Natalie took, and that both Elizabeth and Debbie were found very close together, that the suspect was likely a local. So they painted a picture that gave the police a little bit more help in being able to identify who the suspect might be. 
 
-plates
+So Denyer had tried to become a police officer, had a history of animal cruelty, and assaulted a fellow student at school. Denyer was also fired from a job at a supermarket for deliberately trying to knock a woman and a child over with a row of shopping carts.
 
-on the car where you would expect
+Oh we all do that. Get frustrated in Waitrose, you're like: "oh, why is this person in here? They're clearly not upper class. Oh, look at the shoes they're wearing. Throw a trolley at them!". 
 
-license plates
+The police went to Denyer's home, and left a card requesting to be contacted as soon as the residents returned home. Sharon Johnson, Denyer's girlfriend, got in touch with them, and they told her that it was a routine inquiry, and that they were interviewing everyone in the district. To keep suspicions low, I guess.
 
-to be oh my god i didn't know that
+Well also, it wasn't that much of a stretch. They were investigating all of the local area.
 
-and when she scooted past
+So when they arrived at the home, Denyer answered the door and commented that there were a lot of police there for a routine inquiry, but cheerily let them in. The detectives noticed that Denyer's hands were cut in several places. Suspicious. Denyer was taken in, and then interrogated for hours. 
 
-power undetermined
+Yeah. So they asked Denyer their age, and they confirmed that they were 21, and if you remember the profiler said that they would be between 18 and 24. They also asked Denyer if they were employed, unemployed, between jobs, and they replied that they were unemployed. Again, a tick for the profiler. Like you said, the police officers noted that Denyer had cuts and abrasions on their hands. When this was questioned by the investigating officer, Denyer had excuses for all of their injuries. They claimed it was from the engine fan, while they were plunging into the depths of automotive enginery!
 
-she noticed the person in the driver's
+Was it a motorized scooter? No, I'm just kidding. 
 
-seat
+No, it was a combustion engine powering a vehicle! The police also, while Denyer was in custody, investigated the house and the car, and seized a number of knives and tools from the home. And also, a pair of binoculars with no leather strap! They were like: "this is dinging my ding-a-ling, ding ding ding". 
 
-slouched down in the seat
+Ding, ding, ding.
 
-as if to try and be unobserved
+Ding, ding, ding. So when they questioned Denyer a little bit deeper about their movements regarding the days that Elizabeth Stevens, Deborah Fream, and Natalie Russell all went missing, they had answers for every single hour of each of those three days. Now, to an investigating officer that in itself is suspicious. If you're able to recount every single hour of a day that happened two weeks ago, you've covered your tracks too thoroughly, and then you become suspicious. So that raised a flag for the investigating officers, and they were like: "okay, this is a bit weird. We need to go a bit deeper". So then they asked for DNA samples. Now at this stage, I really enjoyed the investigating officer's technique. So Denyer's sitting across the desk, there's two police officers interviewing. They explain that they need the DNA samples, because they've got DNA from the crime scene, and they need to be able to either link or rule out Denyer. 
 
-definitely suspicious yeah exactly
+> So in Denyer's mind they're thinking: "Shit. I did this. They've got my DNA from the crime scene, and now they need to link it to me, and the only way they can do that is through a blood sample or a DNA swab. I'm fucked"
+>
+>
+>
+> So at this stage the investigating officer says: "do you want a coffee?" 
+>
+>
+>
+> And Denyer's like: "yeah, I could go for a coffee, yeah" 
+>
+>
+>
+> "oh, how'd you take your coffee bruv?" 
+>
+>
+>
+> Denyer was like:  "white with two" 
+>
+>
+>
+> Investigating officer's like: "yeah, I could do that. No worries, I'll get your coffee. I'll be back in five minutes" 
+>
+> He leaves the room. 
+>
+>
+>
+> Now, Denyer is left with the non-senior investigating officer, knowing that they're fucked. Queue confession. 
+>
+> So while the senior investigating officer's out brewing this delicious cup of steamy Joe, that's what I like to call myself, Denyer is in there shitting bricks. "They've got me, they fucking know. I've murdered a bunch of people"
+>
+> ... hold on, I don't know why I'm doing it in cockney. 
+>
+> "I've murdered a bunch of people, I'm absolutely fucked. They've got everything they need to prosecute me, I might as well come clean. I'm just gonna do it. There's no way that I'm gonna get shrimp on the barbie anytime soon. The last Fosters I had was last night. I really fucking enjoyed it, but it's gonna be the last one I have, because I'm gonna spend the rest of my life in bars. And not the good kind of bars, the bars that hold you in place"
 
-so she was like hold on one australia
+Yep. 
 
-minute
+So Denyer confessed everything, and then when the senior guy came back in with his lovely cup of steamy joe... hello ladies... Denyer was like: "yeah, I've confessed". And once he had confessed, I've got a couple of quotes from the video of their interview that just sums up Denyer's psychological position. So when they were talking about Elizabeth, the investigating officer asked why they did it, to which they replied: "I just had the feeling, I just wanted to kill". They moved on to Debbie, and asked why they chose Debbie at that time, and they said they: "just got that go-feeling". And then when they got to questioning about Natalie, Denyer said: "I've always wanted to kill". The timing behind it was because: "the levels were boiling up". And then a little bit later in the interview process, they said: "I've been stalking women for a few years, just waiting for that opportunity, waiting for the sign".
 
-this jingles my bales i don't know why
+Which is extremely creepy.
 
-she's southern american rather than
+Mhmm.
 
-australian
+So Denyer confirmed that the attacks and murders had been completely random, and pleaded guilty to three murders and one abduction at the trial. And was sentenced on the 20th of December 1993, to three consecutive sentences of life imprisonment with no parole period. After an appeal though, Denyer was granted a fixed no perole period of 30 years, until 2023. So that's two years from now. So Debbie Fream's son told the media that: "when Denyer applies for parole, I'll be at the hearing to remind the authorities about the life sentence given to a 12 day old baby and his dear mother", and that was really fucking sad to read. 
 
-it's like the buffalo all over again
+Fuck you, Denyer.
 
-i don't know why the buffalo is scottish
+Yeah, definitely. Yeah, that's the case! What am I gonna do next week? Probably edit, and then feel bad. \[Laughter]
 
-put a shrimp on the barbie this guy's
+Or... Feel bad and then edit? 
 
-suspicious
+Maybe that one. Only time will tell. Okay. So thank you so much for listening to Midweek Murders, we'll schnee... 
 
-\[Music]
+We'll schnee you schnext schneek.
 
-that's the only thing we know that is
+Schni schna schnappi, kleine krokodil.
 
-australian although i have australian
-
-friends
-
-i'm sorry hayley
-
-christmas in the sunshine what is this
-
-world
-
-she moved to england thinking that she
-
-would be fine
-
-with like a windbreaker and some
-
-fleece leggings
-
-oh hayley you are gonna be freezing your
-
-tits off in this weather
-
-and she's like queensland says \[ __ ]
-
-warm
-
-i was like should i go visit you she's
-
-like no
-
-you're gonna boil
-
-which is probably you thing that she
-
-says to keep me from visiting
-
-ah no we were good friends
-
-she probably means in the best way i'm
-
-hoping
-
-haley if you're there
-
-i still want to be your friend
-
-i love shrimp barbecued
-
-i love fosters it's the best i love
-
-shrimp although i don't
-
-the big fosters it's piss water no i
-
-don't
-
-love fosters obviously but i do
-
-love shrimp but i don't like the big
-
-ones because they're really bad for the
-
-empire
-
-also uh fun fact about fosters
-
-australian company
-
-brewed in the uk i don't nobody who
-
-drinks fosters
-
-in the uk loads of people drink fosters
-
-in the uk
-
-oh maybe i'm just not that peasant
-
-\[Music]
-
-yeah we're irish hop house kind of
-
-people
-
-anyway the postal worker obviously
-
-flagged that this was suspicious
-
-very astute so as soon as
-
-the postal worker got to a house where
-
-they knew
-
-someone was in they called the police
-
-that's incredible
-
-yeah so good job you postal worker the
-
-police came out
-
-the person in the car had disappeared
-
-but the car was still
-
-there they also noted that there were no
-
-obvious license plates on the car
-
-however
-
-they did notice that there was a
-
-temporary
-
-license plate registration label
-
-in the windscreen so they took a note of
-
-this
-
-wrote it down knocked on a couple of the
-
-local doors
-
-nobody had any more information about
-
-the vehicle so
-
-they took as much detail as they could
-
-and
-
-left the scene once natalie's
-
-body was recovered those two
-
-junior officers came forward and said
-
-look we were called out to this location
-
-yesterday the day before natalie was
-
-found
-
-found this strange vehicle due on these
-
-details run these details
-
-so they ran the details and found that
-
-the
-
-vehicle was registered to a tenure
-
-\[Music]
-
-sometime between debbie's body being
-
-discovered and
-
-natalie's body being discovered the
-
-police
-
-engaged with a criminal profiler
-
-so the profiler looked through
-
-all of the case history and all of the
-
-information
-
-available to them they found that most
-
-serial killers were between the age of
-
-18 and 24
-
-so that was the age range that they were
-
-looking for most
-
-serial killers lead a very rich
-
-fantasy life so they're quite often
-
-involved with fantasizing about their
-
-next victim
-
-or things that they can do to their
-
-victims
-
-all of that kind of morbid stuff and
-
-because of that
-
-the profiler theorized that this person
-
-was likely
-
-unemployed because of the amount of time
-
-that they would spend fantasizing about
-
-their victims
-
-they wouldn't be able to hold down a
-
-regular job
-
-so either they were doing part-time
-
-menial work that didn't involve
-
-much thought or they were unemployed
-
-and speaking which or did you have more
-
-i have one more point
-
-but are you going to talk about how you
-
-would also fit the profile of serial
-
-killer
-
-that is true
-
-and the last point was that they were
-
-likely going to be a local resident
-
-so the profiler thought that given that
-
-they
-
-knew the back road that natalie took
-
-and that both elizabeth and debbie were
-
-found
-
-very close together that the suspect was
-
-likely a local so they painted a picture
-
-that gave the police a little bit more
-
-help
-
-in being able to identify who the
-
-suspect
-
-might be so tenure had
-
-tried to become a police officer had a
-
-history of
-
-animal cruelty and assaulted a fellow
-
-student at school
-
-tenure was also fired from a job at a
-
-supermarket for deliberately trying to
-
-knock a woman
-
-and the child over with a row of
-
-shopping carts
-
-oh we all do that get frustrated in
-
-waitrose
-
-you're like oh why is this person in
-
-here they're clearly not upper class
-
-oh look at the shoes they're wearing
-
-off throw a trolley at them the police
-
-went to 10 years home
-
-and left the card requesting to be
-
-contacted
-
-as soon as the residents returned home
-
-sharon johnson danier's girlfriend got
-
-in touch with them
-
-and they told her that it was a routine
-
-inquiry
-
-and that they were interviewing everyone
-
-in the district
-
-to keep suspicions low i guess
-
-well also it wasn't that much of a
-
-stretch
-
-they were investigating all of the local
-
-area
-
-so when they arrived at the home
-
-tenure answered the door and commented
-
-that there were a lot of police there
-
-for a routine inquiry
-
-but cheerily let them in the detectives
-
-noticed that danier's hands were caught
-
-in
-
-several places
-
-suspicious tenure was taken in and then
-
-interrogated for hours yeah so they
-
-asked
-
-tenure their age and they confirmed that
-
-they were 21
-
-and if you remember the profiler said
-
-that they would be between 18 and 24
-
-they also asked denier if they were
-
-employed
-
-unemployed between jobs and they replied
-
-that they were
-
-unemployed again a tick for the profiler
-
-like you said the police officers noted
-
-that denier had
-
-cuts and abrasions on their hands
-
-when this was questioned by the
-
-investigating officer
-
-denier had excuses for all
-
-of their injuries they claimed it was
-
-from
-
-the engine fan while they were plunging
-
-into the depths of automotive
-
-engineering
-
-was it a motorized scooter no i'm just
-
-kidding
-
-no it was a combustion
-
-engine powering a vehicle
-
-the police also while daniel was in
-
-custody
-
-investigated the house and the car and
-
-seized a number of knives and tools
-
-from the home and also
-
-a pair of binoculars
-
-with no leather strap
-
-they were like this is uh digging my
-
-ding-a-ling
-
-ding ding ding ding ding ding
-
-ding ding so when they questioned daniel
-
-a little bit deeper about their
-
-movements
-
-regarding the days that elizabeth
-
-stephens
-
-deborah freeman and natalie russell all
-
-went missing
-
-they had answers for every single
-
-hour of each of those three days
-
-now to an investigating officer that in
-
-itself is suspicious
-
-if you're able to recount every single
-
-hour of a day that happened two weeks
-
-ago
-
-you've covered your tracks too
-
-thoroughly and
-
-then you become suspicious so that
-
-raised the flag for the investigating
-
-officers and they were like okay this is
-
-a bit weird we need to go a bit deeper
-
-so then they asked for dna samples
-
-now at this stage i really enjoyed
-
-the investigating officer's technique so
-
-then you're sitting across the desk
-
-there's two police officers interviewing
-
-they
-
-explain that they need the dna samples
-
-because they've got dna from the crime
-
-scene
-
-and they need to be able to either link
-
-or rule out denia so in denia's mind
-
-they're thinking \[ __ ] i did this
-
-they've got my dna from the crime scene
-
-and now they need to link it to me and
-
-the only way they can do that is through
-
-a blood sample
-
-or a dna swab i'm \[ __ ]
-
-so at this stage the investigating
-
-officer
-
-says do you want a coffee and dania's
-
-like yeah i could go for a coffee
-
-yeah oh how'd you take your coffee bruv
-
-then he was like why with two
-
-investigating officers like yeah i could
-
-do that
-
-no worries i'll get your coffee i'll be
-
-back in five minutes
-
-he leaves the room now daniel is left
-
-with the non-senior investigating
-
-officer
-
-knowing that they're \[ __ ]
-
-q confession so while the senior
-
-investigating officers out brewing this
-
-delicious cup of steamy joe
-
-that's what i like to call myself
-
-dania is in their \[ __ ] bricks
-
-they've got me
-
-they \[ __ ] know i've murdered a bunch
-
-of people
-
-how do i don't know why i'm doing it in
-
-cockney i've murdered
-
-a bunch of people i'm absolutely \[ __ ]
-
-they've got everything they need to
-
-prosecute me
-
-i might as well come clean i'm just
-
-gonna do it
-
-there's no way that i'm gonna get shrimp
-
-on the barbie
-
-anytime soon the last fosters i had was
-
-last night i really \[ __ ] enjoyed it
-
-but it's gonna be the last one i have
-
-because i'm gonna spend the rest of my
-
-life in bars
-
-and not the good kind of bars the bars
-
-that hold you in place
-
-yep so daniel confessed everything and
-
-then when the senior guy came back in
-
-with his lovely cup of steamy joe hello
-
-ladies
-
-daniel was like yeah i've confessed and
-
-once he had confessed
-
-i've got a couple of quotes
-
-from the video of their interview
-
-that just sums up dania's psychological
-
-position
-
-so when they were talking about
-
-elizabeth
-
-the investigating officer asked why they
-
-did it to which they replied
-
-i just had the feeling i just
-
-wanted to kill they moved on
-
-to debbie and asked why
-
-they chose debbie at that time and they
-
-said
-
-they just got that go feeling
-
-and then when they uh got to questioning
-
-about natalie
-
-denyer said i've always wanted to kill
-
-the timing behind it was because the
-
-levels were quote boiling up
-
-and then a little bit later in the
-
-interview process
-
-they said i've been stalking women for a
-
-few years
-
-just waiting for that opportunity
-
-waiting for the sign
-
-which is extremely creepy
-
-\[Music]
-
-so then you confirmed that the attacks
-
-and murders had been
-
-completely random and pleaded guilty to
-
-three murders and one abduction at the
-
-trial
-
-and was sentenced on the 20th
-
-of december 1993
-
-to three consecutive sentences
-
-of life imprisonment with no parole
-
-period
-
-after an appeal though daniel was
-
-granted a
-
-fixed no april period of 30 years
-
-until 2023 so that's
-
-two years from now so debbie freem's
-
-son told the media that when daniel
-
-applies
-
-for parole i'll be at the hearing to
-
-remind the authorities about the life
-
-sentence given to
-
-a 12 day old baby
-
-and his dear mother and that was really
-
-\[ __ ]
-
-sad to read \[ __ ] you dania
-
-yeah definitely yeah that's the case
-
-what am i gonna do next week probably
-
-edit and then
-
-feel bad or
-
-feel bad and then edit maybe that one
-
-only time will tell okay
-
-so thank you so much for listening to
-
-midweek murders
-
-we'll see see you next time
+Kleine krokodil.
 
 Okay, bye-bye! 
 
