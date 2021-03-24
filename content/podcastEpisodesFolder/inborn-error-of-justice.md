@@ -96,9 +96,9 @@ time to talk about crime you're
 
 listening to midweek murders
 
-and i'm your host sandra i'm your host
+and i'm your host sandra 
 
-jeff
+I'm your host Joe.
 
 so this week we're going to talk about
 
