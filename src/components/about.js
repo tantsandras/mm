@@ -9,11 +9,10 @@ const About = () => (
     <Article name="Midweek Murders" slogan="A true crime comedy podcast">
       <Text style={{ color: `#E5E5E5` }}>
         New episodes every Wednesday. Midweek Murders is a True Crime Comedy
-        podcast based in the UK made by Sandra and Joe. They talk about one
-        case each week, where Sandra introduces the case and Joe
-        explains the forensic science. Mostly though, it's bants and beer.
-        Midweek Murders is a fully independent podcast. Created, produced and
-        edited by the hosts.
+        podcast based in the UK made by Sandra and Joe. They talk about one case
+        every other week, where Sandra introduces the case and Joe explains the
+        forensic science. Mostly though, it's bants and beer. Midweek Murders is
+        a fully independent podcast. Created, produced and edited by the hosts.
       </Text>
     </Article>
     <Article name="Hosts" slogan="Sandra & Joe" />
@@ -22,7 +21,7 @@ const About = () => (
         &#x2B22;
         <UserMd
           size="65"
-          color="#E5E5E5"
+          color="#fffafa"
           style={{
             transform: `translateY(-132px)`,
           }}
@@ -42,7 +41,7 @@ const About = () => (
         &#x2B22;
         <UserAstronaut
           size="63"
-          color="#E5E5E5"
+          color="#fffafa"
           style={{
             transform: `translateY(-132px)`,
           }}
@@ -66,12 +65,8 @@ const ProfileAvatar = styled.div`
   text-align: center;
   transform: translateY(-110px);
   font-size: 260px;
-  // color: #5f728c;
   z-index: 0;
-  -webkit-text-fill-color: transparent;
-  -webkit-text-stroke-width: 0.8px;
-  -webkit-text-stroke-color: white;
-  text-shadow: 0.5px 0.5px #5f728c, 5px 5px rgba(0, 0, 0, 0.02);
+  color: #1e1c3c;
 `
 
 const Card = styled.div`
@@ -84,7 +79,7 @@ const Card = styled.div`
   padding-right: 1.8rem;
   padding-bottom: 40px;
   margin: 4% 2rem 6rem 2rem;
-  background-color: #e5e5e5;
+  background-color: #fffafa;
   padding-top: 80px;
   -webkit-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
@@ -99,15 +94,11 @@ const HostName = styled.h2`
   transform: translateY(-254px);
   margin-bottom: -236px;
   padding-bottom: 56px;
-  letter-spacing: 0.1em;
   text-transform: uppercase;
   text-align: center;
   z-index: 5;
-  -webkit-text-fill-color: transparent;
-  letter-spacing: 4px;
-  -webkit-text-stroke-width: 0.5px;
-  -webkit-text-stroke-color: white;
-  text-shadow: 2px 2px #d22d4c, 3px 3px #1e1c3c;
+  letter-spacing: 0.1em;
+  color: #d32c4c;
 `
 
 const DarkDivider = styled.div`
@@ -116,7 +107,7 @@ const DarkDivider = styled.div`
   &:before {
     content: "";
     position: absolute;
-    top: -20px;
+    top: -16px;
     left: 0%;
     right: 0%;
     width: 100%;
@@ -132,7 +123,7 @@ const DarkDivider = styled.div`
 
 const Slogan = styled.h3`
   color: #1e1c3c;
-  margin-top: -16px;
+  margin-top: -12px;
   font-size: 0.95rem;
   font-family: "Montserrat", sans-serif;
   font-weight: 400;

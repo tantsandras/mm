@@ -54,7 +54,8 @@ const Layout = ({ children }) => {
           },
           {
             name: "keywords",
-            content: "podcasts uk, funny podcasts, true crime podcast british, comedy podcasts, Midweek Murders, true crime podcast with humor, true crime podcast about one case",
+            content:
+              "podcasts uk, funny podcasts, true crime podcast british, comedy podcasts, Midweek Murders, true crime podcast with humor, true crime podcast about one case",
           },
         ]}
       >
@@ -70,10 +71,10 @@ const Layout = ({ children }) => {
 }
 
 const MainContent = styled.main`
-        min-height: 100vh;
-        height: auto !important;
-        z-index: 0;
-      `
+  min-height: 100vh;
+  height: auto !important;
+  z-index: 0;
+`
 
 Layout.propTypes = {
   children: PropTypes.node.isRequired,

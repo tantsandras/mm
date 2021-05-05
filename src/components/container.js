@@ -21,9 +21,9 @@ const Label = styled.span`
   overflow: hidden;
   opacity: 0;
   transition: all 0.1s ease-in;
-  font-family: 'Oswald', sans-serif;
+  font-family: "Oswald", sans-serif;
   letter-spacing: 0.05em;
-  color: #E5E5E5;
+  color: #e5e5e5;
   font-size: 0.75rem;
   margin-left: 6px;
   margin-top: 2.5px;
@@ -44,7 +44,7 @@ const BackButton = styled.span`
 `
 
 const HexDiv = styled.div`
-flex-direction: column;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
@@ -70,7 +70,7 @@ const Container = styled.section`
 
 const HeadLine = styled.h1`
   margin-top: -20px;
-  font-family: 'Oswald', sans-serif;
+  font-family: "Oswald", sans-serif;
   font-size: 3rem;
   font-weight: 500;
   letter-spacing: 0.1em;
@@ -78,22 +78,21 @@ const HeadLine = styled.h1`
   text-align: center;
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width: 0.5px;
-  -webkit-text-stroke-color: white;
-  text-shadow: 2px 2px #d22d4c, 3px 3px #5f728c;
+  -webkit-text-stroke-color: #d32c4c;
+  text-shadow: 2px 2px #e5e5e5, 3px 3px #1e1c3c;
 `
 
 const PageContainer = ({ id, header, children }) => (
   <Container id={id}>
     <BackButton>
-      <AniLink swipe direction="left" to="/" aria-label="Back to home page" >
-        <LeftArrowCircle size="30" color="#5f728c" aria-hidden="true" />
+      <AniLink swipe direction="left" to="/" aria-label="Back to home page">
+        <LeftArrowCircle size="30" color="#e5e5e5" aria-hidden="true" />
         <Label>Home</Label>
       </AniLink>
     </BackButton>
     <HexDiv>
       &#x2B22;
       <HeadLine>{header}</HeadLine>
-
     </HexDiv>
     {children}
   </Container>

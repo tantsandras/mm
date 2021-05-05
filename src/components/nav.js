@@ -1,4 +1,3 @@
-
 import React from "react"
 import { MusicArtist } from "@styled-icons/zondicons"
 import { MoneyPoundCircle } from "@styled-icons/remix-fill"
@@ -26,8 +25,8 @@ const Label = styled.span`
   overflow: hidden;
   opacity: 0;
   transition: all 0.1s ease-in;
-  font-family: 'Oswald', sans-serif;
-  color: #E5E5E5;
+  font-family: "Oswald", sans-serif;
+  color: #e5e5e5;
   font-size: 0.75rem;
   letter-spacing: 0.05em;
   margin-left: 8px;
@@ -75,70 +74,59 @@ const NavBar = () => (
           swipe
           direction="right"
           to="/about"
-          style={{ color: `#d22d4c` }}
-          activeStyle={{ color: `#5f728c` }}
+          style={{ color: `#e5e5e5` }}
+          activeStyle={{ color: `#d32c4c` }}
         >
           <MusicArtist size="22" aria-hidden="true" />
           <Label style={{ marginLeft: `12px` }}>About</Label>
-
-
         </AniLink>
       </StyledLink>
       <StyledLink>
         <AniLink
-          style={{ color: `#d22d4c` }}
-          activeStyle={{ color: `#5f728c` }}
+          style={{ color: `#e5e5e5` }}
+          activeStyle={{ color: `#d32c4c` }}
           swipe
           direction="right"
           to="/episodes/"
-
         >
           <Radio size="26" aria-hidden="true" />
           <Label>Listen</Label>
-
-
         </AniLink>
       </StyledLink>
       <StyledLink>
         <AniLink
-          style={{ color: `#d22d4c` }}
-          activeStyle={{ color: `#5f728c` }}
+          style={{ color: `#e5e5e5` }}
+          activeStyle={{ color: `#d32c4c` }}
           swipe
           direction="right"
           to="/contact"
         >
           <Email size="22" aria-hidden="true" />
           <Label style={{ marginLeft: `12px` }}>Contact</Label>
-
-
         </AniLink>
       </StyledLink>
       <StyledLink>
         <AniLink
-          style={{ color: `#d22d4c` }}
-          activeStyle={{ color: `#5f728c` }}
+          style={{ color: `#e5e5e5` }}
+          activeStyle={{ color: `#d32c4c` }}
           swipe
           direction="right"
           to="/shop"
         >
           <ShoppingCart size="26" aria-hidden="true" />
           <Label>Merch</Label>
-
-
         </AniLink>
       </StyledLink>
       <StyledLink>
         <AniLink
-          style={{ color: `#d22d4c` }}
-          activeStyle={{ color: `#5f728c` }}
+          style={{ color: `#e5e5e5` }}
+          activeStyle={{ color: `#d32c4c` }}
           swipe
           direction="right"
           to="/support"
         >
           <MoneyPoundCircle size="26" aria-hidden="true" />
           <Label>Support</Label>
-
-
         </AniLink>
       </StyledLink>
     </Navigation>
@@ -146,5 +134,3 @@ const NavBar = () => (
 )
 
 export default NavBar
-
-

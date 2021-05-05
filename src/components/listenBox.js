@@ -1,4 +1,10 @@
-import { Itunes, Googlepodcasts, Castbox, Tunein, Playerfm, } from "@styled-icons/simple-icons"
+import {
+  Itunes,
+  Googlepodcasts,
+  Castbox,
+  Tunein,
+  Playerfm,
+} from "@styled-icons/simple-icons"
 import React from "react"
 import styled from "styled-components"
 import { Spotify } from "@styled-icons/fa-brands"
@@ -11,7 +17,7 @@ const Name = styled.h4`
   text-transform: uppercase;
   padding-bottom: 6px;
   margin-bottom: 0px;
-  letter-spacing: 0.05em;
+  letter-spacing: 3px;
   font-size: 0.85rem;
   font-weight: 400;
   color: #e5e5e5;
@@ -47,18 +53,22 @@ const ListenIcon = styled.a`
   }
 `
 const Divider = styled.div`
-position: relative;
-height: 1px;
-&:before {
-	content: "";
-	position: absolute;
-	left: -20%;
-	right: 0%;
-	width: 140%;
-	height: 1px;
-	background-image: linear-gradient(to right, transparent, #e5e5e5, transparent);
-}
-
+  position: relative;
+  height: 1px;
+  &:before {
+    content: "";
+    position: absolute;
+    left: -20%;
+    right: 0%;
+    width: 140%;
+    height: 1px;
+    background-image: linear-gradient(
+      to right,
+      transparent,
+      #e5e5e5,
+      transparent
+    );
+  }
 `
 
 const Listen = () => (

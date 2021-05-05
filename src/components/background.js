@@ -46,9 +46,9 @@ const Title = styled.h1`
   font-weight: 400;
   z-index: 4;
   -webkit-text-fill-color: transparent;
-  -webkit-text-stroke-width: 0.5px;
-  -webkit-text-stroke-color: white;
-  text-shadow: 2px 2px #d22d4c, 4px 4px #1e1c3c;
+  -webkit-text-stroke-width: 0.8px;
+  -webkit-text-stroke-color: #d32c4c;
+  text-shadow: 2px 2px #e5e5e5, 4px 4px #1e1c3c;
   animation: ${turnVisible2} 1s ease-in;
   @media only screen and (max-width: 480px) {
     font-size: 3.2rem;
@@ -65,7 +65,7 @@ const Card = styled.div`
   min-height: 100%;
   height: auto !important;
   align-items: center;
-  background-color: #e5e5e5;
+  background-color: #fffafa;
   -webkit-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
   box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
@@ -253,9 +253,9 @@ const BackgroundSection = ({ className }) => (
               <DarkDivider> </DarkDivider>
               <Description>
                 Midweek Murders is a True Crime Comedy podcast based in the UK
-                made by Sandra and Joe. They talk about one case each 
-                week, where Sandra introduces the case and Joe explains the
-                forensic science. Mostly though, it's bants and beer.
+                made by Sandra and Joe. They talk about one case each week,
+                where Sandra introduces the case and Joe explains the forensic
+                science. Mostly though, it's bants and beer.
               </Description>
             </TextContainer>
           </Card>

@@ -7,8 +7,6 @@ import AudioPlayer from "./useAudioPlayer"
 import { RightArrowCircle } from "@styled-icons/boxicons-regular"
 import AniLink from "gatsby-plugin-transition-link/AniLink"
 
-
-
 const fadeIn = keyframes`
 from {
   opacity: 0;
@@ -26,19 +24,19 @@ const Label = styled.span`
   overflow: hidden;
   opacity: 0;
   transition: all 0.1s ease-in;
-  font-family: 'Oswald', sans-serif;
+  font-family: "Oswald", sans-serif;
   color: #1e1c3c;
   font-size: 0.75rem;
   top: 2px;
   right: 54px;
-  text-transform: uppercase;
+  text-transform: lowercase;
   z-index: 2;
   white-space: nowrap;
 `
 const Card = styled.div`
-flex-direction: column;
-justify-content: space-evenly;
-border-bottom-right-radius: 15%;
+  flex-direction: column;
+  justify-content: space-evenly;
+  border-bottom-right-radius: 15%;
   margin-top: 100px;
   position: relative;
   min-width: 300px;
@@ -51,7 +49,7 @@ border-bottom-right-radius: 15%;
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  background-color: #E5E5E5;
+  background-color: #fffafa;
   -webkit-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
   box-shadow: 10px 10px 93px 0px rgba(0, 0, 0, 0.75);
@@ -73,56 +71,59 @@ const TextContainer = styled.div`
 
 const PodTitle = styled.h4`
   margin-top: 10px;
-  font-family: 'Oswald', sans-serif;
+  font-family: "Oswald", sans-serif;
   font-weight: 500;
   letter-spacing: 0.05em;
   text-transform: uppercase;
   color: #1e1c3c;
 `
 const Divider = styled.div`
-position: relative;
-height: 1px;
-&:before {
-	content: "";
-	position: absolute;
-	top: -20px;
-	left: 0%;
-	right: 0%;
-	width: 100%;
-	height: 1px;
-	background-image: linear-gradient(to right, transparent, #d22d4c, transparent);
-}
-
+  position: relative;
+  height: 1px;
+  &:before {
+    content: "";
+    position: absolute;
+    top: -20px;
+    left: 0%;
+    right: 0%;
+    width: 100%;
+    height: 1px;
+    background-image: linear-gradient(
+      to right,
+      transparent,
+      #d22d4c,
+      transparent
+    );
+  }
 `
-
 
 const Description = styled.p`
   text-align: left;
   font-size: 0.75rem;
   color: #1e1c3c;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   margin-bottom: 0px;
 `
 
 const Date = styled.h3`
-  font-family: 'Oswald', sans-serif;
+  font-family: "Oswald", sans-serif;
   font-weight: 500;
   letter-spacing: 0.05em;
   z-index: 6;
-  color: #d22d4c;
+  color: #d32c4c;
 `
 
 const ReadMore = styled.div`
   position: absolute;
   bottom: 0px;
   right: 4px;
-	background-color: #d22d4c;
-	width: 40px;
-	height: 40px;
-	border-radius: 50%;
-	-webkit-box-shadow: 10px 10px 50px 0px rgba(0,0,0,0.75);
-	-moz-box-shadow: 10px 10px 50px 0px rgba(0,0,0,0.75);
-  box-shadow: 10px 10px 50px 0px rgba(0,0,0,0.75);
+  background-color: #d32c4c;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  -webkit-box-shadow: 10px 10px 50px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 50px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 50px 0px rgba(0, 0, 0, 0.75);
   cursor: pointer;
   flex-direction: row;
   text-decoration: none;
@@ -136,7 +137,7 @@ const ReadMore = styled.div`
 
 const Month = styled.h4`
   text-transform: uppercase;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 400;
   z-index: 6;
   color: #d22d4c;
@@ -144,13 +145,13 @@ const Month = styled.h4`
 `
 
 const Icons = styled.span`
-display: flex;
-flex-direction: row;
-align-content: flex-start;
-justify-content: flex-end;
-transform: translateY(-36px);
-width: 100%;
-z-index: 6;
+  display: flex;
+  flex-direction: row;
+  align-content: flex-start;
+  justify-content: flex-end;
+  transform: translateY(-36px);
+  width: 100%;
+  z-index: 6;
 `
 
 const Icon = styled.a`
@@ -164,12 +165,33 @@ const Icon = styled.a`
   }
 `
 
-const EpisodeCard = ({ slug, number, date, month, serial, title, description }) => {
+const EpisodeCard = ({
+  slug,
+  number,
+  date,
+  month,
+  serial,
+  title,
+  description,
+}) => {
   const [index] = useState(() => Math.floor(Math.random() * 11))
 
-  const imagesArray = ["https://midweekmurders.netlify.app/imgUploads/14.png", "https://midweekmurders.netlify.app/imgUploads/15.png", "https://midweekmurders.netlify.app/imgUploads/16.png", "https://midweekmurders.netlify.app/imgUploads/17.png", "https://midweekmurders.netlify.app/imgUploads/18.png", "https://midweekmurders.netlify.app/imgUploads/19.png", "https://midweekmurders.netlify.app/imgUploads/20.png", "https://midweekmurders.netlify.app/imgUploads/21.png", "https://midweekmurders.netlify.app/imgUploads/22.png", "https://midweekmurders.netlify.app/imgUploads/23.png", "https://midweekmurders.netlify.app/imgUploads/24.png", "https://midweekmurders.netlify.app/imgUploads/25.png"];
+  const imagesArray = [
+    "https://midweekmurders.netlify.app/imgUploads/14.png",
+    "https://midweekmurders.netlify.app/imgUploads/15.png",
+    "https://midweekmurders.netlify.app/imgUploads/16.png",
+    "https://midweekmurders.netlify.app/imgUploads/17.png",
+    "https://midweekmurders.netlify.app/imgUploads/18.png",
+    "https://midweekmurders.netlify.app/imgUploads/19.png",
+    "https://midweekmurders.netlify.app/imgUploads/20.png",
+    "https://midweekmurders.netlify.app/imgUploads/21.png",
+    "https://midweekmurders.netlify.app/imgUploads/22.png",
+    "https://midweekmurders.netlify.app/imgUploads/23.png",
+    "https://midweekmurders.netlify.app/imgUploads/24.png",
+    "https://midweekmurders.netlify.app/imgUploads/25.png",
+  ]
 
-  const image = imagesArray[index];
+  const image = imagesArray[index]
 
   return (
     <Card>
@@ -188,11 +210,13 @@ const EpisodeCard = ({ slug, number, date, month, serial, title, description }) 
         >
           <FacebookCircle size="26" aria-hidden="true" />
         </Icon>
-        <Icon href={`https://embed.sounder.fm/play/${number}`} aria-label="Link to embed this episode">
+        <Icon
+          href={`https://embed.sounder.fm/play/${number}`}
+          aria-label="Link to embed this episode"
+        >
           <Share size="26" aria-hidden="true" />
         </Icon>
       </Icons>
-
 
       <Column>
         <Date>{date}</Date>
@@ -203,7 +227,9 @@ const EpisodeCard = ({ slug, number, date, month, serial, title, description }) 
       <AudioPlayer url={`https://embed.sounder.fm/play/${number}`} />
 
       <TextContainer>
-        <PodTitle>{serial}. {title}</PodTitle>
+        <PodTitle>
+          {serial}. {title}
+        </PodTitle>
         <Description>{description}</Description>
       </TextContainer>
 
@@ -220,15 +246,22 @@ const EpisodeCard = ({ slug, number, date, month, serial, title, description }) 
             padding-box     
             content-box     
             #1e1c3c`}
-          aria-label="Read more about this episode">
+          aria-label="Read more about this episode"
+        >
           <Label>More about this episode</Label>
-          <RightArrowCircle size="41" color="#E5E5E5" style={{
-            position: `absolute`, right: `-0.5px`,
-            bottom: `0px`
-          }} aria-hidden="true" />
+          <RightArrowCircle
+            size="41"
+            color="#fffafa"
+            style={{
+              position: `absolute`,
+              right: `-0.4px`,
+              bottom: `0px`,
+            }}
+            aria-hidden="true"
+          />
         </AniLink>
       </ReadMore>
-    </Card >
+    </Card>
   )
 }
 export default EpisodeCard
