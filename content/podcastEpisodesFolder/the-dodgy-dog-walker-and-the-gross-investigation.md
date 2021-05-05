@@ -13,8 +13,8 @@ images:
     alt: Robert Napper.
 hashtags:
   - tag: Robert Napper
-  - tag: Murder of Rachel Nickell
-  - tag: Murder of Samantha Bisset and Jazmine Bisset
+  - tag: Rachel Nickell
+  - tag: Samantha Bisset and Jazmine Bisset
   - tag: Green Chain Rapist
   - tag: Plumstead Common rapist
   - tag: Wimbeldon Common murder

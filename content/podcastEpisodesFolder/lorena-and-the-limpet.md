@@ -16,7 +16,7 @@ images:
 hashtags:
   - tag: Lorena
   - tag: The Bobbitt case
-  - tag: Podcast about Lorena Bobbitt
+  - tag: Lorena Bobbitt
   - tag: John and Lorena Bobbitt trials
   - tag: 1993 Bobbitt scandal
   - tag: domestic abuse

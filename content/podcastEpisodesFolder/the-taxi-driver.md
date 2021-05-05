@@ -16,8 +16,8 @@ images:
       Godden-Edwards remains were found. "
 hashtags:
   - tag: Christopher Halliwell
-  - tag: murder of Sian O'Callaghan
-  - tag: murder of Becky Godden-Edwards
+  - tag: Sian O'Callaghan
+  - tag: Becky Godden-Edwards
   - tag: "Taxi driver murders "
   - tag: PACE law
   - tag: "Steve Fulcher "

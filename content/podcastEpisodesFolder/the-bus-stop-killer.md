@@ -14,8 +14,11 @@ images:
   - image: /imgUploads/_53649120_millie_dowler_624map.jpg
     alt: Map of Milly Dowlers last movements.
 hashtags:
-  - tag: serial killers
   - tag: Levi Bellfield
+  - tag: Milly Dowler
+  - tag: Marsha McDonnell
+  - tag: Amélie Delagrange
+  - tag: serial killers
   - tag: UK true crime
   - tag: UK podcasts
   - tag: Podcast about serial killers
@@ -32,14 +35,11 @@ In this episode, we discuss serial killer Levi Bellfield and his numerous crimes
 * "Predator - The true story of Levi Bellfield, the man who murdered Milly Dowler, Marsha McDonell and Amelie Delagrange by John McShane"
 * and a character witness from his ex girlfriend at BBC News. 
 
-  The images are also from BBC news and can be found [here](<* https://ichef.bbci.co.uk/news/304/media/images/49390000/jpg/_49390632__47560637_44444222-1.jpg>) , and [here](<* https://ichef.bbci.co.uk/news/624/media/images./53649000/jpg/_53649120_millie_dowler_624map.jpg>).
+  The images are also from BBC news and can be found [](https://ichef.bbci.co.uk/news/304/media/images/49390000/jpg/_49390632__47560637_44444222-1.jpg)[here](https://www.bbc.co.uk/news/uk-england-35539761).
 
+#### Audio transcript
 
-
-#### Audio transcript 
-
-Midweek Murders contains graphic and explicit content,
-listener discretion is advised. I've been
+Midweek Murders contains graphic and explicit content, listener discretion is advised. I've been
 feeling a bit
 under the weather, and Niklas has been
 feeling ill
@@ -70,8 +70,7 @@ i know but i'm not gonna die well
 have you written a will no because i
 want
 i want the sword
-\[Laughter] i believe in the sword of
-gryffindor griffin sword
+\[Laughter] i believe in the sword of gryffindor griffin sword
 that is not yours to bestow and
 therefore has been seized by the
 ministry
@@ -83,8 +82,7 @@ thank god i'm not broken and then it's
 gonna be the
 sword of gryffindor
 this is getting weird
-\[Laughter] oh but we've just started but yeah oh
-yeah
+\[Laughter] oh but we've just started but yeah oh yeah
 we've just started calm down bane
 i have plans for you and me
 and it involves the sword and your
@@ -100,8 +98,7 @@ especially that's a ball that's been in
 your mouth
 \[Music] 
 
-Speaking of the very strange german
-accents, the chufa
+Speaking of the very strange german accents, the chufa
 somehow decided to take on daniel farkas
 the manager of
 norwich football club unfortunately have
@@ -121,8 +118,7 @@ thank you very much daniel farker for
 providing us with
 a stereotypical german man uh
 everyone
-\[Laughter] i said thank you
-i wanted to thank him okay
+\[Laughter] i said thank you i wanted to thank him okay
 i've only seen this interview once
 because you sent me the link to it
 but i do i do feel like it enriched in
@@ -188,9 +184,7 @@ why cheaper in it why pay for a bigger
 door when you can have a bit of
 voyeurism. Ain't that the truth about america.
 
-
-i had another funny story yeah i think
-that it was
+i had another funny story yeah i think that it was
 when i first moved here i felt like i
 had never known
 adversary like i have
@@ -212,12 +206,10 @@ paper just for a pee
 it is so true
 i have never once blocked
 a uk toilet
-\[Laughter] we need to know if you're gonna stay
-overnight in advance to work out if we
+\[Laughter] we need to know if you're gonna stay overnight in advance to work out if we
 need to go and buy more toilet roll
 i'm finally off
-\[Laughter] sandra's coming round oh is she staying
-yeah is that going to be a problem no
+\[Laughter] sandra's coming round oh is she staying yeah is that going to be a problem no
 we've got enough food but we might not
 have enough toilet roll
 how much have we got six rolls how long
@@ -227,8 +219,7 @@ i
 eat as a small child
 and yet i poof like an
 elephant
-\[Music] \[Laughter] they're gravity fed you pull
-the handle or the chain and it releases
+\[Music] \[Laughter] they're gravity fed you pull the handle or the chain and it releases
 the stock plug
 and the water falls through into the
 toilet bowl
@@ -259,8 +250,7 @@ i mean if that's your name you have to
 go into plumbing oh
 that's true it's true just saying
 a poor workman blames his tools
-\[Laughter] you should poop in sweden man it's so
-good
+\[Laughter] you should poop in sweden man it's so good
 you come and live in this country and
 say that our plumbing system
 shit at least you can wipe your crayola
@@ -268,9 +258,7 @@ butt
 and still manage to put the toilet in
 the same place your shit goes.
 
-
-Okay, are you ready to start the case?
-About 40 minutes ago.
+Okay, are you ready to start the case? About 40 minutes ago.
 Well actually, I wasn't, there's no
 evidence in this case.
 Are you ready?
@@ -369,9 +357,7 @@ how she was murdered and stuff like that
 because there was
 no soft tissue left.
 
-
-After that Marsha McDonald was
-beaten over the head with a blunt
+After that Marsha McDonald was beaten over the head with a blunt
 instrument near her home like
 very close to her own porch or front
 step
@@ -427,9 +413,7 @@ They are listening to us. Hello google!
 Nice to meet you, sorry for my browser
 history.
 
-
-But also there was a lot of underaged
-girls who had reported being drugged and
+But also there was a lot of underaged girls who had reported being drugged and
 raped
 to the police which he
 was in charge for i think because he was
@@ -746,9 +730,7 @@ he should have been in their system
 which he probably was already
 but not for those kind of offenses.
 
-
-What happened then was that
-his second wife Jo, not
+What happened then was that his second wife Jo, not
 you obviously, another Jo. I
 never married him, I'm almost positively
 sure.
@@ -793,8 +775,7 @@ he just sold it on because he probably
 committed a crime
 with that car. 
 
-He obviously was
-smart about it. People who knew him
+He obviously was smart about it. People who knew him
 said that he was very manipulative,
 like in the in the way that he could
 present the persona that was extremely
@@ -945,9 +926,7 @@ Okay, I was gonna go into the whole bundy
 discussion but we can just not do
 that.
 
-
-Do you have any like, what did you
-research
+Do you have any like, what did you research
 during your forensic science research?
 It's a very good question because
 there is no physical evidence
@@ -1120,9 +1099,7 @@ can't see any motive
 they're that much more dangerous to
 society.
 
-
-I'm sorry for making you change to zoom.
-It's better for the audio but good lord
+I'm sorry for making you change to zoom. It's better for the audio but good lord
 it was a
 fucking pain man fucking pain
 yes yes it was
@@ -1130,8 +1107,7 @@ oh and thank you frank and surely
 what's his name not frankie fucker
 fucker oh thank you
 you're being racist now
-\[Laughter] oh my god you also sound more like an
-austrian than a german
+\[Laughter] oh my god you also sound more like an austrian than a german
 because you can tell the difference
 you're actually german your surname's
 growl yeah
@@ -1151,10 +1127,8 @@ but they're
 german yeah and the
 swedish queen german yeah
 and uh swedish king lunatic
-\[Laughter] well it is not that unrelated
-to heritage just crazy
-\[Laughter] but kind of true but also just like he's
-i don't feel bad for him because he's
+\[Laughter] well it is not that unrelated to heritage just crazy
+\[Laughter] but kind of true but also just like he's i don't feel bad for him because he's
 not
 someone that you would feel bad for but
 he's

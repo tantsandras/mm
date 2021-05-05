@@ -16,10 +16,9 @@ images:
   - image: /imgUploads/article-0-18388206000005dc-631_634x548.jpg
     alt: Margery Gardners ID photo, from 1940
 hashtags:
-  - tag: "1940s murders "
   - tag: Neville Heath
-  - tag: murder of Doreen Marshall
-  - tag: murder of Margery Gardner
+  - tag: Doreen Marshall
+  - tag: Margery Gardner
   - tag: con man
   - tag: court martial
   - tag: criminals executed in the UK

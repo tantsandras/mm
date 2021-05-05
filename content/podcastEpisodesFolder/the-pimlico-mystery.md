@@ -11,17 +11,15 @@ images:
   - image: /imgUploads/adelaide_bartlett.jpg
     alt: Adelaide Bartlett.
 hashtags:
-  - tag: poison crimes uk
   - tag: Pimlico mystery
+  - tag: poison crimes uk
   - tag: true crime uk
-  - tag: Podcast that solves crime
   - tag: forensic science
   - tag: mysteries
   - tag: true crime mysteries
   - tag: unresolved mysteries
   - tag: unsolved mystery
   - tag: autopsy reports
-  - tag: old crimes
   - tag: famous old crimes
   - tag: old mysteries
   - tag: late Victorian crimes

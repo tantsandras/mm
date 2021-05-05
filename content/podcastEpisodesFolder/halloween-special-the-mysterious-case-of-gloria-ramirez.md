@@ -13,18 +13,17 @@ images:
   - image: /imgUploads/gloria-ramirez-og.jpg
     alt: Gloria Ramirez
 hashtags:
+  - tag: Gloria Ramirez
   - tag: Mysteries
   - tag: unsolved mysteries
   - tag: unexplained cases
   - tag: medical mysteries
-  - tag: Gloria Ramirez
   - tag: medical case study
   - tag: mass hysteria
   - tag: American healthcare system
   - tag: dimethyl sulfate
   - tag: nerve gas
   - tag: Chemical accident
-  - tag: Death conspiracy theories
   - tag: gas chromatography mass spectrometry
 ---
 <!--StartFragment-->

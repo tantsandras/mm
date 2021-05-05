@@ -12,10 +12,8 @@ images:
     alt: "Becky Watts, Nathan Matthews and Shauna Hoare "
 hashtags:
   - tag: Becky Watts
-  - tag: Killer couples
-  - tag: hoarding
-  - tag: OCD
   - tag: Nathan Matthews and Shauna Hoare
+  - tag: Killer couples
   - tag: "Familicide "
   - tag: "Forensic science "
   - tag: fingerprint evidence
@@ -23,7 +21,6 @@ hashtags:
   - tag: "CCTV "
   - tag: aiding and abetting
   - tag: perverting the course of justice
-  - tag: LIES
   - tag: police interrogations
   - tag: true crime uk
   - tag: crime cases uk

@@ -17,10 +17,9 @@ images:
   - image: /imgUploads/tracie-andrews-7.jpg
     alt: Tracie Andrews blood soaked jumper.
 hashtags:
+  - tag: Tracie Andrews
+  - tag: Lee Harvey
   - tag: domestic abuse
-  - tag: true crime podcast
-  - tag: true crime comedy podcast
-  - tag: true crime UK
   - tag: "forensic science "
   - tag: blood spatter analysis
   - tag: blood spatter evidence
@@ -29,8 +28,6 @@ hashtags:
   - tag: female murderers
   - tag: getting rid of evidence
   - tag: swiss army knife
-  - tag: Tracie Andrews
-  - tag: The murder of Lee Harvey
 ---
 <!--StartFragment-->
 
