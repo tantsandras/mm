@@ -214,7 +214,7 @@ const BackgroundSection = ({ className }) => (
             Tag="section"
             className={className}
             fluid={imageData}
-            alt="Forest with noir feeling."
+            alt="Cracks in blue."
           ></StyledBackground>
 
           <Title>Midweek Murders</Title>
