@@ -73,6 +73,7 @@ const Layout = ({ children }) => {
 const MainContent = styled.main`
   min-height: 100vh;
   height: auto !important;
+  min-width: 100vw;
   z-index: 0;
 `
 

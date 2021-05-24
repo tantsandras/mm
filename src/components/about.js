@@ -8,11 +8,12 @@ const About = () => (
   <Wrapper>
     <Article name="Midweek Murders" slogan="A true crime comedy podcast">
       <Text style={{ color: `#E5E5E5` }}>
-        New episodes every Wednesday. Midweek Murders is a True Crime Comedy
-        podcast based in the UK made by Sandra and Joe. They talk about one case
-        every other week, where Sandra introduces the case and Joe explains the
-        forensic science. Mostly though, it's bants and beer. Midweek Murders is
-        a fully independent podcast. Created, produced and edited by the hosts.
+        New episodes every other Wednesday. Midweek Murders is a True Crime
+        Comedy podcast based in the UK made by Sandra and Joe. They talk about
+        one case every episode, where Sandra introduces the case and Joe
+        explains the forensic science. Mostly though, it's bants and beer.
+        Midweek Murders is a fully independent podcast. Created, produced and
+        edited by the hosts.
       </Text>
     </Article>
     <Article name="Hosts" slogan="Sandra & Joe" />
@@ -92,7 +93,7 @@ const HostName = styled.h2`
   font-weight: 500;
   letter-spacing: 0.05em;
   transform: translateY(-254px);
-  margin-bottom: -236px;
+  margin-bottom: -232px;
   padding-bottom: 56px;
   text-transform: uppercase;
   text-align: center;

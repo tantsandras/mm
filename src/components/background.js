@@ -13,10 +13,10 @@ const turnVisible = keyframes`
   filter: opacity(0%);
 }
 40% {
-  filter: opacity(10%);
+  filter: opacity(40%);
 }
 100% {
-  filter: opacity(20%);
+  filter: opacity(100%);
 }
 `
 
@@ -39,7 +39,7 @@ const Title = styled.h1`
   letter-spacing: 0.05em;
   position: absolute;
   text-align: center;
-  padding-left: 20px;
+  // padding-left: 20px;
   left: 0;
   top: 4%;
   text-transform: uppercase;
@@ -131,24 +131,23 @@ const StyledBackground = styled(BackgroundImage)`
   min-height: 100%;
   position: fixed;
   top: 0;
-  right: 8%;
-  margin-right: -120px;
+  right: 0;
   height: 96vh;
   -webkit-box-shadow: inset 10px 10px 93px 0px rgba(0, 0, 0, 0.95);
   -moz-box-shadow: inset 10px 10px 93px 0px rgba(0, 0, 0, 0.95);
   box-shadow: inset 10px 10px 93px 0px rgba(0, 0, 0, 0.95);
   animation: ${turnVisible} ease-in 1.4s forwards;
   @media only screen and (max-width: 1030px) {
-    margin-right: -100px;
+    // margin-right: -100px;
     height: 70vh;
     top: 0;
-    right: 12%;
+    right: 0;
   }
   @media only screen and (max-width: 480px) {
     height: 60vh;
     top: 0;
-    right: 17%;
-    margin-right: -80px;
+    right: 0;
+    // margin-right: -80px;
   }
 `
 const ArrowUp = styled.div`
@@ -197,7 +196,7 @@ const BackgroundSection = ({ className }) => (
   <StaticQuery
     query={graphql`
       query {
-        desktop: file(relativePath: { eq: "index.jpg" }) {
+        desktop: file(relativePath: { eq: "Untitled design(26).png" }) {
           childImageSharp {
             fluid(quality: 90, maxWidth: 1920) {
               ...GatsbyImageSharpFluid_withWebp
