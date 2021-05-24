@@ -54,14 +54,14 @@ const ListenIcon = styled.a`
 `
 const Divider = styled.div`
   position: relative;
-  height: 1px;
+  height: 0.8px;
   &:before {
     content: "";
     position: absolute;
     left: -20%;
     right: 0%;
     width: 140%;
-    height: 1px;
+    height: 0.8px;
     background-image: linear-gradient(
       to right,
       transparent,

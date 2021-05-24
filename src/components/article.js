@@ -22,7 +22,7 @@ const Name = styled.h2`
 `
 const Divider = styled.div`
   position: relative;
-  height: 1px;
+  height: 0.8px;
   &:before {
     content: "";
     position: absolute;
@@ -30,7 +30,7 @@ const Divider = styled.div`
     left: -10%;
     right: 0%;
     width: 120%;
-    height: 1px;
+    height: 0.8px;
     background-image: linear-gradient(
       to right,
       transparent,

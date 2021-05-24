@@ -51,7 +51,8 @@ const Title = styled.h1`
   text-shadow: 2px 2px #e5e5e5, 4px 4px #1e1c3c;
   animation: ${turnVisible2} 1s ease-in;
   @media only screen and (max-width: 480px) {
-    font-size: 3.2rem;
+    font-size: 3.8rem;
+    top: 2%;
   }
 `
 const Card = styled.div`
@@ -82,6 +83,10 @@ const Thumbnail = styled.div`
   -moz-box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
   box-shadow: 10px 10px 60px 0px rgba(0, 0, 0, 0.75);
   overflow: hidden;
+  @media only screen and (max-width: 480px) {
+    height: 180px;
+    width: 190px;
+  }
 `
 
 const TextContainer = styled.div`
@@ -92,7 +97,7 @@ const TextContainer = styled.div`
   height: auto;
 `
 
-const PodTitle = styled.h2`
+const PodTitle = styled.h3`
   font-family: "Oswald", sans-serif;
   font-weight: 500;
   letter-spacing: 0.05em;
@@ -150,6 +155,29 @@ const StyledBackground = styled(BackgroundImage)`
     // margin-right: -80px;
   }
 `
+
+const Subtitle = styled.h2`
+  white-space: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+  text-align: center;
+  width: 100%;
+  position: absolute;
+  top: 8%;
+  left: 0;
+  font-size: 0.75rem;
+  font-weight: 400;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  animation: ${turnVisible2} 1.2s ease-in;
+  @media only screen and (max-width: 1030px) {
+    top: 10%;
+  }
+  @media only screen and (max-width: 480px) {
+    top: 6.4%;
+  }
+`
+
 const ArrowUp = styled.div`
   height: 100px;
   margin-top: -98px;
@@ -174,7 +202,7 @@ const ArrowUp = styled.div`
 
 const DarkDivider = styled.div`
   position: relative;
-  height: 1px;
+  height: 0.8px;
   &:before {
     content: "";
     position: absolute;
@@ -182,7 +210,7 @@ const DarkDivider = styled.div`
     left: -5%;
     right: 0%;
     width: 110%;
-    height: 1px;
+    height: 0.8px;
     background-image: linear-gradient(
       to right,
       transparent,
@@ -218,6 +246,21 @@ const BackgroundSection = ({ className }) => (
           ></StyledBackground>
 
           <Title>Midweek Murders</Title>
+          <Subtitle>
+            another
+            <p
+              style={{
+                color: `#d32c4c`,
+                display: `inline-block`,
+                padding: `4px`,
+                fontSize: `0.75rem`,
+              }}
+            >
+              {" "}
+              true crime / comedy{" "}
+            </p>
+            podcast
+          </Subtitle>
           <ArrowUp> </ArrowUp>
           <Card>
             <Thumbnail>

@@ -33,7 +33,7 @@ const Label = styled.span`
 
 const BackButton = styled.span`
   align-self: flex-start;
-  margin-left: 3rem;
+  margin-left: 2rem;
   text-decoration: none;
   display: inline-block;
   text-align: center;

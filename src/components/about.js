@@ -104,15 +104,15 @@ const HostName = styled.h2`
 
 const DarkDivider = styled.div`
   position: relative;
-  height: 1px;
+  height: 0.8px;
   &:before {
     content: "";
     position: absolute;
-    top: -16px;
+    top: -14px;
     left: 0%;
     right: 0%;
     width: 100%;
-    height: 1px;
+    height: 0.8px;
     background-image: linear-gradient(
       to right,
       transparent,
